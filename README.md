@@ -1,26 +1,47 @@
 # Deep Learning Study
-A curated list of Deep Learning, Machine Learning, Recommendation
+A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data Science, Recommendation
 
 ## Deep Learning
 * Tutorial
-  * 모두의 딥러닝 : http://hunkim.github.io/ml/
+  * [모두의 딥러닝](http://hunkim.github.io/ml/)
+  * Deep Learning Tutorial from Tensorflow Blog
+    * [해커가 알려주는 뉴럴 네트워크](https://tensorflow.blog/2016/09/13/%ED%95%B4%EC%BB%A4%EA%B0%80-%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-%EB%89%B4%EB%9F%B4-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/)
+    * [해커에게 전해들은 머신러닝](https://tensorflow.blog/2016/10/31/%ED%95%B4%EC%BB%A4%EC%97%90%EA%B2%8C-%EC%A0%84%ED%95%B4%EB%93%A4%EC%9D%80-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/) : [Slide](https://tensorflow.blog/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C-%EC%9E%90%EB%A3%8C/)
+    * [딥 러닝을 위한 콘볼루션 계산 가이드](https://tensorflow.blog/a-guide-to-convolution-arithmetic-for-deep-learning/)
+  * [Enjoy DL](https://www.facebook.com/notes/enjoydl/deep-leaning-video-links/1227281394020895)
+  * [Practical Deep Learning For Coders—18 hours of lessons for free](http://course.fast.ai/)
+  * [Stanford University: Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/syllabus.html)
 * Community
+  * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
+  * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
+  * [AI Korea](http://aikorea.org/)
+  * [Deep Learning Facebook Group](https://www.facebook.com/groups/DeepLearnng/)
+  * [Deep AI Facebook Group](https://www.facebook.com/groups/DeepAI/)
+  * [모두의 연구소 커뮤니티 Facebook Group](https://www.facebook.com/groups/modulabs/)
+  * [모두의 연구소](http://www.modulabs.co.kr/)
+  * [KERAS.AI Facebook Group](https://www.facebook.com/groups/keras.py/)
+  * [Bigdata Machine Learning Facebook Group](https://www.facebook.com/groups/bigdataanalysis/)
+  * [Big Data Korea Facebook Group](https://www.facebook.com/groups/bigdata.seoul/)
+  * [딥러닝 솔루션 그룹 Facebook Group](https://www.facebook.com/groups/nvidiakorea.psg/)
 * Article
+  * [Practical seq2seq](http://suriyadeepan.github.io/2016-12-31-practical-seq2seq/)
+  * [New York University Deep Learning Natural Language Processing Lecture Note](https://github.com/nyu-dl/NLP_DL_Lecture_Note/)
+* Slide
+  * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
 * Video
+
+## Reinforcement Learning
+* [Minimal Monte Carlo Policy Gradient (REINFORCE) Algorithm Implementation in Keras](https://github.com/keon/policy-gradient)
 
 ## Machine Learning
 
-## Data Analysis
+## Data Science
+* [데이터 입수 이상징후 탐지](http://readme.skplanet.com/?p=13557)
+* [네이버 파이낸스 - 재무제표 크롤링 | FinanceData](https://financedata.github.io/posts/naver-finance-finstate-crawling.html)
 
 ## Recommendation
 
 
-data analysis 데이터 입수 이상징후 탐지 http://readme.skplanet.com/?p=13557
-
-deep learning tensorflow Practical seq2seq http://suriyadeepan.github.io/2016-12-31-practical-seq2seq/
-
-Stanford University: Tensorflow for Deep Learning Research
-http://web.stanford.edu/class/cs20si/syllabus.html
 
 deep learning normalization https://www.slideshare.net/ssuser06e0c5/normalization-72539464
 
@@ -196,8 +217,7 @@ https://medium.com/@peteryun/rl-cs-294-deep-reinforcement-learning-introduction-
 chatbot ai deep learning 
 https://brunch.co.kr/@pilsogood/2
 
-Practical Deep Learning For Coders—18 hours of lessons for free
-http://course.fast.ai/
+
 
 Getting Started with Tensorflow
 deep learning 
@@ -239,11 +259,7 @@ https://github.com/oxford-cs-deepnlp-2017/lectures
 
 deep learning http://gobitcoin.tistory.com/1
 
-deep learning tutorial
-https://tensorflow.blog/2016/09/13/%ED%95%B4%EC%BB%A4%EA%B0%80-%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-%EB%89%B4%EB%9F%B4-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/
-https://tensorflow.blog/2016/10/31/%ED%95%B4%EC%BB%A4%EC%97%90%EA%B2%8C-%EC%A0%84%ED%95%B4%EB%93%A4%EC%9D%80-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/
-https://tensorflow.blog/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C-%EC%9E%90%EB%A3%8C/
-https://tensorflow.blog/a-guide-to-convolution-arithmetic-for-deep-learning/
+
 
 python machine learning deep learning
 http://hamait.tistory.com/category/%ED%86%B5%EA%B3%84%20%26%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%26%20%EB%94%A5%EB%9F%AC%EB%8B%9D
@@ -253,8 +269,6 @@ machine learning https://elitedatascience.com/machine-learning-projects-for-begi
 Deep Q Learning with Keras and Gym
 reinforcement learning
 https://keon.io/rl/deep-q-learning-with-keras-and-gym/
-
-deep learning keras https://github.com/tgjeon/Keras-Tutorials
 
 deep learning activation function http://newsight.tistory.com/68
 
@@ -313,7 +327,7 @@ Visualizing parts of Convolutional Neural Networks using Keras and Cats
 deep learning keras cnn
 https://medium.com/@erikreppel/visualizing-parts-of-convolutional-neural-networks-using-keras-and-cats-5cc01b214e59#.g3wlp1qaf
 
-ai deep learning http://aikorea.org/
+
 
 deep-facebook-commenter/README.md at master · hunkim/deep-facebook-commenter
 deep learning 
@@ -623,12 +637,6 @@ http://www.modulabs.co.kr/RL_library/1705
 deep learning
 https://jihobak.github.io/2016-06-26-deeplearning-ninja001/
 
-deep learning cnn
-http://hamait.tistory.com/535
-
-deep learning machine learning
-http://hamait.tistory.com/category/%ED%86%B5%EA%B3%84%20%26%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%26%20%EB%94%A5%EB%9F%AC%EB%8B%9D%20
-
 deep learning
 http://chanacademy.tistory.com/
 
@@ -687,8 +695,7 @@ https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal
 recommendation word2vec
 https://brunch.co.kr/@goodvc78/7
 
-deep learning tutorial
-http://hamait.tistory.com/640
+
 
 machine learning deep learning
 https://www.slideshare.net/yonghakim900/ss-60252533
