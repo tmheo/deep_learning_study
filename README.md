@@ -8,9 +8,13 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
     * [해커가 알려주는 뉴럴 네트워크](https://tensorflow.blog/2016/09/13/%ED%95%B4%EC%BB%A4%EA%B0%80-%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-%EB%89%B4%EB%9F%B4-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/)
     * [해커에게 전해들은 머신러닝](https://tensorflow.blog/2016/10/31/%ED%95%B4%EC%BB%A4%EC%97%90%EA%B2%8C-%EC%A0%84%ED%95%B4%EB%93%A4%EC%9D%80-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/) : [Slide](https://tensorflow.blog/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C-%EC%9E%90%EB%A3%8C/)
     * [딥 러닝을 위한 콘볼루션 계산 가이드](https://tensorflow.blog/a-guide-to-convolution-arithmetic-for-deep-learning/)
+  * [Python Deep Learning with Keras - Machine Learning Mastery](http://machinelearningmastery.com/category/deep-learning/)
+  * [Deep Learning by Google[Udacity]](https://www.udacity.com/course/deep-learning--ud730)
   * [Enjoy DL](https://www.facebook.com/notes/enjoydl/deep-leaning-video-links/1227281394020895)
   * [Practical Deep Learning For Coders—18 hours of lessons for free](http://course.fast.ai/)
   * [Stanford University: Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/syllabus.html)
+  * [TensorFlow workshop](https://github.com/amygdala/tensorflow-workshop)
+  * [Tensorflow Slim 실습](http://euhyeji.blogspot.kr/search/label/%EB%94%A5%EB%9F%AC%EB%8B%9D)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -24,112 +28,54 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Big Data Korea Facebook Group](https://www.facebook.com/groups/bigdata.seoul/)
   * [딥러닝 솔루션 그룹 Facebook Group](https://www.facebook.com/groups/nvidiakorea.psg/)
 * Article
+  * [딥러닝 공부 방법](https://www.facebook.com/dgtgrade/posts/1340177956041067)
+  * [딥러닝 공부를 처음 시작 하는 초심자가 꼭 공부 해야 하는 것이 아닌 것](https://www.facebook.com/dgtgrade/posts/1328790023846527)
   * [Practical seq2seq](http://suriyadeepan.github.io/2016-12-31-practical-seq2seq/)
   * [New York University Deep Learning Natural Language Processing Lecture Note](https://github.com/nyu-dl/NLP_DL_Lecture_Note/)
+  * [Intro into Keras and Image Classification](https://github.com/malaikannan/Talks) : [Video](https://www.youtube.com/watch?v=5E_esJVI5aE)
+  * [The Black Magic of Deep Learning - Tips and Tricks for the practitioner](https://nmarkou.blogspot.kr/2017/02/the-black-magic-of-deep-learning-tips.html)
+  * [딥러닝 (Tensorflow) 을 이용한 추천시스템 개발](https://www.buzzvil.com/2017/02/22/buzzvil-techblog-tensorflow-deeplearning/)
+  * [How a Japanese cucumber farmer is using deep learning and TensorFlow](http://besimondata.com/2017/02/23/how-a-japanese-cucumber-farmer-is-using-deep-learning-and-tensorflow/﻿)
+  * [[개앞맵시] 스카이넷도 딥러닝부터](https://www.mindmeister.com/812276967/_)
+  * [Keras 강좌](https://tykimos.github.io/Keras/index.html)
+  * [Coding a Deep Neural Network to Steer a Car: Step By Step](https://medium.com/udacity/coding-a-deep-neural-network-to-steer-a-car-step-by-step-c075a12108e2)
+  * [Torch와 OpenCV를 활용한 실시간 이미지 분류 데모](http://www.popit.kr/torch%EC%99%80-opencv%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B6%84%EB%A5%98-%EB%8D%B0%EB%AA%A8/)
+  * [Variational Autoencoders Explained](http://kvfrans.com/variational-autoencoders-explained/)
+  * [Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch)](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f)
+  * [이슈카님 딥러닝 블로그](http://ishuca.tistory.com/category/%EB%94%A5%EB%9F%AC%EB%8B%9D) : [CS231n](http://ishuca.tistory.com/category/CS231n)
+  * [Hama님 딥러닝 블로그](http://hamait.tistory.com/category/%ED%86%B5%EA%B3%84%20%26%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%26%20%EB%94%A5%EB%9F%AC%EB%8B%9D)
+  * [A Machine Learning Craftsmanship Blog](https://iamtrask.github.io/)
+  * [DeepLAB - [머신러닝레볼루션] RNN과 LSTM - 쫄지말자 딥러닝](http://www.modulabs.co.kr/DeepLAB_library/11886)
+  * [DeepMind just published a mind blowing paper: PathNet](https://medium.com/@thoszymkowiak/deepmind-just-published-a-mind-blowing-paper-pathnet-f72b1ed38d46)
+* Code
+  * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
+  * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
+  * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
+  * [TensorFlow Dev Summit 2017 요약](http://www.slideshare.net/hackergolbin/tensorflow-dev-summit-2017)
+  * [Google Dev Summit Extended Seoul - TensorFlow: Tensorboard & Keras](https://www.slideshare.net/TaegyunJeon1/google-dev-summit-extended-seoul-tensorflow-tensorboard-keras)
+  * [2017 tensor flow dev summit](https://www.slideshare.net/taeyounglee1447/2017-tensor-flow-dev-summit)
+  * [CNN 초보자가 만드는 초보자 가이드 (VGG 약간 포함)](http://www.slideshare.net/leeseungeun/cnn-vgg-72164295)
 * Video
+  * [Feeding your own data set into the CNN model in Keras](https://www.youtube.com/watch?v=2pQOXjpO_u0)
+  * [Intro into Image classification using Keras](https://www.youtube.com/watch?v=KhU4CGfE5m4)
+  * [Integrating Keras & TensorFlow: The Keras workflow, expanded ](https://www.youtube.com/watch?v=UeheTiBJ0Io)
 
 ## Reinforcement Learning
 * [Minimal Monte Carlo Policy Gradient (REINFORCE) Algorithm Implementation in Keras](https://github.com/keon/policy-gradient)
+* [이슈카님 강화학습 블로그](http://ishuca.tistory.com/category/%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5)
 
 ## Machine Learning
+* [Natural Language Processing using Word2Vec](http://malaikannan.io//2017/01/22/Natural-Language-Processing-using-Vectoriziation/)
 
 ## Data Science
 * [데이터 입수 이상징후 탐지](http://readme.skplanet.com/?p=13557)
 * [네이버 파이낸스 - 재무제표 크롤링 | FinanceData](https://financedata.github.io/posts/naver-finance-finstate-crawling.html)
 
 ## Recommendation
+* [Word2Vec 그리고 추천 시스템의 Item2Vec](https://brunch.co.kr/@goodvc78/16)
 
-
-
-deep learning normalization https://www.slideshare.net/ssuser06e0c5/normalization-72539464
-
-word2vec http://malaikannan.io//2017/01/22/Natural-Language-Processing-using-Vectoriziation/
-
-deep learning keras cnn https://www.youtube.com/watch?v=5E_esJVI5aE https://github.com/malaikannan/Talks
-
-EnVision: The Black Magic of Deep Learning - Tips and Tricks for the practitioner
-https://nmarkou.blogspot.kr/2017/02/the-black-magic-of-deep-learning-tips.html
-
-[Tech Blog] 딥러닝 (Tensorflow) 을 이용한 추천시스템 개발
-deep learning tensorflow recommendation 
-https://www.buzzvil.com/2017/02/22/buzzvil-techblog-tensorflow-deeplearning/
-
-deep learning tensorflow http://www.slideshare.net/hackergolbin/tensorflow-dev-summit-2017
-
-How a Japanese cucumber farmer is using deep learning and TensorFlow – Besim on Data
-http://besimondata.com/2017/02/23/how-a-japanese-cucumber-farmer-is-using-deep-learning-and-tensorflow/﻿
-
-fast-pixel-cnn
-deep learning tensorflow 
-https://github.com/PrajitR/fast-pixel-cnn
-
-deep learning tensorflow keras https://www.slideshare.net/TaegyunJeon1/google-dev-summit-extended-seoul-tensorflow-tensorboard-keras
-
-deep learning study mindmap https://www.mindmeister.com/812276967/_
-
-crockpotveggies/dl4j-examples
-deep learning keras deeplearning4j
-https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples
-
-케라스와 텐서플로우와의 통합
-deep learning keras tensorflow 
-https://tykimos.github.io/Keras/2017/02/22/Integrating_Keras_and_TensorFlow/
-
-Coding a Deep Neural Network to Steer a Car: Step By Step
-deep learning 
-https://medium.com/udacity/coding-a-deep-neural-network-to-steer-a-car-step-by-step-c075a12108e2#.riz8dz4nb
-
-Torch와 OpenCV를 활용한 실시간 이미지 분류 데모 | Popit
-deep learning torch
-http://www.popit.kr/torch%EC%99%80-opencv%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B6%84%EB%A5%98-%EB%8D%B0%EB%AA%A8/
-
-deep learning keras https://www.youtube.com/watch?v=2pQOXjpO_u0
-
-Trial Error LIFE: Tensorflow
-deep learning 
-http://euhyeji.blogspot.kr/search/label/%EB%94%A5%EB%9F%AC%EB%8B%9D
-
-Variational Autoencoders Explained
-deep learning 
-http://kvfrans.com/variational-autoencoders-explained/
-
-Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch)
-deep learning 
-https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f#.ardctq1nr
-
-deep learning keras https://www.youtube.com/watch?v=KhU4CGfE5m4
-
-amygdala/tensorflow-workshop: This repo contains materials for use in a TensorFlow workshop.
-deep learning tensorflow 
-https://github.com/amygdala/tensorflow-workshop
-
-Windows에서 VizDoom 설치하기 :: 딥러닝, 경제학에 적용하기 위한 준비
-ai reinforcement learning 
-http://ishuca.tistory.com/m/401
-
-deep learning tensorflow rnn http://www.slideshare.net/taeyounglee1447/2017-tensor-flow-dev-summit
-
-Anyone Can Learn To Code an LSTM-RNN in Python (Part 1: RNN) - i am trask
-deep learning 
-https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/
-
-DeepLAB - [머신러닝레볼루션] RNN과 LSTM - 쫄지말자 딥러닝
-deep learning 
-http://www.modulabs.co.kr/DeepLAB_library/11886
-
-deep learning cnn http://www.slideshare.net/leeseungeun/cnn-vgg-72164295
-
-DeepMind just published a mind blowing paper: PathNet.
-ai deep learning 
-https://medium.com/@thoszymkowiak/deepmind-just-published-a-mind-blowing-paper-pathnet-f72b1ed38d46#.woqwpepkt
-
-Word2Vec 그리고 추천 시스템의 Item2Vec
-word2vec recommendation
-https://brunch.co.kr/@goodvc78/16
-
-keras deep learning tensorflow https://www.youtube.com/watch?v=UeheTiBJ0Io
 
 Deep Learning for Noobs [Part 2] – Hacker Noon
 keras
@@ -217,8 +163,6 @@ https://medium.com/@peteryun/rl-cs-294-deep-reinforcement-learning-introduction-
 chatbot ai deep learning 
 https://brunch.co.kr/@pilsogood/2
 
-
-
 Getting Started with Tensorflow
 deep learning 
 https://jasdeep06.github.io/posts/getting-started-with-tensorflow/
@@ -257,22 +201,22 @@ lectures/README.md at master · oxford-cs-deepnlp-2017/lectures
 deep learning nlp
 https://github.com/oxford-cs-deepnlp-2017/lectures
 
-deep learning http://gobitcoin.tistory.com/1
+deep learning
+http://gobitcoin.tistory.com/1
 
 
-
-python machine learning deep learning
-http://hamait.tistory.com/category/%ED%86%B5%EA%B3%84%20%26%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%26%20%EB%94%A5%EB%9F%AC%EB%8B%9D
-
-machine learning https://elitedatascience.com/machine-learning-projects-for-beginners
+machine learning
+https://elitedatascience.com/machine-learning-projects-for-beginners
 
 Deep Q Learning with Keras and Gym
 reinforcement learning
 https://keon.io/rl/deep-q-learning-with-keras-and-gym/
 
-deep learning activation function http://newsight.tistory.com/68
+deep learning activation function
+http://newsight.tistory.com/68
 
-deep learning http://bryan7.tistory.com/847
+deep learning
+http://bryan7.tistory.com/847
 
 Building an Image Classification Web Application Using VGG-16 - Deeplearning4j: Open-source, Distributed Deep Learning for the JVM
 https://deeplearning4j.org/build_vgg_webapp
@@ -280,13 +224,16 @@ https://deeplearning4j.org/build_vgg_webapp
 { Kwot Sin } | Preparing a Large-scale Image Dataset with TensorFlow's TFRecord Files
 https://kwotsin.github.io/tech/2017/01/29/tfrecords.html
 
-deep learning keras http://parneetk.github.io/tag/keras/
+deep learning keras
+http://parneetk.github.io/tag/keras/
 
 Distributed Deep Learning with Apache Spark and Keras﻿ http://db-blog.web.cern.ch/blog/joeri-hermans/2017-01-distributed-deep-learning-apache-spark-and-keras
 
-deep learning tensorflow aws https://www.youtube.com/watch?v=orIXr5xd6P0
+deep learning tensorflow aws
+https://www.youtube.com/watch?v=orIXr5xd6P0
 
-deep learning http://blog.naver.com/chesterroh/220920668374
+deep learning
+http://blog.naver.com/chesterroh/220920668374
 
 Knowing when to look : Adaptive Attention via A Visual Sentinel for Image Captioning
 deep learning
@@ -295,7 +242,8 @@ https://www.slideshare.net/ssuser06e0c5/knowing-when-to-look-adaptive-attention-
 deep learning machine learning
 https://www.slideshare.net/4101963/ss-71414865
 
-pytorch deep learning https://tensorflow.blog/2017/01/26/pytorch-mnist-example/
+pytorch deep learning
+https://tensorflow.blog/2017/01/26/pytorch-mnist-example/
 
 CNN 역전파를 이해하는 가장 쉬운 방법
 deep learning cnn
@@ -304,7 +252,8 @@ https://metamath1.github.io/cnn/index.html
 Food Classification with Deep Learning in Keras / Tensorflow
 http://blog.stratospark.com/deep-learning-applied-food-classification-deep-learning-keras.html
 
-deep learning https://www.youtube.com/watch?v=vOppzHpvTiQ
+deep learning
+https://www.youtube.com/watch?v=vOppzHpvTiQ
 
 Amazon 인공 지능(AI) 서비스 및 AWS 기반 딥러닝 활용 방법 - 윤석찬 (AWS, 테크에반젤리스트)
 deep learning aws
@@ -313,7 +262,8 @@ http://www.slideshare.net/awskorea/amazon-ai-services-for-developers-and-researc
 deep learning rnn lstm
 http://whydsp.org/280
 
-data science deep learning tensorflow https://github.com/nyanye/Study-Data-Science
+data science deep learning tensorflow
+https://github.com/nyanye/Study-Data-Science
 
 BigDL: Distributed Deep learning on Apache Spark
 https://github.com/intel-analytics/BigDL
@@ -348,7 +298,8 @@ DeepQA/README.md at master · hunkimForks/DeepQA
 deep learning 
 https://github.com/hunkimForks/DeepQA/
 
-deep learning https://www.youtube.com/watch?v=soJ-wDOSCf4
+deep learning
+https://www.youtube.com/watch?v=soJ-wDOSCf4
 
 PyTorch
 deep learning 
@@ -449,8 +400,6 @@ https://brunch.co.kr/@gentlepie/7
 markov chains deep learning reinforcement learning
 https://www.youtube.com/watch?v=Ws63I3F7Moc
 
-Introduction to Python Deep Learning with Keras - Machine Learning Mastery
-http://machinelearningmastery.com/category/deep-learning/
 
 최근우 (Keunwoo Choi): 번역 - Generative Adversarial Network (GAN) 설명
 deep learning gan
