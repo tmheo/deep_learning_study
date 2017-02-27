@@ -18,6 +18,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
   * [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
   * [TensorFlow Slim 실습](http://euhyeji.blogspot.kr/search/label/%EB%94%A5%EB%9F%AC%EB%8B%9D)
+  * [MIT 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
+  * [Stanford University: Unsupervised Feature Learning and Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
+  * [Laon People 머신러닝/딥러닝 블로그](http://laonple.blog.me/220463627091)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -103,6 +106,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
     * [NLP를 위한 딥러닝 가이드](http://docs.likejazz.com/deep-learning-for-nlp/)
     * [딥러닝 용어 정리](http://docs.likejazz.com/deep-learning-glossary/)
   * [Image Classification and Segmentation with Tensorflow and TF-Slim](http://warmspringwinds.github.io/tensorflow/tf-slim/2016/10/30/image-classification-and-segmentation-using-tensorflow-and-tf-slim/)
+  * [Reuters-21578 text classification with Gensim and Keras](https://www.bonaccorso.eu/2016/08/02/reuters-21578-text-classification-with-gensim-and-keras/)
+  * [How to Set Up a Deep Learning Environment on AWS with Keras/Thean](https://medium.com/@datitran/how-to-set-up-a-deep-learning-environment-on-aws-with-keras-theano-b0f39e3d861c)
+  * [Bumjun Kim님의 딥러닝 블로그](http://nolsigan.com/index.html)
+  * [Generative Adversarial Networks – Hot Topic in Machine Learning](http://www.kdnuggets.com/2017/01/generative-adversarial-networks-hot-topic-machine-learning.html)
+  * [조대협님의 머신러닝/딥러닝 블로그](http://bcho.tistory.com/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%83%80/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -116,6 +124,13 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Amazon 인공 지능(AI) 서비스 및 AWS 기반 딥러닝 활용 방법](http://www.slideshare.net/awskorea/amazon-ai-services-for-developers-and-researchers)
   * [지적 대화를 위한 깊고 넓은 딥러닝 PyCon APAC 2016](https://www.slideshare.net/carpedm20/pycon-korea-2016) : [[Video]](https://www.youtube.com/watch?v=soJ-wDOSCf4)
   * [딥러닝(Deep Learning) using DeepDetect](https://www.slideshare.net/JunyiSong1/deep-learing-using-deepdetect)
+  * [Explaining and harnessing adversarial examples (2015)](https://www.slideshare.net/JungHoonSeo2/explaining-and-harnessing-adversarial-examples-2015)
+  * [Paper Reading : Learning from simulated and unsupervised images through adversarial training](https://www.slideshare.net/JungHoonSeo2/paper-reading-learning-from-simulated-and-unsupervised-images-through-adversarial-training)
+  * [One-Shot Learning](https://www.slideshare.net/JisungDavidKim/oneshot-learning)
+  * [A Gentle Autoencoder Tutorial (with keras)](http://www.birving.com/presentations/autoencoders/index.html) : [[Code]](https://github.com/benjaminirving/mlseminars-autoencoders)
+  * [Toward Best Practices of TensorFlow Code Patterns](https://wookayin.github.io/TensorFlowKR-2017-talk-bestpractice/ko/)
+  * [Generative adversarial networks](https://www.slideshare.net/ssuser77ee21/generative-adversarial-networks-70896091)
+  * [AI 그까이거](https://www.slideshare.net/dhrim/ai-70388526)
 * Video
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
   * [Feeding your own data set into the CNN model in Keras](https://www.youtube.com/watch?v=2pQOXjpO_u0)
@@ -132,106 +147,44 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Sequential model in Keras -> ASCII](https://github.com/stared/keras-sequential-ascii/)
   * [Deep Q&A](https://github.com/hunkimForks/DeepQA/)
   * [TensorFlow Tutorials](https://github.com/golbin/TensorFlow-Tutorials)
+  * [A toy chatbot powered by deep learning and trained on data from Reddit](https://github.com/pender/chatbot-rnn/)
 
 ## Reinforcement Learning
+* [OpenAI : A non-profit artificial intelligence research company](https://openai.com)
 * [Deep Q Learning with Keras and Gym](https://keon.io/rl/deep-q-learning-with-keras-and-gym/)
 * [Minimal Monte Carlo Policy Gradient (REINFORCE) Algorithm Implementation in Keras](https://github.com/keon/policy-gradient)
 * [이슈카님 강화학습 블로그](http://ishuca.tistory.com/category/%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5)
 * [Building a deep learning DOOM bot](https://www.codelitt.com/blog/doom-ai/)
 * [[ RL ] CS 294: Deep Reinforcement Learning —(1) Introduction and course overview](https://medium.com/@peteryun/rl-cs-294-deep-reinforcement-learning-introduction-and-course-overview-c7d9cb550ced)
+* [Tutorial: Introduction to Reinforcement Learning with Function Approximation](https://www.youtube.com/watch?v=ggqnxyjaKe4)
+* [Introduction to Markov chains](https://www.youtube.com/watch?v=Ws63I3F7Moc)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
 * [Natural Language Processing using Word2Vec](http://malaikannan.io//2017/01/22/Natural-Language-Processing-using-Vectoriziation/)
 * [6 Fun Machine Learning Projects for Beginners](https://elitedatascience.com/machine-learning-projects-for-beginners)
 * [50+ Data Science, Machine Learning Cheat Sheets, updated](http://www.kdnuggets.com/2016/12/data-science-machine-learning-cheat-sheets-updated.html)
+* [Prophet: forecasting at scale - Time Series Data Analysis](https://research.fb.com/prophet-forecasting-at-scale/﻿)
+* [Paper Reading : Enriching word vectors with subword information(2016)](https://www.slideshare.net/JungHoonSeo2/paper-reading-enriching-word-vectors-with-subword-information2016)
 
 ## Data Science
 * [수강료 400만원 데이터사이언스 스쿨 커리큘럼을 대체하는 온라인 무료강의 15개 커리큘럼](http://commeci.kr/archives/473)
 * [데이터 입수 이상징후 탐지](http://readme.skplanet.com/?p=13557)
 * [네이버 파이낸스 - 재무제표 크롤링 | FinanceData](https://financedata.github.io/posts/naver-finance-finstate-crawling.html)
+* [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
 * [Word2Vec 그리고 추천 시스템의 Item2Vec](https://brunch.co.kr/@goodvc78/16)
 * [11번가 추천 엔진 교체 (RecoPick -> Colloseo)](http://readme.skplanet.com/?p=13507)
+* [Recommender Systems: Matrix Operations for Fast Calculation of Similarities](https://dzone.com/articles/recommender-systems-matrix-operations-for-fast-cal)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
 * [챗봇의 구조: 챗봇은 AI가 필요한가?](https://brunch.co.kr/@gentlepie/7)
+* [Developing Korean Chatbot 101](https://www.slideshare.net/JaeminCho6/developing-korean-chatbot-101-71013451)
 
 
-deep learning gan
-https://www.slideshare.net/JungHoonSeo2/explaining-and-harnessing-adversarial-examples-2015
-
-6.S094: Deep Learning for Self-Driving Cars
-http://selfdrivingcars.mit.edu/
-
-deep learning keras
-https://www.bonaccorso.eu/2016/08/02/reuters-21578-text-classification-with-gensim-and-keras/
-
-deep learning keras aws
-https://medium.com/@datitran/how-to-set-up-a-deep-learning-environment-on-aws-with-keras-theano-b0f39e3d861c#.84pa7e3xf
-
-deep learning one shot learning
-https://www.slideshare.net/JisungDavidKim/oneshot-learning
-
-Recommender Systems: Matrix Operations for Fast Calculation of Similarities https://dzone.com/articles/recommender-systems-matrix-operations-for-fast-cal
-
-deep learning keras autoencoder
-http://www.birving.com/presentations/autoencoders/index.html#/
-
-GTA V + Universe
-ai reinforcement learning 
-https://openai.com/blog/GTA-V-plus-Universe/
-
-deep learning tensorflow
-https://docs.google.com/presentation/d/1TVixw6ItiZ8igjp6U17tcgoFrLSaHWQmMOwjlgQY9co/pub?slide=id.p
-https://docs.google.com/presentation/d/e/2PACX-1vRouwj_3cYsmLrNNI3Uq5gv5-hYp_QFdeoan2GlxKgIZRSejozruAbVV0IMXBoPsINB7Jw92vJo2EAM/pub?slide=id.g139650d17f_0_1528
-https://www.youtube.com/watch?v=vq2nnJ4g6N0&app=desktop
-
-What is variational autoencoder?
-deep learning 
-http://nolsigan.com/blog/what-is-variational-autoencoder/
-
-chatbot-rnn/README.md at master · pender/chatbot-rnn
-deep learning rnn chatbot
-https://github.com/pender/chatbot-rnn/
-
-Toward Best Practices of TensorFlow Code Patterns
-deep learning 
-https://wookayin.github.io/TensorFlowKR-2017-talk-bestpractice/ko/
-
-deep learning chatbot
-https://www.slideshare.net/JaeminCho6/developing-korean-chatbot-101-71013451
-
-Unsupervised Feature Learning and Deep Learning Tutorial
-http://deeplearning.stanford.edu/tutorial/
-
-deep learning gan
-https://www.slideshare.net/ssuser77ee21/generative-adversarial-networks-70896091
-
-deep learning reinforcement learning 
-https://www.youtube.com/watch?v=ggqnxyjaKe4
-
-
-deep learning 
-Essence of linear algebra: http://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
-
-
-markov chains deep learning reinforcement learning
-https://www.youtube.com/watch?v=Ws63I3F7Moc
-
-
-Generative Adversarial Networks – Hot Topic in Machine Learning
-gan deep learning 
-http://www.kdnuggets.com/2017/01/generative-adversarial-networks-hot-topic-machine-learning.html
-
-ai deep learning
-https://www.slideshare.net/dhrim/ai-70388526
-
-deep learning tensorflow
-http://bcho.tistory.com/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%83%80/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D
 
 ai deep learning 
 https://www.slideshare.net/TaegyunJeon1/ss-70432543
@@ -458,8 +411,6 @@ https://www.slideshare.net/yonghakim900/ss-60252533
 recommendation
 http://goodvc.tistory.com/9
 
-machine learning deep learning tutorial
-http://laonple.blog.me/220463627091
 
 deep learniing reinforcement learning
 https://www.slideshare.net/DonghunLee20/ss-59338971
