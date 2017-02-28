@@ -8,7 +8,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
     * [해커가 알려주는 뉴럴 네트워크](https://tensorflow.blog/2016/09/13/%ED%95%B4%EC%BB%A4%EA%B0%80-%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-%EB%89%B4%EB%9F%B4-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/)
     * [해커에게 전해들은 머신러닝](https://tensorflow.blog/2016/10/31/%ED%95%B4%EC%BB%A4%EC%97%90%EA%B2%8C-%EC%A0%84%ED%95%B4%EB%93%A4%EC%9D%80-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/) : [[Slide]](https://tensorflow.blog/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C-%EC%9E%90%EB%A3%8C/)
     * [딥 러닝을 위한 콘볼루션 계산 가이드](https://tensorflow.blog/a-guide-to-convolution-arithmetic-for-deep-learning/)
-  * [Andrew Ug's Coursera Machine Learning](https://www.coursera.org/learn/machine-learning)
+  * [Andrew Ng's Coursera Machine Learning](https://www.coursera.org/learn/machine-learning)
   * [Stanford - CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) : [[Korean]](http://aikorea.org/cs231n/)
   * [Stanford - CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
   * [Stanford - Unsupervised Feature Learning and Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
