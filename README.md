@@ -131,6 +131,15 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [번역] A Beginner's Guide To Understanding Convolutional Neural Networks
     * [Part 1](http://steady7.tistory.com/7)
     * [Part 2](http://steady7.tistory.com/8)
+  * [RNNS IN TENSORFLOW, A PRACTICAL GUIDE AND UNDOCUMENTED FEATURES](http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/)
+  * [Image Completion with Deep Learning in TensorFlow](http://bamos.github.io/2016/08/09/deep-completion/)
+  * [DeepLearning Ninja001 - Hello Tensorflow](https://jihobak.github.io/2016-06-26-deeplearning-ninja001/)
+  * [딥러닝을 처음 시작하는 분들을 위해](http://www.whydsp.org/284)
+  * [List of Pycon2016 session related with ML](https://github.com/TensorFlowKR/Pycon2016_ML)
+  * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
+  * [테리님의 딥러닝 블로그](http://t-robotics.blogspot.kr/)
+  * [Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/)
+  * [Deep Learning for Dummies, Carey Nachenberg](http://techjaw.com/2015/04/08/deep-learning-for-dummies-carey-nachenberg/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -156,13 +165,18 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deep Learning Into Advance - 1. Image, ConvNet](https://www.slideshare.net/hellovista/deep-learning-into-advance-1-image-convnet)
   * [텐서플로 걸음마 (TensorFlow Tutorial)](http://www.slideshare.net/JunKim22/tensorflow-tutorial-68885890)
   * [Convolutional neural network in practice](https://www.slideshare.net/ssuser77ee21/convolutional-neural-network-in-practice)
+  * [쫄지말자딥러닝2 - CNN RNN 포함버전](http://www.slideshare.net/modulabs/2-cnn-rnn)
+  * [Introduction to Deep Learning with TensorFlow](https://www.slideshare.net/TerryTaewoongUm/introduction-to-deep-learning-with-tensorflow)
+  * [딥러닝을 이용한 자연어처리의 연구동향](https://www.slideshare.net/ssuser06e0c5/ss-64417928)
+  * [기계학습 / 딥러닝이란 무엇인가](https://www.slideshare.net/yonghakim900/ss-60252533)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
   * [Feeding your own data set into the CNN model in Keras](https://www.youtube.com/watch?v=2pQOXjpO_u0)
   * [Intro into Image classification using Keras](https://www.youtube.com/watch?v=KhU4CGfE5m4)
   * [Integrating Keras & TensorFlow: The Keras workflow, expanded ](https://www.youtube.com/watch?v=UeheTiBJ0Io)
-  * [테리의 딥러닝 토크](https://www.youtube.com/playlist?list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
+  * [테리님의 딥러닝 토크](https://www.youtube.com/playlist?list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
+  * [DeepLearning.TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ/featured)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -177,6 +191,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [A toy chatbot powered by deep learning and trained on data from Reddit](https://github.com/pender/chatbot-rnn/)
   * [ML_Practice with TensorFlow](https://github.com/proauto/ML_Practice)
   * [Keras-Tutorials](https://github.com/tgjeon/Keras-Tutorials/)
+  * [Tensorflow Tutorials using Jupyter Notebook](https://github.com/sjchoi86/Tensorflow-101)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -194,6 +209,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 ## Reinforcement Learning
 * [Fundamental of Reinforcement Learning](https://www.gitbook.com/book/dnddnjs/rl/)
 * [OpenAI : A non-profit artificial intelligence research company](https://openai.com)
+* [Reinforcement Learning 그리고 OpenAI](http://www.modulabs.co.kr/RL_library/1705)
 * [LEARNING REINFORCEMENT LEARNING (WITH CODE, EXERCISES AND SOLUTIONS)](http://www.wildml.com/2016/10/learning-reinforcement-learning/)
 * [Deep Q Learning with Keras and Gym](https://keon.io/rl/deep-q-learning-with-keras-and-gym/)
 * [Minimal Monte Carlo Policy Gradient (REINFORCE) Algorithm Implementation in Keras](https://github.com/keon/policy-gradient)
@@ -204,6 +220,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Introduction to Markov chains](https://www.youtube.com/watch?v=Ws63I3F7Moc)
 * [[리뷰] DEVIEW : 쿠키런 AI 구현하기](https://mingrammer.com/review-deview-cookierun-ai)
 * [딥 강화학습 쉽게 이해하기](http://ddanggle.github.io/ml/ai/cs/2016/09/24/demystifyingDL.html)
+* [Reinforcement Learning](http://enginius.tistory.com/444)
+* [모두의 알파고](https://www.slideshare.net/DonghunLee20/ss-59338971)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -216,6 +234,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Predicting Breast Cancer Using Apache Spark Machine Learning Logistic Regression](https://www.javacodegeeks.com/2016/10/predicting-breast-cancer-using-apache-spark-machine-learning-logistic-regression.html)
 * [2016 여름 머신러닝 워크샵 1일차 강의 (KAIST 오혜연 교수님)](https://www.youtube.com/watch?v=Wf6lIlJZgKg)
 * [휴먼 러닝 : 머신 러닝 학습 노트](https://www.youtube.com/playlist?list=PLefQdA1SdkhtRUuN_D3PdxaR2XTGQw8Ph)
+* [Word2Vec Vector Algebra Comparison - Python(Gensim) VS Scala(Spark)](http://hoondongkim.blogspot.kr/2016/07/word2vec-vector-algebra-comparison.html)
+* [The Amazing Power of Word Vectors](http://www.kdnuggets.com/2016/05/amazing-power-word-vectors.html)
+* [Word2Vec, Bag-Of-Words](http://newsight.tistory.com/212)
+* [word2vec 관련 이론 정리](https://shuuki4.wordpress.com/2016/01/27/word2vec-%EA%B4%80%EB%A0%A8-%EC%9D%B4%EB%A1%A0-%EC%A0%95%EB%A6%AC/)
+* [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -231,114 +254,23 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
 * [Word2Vec 그리고 추천 시스템의 Item2Vec](https://brunch.co.kr/@goodvc78/16)
+* [브런치 작가 추천과 Word2Vec](https://brunch.co.kr/@goodvc78/7)
+* [왓챠처럼 므찌게!! 영화 추천 시스템 만들기](http://goodvc.tistory.com/9)
 * [11번가 추천 엔진 교체 (RecoPick -> Colloseo)](http://readme.skplanet.com/?p=13507)
 * [Recommender Systems: Matrix Operations for Fast Calculation of Similarities](https://dzone.com/articles/recommender-systems-matrix-operations-for-fast-cal)
 * [Creating an end-to-end Recommender System with Apache Spark and Elasticsearch](https://www.slideshare.net/sparktc/spark-ml-meedup-pentreath-puget)
 * High-Quality Recommendation Systems with Elasticsearch
   * [Part 1](https://dzone.com/articles/high-quality-recommendation-systems-with-elastic-1)
   * [Part 2](https://dzone.com/articles/high-quality-recommendation-systems-with-elastic-2)
+* [Quick Guide to Build a Recommendation Engine in Python](https://www.analyticsvidhya.com/blog/2016/06/quick-guide-build-recommendation-engine-python/)
+* [Apache Spark Recommendation](https://www.slideshare.net/cfregly/spark-after-dark-20-apache-big-data-conf-vancouver-may-11-2016-61970037)
+* [DataEngConf SF16 - Recommendations at Instacart](https://www.slideshare.net/g33ktalk/dataengconf-sf16-recommendations-at-instacart)
+* [How do you build a “People who bought this also bought that”-style recommendation engine](https://datasciencemadesimpler.wordpress.com/2015/12/16/understanding-collaborative-filtering-approach-to-recommendations/)
+* [Recommending music on Spotify with deep learning](http://benanne.github.io/2014/08/05/spotify-cnns.html)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
 * [챗봇의 구조: 챗봇은 AI가 필요한가?](https://brunch.co.kr/@gentlepie/7)
+* [Building AI Chat bot using Python 3 & TensorFlow](https://speakerdeck.com/inureyes/building-ai-chat-bot-using-python-3-and-tensorflow)
 * [Developing Korean Chatbot 101](https://www.slideshare.net/JaeminCho6/developing-korean-chatbot-101-71013451)
-
-
-
-
-deep learning tensorflow rnn
-http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/
-
-deep learning tensorflow chatbot
-https://speakerdeck.com/inureyes/building-ai-chat-bot-using-python-3-and-tensorflow
-
-
-
-deep learning cnn rnn
-http://www.slideshare.net/modulabs/2-cnn-rnn
-
-deep learning
-https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ/featured
-
-deep learning tensorflow
-http://bamos.github.io/2016/08/09/deep-completion/
-
-machine learning word2vec
-http://hoondongkim.blogspot.kr/2016/07/word2vec-vector-algebra-comparison.html
-
-reinforcement learning
-http://enginius.tistory.com/444
-
-ai reinforcement learning
-http://www.modulabs.co.kr/RL_library/1705
-
-deep learning
-https://jihobak.github.io/2016-06-26-deeplearning-ninja001/
-
-deep learning
-http://chanacademy.tistory.com/
-
-deep learning
-http://www.whydsp.org/284
-
-machine learning deep learning
-https://github.com/TensorFlowKR/Pycon2016_ML
-
-
-recommendation
-https://www.analyticsvidhya.com/blog/2016/06/quick-guide-build-recommendation-engine-python/
-
-apache spark recommendation
-https://www.slideshare.net/cfregly/spark-after-dark-20-apache-big-data-conf-vancouver-may-11-2016-61970037
-
-deep learning
-https://github.com/terryum/awesome-deep-learning-papers
-
-recommendation
-https://www.slideshare.net/g33ktalk/dataengconf-sf16-recommendations-at-instacart
-https://datasciencemadesimpler.wordpress.com/2015/12/16/understanding-collaborative-filtering-approach-to-recommendations/
-
-deep learning cnn
-http://t-robotics.blogspot.kr/2016/05/convolutional-neural-network_31.html#.WLLt2RKLR-U
-
-deep learning tensorflow
-http://terryum.io/ml_practice/2016/05/28/TFIntroSlides/
-
-machine learning word2vec
-http://www.kdnuggets.com/2016/05/amazing-power-word-vectors.html
-
-machine learning deep learning
-https://github.com/ujjwalkarn/Machine-Learning-Tutorials/
-
-deep learning nlp
-https://www.slideshare.net/ssuser06e0c5/ss-64417928
-
-deep learning cnn recommendation
-http://benanne.github.io/2014/08/05/spotify-cnns.html
-
-machine learning word2vec
-http://newsight.tistory.com/212
-
-deep learning
-http://techjaw.com/2015/04/08/deep-learning-for-dummies-carey-nachenberg/
-
-machine learning word2vec
-https://shuuki4.wordpress.com/2016/01/27/word2vec-%EA%B4%80%EB%A0%A8-%EC%9D%B4%EB%A1%A0-%EC%A0%95%EB%A6%AC/
-
-machine learning
-https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal
-
-recommendation word2vec
-https://brunch.co.kr/@goodvc78/7
-
-
-machine learning deep learning
-https://www.slideshare.net/yonghakim900/ss-60252533
-
-
-recommendation
-http://goodvc.tistory.com/9
-
-
-deep learniing reinforcement learning
-https://www.slideshare.net/DonghunLee20/ss-59338971
+* [20170227 파이썬으로 챗봇_만들기](https://www.slideshare.net/KimSungdong1/20170227-72644192)
