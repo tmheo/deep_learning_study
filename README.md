@@ -3,24 +3,29 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 
 ## Deep Learning
 * Tutorial
-  * [모두의 딥러닝](http://hunkim.github.io/ml/)
+  * [홍콩 과기대 김성훈 교수님의 모두의 딥러닝](http://hunkim.github.io/ml/)
   * Deep Learning Tutorial from Tensorflow Blog
     * [해커가 알려주는 뉴럴 네트워크](https://tensorflow.blog/2016/09/13/%ED%95%B4%EC%BB%A4%EA%B0%80-%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-%EB%89%B4%EB%9F%B4-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/)
     * [해커에게 전해들은 머신러닝](https://tensorflow.blog/2016/10/31/%ED%95%B4%EC%BB%A4%EC%97%90%EA%B2%8C-%EC%A0%84%ED%95%B4%EB%93%A4%EC%9D%80-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/) : [[Slide]](https://tensorflow.blog/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C-%EC%9E%90%EB%A3%8C/)
     * [딥 러닝을 위한 콘볼루션 계산 가이드](https://tensorflow.blog/a-guide-to-convolution-arithmetic-for-deep-learning/)
+  * [Andrew Ug's Coursera Machine Learning](https://www.coursera.org/learn/machine-learning)
+  * [Stanford - CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) : [[Korean]](http://aikorea.org/cs231n/)
+  * [Stanford - CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
+  * [Stanford - Unsupervised Feature Learning and Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
+  * [Stanford - Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/syllabus.html)
+  * [MIT - 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
+  * [MIT - 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
+  * [Oxford - Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
+  * [Udacity - Deep Learning by Google](https://www.udacity.com/course/deep-learning--ud730)
   * [Python Deep Learning with Keras - Machine Learning Mastery](http://machinelearningmastery.com/category/deep-learning/)
-  * [Deep Learning by Google[Udacity]](https://www.udacity.com/course/deep-learning--ud730)
   * [Enjoy DL](https://www.facebook.com/notes/enjoydl/deep-leaning-video-links/1227281394020895)
   * [Practical Deep Learning For Coders—18 hours of lessons for free](http://course.fast.ai/)
-  * [Stanford University: Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/syllabus.html)
+  * [동국대 홍정모 교수님의 C++로 배우는 딥러닝](http://blog.naver.com/atelierjpro/220697890605)
+  * [Laon People 머신러닝/딥러닝 블로그](http://laonple.blog.me/220463627091)
+  * [TensorFlow Slim 실습](http://euhyeji.blogspot.kr/search/label/%EB%94%A5%EB%9F%AC%EB%8B%9D)
   * [TensorFlow Workshop](https://github.com/amygdala/tensorflow-workshop)
   * [TensorFlow Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
-  * [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
-  * [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
-  * [TensorFlow Slim 실습](http://euhyeji.blogspot.kr/search/label/%EB%94%A5%EB%9F%AC%EB%8B%9D)
-  * [MIT 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
-  * [Stanford University: Unsupervised Feature Learning and Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
-  * [Laon People 머신러닝/딥러닝 블로그](http://laonple.blog.me/220463627091)
+  * [TensorFlow Tutorial](https://github.com/sherrym/tf-tutorial/) : [[Video]](https://www.youtube.com/watch?v=Ejec3ID_h0w)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -37,6 +42,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Big Data Korea Facebook Group](https://www.facebook.com/groups/bigdata.seoul/)
   * [딥러닝 솔루션 그룹 Facebook Group](https://www.facebook.com/groups/nvidiakorea.psg/)
 * Article
+  * [Andrej Karpathy's Deep Learning Blog](http://karpathy.github.io/)
   * [딥러닝 공부 방법](https://www.facebook.com/dgtgrade/posts/1340177956041067)
   * [딥러닝 공부를 처음 시작 하는 초심자가 꼭 공부 해야 하는 것이 아닌 것](https://www.facebook.com/dgtgrade/posts/1328790023846527)
   * [Practical seq2seq](http://suriyadeepan.github.io/2016-12-31-practical-seq2seq/)
@@ -111,6 +117,20 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Bumjun Kim님의 딥러닝 블로그](http://nolsigan.com/index.html)
   * [Generative Adversarial Networks – Hot Topic in Machine Learning](http://www.kdnuggets.com/2017/01/generative-adversarial-networks-hot-topic-machine-learning.html)
   * [조대협님의 머신러닝/딥러닝 블로그](http://bcho.tistory.com/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%83%80/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
+  * [RNN(Recurrent Neural Network)과 Torch로 발라드곡 작사하기](http://www.popit.kr/rnnrecurrent-neural-network%EA%B3%BC-torch%EB%A1%9C-%EB%B0%9C%EB%9D%BC%EB%93%9C%EA%B3%A1-%EC%9E%91%EC%82%AC%ED%95%98%EA%B8%B0/)
+  * [모두의 딥러닝 강의 정리](http://pythonkim.tistory.com/notice/25)
+  * [Arthur Juliani's Deep Learning Blog](https://medium.com/@awjuliani/latest)
+  * [Tutorial: Optimizing Neural Networks using Keras (Image recognition)](https://www.analyticsvidhya.com/blog/2016/10/tutorial-optimizing-neural-networks-using-keras-with-image-recognition-case-study/)
+  * [A curated list of resources related to NLP (Natural Language Processing) for Korean + NLP resources in Korean](https://github.com/datanada/Awesome-Korean-NLP/)
+  * [딥러닝과 에스프레소북 그리고 이것저것들](http://www.popit.kr/%EB%94%A5%EB%9F%AC%EB%8B%9D%EA%B3%BC-%EC%97%90%EC%8A%A4%ED%94%84%EB%A0%88%EC%86%8C%EB%B6%81-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%9D%B4%EA%B2%83%EC%A0%80%EA%B2%83%EB%93%A4/)
+  * [Adit Deshpande's Deep Learning Blos](https://adeshpande3.github.io/adeshpande3.github.io/)
+  * [Keras Tutorial: The Ultimate Beginner's Guide to Deep Learning in Python](https://elitedatascience.com/keras-tutorial-deep-learning-in-python)
+  * [LSTM(RNN) 소개](https://brunch.co.kr/@chris-song/9)
+  * [엑소사랑하자 - OpenFace로 우리 오빠들 얼굴 인식하기](http://www.popit.kr/openface-exo-member-face-recognition/)
+  * [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
+  * [번역] A Beginner's Guide To Understanding Convolutional Neural Networks
+    * [Part 1](http://steady7.tistory.com/7)
+    * [Part 2](http://steady7.tistory.com/8)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -131,11 +151,18 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Toward Best Practices of TensorFlow Code Patterns](https://wookayin.github.io/TensorFlowKR-2017-talk-bestpractice/ko/)
   * [Generative adversarial networks](https://www.slideshare.net/ssuser77ee21/generative-adversarial-networks-70896091)
   * [AI 그까이거](https://www.slideshare.net/dhrim/ai-70388526)
+  * [인공지능: 변화와 능력개발](https://www.slideshare.net/TaegyunJeon1/ss-70432543)
+  * [인공지능, 기계학습 그리고 딥러닝](https://www.slideshare.net/JinwonLee9/ss-70446412)
+  * [Deep Learning Into Advance - 1. Image, ConvNet](https://www.slideshare.net/hellovista/deep-learning-into-advance-1-image-convnet)
+  * [텐서플로 걸음마 (TensorFlow Tutorial)](http://www.slideshare.net/JunKim22/tensorflow-tutorial-68885890)
+  * [Convolutional neural network in practice](https://www.slideshare.net/ssuser77ee21/convolutional-neural-network-in-practice)
 * Video
+  * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
   * [Feeding your own data set into the CNN model in Keras](https://www.youtube.com/watch?v=2pQOXjpO_u0)
   * [Intro into Image classification using Keras](https://www.youtube.com/watch?v=KhU4CGfE5m4)
   * [Integrating Keras & TensorFlow: The Keras workflow, expanded ](https://www.youtube.com/watch?v=UeheTiBJ0Io)
+  * [테리의 딥러닝 토크](https://www.youtube.com/playlist?list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -148,9 +175,26 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deep Q&A](https://github.com/hunkimForks/DeepQA/)
   * [TensorFlow Tutorials](https://github.com/golbin/TensorFlow-Tutorials)
   * [A toy chatbot powered by deep learning and trained on data from Reddit](https://github.com/pender/chatbot-rnn/)
+  * [ML_Practice with TensorFlow](https://github.com/proauto/ML_Practice)
+  * [Keras-Tutorials](https://github.com/tgjeon/Keras-Tutorials/)
+* Tool
+  * [TensorFlow - Google](https://www.tensorflow.org/)
+  * [Keras - Google](https://keras.io/)
+  * [PyTorch - Facebook](http://pytorch.org/)
+  * [MXNet - AWS](http://mxnet.io/)
+  * [CNTK - Microsoft](https://www.microsoft.com/en-us/research/product/cognitive-toolkit/)
+  * [Caffe](http://caffe.berkeleyvision.org/)
+  * [Theano](http://deeplearning.net/software/theano/)
+  * [Torch](http://torch.ch/)
+  * [DeepLearning4J](https://deeplearning4j.org/)
+  * [Chainer](http://chainer.org/)
+  * [Kur](https://kur.deepgram.com/)
+  * [OpenNMT - An open-source neural machine translation system](http://opennmt.net/)
 
 ## Reinforcement Learning
+* [Fundamental of Reinforcement Learning](https://www.gitbook.com/book/dnddnjs/rl/)
 * [OpenAI : A non-profit artificial intelligence research company](https://openai.com)
+* [LEARNING REINFORCEMENT LEARNING (WITH CODE, EXERCISES AND SOLUTIONS)](http://www.wildml.com/2016/10/learning-reinforcement-learning/)
 * [Deep Q Learning with Keras and Gym](https://keon.io/rl/deep-q-learning-with-keras-and-gym/)
 * [Minimal Monte Carlo Policy Gradient (REINFORCE) Algorithm Implementation in Keras](https://github.com/keon/policy-gradient)
 * [이슈카님 강화학습 블로그](http://ishuca.tistory.com/category/%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5)
@@ -158,6 +202,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [[ RL ] CS 294: Deep Reinforcement Learning —(1) Introduction and course overview](https://medium.com/@peteryun/rl-cs-294-deep-reinforcement-learning-introduction-and-course-overview-c7d9cb550ced)
 * [Tutorial: Introduction to Reinforcement Learning with Function Approximation](https://www.youtube.com/watch?v=ggqnxyjaKe4)
 * [Introduction to Markov chains](https://www.youtube.com/watch?v=Ws63I3F7Moc)
+* [[리뷰] DEVIEW : 쿠키런 AI 구현하기](https://mingrammer.com/review-deview-cookierun-ai)
+* [딥 강화학습 쉽게 이해하기](http://ddanggle.github.io/ml/ai/cs/2016/09/24/demystifyingDL.html)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -166,18 +212,31 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [50+ Data Science, Machine Learning Cheat Sheets, updated](http://www.kdnuggets.com/2016/12/data-science-machine-learning-cheat-sheets-updated.html)
 * [Prophet: forecasting at scale - Time Series Data Analysis](https://research.fb.com/prophet-forecasting-at-scale/﻿)
 * [Paper Reading : Enriching word vectors with subword information(2016)](https://www.slideshare.net/JungHoonSeo2/paper-reading-enriching-word-vectors-with-subword-information2016)
+* [머신러닝, 제대로 배우는 법](https://brunch.co.kr/@aidenswmo/2)
+* [Predicting Breast Cancer Using Apache Spark Machine Learning Logistic Regression](https://www.javacodegeeks.com/2016/10/predicting-breast-cancer-using-apache-spark-machine-learning-logistic-regression.html)
+* [2016 여름 머신러닝 워크샵 1일차 강의 (KAIST 오혜연 교수님)](https://www.youtube.com/watch?v=Wf6lIlJZgKg)
+* [휴먼 러닝 : 머신 러닝 학습 노트](https://www.youtube.com/playlist?list=PLefQdA1SdkhtRUuN_D3PdxaR2XTGQw8Ph)
 
 ## Data Science
+* [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
 * [수강료 400만원 데이터사이언스 스쿨 커리큘럼을 대체하는 온라인 무료강의 15개 커리큘럼](http://commeci.kr/archives/473)
+* [DODOMIRA님의 Data Analysis 블로그](http://www.dodomira.com/category/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D/)
 * [데이터 입수 이상징후 탐지](http://readme.skplanet.com/?p=13557)
 * [네이버 파이낸스 - 재무제표 크롤링 | FinanceData](https://financedata.github.io/posts/naver-finance-finstate-crawling.html)
 * [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+* [E-Mail 데이터 곱씹어보기](https://brunch.co.kr/@goodvc78/13)
+* [Python_numpy_pandas_matplotlib 이해하기](https://www.slideshare.net/dahlmoon/python-numpyarray-20160815)
+* [2016 PyCon APAC - 너의 사진은 내가 지난 과거에 한 일을 알고 있다](https://www.slideshare.net/ssuser2fe594/ss-64974166)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
 * [Word2Vec 그리고 추천 시스템의 Item2Vec](https://brunch.co.kr/@goodvc78/16)
 * [11번가 추천 엔진 교체 (RecoPick -> Colloseo)](http://readme.skplanet.com/?p=13507)
 * [Recommender Systems: Matrix Operations for Fast Calculation of Similarities](https://dzone.com/articles/recommender-systems-matrix-operations-for-fast-cal)
+* [Creating an end-to-end Recommender System with Apache Spark and Elasticsearch](https://www.slideshare.net/sparktc/spark-ml-meedup-pentreath-puget)
+* High-Quality Recommendation Systems with Elasticsearch
+  * [Part 1](https://dzone.com/articles/high-quality-recommendation-systems-with-elastic-1)
+  * [Part 2](https://dzone.com/articles/high-quality-recommendation-systems-with-elastic-2)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
@@ -186,137 +245,6 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 
 
 
-ai deep learning 
-https://www.slideshare.net/TaegyunJeon1/ss-70432543
-
-RNN(Recurrent Neural Network)과 Torch로 발라드곡 작사하기
-deep learning
-http://www.popit.kr/rnnrecurrent-neural-network%EA%B3%BC-torch%EB%A1%9C-%EB%B0%9C%EB%9D%BC%EB%93%9C%EA%B3%A1-%EC%9E%91%EC%82%AC%ED%95%98%EA%B8%B0/
-
-머신러닝 목차 :: 파이쿵
-deep learning tensorflow 
-http://pythonkim.tistory.com/notice/25
-
-Fundamental of Reinforcement Learning · GitBook
-https://www.gitbook.com/book/dnddnjs/rl/
-
-Arthur Juliani – Latest
-deep learning tensorflow 
-https://medium.com/@awjuliani/latest
-
-Tutorial: Optimizing Neural Networks using Keras (Image recognition)
-deep learning keras
-https://www.analyticsvidhya.com/blog/2016/10/tutorial-optimizing-neural-networks-using-keras-with-image-recognition-case-study/
-
-A curated list of resources related to NLP (Natural Language Processing) for Korean + NLP resources in Korean
-https://github.com/datanada/Awesome-Korean-NLP/
-
-ai deep learning 
-https://www.slideshare.net/JinwonLee9/ss-70446412
-
-deep learning
-https://www.youtube.com/playlist?list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq
-
-deep learning cnn
-https://www.slideshare.net/hellovista/deep-learning-into-advance-1-image-convnet
-
-deep learning torch
-http://www.popit.kr/%EB%94%A5%EB%9F%AC%EB%8B%9D%EA%B3%BC-%EC%97%90%EC%8A%A4%ED%94%84%EB%A0%88%EC%86%8C%EB%B6%81-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%9D%B4%EA%B2%83%EC%A0%80%EA%B2%83%EB%93%A4/
-
-deep learning tensorflow
-tf-tutorial/README.md at master · sherrym/tf-tutorial
-https://github.com/sherrym/tf-tutorial/
-https://www.youtube.com/watch?v=Ejec3ID_h0w
-
-OpenNMT · NMT
-deep learning neural machine translation
-http://opennmt.net/
-
-tensorflow deep learning
-https://github.com/proauto/ML_Practice
-
-
-E-Mail 데이터 곱씹어보기
-data analysis 
-https://brunch.co.kr/@goodvc78/13
-
-A Beginner's Guide To Understanding Convolutional Neural Networks – Adit Deshpande – CS Undergrad at UCLA ('19)
-deep learning cnn
-https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/
-
-Keras Tutorial: The Ultimate Beginner's Guide to Deep Learning in Python
-https://elitedatascience.com/keras-tutorial-deep-learning-in-python
-
-
-data analysis data science
-https://www.slideshare.net/yongho/ss-52116574
-
-LEARNING REINFORCEMENT LEARNING (WITH CODE, EXERCISES AND SOLUTIONS)
-http://www.wildml.com/2016/10/learning-reinforcement-learning/
-
-deep learning tensorflow
-http://www.slideshare.net/JunKim22/tensorflow-tutorial-68885890
-
-LSTM(RNN) 소개
-deep learning rnn lstm
-https://brunch.co.kr/@chris-song/9
-
-deep learning Keras-Tutorials
-https://github.com/tgjeon/Keras-Tutorials/
-
-cnn deep learning
-https://www.slideshare.net/ssuser77ee21/convolutional-neural-network-in-practice
-
-apache spark recommendation
-https://www.slideshare.net/sparktc/spark-ml-meedup-pentreath-puget
-
-엑소사랑하자 - OpenFace로 우리 오빠들 얼굴 인식하기 | Popit
-deep learning
-http://www.popit.kr/openface-exo-member-face-recognition/
-
-deep learning reinforcement learning
-https://mingrammer.com/review-deview-cookierun-ai
-
-data analysis
-http://www.dodomira.com/2016/03/06/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EB%B6%84%EC%84%9D%ED%95%A0-%EB%95%8C-%EC%9E%90%EC%A3%BC-%ED%95%98%EB%8A%94-%EC%8B%A4%EC%88%98%EB%93%A4/
-
-songrotek/Deep-Learning-Papers-Reading-Roadmap: Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
-https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
-
-machine learning
-https://brunch.co.kr/@aidenswmo/2
-
-data analysis
-http://www.dodomira.com/2016/10/20/how_to_eda/
-
-data analysis
-http://www.slideshare.net/dahlmoon/python-numpyarray-20160815
-
-apache spark machine learning
-https://www.javacodegeeks.com/2016/10/predicting-breast-cancer-using-apache-spark-machine-learning-logistic-regression.html
-
-deep learning reinforcement learning
-http://ddanggle.github.io/ml/ai/cs/2016/09/24/demystifyingDL.html
-
-recommendaton
-https://dzone.com/articles/high-quality-recommendation-systems-with-elastic-1
-https://dzone.com/articles/high-quality-recommendation-systems-with-elastic-2
-
-machine learning
-https://www.youtube.com/watch?v=Wf6lIlJZgKg
-
-deep learning cnn
-http://steady7.tistory.com/7
-http://steady7.tistory.com/8
-
-data analysis
-https://www.slideshare.net/ssuser2fe594/ss-64974166
-
-deep learning tensorflow
-https://tensorflow.blog/2016/08/23/dl-with-neural-networks-and-tensorflow-introduction/
-
-machine learning
-https://www.youtube.com/playlist?list=PLefQdA1SdkhtRUuN_D3PdxaR2XTGQw8Ph
 
 deep learning tensorflow rnn
 http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/
