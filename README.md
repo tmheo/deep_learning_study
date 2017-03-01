@@ -18,9 +18,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Oxford - Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
   * [Udacity - Deep Learning by Google](https://www.udacity.com/course/deep-learning--ud730)
   * [Python Deep Learning with Keras - Machine Learning Mastery](http://machinelearningmastery.com/category/deep-learning/)
-  * [Enjoy DL](https://www.facebook.com/notes/enjoydl/deep-leaning-video-links/1227281394020895)
   * [Practical Deep Learning For Coders—18 hours of lessons for free](http://course.fast.ai/)
+  * [Deep Learning for Speech and Language](https://telecombcn-dl.github.io/2017-dlsl/)
   * [동국대 홍정모 교수님의 C++로 배우는 딥러닝](http://blog.naver.com/atelierjpro/220697890605)
+  * [Enjoy DL](https://www.facebook.com/notes/enjoydl/deep-leaning-video-links/1227281394020895)
   * [Laon People 머신러닝/딥러닝 블로그](http://laonple.blog.me/220463627091)
   * [TensorFlow Slim 실습](http://euhyeji.blogspot.kr/search/label/%EB%94%A5%EB%9F%AC%EB%8B%9D)
   * [TensorFlow Workshop](https://github.com/amygdala/tensorflow-workshop)
@@ -253,6 +254,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [E-Mail 데이터 곱씹어보기](https://brunch.co.kr/@goodvc78/13)
 * [Python_numpy_pandas_matplotlib 이해하기](https://www.slideshare.net/dahlmoon/python-numpyarray-20160815)
 * [2016 PyCon APAC - 너의 사진은 내가 지난 과거에 한 일을 알고 있다](https://www.slideshare.net/ssuser2fe594/ss-64974166)
+* [[FAQ] (Daum부동산) DataFrame 행 추출과 컬럼으로 합치기](https://financedata.github.io/posts/dataframe-extract-rows-and-concat-as-column.html)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
