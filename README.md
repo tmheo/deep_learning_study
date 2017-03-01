@@ -277,4 +277,6 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Building AI Chat bot using Python 3 & TensorFlow](https://speakerdeck.com/inureyes/building-ai-chat-bot-using-python-3-and-tensorflow)
 * [Developing Korean Chatbot 101](https://www.slideshare.net/JaeminCho6/developing-korean-chatbot-101-71013451)
 * [20170227 파이썬으로 챗봇_만들기](https://www.slideshare.net/KimSungdong1/20170227-72644192)
-* [AWS - Building Better Bots (Part 1)](https://aws.amazon.com/blogs/ai/building-better-bots/)
+* AWS - Building Better Bots
+  * [Part 1](https://aws.amazon.com/blogs/ai/building-better-bots/)
+  * [Part 2](https://aws.amazon.com/blogs/ai/building-better-bots-part-2/)
