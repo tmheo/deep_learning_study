@@ -66,9 +66,6 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [MNIST Generative Adversarial Model in Keras](https://oshearesearch.com/index.php/2016/07/01/mnist-generative-adversarial-model-in-keras/)
   * [Image Recognition in Python with Keras](http://blog.yhat.com/posts/keras-for-image-recognition.html)
   * [유재준님의 딥러닝 블로그](http://jaejunyoo.blogspot.com/search/label/machine%20learning)
-  * Public Dataset
-    * [Fueling the Gold Rush: The Greatest Public Datasets for AI](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2)
-    * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
   * [Food Classification with Deep Learning in Keras / Tensorflow](http://blog.stratospark.com/deep-learning-applied-food-classification-deep-learning-keras.html)
   * [Accelerating Deep Learning with Multiprocess Image Augmentation in Keras](http://blog.stratospark.com/multiprocess-image-augmentation-keras.html#multiprocess-image-augmentation-keras)
   * [Introduction to deep learning for machine vision tasks using Keras](https://www.pycon.kr/2016apac/program/25)
@@ -140,6 +137,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [테리님의 딥러닝 블로그](http://t-robotics.blogspot.kr/)
   * [Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/)
   * [Deep Learning for Dummies, Carey Nachenberg](http://techjaw.com/2015/04/08/deep-learning-for-dummies-carey-nachenberg/)
+  * [TensorFlow-v1.0.0 + Keras 설치 (Windows/Linux/macOS)](http://tmmse.xyz/2017/03/01/tensorflow-keras-installation-windows-linux-macos/)
+  * [Deep Learning based Detection](http://tmmse.xyz/2016/01/13/deep-learning-based-detection/﻿)
+  * [LSTM 과 ResNet](http://tmmse.xyz/2016/10/15/lstm-resnet/﻿)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -205,6 +205,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Chainer](http://chainer.org/)
   * [Kur](https://kur.deepgram.com/)
   * [OpenNMT - An open-source neural machine translation system](http://opennmt.net/)
+* Dataset
+  * [Fueling the Gold Rush: The Greatest Public Datasets for AI](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2)
+  * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 
 ## Reinforcement Learning
 * [Fundamental of Reinforcement Learning](https://www.gitbook.com/book/dnddnjs/rl/)
