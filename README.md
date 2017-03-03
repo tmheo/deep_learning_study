@@ -12,7 +12,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Stanford - CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) : [[Korean]](http://aikorea.org/cs231n/)
   * [Stanford - CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
   * [Stanford - Unsupervised Feature Learning and Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
-  * [Stanford - Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/syllabus.html)
+  * [Stanford - Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/)
   * [MIT - 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
   * [MIT - 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
   * [Oxford - Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
@@ -141,6 +141,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [TensorFlow-v1.0.0 + Keras 설치 (Windows/Linux/macOS)](http://tmmse.xyz/2017/03/01/tensorflow-keras-installation-windows-linux-macos/)
   * [Deep Learning based Detection](http://tmmse.xyz/2016/01/13/deep-learning-based-detection/﻿)
   * [LSTM 과 ResNet](http://tmmse.xyz/2016/10/15/lstm-resnet/﻿)
+  * [TensorFlow: How to optimise your input pipeline with queues and multi-threading](https://blog.metaflow.fr/tensorflow-how-to-optimise-your-input-pipeline-with-queues-and-multi-threading-e7c3874157e0)
+  * [Image denoising with Autoencoder in Keras](https://byeongkijeong.github.io/Keras-Autoencoder/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -170,6 +172,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Introduction to Deep Learning with TensorFlow](https://www.slideshare.net/TerryTaewoongUm/introduction-to-deep-learning-with-tensorflow)
   * [딥러닝을 이용한 자연어처리의 연구동향](https://www.slideshare.net/ssuser06e0c5/ss-64417928)
   * [기계학습 / 딥러닝이란 무엇인가](https://www.slideshare.net/yonghakim900/ss-60252533)
+  * [Spark machine learning & deep learning](https://www.slideshare.net/ssusere94328/spark-machine-learning-deep-learning)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -219,6 +222,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Minimal Monte Carlo Policy Gradient (REINFORCE) Algorithm Implementation in Keras](https://github.com/keon/policy-gradient)
 * [이슈카님 강화학습 블로그](http://ishuca.tistory.com/category/%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5)
 * [Building a deep learning DOOM bot](https://www.codelitt.com/blog/doom-ai/)
+* [A DOOM flavored primer to reinforcement learning](https://www.codelitt.com/blog/doom-ai2/)
 * [[ RL ] CS 294: Deep Reinforcement Learning —(1) Introduction and course overview](https://medium.com/@peteryun/rl-cs-294-deep-reinforcement-learning-introduction-and-course-overview-c7d9cb550ced)
 * [Tutorial: Introduction to Reinforcement Learning with Function Approximation](https://www.youtube.com/watch?v=ggqnxyjaKe4)
 * [Introduction to Markov chains](https://www.youtube.com/watch?v=Ws63I3F7Moc)
@@ -254,7 +258,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [E-Mail 데이터 곱씹어보기](https://brunch.co.kr/@goodvc78/13)
 * [Python_numpy_pandas_matplotlib 이해하기](https://www.slideshare.net/dahlmoon/python-numpyarray-20160815)
 * [2016 PyCon APAC - 너의 사진은 내가 지난 과거에 한 일을 알고 있다](https://www.slideshare.net/ssuser2fe594/ss-64974166)
-* [[FAQ] (Daum부동산) DataFrame 행 추출과 컬럼으로 합치기](https://financedata.github.io/posts/dataframe-extract-rows-and-concat-as-column.html)
+* [[FAQ] - Daum부동산 - DataFrame 행 추출과 컬럼으로 합치기](https://financedata.github.io/posts/dataframe-extract-rows-and-concat-as-column.html)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
