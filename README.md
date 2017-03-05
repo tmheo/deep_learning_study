@@ -247,6 +247,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Word2Vec, Bag-Of-Words](http://newsight.tistory.com/212)
 * [word2vec 관련 이론 정리](https://shuuki4.wordpress.com/2016/01/27/word2vec-%EA%B4%80%EB%A0%A8-%EC%9D%B4%EB%A1%A0-%EC%A0%95%EB%A6%AC/)
 * [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
+* [How to use pre-trained word vectors from Facebook’s fastText](https://blog.manash.me/how-to-use-pre-trained-word-vectors-from-facebooks-fasttext-a71e6d55f27)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -259,6 +260,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Python_numpy_pandas_matplotlib 이해하기](https://www.slideshare.net/dahlmoon/python-numpyarray-20160815)
 * [2016 PyCon APAC - 너의 사진은 내가 지난 과거에 한 일을 알고 있다](https://www.slideshare.net/ssuser2fe594/ss-64974166)
 * [[FAQ] - Daum부동산 - DataFrame 행 추출과 컬럼으로 합치기](https://financedata.github.io/posts/dataframe-extract-rows-and-concat-as-column.html)
+* [gimmesilver님의 데이터 분석 블로그](http://agbird.egloos.com/category/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D)
+* [datageek님의 데이터 분석 블로그](http://blog.naver.com/datageeks)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
