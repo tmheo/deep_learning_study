@@ -2,7 +2,7 @@
 A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data Science, Recommendation, Chatbot
 
 ## Deep Learning
-* Tutorial
+* Tutorial & Lecture
   * [홍콩 과기대 김성훈 교수님의 모두의 딥러닝](http://hunkim.github.io/ml/)
   * Deep Learning Tutorial from Tensorflow Blog
     * [해커가 알려주는 뉴럴 네트워크](https://tensorflow.blog/2016/09/13/%ED%95%B4%EC%BB%A4%EA%B0%80-%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-%EB%89%B4%EB%9F%B4-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/)
@@ -143,6 +143,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [LSTM 과 ResNet](http://tmmse.xyz/2016/10/15/lstm-resnet/﻿)
   * [TensorFlow: How to optimise your input pipeline with queues and multi-threading](https://blog.metaflow.fr/tensorflow-how-to-optimise-your-input-pipeline-with-queues-and-multi-threading-e7c3874157e0)
   * [Image denoising with Autoencoder in Keras](https://byeongkijeong.github.io/Keras-Autoencoder/)
+  * [How to Build an Image Classification Web App With VGG-16](http://engineering.skymind.io/how-to-build-an-image-classification-web-app-with-vgg-16)
+  * [Deep Learning Project Workflow](https://github.com/thomasj02/DeepLearningProjectWorkflow/)
+  * [[AI기획]경쟁 통해 배우는 인공지능 기술 GAN](http://techm.kr/bbs/board.php?bo_table=article&wr_id=3617)
+  * [How these researchers tried something unconventional to come out with a smaller yet better Image Recognition](https://medium.com/@matelabs_ai/how-these-researchers-tried-something-unconventional-to-came-out-with-a-smaller-yet-better-image-544327f30e72)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -196,6 +200,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [ML_Practice with TensorFlow](https://github.com/proauto/ML_Practice)
   * [Keras-Tutorials](https://github.com/tgjeon/Keras-Tutorials/)
   * [Tensorflow Tutorials using Jupyter Notebook](https://github.com/sjchoi86/Tensorflow-101)
+  * [Simple implementation of Generative Adversarial Networks](https://github.com/GunhoChoi/GAN_simple)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -230,6 +235,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [딥 강화학습 쉽게 이해하기](http://ddanggle.github.io/ml/ai/cs/2016/09/24/demystifyingDL.html)
 * [Reinforcement Learning](http://enginius.tistory.com/444)
 * [모두의 알파고](https://www.slideshare.net/DonghunLee20/ss-59338971)
+* [Torch DQN 강화학습 소개](http://www.popit.kr/torch-dqn-%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5-%EC%86%8C%EA%B0%9C/)
+* [Doom Bots in TensorFlow](http://tech.marksblogg.com/tensorflow-vizdoom-bots.html)
+* [Keras plays catch, a single file Reinforcement Learning example](https://edersantana.github.io/articles/keras_rl/)
+* [Demystifying Deep Reinforcement Learning](https://www.nervanasys.com/demystifying-deep-reinforcement-learning/)
+* [Deep Reinforcement Learning with Neon](https://www.nervanasys.com/deep-reinforcement-learning-with-neon/)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -248,6 +258,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [word2vec 관련 이론 정리](https://shuuki4.wordpress.com/2016/01/27/word2vec-%EA%B4%80%EB%A0%A8-%EC%9D%B4%EB%A1%A0-%EC%A0%95%EB%A6%AC/)
 * [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 * [How to use pre-trained word vectors from Facebook’s fastText](https://blog.manash.me/how-to-use-pre-trained-word-vectors-from-facebooks-fasttext-a71e6d55f27)
+* [한국어와 NLTK, Gensim의 만남](https://www.lucypark.kr/slides/2015-pyconkr/)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -262,6 +273,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [[FAQ] - Daum부동산 - DataFrame 행 추출과 컬럼으로 합치기](https://financedata.github.io/posts/dataframe-extract-rows-and-concat-as-column.html)
 * [gimmesilver님의 데이터 분석 블로그](http://agbird.egloos.com/category/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D)
 * [datageek님의 데이터 분석 블로그](http://blog.naver.com/datageeks)
+* [PinkWink님의 데이터 분석 블로그](http://pinkwink.kr/category/Theory/DataScience)
+* [LEARNING PYTHON FOR DATA SCIENCE: CHEAT SHEETS](https://www.continuum.io/blog/developer-blog/learning-python-data-science-cheat-sheets)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
