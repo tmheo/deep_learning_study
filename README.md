@@ -80,6 +80,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [nthought님의 딥러닝/데이터마이닝 블로그](http://bahnsville.tistory.com/category/Data%20Mining)
   * [KH님의 딥러닝 블로그](https://khshim.wordpress.com/)
   * [Deep Learning and Machine Learning Guide: Part I](https://dzone.com/articles/machine-learning-resources)
+  * [Deep Learning and Machine Learning Guide: Part II](https://dzone.com/articles/deep-learning-and-machine-learning-guide-part-ii)
+  * [Deep Learning and Machine Learning Guide: Part III](https://dzone.com/articles/deep-learning-and-machine-learning-guide-part-iii)
   * [Deep Learning 학습 자료 정리](http://gobitcoin.tistory.com/1)
   * [Deep Learning with Keras](http://parneetk.github.io/tag/keras/)
   * [Activation Function](http://newsight.tistory.com/68)
@@ -147,6 +149,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deep Learning Project Workflow](https://github.com/thomasj02/DeepLearningProjectWorkflow/)
   * [[AI기획]경쟁 통해 배우는 인공지능 기술 GAN](http://techm.kr/bbs/board.php?bo_table=article&wr_id=3617)
   * [How these researchers tried something unconventional to come out with a smaller yet better Image Recognition](https://medium.com/@matelabs_ai/how-these-researchers-tried-something-unconventional-to-came-out-with-a-smaller-yet-better-image-544327f30e72)
+  * [Understanding Neural Networks Through Deep Visualization](http://yosinski.com/deepvis)
+  * [Picking an optimizer for Style Transfer](https://medium.com/slavv/picking-an-optimizer-for-style-transfer-86e7b8cba84b)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -177,6 +181,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [딥러닝을 이용한 자연어처리의 연구동향](https://www.slideshare.net/ssuser06e0c5/ss-64417928)
   * [기계학습 / 딥러닝이란 무엇인가](https://www.slideshare.net/yonghakim900/ss-60252533)
   * [Spark machine learning & deep learning](https://www.slideshare.net/ssusere94328/spark-machine-learning-deep-learning)
+  * [의료빅데이터 컨테스트 결과 보고서](https://www.slideshare.net/GYLee3/ss-72966495)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -201,6 +206,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Keras-Tutorials](https://github.com/tgjeon/Keras-Tutorials/)
   * [Tensorflow Tutorials using Jupyter Notebook](https://github.com/sjchoi86/Tensorflow-101)
   * [Simple implementation of Generative Adversarial Networks](https://github.com/GunhoChoi/GAN_simple)
+  * [Generative Adversarial Network for approximating a 1D Gaussian distribution](https://github.com/hwalsuklee/tensorflow-GAN-1d-gaussian-ex)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -240,6 +246,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Keras plays catch, a single file Reinforcement Learning example](https://edersantana.github.io/articles/keras_rl/)
 * [Demystifying Deep Reinforcement Learning](https://www.nervanasys.com/demystifying-deep-reinforcement-learning/)
 * [Deep Reinforcement Learning with Neon](https://www.nervanasys.com/deep-reinforcement-learning-with-neon/)
+* [jayyang님의 머신러닝 블로그](https://jay.tech.blog/category/machine-learning/)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -275,6 +282,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [datageek님의 데이터 분석 블로그](http://blog.naver.com/datageeks)
 * [PinkWink님의 데이터 분석 블로그](http://pinkwink.kr/category/Theory/DataScience)
 * [LEARNING PYTHON FOR DATA SCIENCE: CHEAT SHEETS](https://www.continuum.io/blog/developer-blog/learning-python-data-science-cheat-sheets)
+* [NumPy Tutorial: Data analysis with Python](http://www.dataquest.io/blog/numpy-tutorial-python/)
+* [K-MOOC Operation Research : Numpy Part #1](https://www.youtube.com/watch?v=Fm1sWcdL_ak)
+* [K-MOOC Operation Research : Numpy Part #2](https://www.youtube.com/watch?v=Sbywpatl-BA)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
