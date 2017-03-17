@@ -42,6 +42,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Bigdata Machine Learning Facebook Group](https://www.facebook.com/groups/bigdataanalysis/)
   * [Big Data Korea Facebook Group](https://www.facebook.com/groups/bigdata.seoul/)
   * [딥러닝 솔루션 그룹 Facebook Group](https://www.facebook.com/groups/nvidiakorea.psg/)
+  * [AI DEV 인공지능 개발자 모임](http://aidev.co.kr/)
 * Article
   * [Andrej Karpathy's Deep Learning Blog](http://karpathy.github.io/)
   * [딥러닝 공부 방법](https://www.facebook.com/dgtgrade/posts/1340177956041067)
@@ -151,6 +152,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [How these researchers tried something unconventional to come out with a smaller yet better Image Recognition](https://medium.com/@matelabs_ai/how-these-researchers-tried-something-unconventional-to-came-out-with-a-smaller-yet-better-image-544327f30e72)
   * [Understanding Neural Networks Through Deep Visualization](http://yosinski.com/deepvis)
   * [Picking an optimizer for Style Transfer](https://medium.com/slavv/picking-an-optimizer-for-style-transfer-86e7b8cba84b)
+  * [Deep Learning with Keras on Google Compute Engine](https://medium.com/google-cloud/keras-inception-v3-on-google-compute-engine-a54918b0058)
+  * [Clickbaits Revisited: Deep Learning on Title + Content Features to Tackle Clickbaits](https://www.linkedin.com/pulse/clickbaits-revisited-deep-learning-title-content-features-thakur)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -182,6 +185,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [기계학습 / 딥러닝이란 무엇인가](https://www.slideshare.net/yonghakim900/ss-60252533)
   * [Spark machine learning & deep learning](https://www.slideshare.net/ssusere94328/spark-machine-learning-deep-learning)
   * [의료빅데이터 컨테스트 결과 보고서](https://www.slideshare.net/GYLee3/ss-72966495)
+  * [Deep learning](https://www.slideshare.net/PratapDangeti/deep-learning-72704925)
+  * [Squeezing Deep Learning Into Mobile Phones](https://www.slideshare.net/anirudhkoul/squeezing-deep-learning-into-mobile-phones)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -207,6 +212,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Tensorflow Tutorials using Jupyter Notebook](https://github.com/sjchoi86/Tensorflow-101)
   * [Simple implementation of Generative Adversarial Networks](https://github.com/GunhoChoi/GAN_simple)
   * [Generative Adversarial Network for approximating a 1D Gaussian distribution](https://github.com/hwalsuklee/tensorflow-GAN-1d-gaussian-ex)
+  * [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
+  * [DeepLearningForNLPInPytorch](https://github.com/rguthrie3/DeepLearningForNLPInPytorch)
+  * [Building an image classifier using keras](https://github.com/rajshah4/image_keras)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -220,6 +228,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Chainer](http://chainer.org/)
   * [Kur](https://kur.deepgram.com/)
   * [OpenNMT - An open-source neural machine translation system](http://opennmt.net/)
+  * [tf-seq2seq](https://google.github.io/seq2seq/)
 * Dataset
   * [Fueling the Gold Rush: The Greatest Public Datasets for AI](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2)
   * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
@@ -247,6 +256,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Demystifying Deep Reinforcement Learning](https://www.nervanasys.com/demystifying-deep-reinforcement-learning/)
 * [Deep Reinforcement Learning with Neon](https://www.nervanasys.com/deep-reinforcement-learning-with-neon/)
 * [jayyang님의 머신러닝 블로그](https://jay.tech.blog/category/machine-learning/)
+* [Introduction to Q-Learning](https://medium.com/@aneekdas/introduction-to-q-learning-88d1c4f2b49c)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -266,6 +276,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 * [How to use pre-trained word vectors from Facebook’s fastText](https://blog.manash.me/how-to-use-pre-trained-word-vectors-from-facebooks-fasttext-a71e6d55f27)
 * [한국어와 NLTK, Gensim의 만남](https://www.lucypark.kr/slides/2015-pyconkr/)
+* [Machine Learning Top 10 Articles for the Past Month](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-eedfaa364e73)
+* [Winning Tips on Machine Learning Competitions by Kazanova, Current Kaggle #3](http://blog.hackerearth.com/winning-tips-machine-learning-competitions-kazanova-current-kaggle-3)
+* [Applying Machine Learning To March Madness](https://adeshpande3.github.io/adeshpande3.github.io/Applying-Machine-Learning-to-March-Madness)
+* [Scikit-Learn Tutorial Series](http://www.datasciencecentral.com/profiles/blogs/scikit-learn-tutorial-series)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
