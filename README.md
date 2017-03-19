@@ -27,6 +27,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [TensorFlow Workshop](https://github.com/amygdala/tensorflow-workshop)
   * [TensorFlow Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
   * [TensorFlow Tutorial](https://github.com/sherrym/tf-tutorial/) : [[Video]](https://www.youtube.com/watch?v=Ejec3ID_h0w)
+  * [Machine Learning & Deep Learning](https://drive.google.com/drive/folders/0BwwNF6qNzpOLTDBMX0NHcDB6ZzQ?usp=sharing)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -215,6 +216,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
   * [DeepLearningForNLPInPytorch](https://github.com/rguthrie3/DeepLearningForNLPInPytorch)
   * [Building an image classifier using keras](https://github.com/rajshah4/image_keras)
+  * [Deep Learning for Self-Driving Cars](https://github.com/wolfapple/CarND-Behavioral-Cloning-Project)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
