@@ -44,6 +44,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Big Data Korea Facebook Group](https://www.facebook.com/groups/bigdata.seoul/)
   * [딥러닝 솔루션 그룹 Facebook Group](https://www.facebook.com/groups/nvidiakorea.psg/)
   * [AI DEV 인공지능 개발자 모임](http://aidev.co.kr/)
+  * [Distill - Machine Learning Research Journal](http://distill.pub/)
 * Article
   * [Andrej Karpathy's Deep Learning Blog](http://karpathy.github.io/)
   * [딥러닝 공부 방법](https://www.facebook.com/dgtgrade/posts/1340177956041067)
@@ -155,6 +156,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Picking an optimizer for Style Transfer](https://medium.com/slavv/picking-an-optimizer-for-style-transfer-86e7b8cba84b)
   * [Deep Learning with Keras on Google Compute Engine](https://medium.com/google-cloud/keras-inception-v3-on-google-compute-engine-a54918b0058)
   * [Clickbaits Revisited: Deep Learning on Title + Content Features to Tackle Clickbaits](https://www.linkedin.com/pulse/clickbaits-revisited-deep-learning-title-content-features-thakur)
+  * [텐서플로우 시작하기](http://www.popit.kr/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0tensorflow-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/)
+  * [Baidu released PaddlePaddle Jupyter notebook](http://aimedicines.com/2017/03/21/baidu-released-paddlepaddle-jupyter-notebook/)
+  * [페이스북, AI대가 '얀 레쿤 교수' 인공지능 강의 공개](http://news.zum.com/articles/34615437)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -188,6 +192,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [의료빅데이터 컨테스트 결과 보고서](https://www.slideshare.net/GYLee3/ss-72966495)
   * [Deep learning](https://www.slideshare.net/PratapDangeti/deep-learning-72704925)
   * [Squeezing Deep Learning Into Mobile Phones](https://www.slideshare.net/anirudhkoul/squeezing-deep-learning-into-mobile-phones)
+  * [Image Segmentation](https://www.slideshare.net/HyungjooCho2/image-segmentation-hjcho)
+  * [Understanding deep learning requires rethinking generalization 2017 1/2](https://www.slideshare.net/JungHoonSeo2/understanding-deep-learning-requires-rethinking-generalization-2017-12)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -196,6 +202,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Integrating Keras & TensorFlow: The Keras workflow, expanded ](https://www.youtube.com/watch?v=UeheTiBJ0Io)
   * [테리님의 딥러닝 토크](https://www.youtube.com/playlist?list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
   * [DeepLearning.TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ/featured)
+  * [Deep Learning From A to Z - Raphael Gontijo Lopes](https://www.youtube.com/watch?v=DYlHnxfrrZY)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -217,12 +224,18 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [DeepLearningForNLPInPytorch](https://github.com/rguthrie3/DeepLearningForNLPInPytorch)
   * [Building an image classifier using keras](https://github.com/rajshah4/image_keras)
   * [Deep Learning for Self-Driving Cars](https://github.com/wolfapple/CarND-Behavioral-Cloning-Project)
+  * [Keras Generative Adversarial Networks](https://github.com/bstriner/keras-adversarial)
+  * [DiscoGAN - SKT Brain](https://github.com/SKTBrain/DiscoGAN)
+  * [DiscoGAN in PyTorch](https://github.com/carpedm20/DiscoGAN-pytorch)
+  * [DiscoGAN in Tensorflow](https://github.com/GunhoChoi/DiscoGAN_TF)
+  * [Variational Auto-Encoder for MNIST](https://github.com/hwalsuklee/tensorflow-mnist-VAE)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
   * [PyTorch - Facebook](http://pytorch.org/)
   * [MXNet - AWS](http://mxnet.io/)
   * [CNTK - Microsoft](https://www.microsoft.com/en-us/research/product/cognitive-toolkit/)
+  * [PaddlePaddle - Baidu](http://www.paddlepaddle.org/)
   * [Caffe](http://caffe.berkeleyvision.org/)
   * [Theano](http://deeplearning.net/software/theano/)
   * [Torch](http://torch.ch/)
@@ -282,6 +295,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Winning Tips on Machine Learning Competitions by Kazanova, Current Kaggle #3](http://blog.hackerearth.com/winning-tips-machine-learning-competitions-kazanova-current-kaggle-3)
 * [Applying Machine Learning To March Madness](https://adeshpande3.github.io/adeshpande3.github.io/Applying-Machine-Learning-to-March-Madness)
 * [Scikit-Learn Tutorial Series](http://www.datasciencecentral.com/profiles/blogs/scikit-learn-tutorial-series)
+* [머신 러닝 뉴스 주제 분류](http://likejazz.com/post/158649902235/%EB%A8%B8%EC%8B%A0-%EB%9F%AC%EB%8B%9D-%EB%89%B4%EC%8A%A4-%EC%A3%BC%EC%A0%9C-%EB%B6%84%EB%A5%98)
+* [Transfer Learning - Machine Learning's Next Frontier](http://sebastianruder.com/transfer-learning/index.html)
+* [상상개발자님의 Machine Learning 강의](https://www.youtube.com/playlist?list=PLVNY1HnUlO26x597OgAN8TCgGTiE-38D6)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -301,6 +317,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [NumPy Tutorial: Data analysis with Python](http://www.dataquest.io/blog/numpy-tutorial-python/)
 * [K-MOOC Operation Research : Numpy Part #1](https://www.youtube.com/watch?v=Fm1sWcdL_ak)
 * [K-MOOC Operation Research : Numpy Part #2](https://www.youtube.com/watch?v=Sbywpatl-BA)
+* [Reproducible Data Analysis in Jupyter](http://jakevdp.github.io/blog/2017/03/03/reproducible-data-analysis-in-jupyter/)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
