@@ -159,7 +159,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Clickbaits Revisited: Deep Learning on Title + Content Features to Tackle Clickbaits](https://www.linkedin.com/pulse/clickbaits-revisited-deep-learning-title-content-features-thakur)
   * [텐서플로우 시작하기](http://www.popit.kr/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0tensorflow-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/)
   * [Baidu released PaddlePaddle Jupyter notebook](http://aimedicines.com/2017/03/21/baidu-released-paddlepaddle-jupyter-notebook/)
-  * [페이스북, AI대가 '얀 레쿤 교수' 인공지능 강의 공개](http://news.zum.com/articles/34615437)
+  * [ratsgo님의 블로그](https://ratsgo.github.io/blog/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -195,6 +195,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Squeezing Deep Learning Into Mobile Phones](https://www.slideshare.net/anirudhkoul/squeezing-deep-learning-into-mobile-phones)
   * [Image Segmentation](https://www.slideshare.net/HyungjooCho2/image-segmentation-hjcho)
   * [Understanding deep learning requires rethinking generalization 2017 1/2](https://www.slideshare.net/JungHoonSeo2/understanding-deep-learning-requires-rethinking-generalization-2017-12)
+  * [Visualizing data using t-SNE](https://www.slideshare.net/ssuser06e0c5/visualizing-data-using-tsne-73621033)
+  * [대전AI포럼 - 1회 자료](https://drive.google.com/drive/folders/0B64W-UQ233A5am5RSGhGQjNDT0k)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -204,6 +206,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [테리님의 딥러닝 토크](https://www.youtube.com/playlist?list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
   * [DeepLearning.TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ/featured)
   * [Deep Learning From A to Z - Raphael Gontijo Lopes](https://www.youtube.com/watch?v=DYlHnxfrrZY)
+  * [페이스북, AI대가 '얀 레쿤 교수' 인공지능 강의 공개](http://news.zum.com/articles/34615437)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -319,6 +322,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [K-MOOC Operation Research : Numpy Part #1](https://www.youtube.com/watch?v=Fm1sWcdL_ak)
 * [K-MOOC Operation Research : Numpy Part #2](https://www.youtube.com/watch?v=Sbywpatl-BA)
 * [Reproducible Data Analysis in Jupyter](http://jakevdp.github.io/blog/2017/03/03/reproducible-data-analysis-in-jupyter/)
+* [Data science with R - 1. 오해](http://blog.airbridge.io/data-science-with-r-1-misperception/)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
