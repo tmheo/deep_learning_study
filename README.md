@@ -160,6 +160,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [텐서플로우 시작하기](http://www.popit.kr/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0tensorflow-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/)
   * [Baidu released PaddlePaddle Jupyter notebook](http://aimedicines.com/2017/03/21/baidu-released-paddlepaddle-jupyter-notebook/)
   * [ratsgo님의 블로그](https://ratsgo.github.io/blog/)
+  * [Faster R-CNN](https://curt-park.github.io/2017-03-17/faster-rcnn/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
