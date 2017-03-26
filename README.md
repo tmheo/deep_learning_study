@@ -196,6 +196,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Squeezing Deep Learning Into Mobile Phones](https://www.slideshare.net/anirudhkoul/squeezing-deep-learning-into-mobile-phones)
   * [Image Segmentation](https://www.slideshare.net/HyungjooCho2/image-segmentation-hjcho)
   * [Understanding deep learning requires rethinking generalization 2017 1/2](https://www.slideshare.net/JungHoonSeo2/understanding-deep-learning-requires-rethinking-generalization-2017-12)
+  * [Understanding deep learning requires rethinking generalization 2017 2/2](https://www.slideshare.net/JungHoonSeo2/understanding-deep-learning-requires-rethinking-generalization-2017-2-22)
   * [Visualizing data using t-SNE](https://www.slideshare.net/ssuser06e0c5/visualizing-data-using-tsne-73621033)
   * [대전AI포럼 - 1회 자료](https://drive.google.com/drive/folders/0B64W-UQ233A5am5RSGhGQjNDT0k)
   * [Scalable Deep Learning Using MXNet](https://www.slideshare.net/AIFrontiers/scalable-deep-learning-using-mxnet)
