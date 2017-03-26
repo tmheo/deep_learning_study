@@ -161,6 +161,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Baidu released PaddlePaddle Jupyter notebook](http://aimedicines.com/2017/03/21/baidu-released-paddlepaddle-jupyter-notebook/)
   * [ratsgo님의 블로그](https://ratsgo.github.io/blog/)
   * [Faster R-CNN](https://curt-park.github.io/2017-03-17/faster-rcnn/)
+  * [TensorFlow RNN Tutorial](https://svds.com/tensorflow-rnn-tutorial/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -326,6 +327,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [K-MOOC Operation Research : Numpy Part #2](https://www.youtube.com/watch?v=Sbywpatl-BA)
 * [Reproducible Data Analysis in Jupyter](http://jakevdp.github.io/blog/2017/03/03/reproducible-data-analysis-in-jupyter/)
 * [Data science with R - 1. 오해](http://blog.airbridge.io/data-science-with-r-1-misperception/)
+* [A visual introduction to probability and statistics](http://students.brown.edu/seeing-theory/index.html)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
