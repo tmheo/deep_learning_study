@@ -162,6 +162,14 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [ratsgo님의 블로그](https://ratsgo.github.io/blog/)
   * [Faster R-CNN](https://curt-park.github.io/2017-03-17/faster-rcnn/)
   * [TensorFlow RNN Tutorial](https://svds.com/tensorflow-rnn-tutorial/)
+  * [Build Your Own Text-to-Speech Applications with Amazon Polly](https://aws.amazon.com/blogs/ai/build-your-own-text-to-speech-applications-with-amazon-polly/)
+  * [Five video classification methods implemented in Keras and TensorFlow](https://hackernoon.com/five-video-classification-methods-implemented-in-keras-and-tensorflow-99cad29cc0b5)
+  * [Build a talking, face-recognizing doorbell for about $100](https://www.oreilly.com/ideas/build-a-talking-face-recognizing-doorbell-for-about-100)
+  * [Deep Learning for Vision Guided Language And Image Generation](http://aliensunmin.github.io/project/accv16tutorial/)
+  * [텐서보드 - TensorBoard 시작하기](http://www.popit.kr/%ED%85%90%EC%84%9C%EB%B3%B4%EB%93%9Ctensorboard-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/)
+  * [Classifying White Blood Cells With Deep Learning](https://blog.athelas.com/classifying-white-blood-cells-with-convolutional-neural-networks-2ca6da239331)
+  * [Diving Into Natural Language Processing](https://dzone.com/articles/natural-language-processing-adit-deshpande-cs-unde)
+  * [Deep Learning with Emojis - not Math](https://tech.instacart.com/deep-learning-with-emojis-not-math-660ba1ad6cdc)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -201,6 +209,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Visualizing data using t-SNE](https://www.slideshare.net/ssuser06e0c5/visualizing-data-using-tsne-73621033)
   * [대전AI포럼 - 1회 자료](https://drive.google.com/drive/folders/0B64W-UQ233A5am5RSGhGQjNDT0k)
   * [Scalable Deep Learning Using MXNet](https://www.slideshare.net/AIFrontiers/scalable-deep-learning-using-mxnet)
+  * [Introduction For seq2seq and RNN](https://www.slideshare.net/HyeminAhn/introduction-for-seq2seqsequence-to-sequence-and-rnn)
+  * [Visual Detection, Recognition and Tracking with Deep Learning](https://www.slideshare.net/yuhuang/visual-detection-recognition-and-tracking-with-deep-learning)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -280,6 +290,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Deep Reinforcement Learning with Neon](https://www.nervanasys.com/deep-reinforcement-learning-with-neon/)
 * [jayyang님의 머신러닝 블로그](https://jay.tech.blog/category/machine-learning/)
 * [Introduction to Q-Learning](https://medium.com/@aneekdas/introduction-to-q-learning-88d1c4f2b49c)
+* [Practical Reinforcement Learning](https://github.com/yandexdataschool/Practical_RL)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -328,6 +339,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Reproducible Data Analysis in Jupyter](http://jakevdp.github.io/blog/2017/03/03/reproducible-data-analysis-in-jupyter/)
 * [Data science with R - 1. 오해](http://blog.airbridge.io/data-science-with-r-1-misperception/)
 * [A visual introduction to probability and statistics](http://students.brown.edu/seeing-theory/index.html)
+* [Analyze one year of radio station songs aired with SQL, Spark, Spotify, and Databricks](https://medium.com/@polomarcus/analyze-one-year-of-radio-station-songs-aired-with-sql-spark-spotify-and-databricks-835fcf73df6)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -345,6 +357,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [DataEngConf SF16 - Recommendations at Instacart](https://www.slideshare.net/g33ktalk/dataengconf-sf16-recommendations-at-instacart)
 * [How do you build a “People who bought this also bought that”-style recommendation engine](https://datasciencemadesimpler.wordpress.com/2015/12/16/understanding-collaborative-filtering-approach-to-recommendations/)
 * [Recommending music on Spotify with deep learning](http://benanne.github.io/2014/08/05/spotify-cnns.html)
+* [Music Recommendation service with the Spotify API, Spark MLlib and Databricks](https://medium.com/@polomarcus/music-recommendation-service-with-the-spotify-api-spark-mllib-and-databricks-7cde9b16d35d)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
