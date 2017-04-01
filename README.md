@@ -170,6 +170,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Classifying White Blood Cells With Deep Learning](https://blog.athelas.com/classifying-white-blood-cells-with-convolutional-neural-networks-2ca6da239331)
   * [Diving Into Natural Language Processing](https://dzone.com/articles/natural-language-processing-adit-deshpande-cs-unde)
   * [Deep Learning with Emojis - not Math](https://tech.instacart.com/deep-learning-with-emojis-not-math-660ba1ad6cdc)
+  * [겐[GANs]이 혁신할 인공지능 번역 기술](https://medium.com/@jskDr/%EA%B2%90-gans-%EC%9D%B4-%EA%BF%88%EA%BE%B8%EB%8A%94-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%B2%88%EC%97%AD-%EB%81%9D%ED%8C%90%EC%99%95-4df872ffa13f)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -211,6 +212,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Scalable Deep Learning Using MXNet](https://www.slideshare.net/AIFrontiers/scalable-deep-learning-using-mxnet)
   * [Introduction For seq2seq and RNN](https://www.slideshare.net/HyeminAhn/introduction-for-seq2seqsequence-to-sequence-and-rnn)
   * [Visual Detection, Recognition and Tracking with Deep Learning](https://www.slideshare.net/yuhuang/visual-detection-recognition-and-tracking-with-deep-learning)
+  * [Distributed Deep Learning At Scale On Apache Spark With BigDL](https://www.slideshare.net/YuliaTell/distributed-deep-learning-at-scale-on-apache-spark-with-bigdl)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
