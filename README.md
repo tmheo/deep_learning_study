@@ -171,6 +171,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Diving Into Natural Language Processing](https://dzone.com/articles/natural-language-processing-adit-deshpande-cs-unde)
   * [Deep Learning with Emojis - not Math](https://tech.instacart.com/deep-learning-with-emojis-not-math-660ba1ad6cdc)
   * [겐[GANs]이 혁신할 인공지능 번역 기술](https://medium.com/@jskDr/%EA%B2%90-gans-%EC%9D%B4-%EA%BF%88%EA%BE%B8%EB%8A%94-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%B2%88%EC%97%AD-%EB%81%9D%ED%8C%90%EC%99%95-4df872ffa13f)
+  * [고려대학교 Deep Learning 세미나]
+    * [DSBA Lab Seminar with cs231n @Stanford](https://github.com/dsba-koreauniv/cs231n)
+    * [DSBA Lab Seminar with cs224d @Stanford](https://github.com/dsba-koreauniv/cs224d)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
