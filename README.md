@@ -10,7 +10,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
     * [딥 러닝을 위한 콘볼루션 계산 가이드](https://tensorflow.blog/a-guide-to-convolution-arithmetic-for-deep-learning/)
   * [Andrew Ng's Coursera Machine Learning](https://www.coursera.org/learn/machine-learning)
   * [Stanford - CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) : [[Korean]](http://aikorea.org/cs231n/)
-  * [Stanford - CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
+  * [Stanford - CS224n: Deep Learning for Natural Language Processing](http://web.stanford.edu/class/cs224n/)
   * [Stanford - Unsupervised Feature Learning and Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
   * [Stanford - Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/)
   * [MIT - 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
@@ -175,6 +175,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
     * [DSBA Lab Seminar with cs231n @Stanford](https://github.com/dsba-koreauniv/cs231n)
     * [DSBA Lab Seminar with cs224d @Stanford](https://github.com/dsba-koreauniv/cs224d)
   * [Awesome-Pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)
+  * [Artificial Intelligence GitBook](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/)
+  * [Deploy Deep Learning Models on Amazon ECS](https://aws.amazon.com/blogs/ai/deploy-deep-learning-models-on-amazon-ecs/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -217,6 +219,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Introduction For seq2seq and RNN](https://www.slideshare.net/HyeminAhn/introduction-for-seq2seqsequence-to-sequence-and-rnn)
   * [Visual Detection, Recognition and Tracking with Deep Learning](https://www.slideshare.net/yuhuang/visual-detection-recognition-and-tracking-with-deep-learning)
   * [Distributed Deep Learning At Scale On Apache Spark With BigDL](https://www.slideshare.net/YuliaTell/distributed-deep-learning-at-scale-on-apache-spark-with-bigdl)
+  * [Attention mechanisms with tensorflow](https://www.slideshare.net/KeonKim/attention-mechanisms-with-tensorflow)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -227,6 +230,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [DeepLearning.TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ/featured)
   * [Deep Learning From A to Z - Raphael Gontijo Lopes](https://www.youtube.com/watch?v=DYlHnxfrrZY)
   * [페이스북, AI대가 '얀 레쿤 교수' 인공지능 강의 공개](http://news.zum.com/articles/34615437)
+  * [Deep Learning with Keras and Python](https://www.youtube.com/watch?v=edIMMTL2jlw&list=PLVBorYCcu-xX3Ppjb_sqBd_Xf6GqagQyl)
+  * [How Deep Neural Networks Work](https://www.youtube.com/watch?v=ILsA4nyG7I0)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -298,6 +303,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [jayyang님의 머신러닝 블로그](https://jay.tech.blog/category/machine-learning/)
 * [Introduction to Q-Learning](https://medium.com/@aneekdas/introduction-to-q-learning-88d1c4f2b49c)
 * [Practical Reinforcement Learning](https://github.com/yandexdataschool/Practical_RL)
+* [A Deep Learning Research Review of Reinforcement Learning](https://dzone.com/articles/reinforcement-learning)
+* [Playing Atari with Deep Reinforcement Learning](https://speakerdeck.com/jacksongl/playing-atari-with-deep-reinforcement-learning)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -324,6 +331,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [머신 러닝 뉴스 주제 분류](http://likejazz.com/post/158649902235/%EB%A8%B8%EC%8B%A0-%EB%9F%AC%EB%8B%9D-%EB%89%B4%EC%8A%A4-%EC%A3%BC%EC%A0%9C-%EB%B6%84%EB%A5%98)
 * [Transfer Learning - Machine Learning's Next Frontier](http://sebastianruder.com/transfer-learning/index.html)
 * [상상개발자님의 Machine Learning 강의](https://www.youtube.com/playlist?list=PLVNY1HnUlO26x597OgAN8TCgGTiE-38D6)
+* [[용어 정리] 입개발자를 위한 Accuracy, Precision, Recall](http://www.popit.kr/%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC-%EC%9E%85%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-accuracy-precision-recall/)
+* [Ultimate Guide to Understand & Implement Natural Language Processing](https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -347,6 +356,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Data science with R - 1. 오해](http://blog.airbridge.io/data-science-with-r-1-misperception/)
 * [A visual introduction to probability and statistics](http://students.brown.edu/seeing-theory/index.html)
 * [Analyze one year of radio station songs aired with SQL, Spark, Spotify, and Databricks](https://medium.com/@polomarcus/analyze-one-year-of-radio-station-songs-aired-with-sql-spark-spotify-and-databricks-835fcf73df6)
+* [데이터 사이언스 스쿨](https://datascienceschool.net/)
+* Linear Algebra & Matrix Calculus
+  * [Math Tutorial I](https://www.slideshare.net/ssuser7e10e4/linear-algrbra)
+  * [Math Tutorial II](https://www.slideshare.net/ssuser7e10e4/matrix-calculus)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
