@@ -45,6 +45,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [딥러닝 솔루션 그룹 Facebook Group](https://www.facebook.com/groups/nvidiakorea.psg/)
   * [AI DEV 인공지능 개발자 모임](http://aidev.co.kr/)
   * [Distill - Machine Learning Research Journal](http://distill.pub/)
+  * [ArxivSanityKr](https://www.facebook.com/ArxivSanityKr/)
 * Article
   * [Andrej Karpathy's Deep Learning Blog](http://karpathy.github.io/)
   * [딥러닝 공부 방법](https://www.facebook.com/dgtgrade/posts/1340177956041067)
@@ -220,6 +221,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Visual Detection, Recognition and Tracking with Deep Learning](https://www.slideshare.net/yuhuang/visual-detection-recognition-and-tracking-with-deep-learning)
   * [Distributed Deep Learning At Scale On Apache Spark With BigDL](https://www.slideshare.net/YuliaTell/distributed-deep-learning-at-scale-on-apache-spark-with-bigdl)
   * [Attention mechanisms with tensorflow](https://www.slideshare.net/KeonKim/attention-mechanisms-with-tensorflow)
+  * [텐서플로우 & 딥러닝 수박 겉핥기](https://drive.google.com/file/d/0B0b1mHG6GmdLS0wzYmJsYjZtV2s/view)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
