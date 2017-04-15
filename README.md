@@ -16,6 +16,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [MIT - 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
   * [MIT - 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
   * [Oxford - Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
+  * [Deep learning courses at UC Berkeley](https://berkeley-deep-learning.github.io/)
   * [Udacity - Deep Learning by Google](https://www.udacity.com/course/deep-learning--ud730)
   * [Python Deep Learning with Keras - Machine Learning Mastery](http://machinelearningmastery.com/category/deep-learning/)
   * [Practical Deep Learning For Coders—18 hours of lessons for free](http://course.fast.ai/)
@@ -28,6 +29,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [TensorFlow Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
   * [TensorFlow Tutorial](https://github.com/sherrym/tf-tutorial/) : [[Video]](https://www.youtube.com/watch?v=Ejec3ID_h0w)
   * [Machine Learning & Deep Learning](https://drive.google.com/drive/folders/0BwwNF6qNzpOLTDBMX0NHcDB6ZzQ?usp=sharing)
+  * [T아카데미 인공지능을 위한 머신러닝 알고리즘 강의](https://tacademy.sktechx.com/live/player/onlineLectureDetail.action?seq=103)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -178,6 +180,14 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Awesome-Pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)
   * [Artificial Intelligence GitBook](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/)
   * [Deploy Deep Learning Models on Amazon ECS](https://aws.amazon.com/blogs/ai/deploy-deep-learning-models-on-amazon-ecs/)
+  * [DeepLAB : [논문반/논문세미나] SEGAN : Speech Enhancement Generative Adversarial Network](http://www.modulabs.co.kr/DeepLAB_library/13073)
+  * [awesome-deep-vision-web-demo](https://github.com/hwalsuklee/awesome-deep-vision-web-demo)
+  * [Introducing tf-seq2seq: An Open Source Sequence-to-Sequence Framework in TensorFlow](https://research.googleblog.com/2017/04/introducing-tf-seq2seq-open-source.html)
+  * [Kaggle DSTL Competition](https://fuzer.github.io/DSTL/)
+  * [14 DESIGN PATTERNS TO IMPROVE YOUR CONVOLUTIONAL NEURAL NETWORKS](http://www.topbots.com/14-design-patterns-improve-convolutional-neural-network-cnn-architecture/)
+  * [카카오 AI 매거진](https://brunch.co.kr/magazine/kakaoaireport)
+  * [MXNet을 활용한 이미지 분류 앱 개발하기](http://www.popit.kr/mxnet%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B6%84%EB%A5%98-%EC%95%B1-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0/)
+  * [Tensorflow Tutorial 2: image classifier using convolutional neural network](http://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -222,6 +232,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Distributed Deep Learning At Scale On Apache Spark With BigDL](https://www.slideshare.net/YuliaTell/distributed-deep-learning-at-scale-on-apache-spark-with-bigdl)
   * [Attention mechanisms with tensorflow](https://www.slideshare.net/KeonKim/attention-mechanisms-with-tensorflow)
   * [텐서플로우 & 딥러닝 수박 겉핥기](https://drive.google.com/file/d/0B0b1mHG6GmdLS0wzYmJsYjZtV2s/view)
+  * [Deep Learing Tutorial](https://drive.google.com/file/d/0B3pJ2Kkk9lUDM1JxejZWV2dDS2s/view)
+  * [SNU TF 스터디 발표 자료](https://drive.google.com/drive/u/0/folders/0B8z5oUpB2DysbFNEOWxfVDh5VW8SU)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -326,7 +338,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 * [How to use pre-trained word vectors from Facebook’s fastText](https://blog.manash.me/how-to-use-pre-trained-word-vectors-from-facebooks-fasttext-a71e6d55f27)
 * [한국어와 NLTK, Gensim의 만남](https://www.lucypark.kr/slides/2015-pyconkr/)
-* [Machine Learning Top 10 Articles for the Past Month](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-eedfaa364e73)
+* [Machine Learning Top 10 Articles for the Past Month - January and February 2017](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-eedfaa364e73)
+* [Machine Learning Top 10 Articles for the Past Month - March, 2017](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-ce771c6a6ba5)
 * [Winning Tips on Machine Learning Competitions by Kazanova, Current Kaggle #3](http://blog.hackerearth.com/winning-tips-machine-learning-competitions-kazanova-current-kaggle-3)
 * [Applying Machine Learning To March Madness](https://adeshpande3.github.io/adeshpande3.github.io/Applying-Machine-Learning-to-March-Madness)
 * [Scikit-Learn Tutorial Series](http://www.datasciencecentral.com/profiles/blogs/scikit-learn-tutorial-series)
@@ -335,6 +348,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [상상개발자님의 Machine Learning 강의](https://www.youtube.com/playlist?list=PLVNY1HnUlO26x597OgAN8TCgGTiE-38D6)
 * [[용어 정리] 입개발자를 위한 Accuracy, Precision, Recall](http://www.popit.kr/%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC-%EC%9E%85%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-accuracy-precision-recall/)
 * [Ultimate Guide to Understand & Implement Natural Language Processing](https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/)
+* [[용어 정리] 입 개발자를 위한 TF-IDF](http://www.popit.kr/%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC-%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tf-idf/)
+* [PRML[Pattern Recognition & Machien Learning, Bishop] 을 정리한 문서](http://norman3.github.io/prml/)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
