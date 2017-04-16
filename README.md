@@ -239,6 +239,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [텐서플로우 & 딥러닝 수박 겉핥기](https://drive.google.com/file/d/0B0b1mHG6GmdLS0wzYmJsYjZtV2s/view)
   * [Deep Learing Tutorial](https://drive.google.com/file/d/0B3pJ2Kkk9lUDM1JxejZWV2dDS2s/view)
   * [SNU TF 스터디 발표 자료](https://drive.google.com/drive/u/0/folders/0B8z5oUpB2DysbFNEOWxfVDh5VW8SU)
+  * [Practical Neural Machine Translation](https://drive.google.com/file/d/0BylkCI7GBxcBUUI2bE16RURVUXc/view)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
