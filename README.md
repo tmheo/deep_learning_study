@@ -188,6 +188,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [카카오 AI 매거진](https://brunch.co.kr/magazine/kakaoaireport)
   * [MXNet을 활용한 이미지 분류 앱 개발하기](http://www.popit.kr/mxnet%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B6%84%EB%A5%98-%EC%95%B1-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0/)
   * [Tensorflow Tutorial 2: image classifier using convolutional neural network](http://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/)
+  * [Rohan & Lenny #3: Recurrent Neural Networks & LSTMs](https://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-10300100899b)
+  * [Awesome-korean-nlp](https://insikk.github.io/awesome-korean-nlp/)
+  * [Deep learning for satellite imagery via image segmentation](https://deepsense.io/deep-learning-for-satellite-imagery-via-image-segmentation/)
+  * [지능형 한국어 형태소 분석기 - Korean Intelligent Word Identifier](https://github.com/bab2min/Kiwi)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
