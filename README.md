@@ -192,6 +192,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Awesome-korean-nlp](https://insikk.github.io/awesome-korean-nlp/)
   * [Deep learning for satellite imagery via image segmentation](https://deepsense.io/deep-learning-for-satellite-imagery-via-image-segmentation/)
   * [지능형 한국어 형태소 분석기 - Korean Intelligent Word Identifier](https://github.com/bab2min/Kiwi)
+  * [Transfer Learning using Keras](https://medium.com/@14prakash/transfer-learning-using-keras-d804b2e04ef8)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
