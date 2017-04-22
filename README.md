@@ -193,6 +193,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deep learning for satellite imagery via image segmentation](https://deepsense.io/deep-learning-for-satellite-imagery-via-image-segmentation/)
   * [지능형 한국어 형태소 분석기 - Korean Intelligent Word Identifier](https://github.com/bab2min/Kiwi)
   * [Transfer Learning using Keras](https://medium.com/@14prakash/transfer-learning-using-keras-d804b2e04ef8)
+  * [Agustinus Kristiadi's Blog [GAN]](http://wiseodd.github.io/techblog/)
+  * [Everything about Self Driving Cars Explained for Non-Engineers](https://medium.com/swlh/everything-about-self-driving-cars-explained-for-non-engineers-f73997dcb60c)
+  * [Kaggle Data Science Bown 2017 참가기[지능정보기술연구원]](http://airi.kr/research-division/notice/?uid=8&mod=document&pageid=1)
+  * [The GAN Zoo](https://deephunt.in/the-gan-zoo-79597dc8c347)
+  * [Introduction to Deep Neural Networks with Keras and Tensorflow](https://github.com/leriomaggio/deep-learning-keras-tensorflow)
+  * [THE NEURAL NETWORK ZOO](http://www.asimovinstitute.org/neural-network-zoo/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -282,6 +288,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
+  * [Caff2 - Facebook](https://caffe2.ai/)
   * [PyTorch - Facebook](http://pytorch.org/)
   * [MXNet - AWS](http://mxnet.io/)
   * [CNTK - Microsoft](https://www.microsoft.com/en-us/research/product/cognitive-toolkit/)
@@ -325,6 +332,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Practical Reinforcement Learning](https://github.com/yandexdataschool/Practical_RL)
 * [A Deep Learning Research Review of Reinforcement Learning](https://dzone.com/articles/reinforcement-learning)
 * [Playing Atari with Deep Reinforcement Learning](https://speakerdeck.com/jacksongl/playing-atari-with-deep-reinforcement-learning)
+* [Minimal and Clean Reinforcement Learning Examples](https://github.com/rlcode/reinforcement-learning)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -356,6 +364,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Ultimate Guide to Understand & Implement Natural Language Processing](https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/)
 * [[용어 정리] 입 개발자를 위한 TF-IDF](http://www.popit.kr/%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC-%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tf-idf/)
 * [PRML[Pattern Recognition & Machien Learning, Bishop] 을 정리한 문서](http://norman3.github.io/prml/)
+* [머신러닝 기반 주차 문제 예측 시스템 개발기 by Google](http://www.sphinfo.com/ml-parking/)
+* [Machine learning methods - infographic](http://usblogs.pwc.com/emerging-technology/machine-learning-methods-infographic/)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
