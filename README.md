@@ -386,7 +386,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [K-MOOC Operation Research : Numpy Part #1](https://www.youtube.com/watch?v=Fm1sWcdL_ak)
 * [K-MOOC Operation Research : Numpy Part #2](https://www.youtube.com/watch?v=Sbywpatl-BA)
 * [Reproducible Data Analysis in Jupyter](http://jakevdp.github.io/blog/2017/03/03/reproducible-data-analysis-in-jupyter/)
-* [Data science with R - 1. 오해](http://blog.airbridge.io/data-science-with-r-1-misperception/)
+* [에어브릿지 블로그 - Data science](http://blog.airbridge.io/tag/data-science/)
 * [A visual introduction to probability and statistics](http://students.brown.edu/seeing-theory/index.html)
 * [Analyze one year of radio station songs aired with SQL, Spark, Spotify, and Databricks](https://medium.com/@polomarcus/analyze-one-year-of-radio-station-songs-aired-with-sql-spark-spotify-and-databricks-835fcf73df6)
 * [데이터 사이언스 스쿨](https://datascienceschool.net/)
