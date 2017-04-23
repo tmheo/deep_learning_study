@@ -198,6 +198,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [The GAN Zoo](https://deephunt.in/the-gan-zoo-79597dc8c347)
   * [Introduction to Deep Neural Networks with Keras and Tensorflow](https://github.com/leriomaggio/deep-learning-keras-tensorflow)
   * [THE NEURAL NETWORK ZOO](http://www.asimovinstitute.org/neural-network-zoo/)
+  * [Classification datasets results](http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
