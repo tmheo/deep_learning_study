@@ -199,6 +199,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Introduction to Deep Neural Networks with Keras and Tensorflow](https://github.com/leriomaggio/deep-learning-keras-tensorflow)
   * [THE NEURAL NETWORK ZOO](http://www.asimovinstitute.org/neural-network-zoo/)
   * [Classification datasets results](http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html)
+  * [Deeplunch팀의 Kaggle Data Science Bowl 도전기[1] - 케글 도전 팁](http://esuerid.blogspot.kr/2017/04/deeplunch-kaggle-data-science-bowl-1.html)
+  * [A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)
+  * [Running BigDL, Deep Learning for Apache Spark, on AWS](https://aws.amazon.com/blogs/ai/running-bigdl-deep-learning-for-apache-spark-on-aws/)
+  * [ImageNet: VGGNet, ResNet, Inception, and Xception with Keras](http://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -246,6 +250,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deep Learing Tutorial](https://drive.google.com/file/d/0B3pJ2Kkk9lUDM1JxejZWV2dDS2s/view)
   * [SNU TF 스터디 발표 자료](https://drive.google.com/drive/u/0/folders/0B8z5oUpB2DysbFNEOWxfVDh5VW8SU)
   * [Practical Neural Machine Translation](https://drive.google.com/file/d/0BylkCI7GBxcBUUI2bE16RURVUXc/view)
+  * [[NDC2017] 딥러닝으로 게임 콘텐츠 제작하기 - VAE를 이용한 콘텐츠 생성 기법 연구 사례](https://www.slideshare.net/HwanheeKim2/ndc2017-vae-75419284)
+  * [NDC 2017 키노트: 이은석 - 다가오는 4차 산업혁명 시대의 게임개발](https://www.slideshare.net/paparanga/ndc-2017-4)
+  * [Recent Progress on Object Detection](https://www.slideshare.net/JihongKang/recent-progress-on-object-detection20170331)
+  * [TensorFlow@HKUST](https://drive.google.com/drive/u/0/folders/0B41Zbb4c8HVyY1F5Ml94Z2hodkE)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -258,6 +266,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [페이스북, AI대가 '얀 레쿤 교수' 인공지능 강의 공개](http://news.zum.com/articles/34615437)
   * [Deep Learning with Keras and Python](https://www.youtube.com/watch?v=edIMMTL2jlw&list=PLVBorYCcu-xX3Ppjb_sqBd_Xf6GqagQyl)
   * [How Deep Neural Networks Work](https://www.youtube.com/watch?v=ILsA4nyG7I0)
+  * [TensorFlow Tutorial](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -285,6 +294,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [DiscoGAN in Tensorflow](https://github.com/GunhoChoi/DiscoGAN_TF)
   * [Variational Auto-Encoder for MNIST](https://github.com/hwalsuklee/tensorflow-mnist-VAE)
   * [Kind PyTorch Tutorial for beginners](https://github.com/GunhoChoi/Kind_PyTorch_Tutorial)
+  * [Distributed Deep Learning on AWS Using MXNet and TensorFlow](https://github.com/awslabs/deeplearning-cfn)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -393,6 +403,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * Linear Algebra & Matrix Calculus
   * [Math Tutorial I](https://www.slideshare.net/ssuser7e10e4/linear-algrbra)
   * [Math Tutorial II](https://www.slideshare.net/ssuser7e10e4/matrix-calculus)
+* [Apache Spark - NewCircle Training](https://www.youtube.com/playlist?list=PLndbWGuLoHeawhQPE1joLVvmHb2BNQPwb)
+* [Apache Spark for Data Science](https://www.youtube.com/playlist?list=PL0B_bv6Hd87dTd5890-nPKwl2JoqCATAf)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -412,6 +424,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [How do you build a “People who bought this also bought that”-style recommendation engine](https://datasciencemadesimpler.wordpress.com/2015/12/16/understanding-collaborative-filtering-approach-to-recommendations/)
 * [Recommending music on Spotify with deep learning](http://benanne.github.io/2014/08/05/spotify-cnns.html)
 * [Music Recommendation service with the Spotify API, Spark MLlib and Databricks](https://medium.com/@polomarcus/music-recommendation-service-with-the-spotify-api-spark-mllib-and-databricks-7cde9b16d35d)
+* [Deep Learning Meets Recommendation Systems](http://blog.nycdatascience.com/student-works/deep-learning-meets-recommendation-systems/)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
