@@ -260,6 +260,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Recent Progress on Object Detection](https://www.slideshare.net/JihongKang/recent-progress-on-object-detection20170331)
   * [TensorFlow@HKUST](https://drive.google.com/drive/u/0/folders/0B41Zbb4c8HVyY1F5Ml94Z2hodkE)
   * [Wasserstein GAN 수학 이해하기 I](https://www.slideshare.net/ssuser7e10e4/wasserstein-gan-i)
+  * [Deep Generative Models](https://www.slideshare.net/HyungjooCho2/deep-generative-modelpdf)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
