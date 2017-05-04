@@ -203,6 +203,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)
   * [Running BigDL, Deep Learning for Apache Spark, on AWS](https://aws.amazon.com/blogs/ai/running-bigdl-deep-learning-for-apache-spark-on-aws/)
   * [ImageNet: VGGNet, ResNet, Inception, and Xception with Keras](http://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/)
+  * [TensorFlow: A proposal of good practices for files, folders and models architecture](https://blog.metaflow.fr/tensorflow-a-proposal-of-good-practices-for-files-folders-and-models-architecture-f23171501ae3)
+  * [The Modern History of Object Recognition — Infographic](https://medium.com/@nikasa1889/the-modern-history-of-object-recognition-infographic-aea18517c318)
+  * [Learning Deep Learning with Keras](http://p.migdal.pl/2017/04/30/teaching-deep-learning.html)
+  * [Deep Learning: Language identification using Keras & TensorFlow](http://machinelearningexp.com/deep-learning-language-identification-using-keras-tensorflow/)
+  * [Deep Learning Papers by task](https://github.com/sbrugman/deep-learning-papers)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -254,6 +259,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [NDC 2017 키노트: 이은석 - 다가오는 4차 산업혁명 시대의 게임개발](https://www.slideshare.net/paparanga/ndc-2017-4)
   * [Recent Progress on Object Detection](https://www.slideshare.net/JihongKang/recent-progress-on-object-detection20170331)
   * [TensorFlow@HKUST](https://drive.google.com/drive/u/0/folders/0B41Zbb4c8HVyY1F5Ml94Z2hodkE)
+  * [Wasserstein GAN 수학 이해하기 I](https://www.slideshare.net/ssuser7e10e4/wasserstein-gan-i)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
