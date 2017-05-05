@@ -208,6 +208,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Learning Deep Learning with Keras](http://p.migdal.pl/2017/04/30/teaching-deep-learning.html)
   * [Deep Learning: Language identification using Keras & TensorFlow](http://machinelearningexp.com/deep-learning-language-identification-using-keras-tensorflow/)
   * [Deep Learning Papers by task](https://github.com/sbrugman/deep-learning-papers)
+  * [Deep Learning Tutorials for 10 Weeks](https://github.com/sjchoi86/dl_tutorials_10weeks)
+  * [Keras Tutorial: Deep Learning in Python](https://www.datacamp.com/community/tutorials/deep-learning-python)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -261,6 +263,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [TensorFlow@HKUST](https://drive.google.com/drive/u/0/folders/0B41Zbb4c8HVyY1F5Ml94Z2hodkE)
   * [Wasserstein GAN 수학 이해하기 I](https://www.slideshare.net/ssuser7e10e4/wasserstein-gan-i)
   * [Deep Generative Models](https://www.slideshare.net/HyungjooCho2/deep-generative-modelpdf)
+  * [Deep learning with Keras](https://www.slideshare.net/QuantUniversity/deep-learning-with-keras)
+  * [Sentiment analysis on Twitter using word2vec and keras](http://ahmedbesbes.com/sentiment-analysis-on-twitter-using-word2vec-and-keras.html)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -318,6 +322,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Kur](https://kur.deepgram.com/)
   * [OpenNMT - An open-source neural machine translation system](http://opennmt.net/)
   * [tf-seq2seq](https://google.github.io/seq2seq/)
+  * [ParlAI - A framework for training and evaluating AI models on a variety of openly available dialog datasets](https://github.com/facebookresearch/ParlAI)
 * Dataset
   * [Fueling the Gold Rush: The Greatest Public Datasets for AI](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2)
   * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
