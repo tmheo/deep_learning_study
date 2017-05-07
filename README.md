@@ -212,6 +212,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deep Learning Tutorials for 10 Weeks](https://github.com/sjchoi86/dl_tutorials_10weeks)
   * [Keras Tutorial: Deep Learning in Python](https://www.datacamp.com/community/tutorials/deep-learning-python)
   * [2nd place solution for the 2017 national datascience bowl](http://juliandewit.github.io/kaggle-ndsb2017/)
+  * [Deep learning for complete beginners: convolutional neural networks with keras](https://cambridgespark.com/content/tutorials/convolutional-neural-networks-with-keras/index.html)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
