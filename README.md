@@ -17,6 +17,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [MIT - 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
   * [Oxford - Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
   * [Deep learning courses at UC Berkeley](https://berkeley-deep-learning.github.io/)
+  * [T81-558:Applications of Deep Neural Networks](https://sites.wustl.edu/jeffheaton/t81-558/)
   * [Udacity - Deep Learning by Google](https://www.udacity.com/course/deep-learning--ud730)
   * [Python Deep Learning with Keras - Machine Learning Mastery](http://machinelearningmastery.com/category/deep-learning/)
   * [Practical Deep Learning For Coders—18 hours of lessons for free](http://course.fast.ai/)
