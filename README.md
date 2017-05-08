@@ -213,6 +213,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Keras Tutorial: Deep Learning in Python](https://www.datacamp.com/community/tutorials/deep-learning-python)
   * [2nd place solution for the 2017 national datascience bowl](http://juliandewit.github.io/kaggle-ndsb2017/)
   * [Deep learning for complete beginners: convolutional neural networks with keras](https://cambridgespark.com/content/tutorials/convolutional-neural-networks-with-keras/index.html)
+  * [Deep Learning으로 학습된 Object Detection Model 에 대해 정리한 Archive](https://github.com/ildoonet/deep-object-detection-models)
+  * [Face recognition with Keras and OpenCV](https://aboveintelligent.com/face-recognition-with-keras-and-opencv-2baf2a83b799)
+  * [Image segmentation with Neural Net](https://aboveintelligent.com/image-segmentation-with-neural-net-d5094d571b1e)
+  * [GANs - Generative Adversarial Networks](http://nbviewer.jupyter.org/github/metamath1/ml-simple-works/blob/master/GAN/GANs.ipynb)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -281,6 +285,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deep Learning with Keras and Python](https://www.youtube.com/watch?v=edIMMTL2jlw&list=PLVBorYCcu-xX3Ppjb_sqBd_Xf6GqagQyl)
   * [How Deep Neural Networks Work](https://www.youtube.com/watch?v=ILsA4nyG7I0)
   * [TensorFlow Tutorial](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ)
+  * [Deep Learning with Python](https://www.youtube.com/playlist?list=PLIG2x2RJ_4LSRIZiVAHH4qWQSLLfrYLnh)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
