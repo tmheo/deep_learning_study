@@ -272,6 +272,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deep Generative Models](https://www.slideshare.net/HyungjooCho2/deep-generative-modelpdf)
   * [Deep learning with Keras](https://www.slideshare.net/QuantUniversity/deep-learning-with-keras)
   * [Sentiment analysis on Twitter using word2vec and keras](http://ahmedbesbes.com/sentiment-analysis-on-twitter-using-word2vec-and-keras.html)
+  * [[한국어] Safe Multi-Agent Reinforcement Learning for Autonomous Driving](https://www.slideshare.net/KihoSuh/safe-multiagent-reinforcement-learning-for-autonomouse-driving)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
