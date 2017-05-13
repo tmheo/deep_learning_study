@@ -217,6 +217,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Face recognition with Keras and OpenCV](https://aboveintelligent.com/face-recognition-with-keras-and-opencv-2baf2a83b799)
   * [Image segmentation with Neural Net](https://aboveintelligent.com/image-segmentation-with-neural-net-d5094d571b1e)
   * [GANs - Generative Adversarial Networks](http://nbviewer.jupyter.org/github/metamath1/ml-simple-works/blob/master/GAN/GANs.ipynb)
+  * [Neural networks for algorithmic trading 1.2 — Correct time series forecasting + backtesting](https://medium.com/@alexrachnog/neural-networks-for-algorithmic-trading-1-2-correct-time-series-forecasting-backtesting-9776bfd9e589)
+  * [22 must watch talks on Python for Deep Learning, Machine Learning & Data Science - from PyData 2017, Amsterdam](https://www.analyticsvidhya.com/blog/2017/05/pydata-amsterdam-2017-machine-learning-deep-learning-data-science/)
+  * [라즈베리파이기반 TensorFlow 사물인식 로봇](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/README_Korean.md)
+  * [라즈베리파이기반 YOLO 사물인식 로봇](https://github.com/leehaesung/YOLO-Powered_Robot_Vision/blob/master/README_Korean.md)
+  * [Deep Learning #3: More on CNNs & Handling Overfitting](https://medium.com/towards-data-science/deep-learning-3-more-on-cnns-handling-overfitting-2bd5d99abe5d)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -273,6 +278,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deep learning with Keras](https://www.slideshare.net/QuantUniversity/deep-learning-with-keras)
   * [Sentiment analysis on Twitter using word2vec and keras](http://ahmedbesbes.com/sentiment-analysis-on-twitter-using-word2vec-and-keras.html)
   * [[한국어] Safe Multi-Agent Reinforcement Learning for Autonomous Driving](https://www.slideshare.net/KihoSuh/safe-multiagent-reinforcement-learning-for-autonomouse-driving)
+  * [딥러닝 프레임워크 비교](https://www.slideshare.net/JunyiSong1/ss-75552936)
+  * [자바로 Mnist 구현하고_스프링웹서버붙이기](https://www.slideshare.net/meadunhansa/mnist)
+  * [Generative adversarial networks](https://www.slideshare.net/YunjeyChoi/generative-adversarial-networks-75916964)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
