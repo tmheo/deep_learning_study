@@ -222,6 +222,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [라즈베리파이기반 TensorFlow 사물인식 로봇](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/README_Korean.md)
   * [라즈베리파이기반 YOLO 사물인식 로봇](https://github.com/leehaesung/YOLO-Powered_Robot_Vision/blob/master/README_Korean.md)
   * [Deep Learning #3: More on CNNs & Handling Overfitting](https://medium.com/towards-data-science/deep-learning-3-more-on-cnns-handling-overfitting-2bd5d99abe5d)
+  * [pyTorch Tutorials](https://github.com/MorvanZhou/PyTorch-Tutorial)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -323,6 +324,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Variational Auto-Encoder for MNIST](https://github.com/hwalsuklee/tensorflow-mnist-VAE)
   * [Kind PyTorch Tutorial for beginners](https://github.com/GunhoChoi/Kind_PyTorch_Tutorial)
   * [Distributed Deep Learning on AWS Using MXNet and TensorFlow](https://github.com/awslabs/deeplearning-cfn)
+  * [Keras-GAN-Animeface-Character](https://github.com/forcecore/Keras-GAN-Animeface-Character)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
