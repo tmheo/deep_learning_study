@@ -223,6 +223,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [라즈베리파이기반 YOLO 사물인식 로봇](https://github.com/leehaesung/YOLO-Powered_Robot_Vision/blob/master/README_Korean.md)
   * [Deep Learning #3: More on CNNs & Handling Overfitting](https://medium.com/towards-data-science/deep-learning-3-more-on-cnns-handling-overfitting-2bd5d99abe5d)
   * [pyTorch Tutorials](https://github.com/MorvanZhou/PyTorch-Tutorial)
+  * [fast.ai: How I built a deep learning application to detect invasive species in just 1 day and for $12.60](https://medium.com/the-business-of-ai/fast-ai-how-i-built-a-deep-learning-application-to-detect-invasive-species-in-just-1-day-and-for-38e0ced809e9)
+  * [Picasso: A free open-source visualizer for Convolutional Neural Networks](https://medium.com/merantix/picasso-a-free-open-source-visualizer-for-cnns-d8ed3a35cfc5)
+  * [Using Machine Learning to Explore Neural Network Architecture](https://research.googleblog.com/2017/05/using-machine-learning-to-explore.html)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -282,6 +285,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [딥러닝 프레임워크 비교](https://www.slideshare.net/JunyiSong1/ss-75552936)
   * [자바로 Mnist 구현하고_스프링웹서버붙이기](https://www.slideshare.net/meadunhansa/mnist)
   * [Generative adversarial networks](https://www.slideshare.net/YunjeyChoi/generative-adversarial-networks-75916964)
+  * [Variants of GANs](https://www.slideshare.net/thinkingfactory/variants-of-gans-jaejun-yoo)
+  * [머신러닝으로 얼굴 인식 모델 개발 삽질기](https://www.slideshare.net/Byungwook/ss-76098082)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -325,6 +330,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Kind PyTorch Tutorial for beginners](https://github.com/GunhoChoi/Kind_PyTorch_Tutorial)
   * [Distributed Deep Learning on AWS Using MXNet and TensorFlow](https://github.com/awslabs/deeplearning-cfn)
   * [Keras-GAN-Animeface-Character](https://github.com/forcecore/Keras-GAN-Animeface-Character)
+  * [Object Recognition using TensorFlow and Java](https://github.com/emara-geek/object-recognition-tensorflow)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
