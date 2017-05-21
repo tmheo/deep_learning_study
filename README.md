@@ -473,3 +473,4 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * AWS - Building Better Bots
   * [Part 1](https://aws.amazon.com/blogs/ai/building-better-bots/)
   * [Part 2](https://aws.amazon.com/blogs/ai/building-better-bots-part-2/)
+* [Integrate Your Amazon Lex Bot with Any Messaging Service](https://aws.amazon.com/blogs/ai/integrate-your-amazon-lex-bot-with-any-messaging-service/)
