@@ -331,6 +331,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Distributed Deep Learning on AWS Using MXNet and TensorFlow](https://github.com/awslabs/deeplearning-cfn)
   * [Keras-GAN-Animeface-Character](https://github.com/forcecore/Keras-GAN-Animeface-Character)
   * [Object Recognition using TensorFlow and Java](https://github.com/emara-geek/object-recognition-tensorflow)
+  * [Real-time face detection and emotion/gender classification using fer2013/imdb datasets with a keras CNN model and openCV](https://github.com/oarriaga/face_classification)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
