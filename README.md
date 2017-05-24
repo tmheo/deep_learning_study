@@ -333,6 +333,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Keras-GAN-Animeface-Character](https://github.com/forcecore/Keras-GAN-Animeface-Character)
   * [Object Recognition using TensorFlow and Java](https://github.com/emara-geek/object-recognition-tensorflow)
   * [Real-time face detection and emotion/gender classification using fer2013/imdb datasets with a keras CNN model and openCV](https://github.com/oarriaga/face_classification)
+  * [Keras based Neural Style Transfer](https://github.com/giuseppebonaccorso/Neural_Artistic_Style_Transfer)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -444,6 +445,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Math Tutorial II](https://www.slideshare.net/ssuser7e10e4/matrix-calculus)
 * [Apache Spark - NewCircle Training](https://www.youtube.com/playlist?list=PLndbWGuLoHeawhQPE1joLVvmHb2BNQPwb)
 * [Apache Spark for Data Science](https://www.youtube.com/playlist?list=PL0B_bv6Hd87dTd5890-nPKwl2JoqCATAf)
+* [Effectively Using Matplotlib](http://pbpython.com/effective-matplotlib.html)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
