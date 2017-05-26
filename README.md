@@ -227,6 +227,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Picasso: A free open-source visualizer for Convolutional Neural Networks](https://medium.com/merantix/picasso-a-free-open-source-visualizer-for-cnns-d8ed3a35cfc5)
   * [Using Machine Learning to Explore Neural Network Architecture](https://research.googleblog.com/2017/05/using-machine-learning-to-explore.html)
   * [Convolutional Methods for Text](https://medium.com/@TalPerry/convolutional-methods-for-text-d5260fd5675f)
+  * [Applying deep learning to real-world problems](https://medium.com/merantix/applying-deep-learning-to-real-world-problems-ba2d86ac5837)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
