@@ -228,6 +228,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Using Machine Learning to Explore Neural Network Architecture](https://research.googleblog.com/2017/05/using-machine-learning-to-explore.html)
   * [Convolutional Methods for Text](https://medium.com/@TalPerry/convolutional-methods-for-text-d5260fd5675f)
   * [Applying deep learning to real-world problems](https://medium.com/merantix/applying-deep-learning-to-real-world-problems-ba2d86ac5837)
+  * [Using TensorFlow to build image-to-text application](https://weiminwang.blog/2017/03/20/using-tensorflow-to-build-image-to-text-deep-learning-application/)
+  * [Your tl;dr by an ai: a deep reinforced model for abstractive summarization](https://metamind.io/research/your-tldr-by-an-ai-a-deep-reinforced-model-for-abstractive-summarization)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
