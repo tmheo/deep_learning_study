@@ -230,6 +230,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Applying deep learning to real-world problems](https://medium.com/merantix/applying-deep-learning-to-real-world-problems-ba2d86ac5837)
   * [Using TensorFlow to build image-to-text application](https://weiminwang.blog/2017/03/20/using-tensorflow-to-build-image-to-text-deep-learning-application/)
   * [Your tl;dr by an ai: a deep reinforced model for abstractive summarization](https://metamind.io/research/your-tldr-by-an-ai-a-deep-reinforced-model-for-abstractive-summarization)
+  * [Practical UseCases of Deep Learning Techniques… Part II](http://www.cognitivetoday.com/2017/02/practical-deeplearning-usecases.html)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
