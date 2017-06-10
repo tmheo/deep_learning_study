@@ -231,6 +231,21 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Using TensorFlow to build image-to-text application](https://weiminwang.blog/2017/03/20/using-tensorflow-to-build-image-to-text-deep-learning-application/)
   * [Your tl;dr by an ai: a deep reinforced model for abstractive summarization](https://metamind.io/research/your-tldr-by-an-ai-a-deep-reinforced-model-for-abstractive-summarization)
   * [Practical UseCases of Deep Learning Techniques… Part II](http://www.cognitivetoday.com/2017/02/practical-deeplearning-usecases.html)
+  * [Caption this, with TensorFlow](https://www.oreilly.com/learning/caption-this-with-tensorflow)
+  * [Image Segmentation using deconvolution layer in Tensorflow](http://cv-tricks.com/image-segmentation/transpose-convolution-in-tensorflow/)
+  * [Exploring LSTMs](http://blog.echen.me/2017/05/30/exploring-lstms/)
+  * [[YOLO DARKNET] 구성 및 설치, 사용방법](http://www.popit.kr/yolo-darknet-%EA%B5%AC%EC%84%B1-%EB%B0%8F-%EC%84%A4%EC%B9%98-%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95/)
+  * [You can probably use deep learning even if your data isn't that big](http://beamandrew.github.io/deeplearning/2017/06/04/deep_learning_works.html)
+  * TensorFlow for Hackers
+    * [TensorFlow Basics — TensorFlow for Hackers Part I](https://medium.com/@curiousily/tensorflow-for-hackers-part-i-basics-2c46bc99c930)
+    * [Building a Simple Neural Network — TensorFlow for Hackers Part II](https://medium.com/@curiousily/tensorflow-for-hackers-part-ii-building-simple-neural-network-2d6779d2f91b)
+    * [Building a Cat Detector using Convolutional Neural Networks — TensorFlow for Hackers Part III](https://medium.com/@curiousily/tensorflow-for-hackers-part-iii-convolutional-neural-networks-c077618e590b)
+    * [Neural Network from Scratch — TensorFlow for Hackers Part IV](https://medium.com/@curiousily/tensorflow-for-hackers-part-iv-neural-network-from-scratch-1a4f504dfa8)
+    * [Making a Predictive Keyboard using Recurrent Neural Networks — TensorFlow for Hackers Part V](https://medium.com/@curiousily/making-a-predictive-keyboard-using-recurrent-neural-networks-tensorflow-for-hackers-part-v-3f238d824218)
+    * [Human Activity Recognition using LSTMs on Android — TensorFlow for Hackers Part VI](https://medium.com/@curiousily/human-activity-recognition-using-lstms-on-android-tensorflow-for-hackers-part-vi-492da5adef64)
+  * [Visualizing TensorFlow Graphs in Jupyter Notebooks](https://blog.jakuba.net/2017/05/30/tensorflow-visualization.html)
+  * [Safe Crime Prediction](https://iamtrask.github.io/2017/06/05/homomorphic-surveillance/)
+  * [A neural approach to relational reasoning](https://deepmind.com/blog/neural-approach-relational-reasoning/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -292,6 +307,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Generative adversarial networks](https://www.slideshare.net/YunjeyChoi/generative-adversarial-networks-75916964)
   * [Variants of GANs](https://www.slideshare.net/thinkingfactory/variants-of-gans-jaejun-yoo)
   * [머신러닝으로 얼굴 인식 모델 개발 삽질기](https://www.slideshare.net/Byungwook/ss-76098082)
+  * [Deep Learning을 위한 AWS 기반 인공 지능](https://www.slideshare.net/awskorea/amazon-ai-deep-learning-on-aws)
+  * [알기쉬운 Variational AutoEncoder](https://www.slideshare.net/ssuser06e0c5/variational-autoencoder-76552518)
+  * [Sequence learning and modern RNNs](https://www.slideshare.net/grigorysapunov/sequence-learning-and-modern-rnns)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -306,6 +324,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [How Deep Neural Networks Work](https://www.youtube.com/watch?v=ILsA4nyG7I0)
   * [TensorFlow Tutorial](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ)
   * [Deep Learning with Python](https://www.youtube.com/playlist?list=PLIG2x2RJ_4LSRIZiVAHH4qWQSLLfrYLnh)
+  * [How to Deploy Keras Models to Production](https://www.youtube.com/watch?v=f6Bf3gl4hWY&t=2s)
+  * [Intro to Deep Learning - Udacity Nanodegree](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -355,6 +375,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [OpenNMT - An open-source neural machine translation system](http://opennmt.net/)
   * [tf-seq2seq](https://google.github.io/seq2seq/)
   * [ParlAI - A framework for training and evaluating AI models on a variety of openly available dialog datasets](https://github.com/facebookresearch/ParlAI)
+  * [NeuroNER - A Named-Entity Recognition Program based on Neural Networks and Easy to Use](http://neuroner.com/)
+  * [spaCy - Industrial-Strength Natural Language Processing](https://spacy.io/)
 * Dataset
   * [Fueling the Gold Rush: The Greatest Public Datasets for AI](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2)
   * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
@@ -408,6 +430,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [한국어와 NLTK, Gensim의 만남](https://www.lucypark.kr/slides/2015-pyconkr/)
 * [Machine Learning Top 10 Articles for the Past Month - January and February 2017](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-eedfaa364e73)
 * [Machine Learning Top 10 Articles for the Past Month - March, 2017](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-ce771c6a6ba5)
+* [Machine Learning Top 10 Articles for the Past Month - May, 2017](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-may-2017-f66b865b3e99)
 * [Winning Tips on Machine Learning Competitions by Kazanova, Current Kaggle #3](http://blog.hackerearth.com/winning-tips-machine-learning-competitions-kazanova-current-kaggle-3)
 * [Applying Machine Learning To March Madness](https://adeshpande3.github.io/adeshpande3.github.io/Applying-Machine-Learning-to-March-Madness)
 * [Scikit-Learn Tutorial Series](http://www.datasciencecentral.com/profiles/blogs/scikit-learn-tutorial-series)
@@ -420,6 +443,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [PRML[Pattern Recognition & Machien Learning, Bishop] 을 정리한 문서](http://norman3.github.io/prml/)
 * [머신러닝 기반 주차 문제 예측 시스템 개발기 by Google](http://www.sphinfo.com/ml-parking/)
 * [Machine learning methods - infographic](http://usblogs.pwc.com/emerging-technology/machine-learning-methods-infographic/)
+* [Modern Machine Learning Algorithms: Strengths and Weaknesses](https://elitedatascience.com/machine-learning-algorithms)
+* [Dimensionality Reduction Algorithms: Strengths and Weaknesses](https://elitedatascience.com/dimensionality-reduction-algorithms)
+* [머신러닝 모델링 알고리즘](https://brunch.co.kr/@kmbmjn95/18)
+* [A Collection of Jupyter Notebooks for Machine Learning](https://github.com/likejazz/jupyter-notebooks)
+* [Tuning Your DBMS Automatically with Machine Learning](https://aws.amazon.com/blogs/ai/tuning-your-dbms-automatically-with-machine-learning/)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -470,6 +498,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Recommending music on Spotify with deep learning](http://benanne.github.io/2014/08/05/spotify-cnns.html)
 * [Music Recommendation service with the Spotify API, Spark MLlib and Databricks](https://medium.com/@polomarcus/music-recommendation-service-with-the-spotify-api-spark-mllib-and-databricks-7cde9b16d35d)
 * [Deep Learning Meets Recommendation Systems](http://blog.nycdatascience.com/student-works/deep-learning-meets-recommendation-systems/)
+* [Recommender systems with TensorFlow](https://theintelligenceofinformation.wordpress.com/2017/05/31/recommender-systems-with-tensorflow/)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
