@@ -197,7 +197,6 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Everything about Self Driving Cars Explained for Non-Engineers](https://medium.com/swlh/everything-about-self-driving-cars-explained-for-non-engineers-f73997dcb60c)
   * [Kaggle Data Science Bown 2017 참가기[지능정보기술연구원]](http://airi.kr/research-division/notice/?uid=8&mod=document&pageid=1)
   * [The GAN Zoo](https://deephunt.in/the-gan-zoo-79597dc8c347)
-  * [Introduction to Deep Neural Networks with Keras and Tensorflow](https://github.com/leriomaggio/deep-learning-keras-tensorflow)
   * [THE NEURAL NETWORK ZOO](http://www.asimovinstitute.org/neural-network-zoo/)
   * [Classification datasets results](http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html)
   * [Deeplunch팀의 Kaggle Data Science Bowl 도전기[1] - 케글 도전 팁](http://esuerid.blogspot.kr/2017/04/deeplunch-kaggle-data-science-bowl-1.html)
@@ -327,6 +326,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deep Learning with Python](https://www.youtube.com/playlist?list=PLIG2x2RJ_4LSRIZiVAHH4qWQSLLfrYLnh)
   * [How to Deploy Keras Models to Production](https://www.youtube.com/watch?v=f6Bf3gl4hWY&t=2s)
 * Code
+  * [Introduction to Deep Neural Networks with Keras and Tensorflow](https://github.com/leriomaggio/deep-learning-keras-tensorflow)
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
   * [DeepDream in Keras](https://github.com/saikatbsk/DeepDream)
