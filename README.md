@@ -246,6 +246,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Visualizing TensorFlow Graphs in Jupyter Notebooks](https://blog.jakuba.net/2017/05/30/tensorflow-visualization.html)
   * [Safe Crime Prediction](https://iamtrask.github.io/2017/06/05/homomorphic-surveillance/)
   * [A neural approach to relational reasoning](https://deepmind.com/blog/neural-approach-relational-reasoning/)
+  * [Neural Translation of Musical Style](http://imanmalik.com/cs/2017/06/05/neural-style.html)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -358,6 +359,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Object Recognition using TensorFlow and Java](https://github.com/emara-geek/object-recognition-tensorflow)
   * [Real-time face detection and emotion/gender classification using fer2013/imdb datasets with a keras CNN model and openCV](https://github.com/oarriaga/face_classification)
   * [Keras based Neural Style Transfer](https://github.com/giuseppebonaccorso/Neural_Artistic_Style_Transfer)
+  * [RNN-implementation-using-Numpy-binary-digit-addition](https://github.com/jaejun-yoo/RNN-implementation-using-Numpy-binary-digit-addition)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
