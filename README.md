@@ -326,7 +326,6 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [TensorFlow Tutorial](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ)
   * [Deep Learning with Python](https://www.youtube.com/playlist?list=PLIG2x2RJ_4LSRIZiVAHH4qWQSLLfrYLnh)
   * [How to Deploy Keras Models to Production](https://www.youtube.com/watch?v=f6Bf3gl4hWY&t=2s)
-  * [Intro to Deep Learning - Udacity Nanodegree](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
