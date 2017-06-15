@@ -246,6 +246,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Safe Crime Prediction](https://iamtrask.github.io/2017/06/05/homomorphic-surveillance/)
   * [A neural approach to relational reasoning](https://deepmind.com/blog/neural-approach-relational-reasoning/)
   * [Neural Translation of Musical Style](http://imanmalik.com/cs/2017/06/05/neural-style.html)
+  * [RNN을 이용한 한글 자동 띄어쓰기](http://freesearch.pe.kr/archives/4617)
+  * [Object detection with neural networks — a simple tutorial using keras](https://medium.com/towards-data-science/object-detection-with-neural-networks-a4e2c46b4491)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -310,6 +312,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deep Learning을 위한 AWS 기반 인공 지능](https://www.slideshare.net/awskorea/amazon-ai-deep-learning-on-aws)
   * [알기쉬운 Variational AutoEncoder](https://www.slideshare.net/ssuser06e0c5/variational-autoencoder-76552518)
   * [Sequence learning and modern RNNs](https://www.slideshare.net/grigorysapunov/sequence-learning-and-modern-rnns)
+  * [Variational Autoencoder를 여러 가지 각도에서 이해하기](https://www.slideshare.net/haezoom/variational-autoencoder-understanding-variational-autoencoder-from-various-perspectives)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -479,6 +482,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Apache Spark - NewCircle Training](https://www.youtube.com/playlist?list=PLndbWGuLoHeawhQPE1joLVvmHb2BNQPwb)
 * [Apache Spark for Data Science](https://www.youtube.com/playlist?list=PL0B_bv6Hd87dTd5890-nPKwl2JoqCATAf)
 * [Effectively Using Matplotlib](http://pbpython.com/effective-matplotlib.html)
+* [Kernel Density Estimation[커널밀도추정]에 대한 이해](http://darkpgmr.tistory.com/147)
+* [Mathpresso 머신 러닝 스터디 — 14. 밀도 추정[Density Estimation]](https://medium.com/mathpresso/mathpresso-%EB%A8%B8%EC%8B%A0-%EB%9F%AC%EB%8B%9D-%EC%8A%A4%ED%84%B0%EB%94%94-14-%EB%B0%80%EB%8F%84-%EC%B6%94%EC%A0%95-density-estimation-38fd7ef729bb)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
