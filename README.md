@@ -248,6 +248,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Neural Translation of Musical Style](http://imanmalik.com/cs/2017/06/05/neural-style.html)
   * [RNN을 이용한 한글 자동 띄어쓰기](http://freesearch.pe.kr/archives/4617)
   * [Object detection with neural networks — a simple tutorial using keras](https://medium.com/towards-data-science/object-detection-with-neural-networks-a4e2c46b4491)
+  * [GAN by Example using Keras on Tensorflow Backend](https://medium.com/towards-data-science/gan-by-example-using-keras-on-tensorflow-backend-1a6d515a60d0)
+  * [Supercharge your Computer Vision models with the TensorFlow Object Detection API](https://research.googleblog.com/2017/06/supercharge-your-computer-vision-models.html)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -362,6 +364,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Real-time face detection and emotion/gender classification using fer2013/imdb datasets with a keras CNN model and openCV](https://github.com/oarriaga/face_classification)
   * [Keras based Neural Style Transfer](https://github.com/giuseppebonaccorso/Neural_Artistic_Style_Transfer)
   * [RNN-implementation-using-Numpy-binary-digit-addition](https://github.com/jaejun-yoo/RNN-implementation-using-Numpy-binary-digit-addition)
+  * [keras implementation of [A simple neural network module for relational reasoning]](https://github.com/Alan-Lee123/relation-network)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
