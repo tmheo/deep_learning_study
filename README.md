@@ -251,6 +251,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [GAN by Example using Keras on Tensorflow Backend](https://medium.com/towards-data-science/gan-by-example-using-keras-on-tensorflow-backend-1a6d515a60d0)
   * [Supercharge your Computer Vision models with the TensorFlow Object Detection API](https://research.googleblog.com/2017/06/supercharge-your-computer-vision-models.html)
   * [Stacking Made Easy: An Introduction to StackNet by Competitions Grandmaster Marios Michailidis - KazAnova](http://blog.kaggle.com/2017/06/15/stacking-made-easy-an-introduction-to-stacknet-by-competitions-grandmaster-marios-michailidis-kazanova/)
+  * [Generative Adversarial Networks for Beginners](https://www.oreilly.com/learning/generative-adversarial-networks-for-beginners)
+  * [Accelerating Deep Learning Research with the Tensor2Tensor Library](https://research.googleblog.com/2017/06/accelerating-deep-learning-research.html)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -366,6 +368,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Keras based Neural Style Transfer](https://github.com/giuseppebonaccorso/Neural_Artistic_Style_Transfer)
   * [RNN-implementation-using-Numpy-binary-digit-addition](https://github.com/jaejun-yoo/RNN-implementation-using-Numpy-binary-digit-addition)
   * [keras implementation of [A simple neural network module for relational reasoning]](https://github.com/Alan-Lee123/relation-network)
+  * [Building AnswerBot with Keras and Tensorflow](https://github.com/Avkash/mldl/blob/master/tensorbeat-answerbot/README.md)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
