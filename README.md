@@ -29,7 +29,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [TensorFlow Workshop](https://github.com/amygdala/tensorflow-workshop)
   * [TensorFlow Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
   * [TensorFlow Tutorial](https://github.com/sherrym/tf-tutorial/) : [[Video]](https://www.youtube.com/watch?v=Ejec3ID_h0w)
-  * [Machine Learning & Deep Learning](https://drive.google.com/drive/folders/0BwwNF6qNzpOLTDBMX0NHcDB6ZzQ?usp=sharing)
+  * [Machine Learning & Deep Learning](https://drive.google.com/drive/folders/0BwwNF6qNzpOLNXA2OGZ4TW9NNEE)
   * [T아카데미 인공지능을 위한 머신러닝 알고리즘 강의](https://tacademy.sktechx.com/live/player/onlineLectureDetail.action?seq=103)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
@@ -51,6 +51,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [ArxivSanityKr](https://www.facebook.com/ArxivSanityKr/)
 * Article
   * [Andrej Karpathy's Deep Learning Blog](http://karpathy.github.io/)
+  * [머신러닝 딥러닝 입문 시 도움 되는 강좌](https://www.facebook.com/groups/TensorFlowKR/permalink/485458151795248/)
+  * [딥러닝 입문자용 글 모음](https://www.facebook.com/groups/TensorFlowKR/permalink/490430184631378/)
   * [딥러닝 공부 방법](https://www.facebook.com/dgtgrade/posts/1340177956041067)
   * [딥러닝 공부를 처음 시작 하는 초심자가 꼭 공부 해야 하는 것이 아닌 것](https://www.facebook.com/dgtgrade/posts/1328790023846527)
   * [Practical seq2seq](http://suriyadeepan.github.io/2016-12-31-practical-seq2seq/)
@@ -318,6 +320,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [알기쉬운 Variational AutoEncoder](https://www.slideshare.net/ssuser06e0c5/variational-autoencoder-76552518)
   * [Sequence learning and modern RNNs](https://www.slideshare.net/grigorysapunov/sequence-learning-and-modern-rnns)
   * [Variational Autoencoder를 여러 가지 각도에서 이해하기](https://www.slideshare.net/haezoom/variational-autoencoder-understanding-variational-autoencoder-from-various-perspectives)
+  * [Tensorflow for Deep Learning](https://www.slideshare.net/taeyounglee1447/tensorflow-for-deep-learning)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -420,6 +423,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [A Deep Learning Research Review of Reinforcement Learning](https://dzone.com/articles/reinforcement-learning)
 * [Playing Atari with Deep Reinforcement Learning](https://speakerdeck.com/jacksongl/playing-atari-with-deep-reinforcement-learning)
 * [Minimal and Clean Reinforcement Learning Examples](https://github.com/rlcode/reinforcement-learning)
+* [[IGC] 엔씨소프트 이경종 - 강화 학습을 이용한 NPC AI 구현](https://www.slideshare.net/ssuser052dd11/igc-npc-ai)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
