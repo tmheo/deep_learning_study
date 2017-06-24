@@ -372,6 +372,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [RNN-implementation-using-Numpy-binary-digit-addition](https://github.com/jaejun-yoo/RNN-implementation-using-Numpy-binary-digit-addition)
   * [keras implementation of [A simple neural network module for relational reasoning]](https://github.com/Alan-Lee123/relation-network)
   * [Building AnswerBot with Keras and Tensorflow](https://github.com/Avkash/mldl/blob/master/tensorbeat-answerbot/README.md)
+  * [Traffic Sign Recognition with Keras](https://github.com/kashyap32/Sign-Recognition)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
