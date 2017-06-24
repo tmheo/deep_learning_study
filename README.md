@@ -495,6 +495,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Effectively Using Matplotlib](http://pbpython.com/effective-matplotlib.html)
 * [Kernel Density Estimation[커널밀도추정]에 대한 이해](http://darkpgmr.tistory.com/147)
 * [Mathpresso 머신 러닝 스터디 — 14. 밀도 추정[Density Estimation]](https://medium.com/mathpresso/mathpresso-%EB%A8%B8%EC%8B%A0-%EB%9F%AC%EB%8B%9D-%EC%8A%A4%ED%84%B0%EB%94%94-14-%EB%B0%80%EB%8F%84-%EC%B6%94%EC%A0%95-density-estimation-38fd7ef729bb)
+* [20. 데이터과학을 시작 할때 도움이 되는 것들 - 상](https://brunch.co.kr/@amangkim/37)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
