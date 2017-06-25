@@ -392,6 +392,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [ParlAI - A framework for training and evaluating AI models on a variety of openly available dialog datasets](https://github.com/facebookresearch/ParlAI)
   * [NeuroNER - A Named-Entity Recognition Program based on Neural Networks and Easy to Use](http://neuroner.com/)
   * [spaCy - Industrial-Strength Natural Language Processing](https://spacy.io/)
+  * [Keras Visualization Toolkit](https://raghakot.github.io/keras-vis/)
 * Dataset
   * [Fueling the Gold Rush: The Greatest Public Datasets for AI](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2)
   * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
@@ -518,6 +519,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Music Recommendation service with the Spotify API, Spark MLlib and Databricks](https://medium.com/@polomarcus/music-recommendation-service-with-the-spotify-api-spark-mllib-and-databricks-7cde9b16d35d)
 * [Deep Learning Meets Recommendation Systems](http://blog.nycdatascience.com/student-works/deep-learning-meets-recommendation-systems/)
 * [Recommender systems with TensorFlow](https://theintelligenceofinformation.wordpress.com/2017/05/31/recommender-systems-with-tensorflow/)
+* [Recommending GitHub Repositories with Google BigQuery and the implicit library](https://medium.com/@jbochi/recommending-github-repositories-with-google-bigquery-and-the-implicit-library-e6cce666c77)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
