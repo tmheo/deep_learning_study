@@ -327,6 +327,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Tensorflow for Deep Learning](https://www.slideshare.net/taeyounglee1447/tensorflow-for-deep-learning) : [[Video]](https://tacademy.sktechx.com/live/player/onlineLectureDetail.action?seq=112)
   * [Text classification using a cnn on tensorflow](https://www.slideshare.net/YONGWOONLEE2/text-classification-using-a-cnn-on-tensorflow)
   * [[PR12]Continuous Control with Deep Reinforcement Learning](http://www.modulabs.co.kr/DeepLAB_library/14287)
+  * [딥러닝 책 정리 자료](https://mega.nz/#F!ANImgCgD!w4jlPKa2HX3mZEdZWBrBQA)
+  * [Autoencoders - A way for Unsupervised Learning of Nonlinear Manifold](https://mega.nz/#!cABBgbZR!oVDU41QI5y2vJyxrjw7JplUiSvYHYaoPbKSsKqwNHAU)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
