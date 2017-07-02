@@ -329,6 +329,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [[PR12]Continuous Control with Deep Reinforcement Learning](http://www.modulabs.co.kr/DeepLAB_library/14287)
   * [딥러닝 책 정리 자료](https://mega.nz/#F!ANImgCgD!w4jlPKa2HX3mZEdZWBrBQA)
   * [Autoencoders - A way for Unsupervised Learning of Nonlinear Manifold](https://mega.nz/#!cABBgbZR!oVDU41QI5y2vJyxrjw7JplUiSvYHYaoPbKSsKqwNHAU)
+  * [AutoML & AutoDraw](https://www.slideshare.net/taeyounglee1447/io17ex-automl-autodraw)
+  * [Learning by association](https://www.slideshare.net/ssuser06e0c5/learning-by-association)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
