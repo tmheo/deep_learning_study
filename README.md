@@ -255,6 +255,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Stacking Made Easy: An Introduction to StackNet by Competitions Grandmaster Marios Michailidis - KazAnova](http://blog.kaggle.com/2017/06/15/stacking-made-easy-an-introduction-to-stacknet-by-competitions-grandmaster-marios-michailidis-kazanova/)
   * [Generative Adversarial Networks for Beginners](https://www.oreilly.com/learning/generative-adversarial-networks-for-beginners)
   * [Accelerating Deep Learning Research with the Tensor2Tensor Library](https://research.googleblog.com/2017/06/accelerating-deep-learning-research.html)
+  * [Building a Real-Time Object Recognition App with Tensorflow and OpenCV](https://medium.com/towards-data-science/building-a-real-time-object-recognition-app-with-tensorflow-and-opencv-b7a2b4ebdc32)
+  * [How HBO’s Silicon Valley built “Not Hotdog” with mobile TensorFlow, Keras & React Native](https://hackernoon.com/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3)
+  * [How to Visualize Your Recurrent Neural Network with Attention in Keras](https://medium.com/datalogue/attention-in-keras-1892773a4f22)
+  * [Interpreting neurons in an LSTM network](http://yerevann.github.io/2017/06/27/interpreting-neurons-in-an-LSTM-network/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -320,7 +324,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [알기쉬운 Variational AutoEncoder](https://www.slideshare.net/ssuser06e0c5/variational-autoencoder-76552518)
   * [Sequence learning and modern RNNs](https://www.slideshare.net/grigorysapunov/sequence-learning-and-modern-rnns)
   * [Variational Autoencoder를 여러 가지 각도에서 이해하기](https://www.slideshare.net/haezoom/variational-autoencoder-understanding-variational-autoencoder-from-various-perspectives)
-  * [Tensorflow for Deep Learning](https://www.slideshare.net/taeyounglee1447/tensorflow-for-deep-learning)
+  * [Tensorflow for Deep Learning](https://www.slideshare.net/taeyounglee1447/tensorflow-for-deep-learning) : [[Video]](https://tacademy.sktechx.com/live/player/onlineLectureDetail.action?seq=112)
+  * [Text classification using a cnn on tensorflow](https://www.slideshare.net/YONGWOONLEE2/text-classification-using-a-cnn-on-tensorflow)
+  * [[PR12]Continuous Control with Deep Reinforcement Learning](http://www.modulabs.co.kr/DeepLAB_library/14287)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -373,6 +379,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [keras implementation of [A simple neural network module for relational reasoning]](https://github.com/Alan-Lee123/relation-network)
   * [Building AnswerBot with Keras and Tensorflow](https://github.com/Avkash/mldl/blob/master/tensorbeat-answerbot/README.md)
   * [Traffic Sign Recognition with Keras](https://github.com/kashyap32/Sign-Recognition)
+  * [Neural image captioning implementation with Keras 2](https://github.com/oarriaga/neural_image_captioning)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -426,6 +433,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Playing Atari with Deep Reinforcement Learning](https://speakerdeck.com/jacksongl/playing-atari-with-deep-reinforcement-learning)
 * [Minimal and Clean Reinforcement Learning Examples](https://github.com/rlcode/reinforcement-learning)
 * [[IGC] 엔씨소프트 이경종 - 강화 학습을 이용한 NPC AI 구현](https://www.slideshare.net/ssuser052dd11/igc-npc-ai)
+* [Deep Reinforcement Learning](http://andersonjo.github.io/artificial-intelligence/2017/06/03/Deep-Reinforcement-Learning/)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -498,6 +506,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Kernel Density Estimation[커널밀도추정]에 대한 이해](http://darkpgmr.tistory.com/147)
 * [Mathpresso 머신 러닝 스터디 — 14. 밀도 추정[Density Estimation]](https://medium.com/mathpresso/mathpresso-%EB%A8%B8%EC%8B%A0-%EB%9F%AC%EB%8B%9D-%EC%8A%A4%ED%84%B0%EB%94%94-14-%EB%B0%80%EB%8F%84-%EC%B6%94%EC%A0%95-density-estimation-38fd7ef729bb)
 * [20. 데이터과학을 시작 할때 도움이 되는 것들 - 상](https://brunch.co.kr/@amangkim/37)
+* [Explained Visually](http://setosa.io/ev/)
+* [Python for data analysis](http://sinpong.tistory.com/category/Python%20for%20data%20analysis)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
