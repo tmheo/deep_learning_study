@@ -259,6 +259,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [How HBO’s Silicon Valley built “Not Hotdog” with mobile TensorFlow, Keras & React Native](https://hackernoon.com/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3)
   * [How to Visualize Your Recurrent Neural Network with Attention in Keras](https://medium.com/datalogue/attention-in-keras-1892773a4f22)
   * [Interpreting neurons in an LSTM network](http://yerevann.github.io/2017/06/27/interpreting-neurons-in-an-LSTM-network/)
+  * [머신러닝 실습 with Tensorflow](http://copycode.tistory.com/m/category/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
+  * [Pytorch를 사용한 단 50줄로 코드로 짜보는 GAN](http://ddanggle.github.io/GANinTorch)
+  * [DeepMind’s Relational Reasoning Networks — Demystified](https://hackernoon.com/deepmind-relational-networks-demystified-b593e408b643)
+  * [Artificial Inteligence](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/)
+  * [How to deploy Machine Learning models with TensorFlow. Part 2— containerize it!](https://medium.com/towards-data-science/how-to-deploy-machine-learning-models-with-tensorflow-part-2-containerize-it-db0ad7ca35a7)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -477,6 +482,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [머신러닝 모델링 알고리즘](https://brunch.co.kr/@kmbmjn95/18)
 * [A Collection of Jupyter Notebooks for Machine Learning](https://github.com/likejazz/jupyter-notebooks)
 * [Tuning Your DBMS Automatically with Machine Learning](https://aws.amazon.com/blogs/ai/tuning-your-dbms-automatically-with-machine-learning/)
+* [End to End Application for Monitoring Real-Time Uber Data Using Apache APIs: Kafka, Spark, HBase – Part 4: Spark Streaming, DataFrames, and HBase](https://mapr.com/blog/monitoring-uber-pt4/)
+* [Corsera Machine Learning으로 기계학습 배우기 : week1](http://www.popit.kr/corsera-machine-learning%EC%9C%BC%EB%A1%9C-%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5-%EB%B0%B0%EC%9A%B0%EA%B8%B0-week1/)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -512,6 +519,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [20. 데이터과학을 시작 할때 도움이 되는 것들 - 상](https://brunch.co.kr/@amangkim/37)
 * [Explained Visually](http://setosa.io/ev/)
 * [Python for data analysis](http://sinpong.tistory.com/category/Python%20for%20data%20analysis)
+* [스타트업 데이터분석 - 퍼널분석과 코호트분석](https://www.slideshare.net/LeeGwan/ss-42159541)
+* [Natural Korean Processor for Apache Spark](https://github.com/uosdmlab/spark-nkp)
+* [한글 NLP with Python](http://andersonjo.github.io/nlp/2016/12/28/NLP/)
+* [데이터를 얻으려는 노오오력](https://www.slideshare.net/youngjaekim58/ss-77479253)
+* [Natural Language Processing with Quora](https://medium.com/towards-data-science/natural-language-processing-with-quora-9737b40700c8)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -534,6 +546,21 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Deep Learning Meets Recommendation Systems](http://blog.nycdatascience.com/student-works/deep-learning-meets-recommendation-systems/)
 * [Recommender systems with TensorFlow](https://theintelligenceofinformation.wordpress.com/2017/05/31/recommender-systems-with-tensorflow/)
 * [Recommending GitHub Repositories with Google BigQuery and the implicit library](https://medium.com/@jbochi/recommending-github-repositories-with-google-bigquery-and-the-implicit-library-e6cce666c77)
+* [Building Simple Recommender Systems for Elasticsearch](https://qbox.io/blog/building-simple-recommender-systems-for-elasticsearch-1)
+* [Recommender Systems 101: Basket Analysis](http://opensourceconnections.com/blog/2016/06/06/recommender-systems-101-basket-analysis/)
+* [Your Recommendation Systems Aren't As Cool As My Friends](http://opensourceconnections.com/blog/2016/08/21/recommendations-systems-not-as-cool-as-friends/)
+* [High-Quality Recommendation Systems with Elasticsearch](http://opensourceconnections.com/blog/2016/09/09/better-recsys-elasticsearch/)
+* [Why I think search engines are the future of recommendation systems](http://opensourceconnections.com/blog/2016/09/13/search-engines-are-the-future-of-recsys/)
+* [Building Recommendation Systems with Elastic Graph](http://opensourceconnections.com/blog/2016/10/05/elastic-graph-recommendor/)
+* [Looking at Content Recommendation Through a Search Lens](https://www.elastic.co/blog/looking-at-content-recommendation-through-a-search-lens)
+* [Building a real time, solr-powered recommendation engine](https://www.slideshare.net/treygrainger/building-a-real-time-solrpowered-recommendation-engine)
+* [[Elasticsearch] MoreLikeThis API 설명](http://jjeong.tistory.com/1183)
+* [Creating a Recommender System - Part I](http://blog.stratio.com/creating-a-recommender-system-part-i/)
+* [Creating a Recommender System - Part II](http://blog.stratio.com/creating-recommender-system-part-two/)
+* [Creating an end-to-end Recommender System with Apache Spark and Elasticsearch - Nick Pentreath & Jean-François Puget](https://www.slideshare.net/sparktc/spark-ml-meedup-pentreath-puget)
+* [Notebook demo for Spark Summit EU 2016 Meetup in Brussels](https://github.com/MLnick/sseu16-meetup)
+* [Building a Scalable Recommender System with Apache Spark, Apache Kafka and Elasticsearch](http://events.linuxfoundation.org/sites/events/files/slides/ApacheBigDataEU16-NPentreath.pdf)
+* [Creating a Recommender System with Elasticsearch & Apache Spark approach](http://events.linuxfoundation.org/sites/events/files/slides/Apache_Big_Data_2017_Presentation.pdf)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
