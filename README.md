@@ -264,6 +264,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [DeepMind’s Relational Reasoning Networks — Demystified](https://hackernoon.com/deepmind-relational-networks-demystified-b593e408b643)
   * [Artificial Inteligence](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/)
   * [How to deploy Machine Learning models with TensorFlow. Part 2— containerize it!](https://medium.com/towards-data-science/how-to-deploy-machine-learning-models-with-tensorflow-part-2-containerize-it-db0ad7ca35a7)
+  * [Predicting the Success of a Reddit Submission with Deep Learning and Keras](http://minimaxir.com/2017/06/reddit-deep-learning/)
+  * [CycleGAN : Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks - 컨셉](https://mikigom.github.io/jekyll/update/2017/07/11/cyclegan.html)
+  * [Find Distinct People in a Video with Amazon Rekognition](https://aws.amazon.com/blogs/ai/find-distinct-people-in-a-video-with-amazon-rekognition/)
+  * [TensorFlow Neural Machine Translation Tutorial](https://github.com/tensorflow/nmt)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -389,6 +393,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Building AnswerBot with Keras and Tensorflow](https://github.com/Avkash/mldl/blob/master/tensorbeat-answerbot/README.md)
   * [Traffic Sign Recognition with Keras](https://github.com/kashyap32/Sign-Recognition)
   * [Neural image captioning implementation with Keras 2](https://github.com/oarriaga/neural_image_captioning)
+  * [Seq2seq Chatbot for Keras](https://github.com/oswaldoludwig/Seq2seq-Chatbot-for-Keras)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -443,6 +448,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Minimal and Clean Reinforcement Learning Examples](https://github.com/rlcode/reinforcement-learning)
 * [[IGC] 엔씨소프트 이경종 - 강화 학습을 이용한 NPC AI 구현](https://www.slideshare.net/ssuser052dd11/igc-npc-ai)
 * [Deep Reinforcement Learning](http://andersonjo.github.io/artificial-intelligence/2017/06/03/Deep-Reinforcement-Learning/)
+* [TensorForce: A TensorFlow library for applied reinforcement learning](https://reinforce.io/blog/introduction-to-tensorforce/)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -524,6 +530,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [한글 NLP with Python](http://andersonjo.github.io/nlp/2016/12/28/NLP/)
 * [데이터를 얻으려는 노오오력](https://www.slideshare.net/youngjaekim58/ss-77479253)
 * [Natural Language Processing with Quora](https://medium.com/towards-data-science/natural-language-processing-with-quora-9737b40700c8)
+* [데이터 분석을 이용한 게임 고객 모델링 #4](http://blog.ncsoft.com/?p=28900)
+* [Exploratory Image Analysis](https://www.kaggle.com/bkamphaus/exploratory-image-analysis)
+* [Image Augmentation for Deep Learning using Keras and Histogram Equalization](https://medium.com/towards-data-science/image-augmentation-for-deep-learning-using-keras-and-histogram-equalization-9329f6ae5085)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -561,6 +570,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Notebook demo for Spark Summit EU 2016 Meetup in Brussels](https://github.com/MLnick/sseu16-meetup)
 * [Building a Scalable Recommender System with Apache Spark, Apache Kafka and Elasticsearch](http://events.linuxfoundation.org/sites/events/files/slides/ApacheBigDataEU16-NPentreath.pdf)
 * [Creating a Recommender System with Elasticsearch & Apache Spark approach](http://events.linuxfoundation.org/sites/events/files/slides/Apache_Big_Data_2017_Presentation.pdf)
+* [Multiple ways of building a recommender system with Elasticsearch](https://www.slideshare.net/vozniuk/multiple-ways-of-building-a-recommender-system-with-elasticsearch-elastic-meetup-switzerland-andrii-vozniuk)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
