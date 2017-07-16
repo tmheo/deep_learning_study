@@ -269,6 +269,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Find Distinct People in a Video with Amazon Rekognition](https://aws.amazon.com/blogs/ai/find-distinct-people-in-a-video-with-amazon-rekognition/)
   * [TensorFlow Neural Machine Translation Tutorial](https://github.com/tensorflow/nmt)
   * [Galaxy Zoo classification with Keras](https://medium.com/towards-data-science/galaxy-zoo-classification-with-keras-219184aff581)
+  * [김태희의 닮은 꼴도 머신러닝으로 구분할 수 있을까?](https://brunch.co.kr/@kmbmjn95/20)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -396,6 +397,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Traffic Sign Recognition with Keras](https://github.com/kashyap32/Sign-Recognition)
   * [Neural image captioning implementation with Keras 2](https://github.com/oarriaga/neural_image_captioning)
   * [Seq2seq Chatbot for Keras](https://github.com/oswaldoludwig/Seq2seq-Chatbot-for-Keras)
+  * [Digit Recognizer with CNN on Keras](https://www.kaggle.com/sudosudoohio/digit-recognizer-with-cnn-on-keras)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
