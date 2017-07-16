@@ -268,6 +268,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [CycleGAN : Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks - 컨셉](https://mikigom.github.io/jekyll/update/2017/07/11/cyclegan.html)
   * [Find Distinct People in a Video with Amazon Rekognition](https://aws.amazon.com/blogs/ai/find-distinct-people-in-a-video-with-amazon-rekognition/)
   * [TensorFlow Neural Machine Translation Tutorial](https://github.com/tensorflow/nmt)
+  * [Galaxy Zoo classification with Keras](https://medium.com/towards-data-science/galaxy-zoo-classification-with-keras-219184aff581)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -355,6 +356,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [TensorFlow Tutorial](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ)
   * [Deep Learning with Python](https://www.youtube.com/playlist?list=PLIG2x2RJ_4LSRIZiVAHH4qWQSLLfrYLnh)
   * [How to Deploy Keras Models to Production](https://www.youtube.com/watch?v=f6Bf3gl4hWY&t=2s)
+  * [Python Plays: Grand Theft Auto V](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeETZEOy4VdocT7TOjfSA8a)
 * Code
   * [Introduction to Deep Neural Networks with Keras and Tensorflow](https://github.com/leriomaggio/deep-learning-keras-tensorflow)
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
