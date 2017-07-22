@@ -18,6 +18,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Oxford - Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
   * [Deep learning courses at UC Berkeley](https://berkeley-deep-learning.github.io/)
   * [T81-558:Applications of Deep Neural Networks](https://sites.wustl.edu/jeffheaton/t81-558/)
+  * [MILA - DEEP LEARNING AND REINFORCEMENT LEARNING SUMMER SCHOOL 2017](https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/slides/)
   * [Udacity - Deep Learning by Google](https://www.udacity.com/course/deep-learning--ud730)
   * [Python Deep Learning with Keras - Machine Learning Mastery](http://machinelearningmastery.com/category/deep-learning/)
   * [Practical Deep Learning For Coders—18 hours of lessons for free](http://course.fast.ai/)
@@ -270,6 +271,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [TensorFlow Neural Machine Translation Tutorial](https://github.com/tensorflow/nmt)
   * [Galaxy Zoo classification with Keras](https://medium.com/towards-data-science/galaxy-zoo-classification-with-keras-219184aff581)
   * [김태희의 닮은 꼴도 머신러닝으로 구분할 수 있을까?](https://brunch.co.kr/@kmbmjn95/20)
+  * [An end to end implementation of a Machine Learning pipeline](https://spandan-madan.github.io/DeepLearningProject/)
+  * [Debugging & Visualising training of Neural Network with TensorBoard](https://www.analyticsvidhya.com/blog/2017/07/debugging-neural-network-with-tensorboard/)
+  * [Deploy Tensorflow Docker Image to AWS ECS](https://devstarsj.github.io/2017/07/14/ecs.tensorflow/index.html)
+  * [Perform sentiment analysis with LSTMs, using TensorFlow](https://www.oreilly.com/learning/perform-sentiment-analysis-with-lstms-using-tensorflow)
+  * [Textboxes - 2016 : Image Text Detection 논문 리뷰](https://shinjayne.github.io/deeplearning/2017/07/21/text-boxes-paper-review-1.html)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -453,6 +459,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [[IGC] 엔씨소프트 이경종 - 강화 학습을 이용한 NPC AI 구현](https://www.slideshare.net/ssuser052dd11/igc-npc-ai)
 * [Deep Reinforcement Learning](http://andersonjo.github.io/artificial-intelligence/2017/06/03/Deep-Reinforcement-Learning/)
 * [TensorForce: A TensorFlow library for applied reinforcement learning](https://reinforce.io/blog/introduction-to-tensorforce/)
+* [Introduction to reinforcement learning and OpenAI Gym](https://www.oreilly.com/learning/introduction-to-reinforcement-learning-and-openai-gym)
+* [Tic-Tac-Toe-Machine-Leaning-Using-Reinforcement-Learning](https://github.com/jamesq9/Tic-Tac-Toe-Machine-Learning-Using-Reinforcement-Learning)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -493,7 +501,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [A Collection of Jupyter Notebooks for Machine Learning](https://github.com/likejazz/jupyter-notebooks)
 * [Tuning Your DBMS Automatically with Machine Learning](https://aws.amazon.com/blogs/ai/tuning-your-dbms-automatically-with-machine-learning/)
 * [End to End Application for Monitoring Real-Time Uber Data Using Apache APIs: Kafka, Spark, HBase – Part 4: Spark Streaming, DataFrames, and HBase](https://mapr.com/blog/monitoring-uber-pt4/)
-* [Corsera Machine Learning으로 기계학습 배우기 : week1](http://www.popit.kr/corsera-machine-learning%EC%9C%BC%EB%A1%9C-%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5-%EB%B0%B0%EC%9A%B0%EA%B8%B0-week1/)
+* [Coursera Machine Learning으로 기계학습 배우기 : week1](http://www.kwangsiklee.com/ko/2017/07/corsera-machine-learning-week1-%EC%A0%95%EB%A6%AC/)
+* [Brief Introduction to Machine Learning without Deep Learning](https://github.com/nyu-dl/Intro_to_ML_Lecture_Note)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -537,6 +546,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [데이터 분석을 이용한 게임 고객 모델링 #4](http://blog.ncsoft.com/?p=28900)
 * [Exploratory Image Analysis](https://www.kaggle.com/bkamphaus/exploratory-image-analysis)
 * [Image Augmentation for Deep Learning using Keras and Histogram Equalization](https://medium.com/towards-data-science/image-augmentation-for-deep-learning-using-keras-and-histogram-equalization-9329f6ae5085)
+* [Facets: An Open Source Visualization Tool for Machine Learning Training Data](https://research.googleblog.com/2017/07/facets-open-source-visualization-tool.html)
+* [General Tips for participating Kaggle Competitions](https://www.slideshare.net/markpeng/general-tips-for-participating-kaggle-competitions)
+* [데이터과학을 시작할 때 도움되는 것들](http://ppss.kr/archives/122147)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -575,6 +587,13 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Building a Scalable Recommender System with Apache Spark, Apache Kafka and Elasticsearch](http://events.linuxfoundation.org/sites/events/files/slides/ApacheBigDataEU16-NPentreath.pdf)
 * [Creating a Recommender System with Elasticsearch & Apache Spark approach](http://events.linuxfoundation.org/sites/events/files/slides/Apache_Big_Data_2017_Presentation.pdf)
 * [Multiple ways of building a recommender system with Elasticsearch](https://www.slideshare.net/vozniuk/multiple-ways-of-building-a-recommender-system-with-elasticsearch-elastic-meetup-switzerland-andrii-vozniuk)
+* [Recommendations Using Redis](https://dzone.com/refcardz/recommendations-using-redis)
+* [A movie recommendation system based on the GroupLens dataset of MovieLens data](https://github.com/osama-haggag/movie-time)
+* [Recommender System from tensorflow.blog](https://tensorflow.blog/tag/recommender-system/)
+* [Spotlight - Deep recommender models using PyTorch](https://maciejkula.github.io/spotlight/)
+* [실시간 추천엔진 머신한대에 구겨넣기](https://www.slideshare.net/deview/261-52784785)
+* [딥러닝을 이용한 추천엔진 [넷플릭스 컨테스트] 코드 설명](http://keunwoochoi.blogspot.kr/2016/03/blog-post_24.html)
+* [논문 요약 - Deep Neural Networks for YouTube Recommendations](http://keunwoochoi.blogspot.kr/2016/09/deep-neural-networks-for-youtube.html)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
