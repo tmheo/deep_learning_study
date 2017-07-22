@@ -594,6 +594,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [실시간 추천엔진 머신한대에 구겨넣기](https://www.slideshare.net/deview/261-52784785)
 * [딥러닝을 이용한 추천엔진 [넷플릭스 컨테스트] 코드 설명](http://keunwoochoi.blogspot.kr/2016/03/blog-post_24.html)
 * [논문 요약 - Deep Neural Networks for YouTube Recommendations](http://keunwoochoi.blogspot.kr/2016/09/deep-neural-networks-for-youtube.html)
+* [Wide & Deep Learning: Better Together with TensorFlow](https://research.googleblog.com/2016/06/wide-deep-learning-better-together-with.html)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
