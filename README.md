@@ -559,9 +559,6 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [11번가 추천 엔진 교체 (RecoPick -> Colloseo)](http://readme.skplanet.com/?p=13507)
 * [Recommender Systems: Matrix Operations for Fast Calculation of Similarities](https://dzone.com/articles/recommender-systems-matrix-operations-for-fast-cal)
 * [Creating an end-to-end Recommender System with Apache Spark and Elasticsearch](https://www.slideshare.net/sparktc/spark-ml-meedup-pentreath-puget)
-* High-Quality Recommendation Systems with Elasticsearch
-  * [Part 1](https://dzone.com/articles/high-quality-recommendation-systems-with-elastic-1)
-  * [Part 2](https://dzone.com/articles/high-quality-recommendation-systems-with-elastic-2)
 * [Quick Guide to Build a Recommendation Engine in Python](https://www.analyticsvidhya.com/blog/2016/06/quick-guide-build-recommendation-engine-python/)
 * [Apache Spark Recommendation](https://www.slideshare.net/cfregly/spark-after-dark-20-apache-big-data-conf-vancouver-may-11-2016-61970037)
 * [DataEngConf SF16 - Recommendations at Instacart](https://www.slideshare.net/g33ktalk/dataengconf-sf16-recommendations-at-instacart)
