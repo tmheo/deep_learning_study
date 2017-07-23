@@ -591,6 +591,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [딥러닝을 이용한 추천엔진 [넷플릭스 컨테스트] 코드 설명](http://keunwoochoi.blogspot.kr/2016/03/blog-post_24.html)
 * [논문 요약 - Deep Neural Networks for YouTube Recommendations](http://keunwoochoi.blogspot.kr/2016/09/deep-neural-networks-for-youtube.html)
 * [Wide & Deep Learning: Better Together with TensorFlow](https://research.googleblog.com/2016/06/wide-deep-learning-better-together-with.html)
+* [Surprise - A Python scikit for recommender systems](http://surpriselib.com/)
+* [Reverse Engineering The YouTube Algorithm: Part I](http://www.tubefilter.com/2016/06/23/reverse-engineering-youtube-algorithm/)
+* [Reverse Engineering The YouTube Algorithm: Part II](http://www.tubefilter.com/2017/02/16/youtube-algorithm-reverse-engineering-part-ii/)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
