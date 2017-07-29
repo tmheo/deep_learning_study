@@ -370,7 +370,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deep Learning with Python](https://www.youtube.com/playlist?list=PLIG2x2RJ_4LSRIZiVAHH4qWQSLLfrYLnh)
   * [How to Deploy Keras Models to Production](https://www.youtube.com/watch?v=f6Bf3gl4hWY&t=2s)
   * [Python Plays: Grand Theft Auto V](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeETZEOy4VdocT7TOjfSA8a)
-  * [PyData](https://www.youtube.com/channel/UCOjD18EJYcsBog4IozkF_7w)
+  * [PyDataTV](https://www.youtube.com/user/PyDataTV)
 * Code
   * [Introduction to Deep Neural Networks with Keras and Tensorflow](https://github.com/leriomaggio/deep-learning-keras-tensorflow)
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
