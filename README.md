@@ -276,6 +276,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deploy Tensorflow Docker Image to AWS ECS](https://devstarsj.github.io/2017/07/14/ecs.tensorflow/index.html)
   * [Perform sentiment analysis with LSTMs, using TensorFlow](https://www.oreilly.com/learning/perform-sentiment-analysis-with-lstms-using-tensorflow)
   * [Textboxes - 2016 : Image Text Detection 논문 리뷰](https://shinjayne.github.io/deeplearning/2017/07/21/text-boxes-paper-review-1.html)
+  * [37 Reasons why your Neural Network is not working](https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607)
+  * [A Step-by-Step Guide to Synthesizing Adversarial Examples](http://www.anishathalye.com/2017/07/25/synthesizing-adversarial-examples/)
+  * [22 must watch talks on Python for Deep Learning, Machine Learning & Data Science from PyData 2017, Amsterdam](https://www.analyticsvidhya.com/blog/2017/05/pydata-amsterdam-2017-machine-learning-deep-learning-data-science/)
+  * [Deep Learning for NLP Best Practices](http://ruder.io/deep-learning-nlp-best-practices/index.html)
+  * [Exploiting the Unique Features of the Apache MXNet Deep Learning Framework with a Cheat Sheet](https://aws.amazon.com/blogs/ai/exploiting-the-unique-features-of-the-apache-mxnet-deep-learning-framework-with-a-cheat-sheet/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -364,6 +369,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deep Learning with Python](https://www.youtube.com/playlist?list=PLIG2x2RJ_4LSRIZiVAHH4qWQSLLfrYLnh)
   * [How to Deploy Keras Models to Production](https://www.youtube.com/watch?v=f6Bf3gl4hWY&t=2s)
   * [Python Plays: Grand Theft Auto V](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeETZEOy4VdocT7TOjfSA8a)
+  * [PyData](https://www.youtube.com/channel/UCOjD18EJYcsBog4IozkF_7w)
 * Code
   * [Introduction to Deep Neural Networks with Keras and Tensorflow](https://github.com/leriomaggio/deep-learning-keras-tensorflow)
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
@@ -424,6 +430,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [NeuroNER - A Named-Entity Recognition Program based on Neural Networks and Easy to Use](http://neuroner.com/)
   * [spaCy - Industrial-Strength Natural Language Processing](https://spacy.io/)
   * [Keras Visualization Toolkit](https://raghakot.github.io/keras-vis/)
+  * [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
+  * [DeepForge - A Modern Development Environment for Deep Learning](http://deepforge.org/)
 * Dataset
   * [Fueling the Gold Rush: The Greatest Public Datasets for AI](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2)
   * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
@@ -503,6 +511,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [End to End Application for Monitoring Real-Time Uber Data Using Apache APIs: Kafka, Spark, HBase – Part 4: Spark Streaming, DataFrames, and HBase](https://mapr.com/blog/monitoring-uber-pt4/)
 * [Coursera Machine Learning으로 기계학습 배우기 : week1](http://www.kwangsiklee.com/ko/2017/07/corsera-machine-learning-week1-%EC%A0%95%EB%A6%AC/)
 * [Brief Introduction to Machine Learning without Deep Learning](https://github.com/nyu-dl/Intro_to_ML_Lecture_Note)
+* [SOM: Self Organazing Map 으로 Clustering 코드구현 까지](https://shinjayne.github.io/deeplearning/2017/07/27/udemy-som.html)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -559,7 +568,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [11번가 추천 엔진 교체 (RecoPick -> Colloseo)](http://readme.skplanet.com/?p=13507)
 * [Recommender Systems: Matrix Operations for Fast Calculation of Similarities](https://dzone.com/articles/recommender-systems-matrix-operations-for-fast-cal)
 * [Quick Guide to Build a Recommendation Engine in Python](https://www.analyticsvidhya.com/blog/2016/06/quick-guide-build-recommendation-engine-python/)
-* [Apache Spark Recommendation](https://www.slideshare.net/cfregly/spark-after-dark-20-apache-big-data-conf-vancouver-may-11-2016-61970037)
+* [Apache Spark Recommendation](https://www.slideshare.net/cfregly/boston-spark-meetup-may-24-2016)
 * [DataEngConf SF16 - Recommendations at Instacart](https://www.slideshare.net/g33ktalk/dataengconf-sf16-recommendations-at-instacart)
 * [How do you build a “People who bought this also bought that”-style recommendation engine](https://datasciencemadesimpler.wordpress.com/2015/12/16/understanding-collaborative-filtering-approach-to-recommendations/)
 * [Recommending music on Spotify with deep learning](http://benanne.github.io/2014/08/05/spotify-cnns.html)
@@ -594,6 +603,14 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Surprise - A Python scikit for recommender systems](http://surpriselib.com/)
 * [Reverse Engineering The YouTube Algorithm: Part I](http://www.tubefilter.com/2016/06/23/reverse-engineering-youtube-algorithm/)
 * [Reverse Engineering The YouTube Algorithm: Part II](http://www.tubefilter.com/2017/02/16/youtube-algorithm-reverse-engineering-part-ii/)
+* [Wide & Deep Learning for MovieLens](https://github.com/CnMr236/Wide_n_deep_MovieLens)
+* [Tensorflow-based Recommendation systems](https://github.com/songgc/TF-recomm)
+* [Distance Metrics for Fun and Profit](http://www.benfrederickson.com/distance-metrics/)
+* [Finding Similar Music using Matrix Factorization](http://www.benfrederickson.com/matrix-factorization/)
+* [How do I speed up matrix factorization by sampling users without losing precision?](https://www.quora.com/How-do-I-speed-up-matrix-factorization-by-sampling-users-without-losing-precision)
+* [Recommendation System Algorithms](https://blog.statsbot.co/recommendation-system-algorithms-ba67f39ac9a3)
+* [[카카오AI리포트]내 손안의 AI 비서, 추천 알고리즘](https://brunch.co.kr/@kakao-it/72)
+* [[카카오AI리포트]더욱 똑똑해진 AI 광고 알고리즘](https://brunch.co.kr/@kakao-it/84)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
