@@ -469,6 +469,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [TensorForce: A TensorFlow library for applied reinforcement learning](https://reinforce.io/blog/introduction-to-tensorforce/)
 * [Introduction to reinforcement learning and OpenAI Gym](https://www.oreilly.com/learning/introduction-to-reinforcement-learning-and-openai-gym)
 * [Tic-Tac-Toe-Machine-Leaning-Using-Reinforcement-Learning](https://github.com/jamesq9/Tic-Tac-Toe-Machine-Learning-Using-Reinforcement-Learning)
+* [Deep Q-Learning with Pytorch](https://github.com/AndersonJo/dqn-pytorch)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -509,7 +510,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [A Collection of Jupyter Notebooks for Machine Learning](https://github.com/likejazz/jupyter-notebooks)
 * [Tuning Your DBMS Automatically with Machine Learning](https://aws.amazon.com/blogs/ai/tuning-your-dbms-automatically-with-machine-learning/)
 * [End to End Application for Monitoring Real-Time Uber Data Using Apache APIs: Kafka, Spark, HBase – Part 4: Spark Streaming, DataFrames, and HBase](https://mapr.com/blog/monitoring-uber-pt4/)
-* [Coursera Machine Learning으로 기계학습 배우기 : week1](http://www.kwangsiklee.com/ko/2017/07/corsera-machine-learning-week1-%EC%A0%95%EB%A6%AC/)
+* [Coursera Machine Learning으로 기계학습 배우기](http://www.kwangsiklee.com/ko/category/machinelearning/)
 * [Brief Introduction to Machine Learning without Deep Learning](https://github.com/nyu-dl/Intro_to_ML_Lecture_Note)
 * [SOM: Self Organazing Map 으로 Clustering 코드구현 까지](https://shinjayne.github.io/deeplearning/2017/07/27/udemy-som.html)
 
