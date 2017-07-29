@@ -281,6 +281,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [22 must watch talks on Python for Deep Learning, Machine Learning & Data Science from PyData 2017, Amsterdam](https://www.analyticsvidhya.com/blog/2017/05/pydata-amsterdam-2017-machine-learning-deep-learning-data-science/)
   * [Deep Learning for NLP Best Practices](http://ruder.io/deep-learning-nlp-best-practices/index.html)
   * [Exploiting the Unique Features of the Apache MXNet Deep Learning Framework with a Cheat Sheet](https://aws.amazon.com/blogs/ai/exploiting-the-unique-features-of-the-apache-mxnet-deep-learning-framework-with-a-cheat-sheet/)
+  * [How to train your own Object Detector with TensorFlow’s Object Detector API](https://medium.com/towards-data-science/how-to-train-your-own-object-detector-with-tensorflows-object-detector-api-bec72ecfe1d9)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -613,6 +614,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [[카카오AI리포트]내 손안의 AI 비서, 추천 알고리즘](https://brunch.co.kr/@kakao-it/72)
 * [[카카오AI리포트]더욱 똑똑해진 AI 광고 알고리즘](https://brunch.co.kr/@kakao-it/84)
 * [Deep Learning Approach to Content Recommendation and It's Real World Challenges - Gil Chamiel](https://www.youtube.com/watch?v=dX1hI_PMgpo)
+* [Soraya Hausl - Leveraging recommender systems to personalise search results](https://www.youtube.com/watch?v=RyxJw9-yZYk)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
