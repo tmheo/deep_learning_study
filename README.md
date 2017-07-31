@@ -19,6 +19,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deep learning courses at UC Berkeley](https://berkeley-deep-learning.github.io/)
   * [T81-558:Applications of Deep Neural Networks](https://sites.wustl.edu/jeffheaton/t81-558/)
   * [MILA - DEEP LEARNING AND REINFORCEMENT LEARNING SUMMER SCHOOL 2017](https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/slides/)
+  * [CS 598 LAZ: Cutting-Edge Trends in Deep Learning and Recognition](http://slazebni.cs.illinois.edu/spring17/)
   * [Udacity - Deep Learning by Google](https://www.udacity.com/course/deep-learning--ud730)
   * [Python Deep Learning with Keras - Machine Learning Mastery](http://machinelearningmastery.com/category/deep-learning/)
   * [Practical Deep Learning For Coders—18 hours of lessons for free](http://course.fast.ai/)
@@ -619,6 +620,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [[카카오AI리포트]더욱 똑똑해진 AI 광고 알고리즘](https://brunch.co.kr/@kakao-it/84)
 * [Deep Learning Approach to Content Recommendation and It's Real World Challenges - Gil Chamiel](https://www.youtube.com/watch?v=dX1hI_PMgpo)
 * [Soraya Hausl - Leveraging recommender systems to personalise search results](https://www.youtube.com/watch?v=RyxJw9-yZYk)
+* [LightFM - Python implementation of a number of popular recommendation algorithms](http://lyst.github.io/lightfm/docs/index.html)
+* [Introduction to Recommender Systems](http://blog.arcbees.com/2017/01/12/introduction-recommender-systems/)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
