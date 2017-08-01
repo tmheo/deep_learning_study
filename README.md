@@ -287,6 +287,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Classifying traffic signs with Apache MXNet: An introduction to computer vision with neural networks](https://www.oreilly.com/ideas/classifying-traffic-signs-with-mxnet-an-introduction-to-computer-vision-with-neural-networks)
   * [Towards Next Generation Deep Learning Framework - An Introduction to MXNet/Gluon](https://mli.github.io/cvpr17/)
   * [A gentle introduction to Doc2Vec](https://medium.com/towards-data-science/a-gentle-introduction-to-doc2vec-db3e8c0cce5e)
+  * [A non-NLP application of Word2Vec](https://medium.com/towards-data-science/a-non-nlp-application-of-word2vec-c637e35d3668)
+  * [Apache MXNet에 대한 모든 것!](http://channy.creation.net/blog/all-about-mxnet)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -359,6 +361,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Autoencoders - A way for Unsupervised Learning of Nonlinear Manifold](https://mega.nz/#!cABBgbZR!oVDU41QI5y2vJyxrjw7JplUiSvYHYaoPbKSsKqwNHAU)
   * [AutoML & AutoDraw](https://www.slideshare.net/taeyounglee1447/io17ex-automl-autodraw)
   * [Learning by association](https://www.slideshare.net/ssuser06e0c5/learning-by-association)
+  * [A Practitioner’s Guide to MXNet](http://home.cse.ust.hk/~xshiab/data/MXNet.pdf)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -438,6 +441,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Keras Visualization Toolkit](https://raghakot.github.io/keras-vis/)
   * [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
   * [DeepForge - A Modern Development Environment for Deep Learning](http://deepforge.org/)
+  * [TensorFire - A framework for running neural networks in the browser, accelerated by WebGL](https://tenso.rs/)
 * Dataset
   * [Fueling the Gold Rush: The Greatest Public Datasets for AI](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2)
   * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
@@ -520,6 +524,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Brief Introduction to Machine Learning without Deep Learning](https://github.com/nyu-dl/Intro_to_ML_Lecture_Note)
 * [SOM: Self Organazing Map 으로 Clustering 코드구현 까지](https://shinjayne.github.io/deeplearning/2017/07/27/udemy-som.html)
 * [Prophet - facebook 의 시계열예측 API](https://blog.naver.com/PostView.nhn?blogId=cuteprobe&logNo=221062988983)
+* [[선형대수학 #4] 특이값 분해[Singular Value Decomposition, SVD]의 활용(http://darkpgmr.tistory.com/106)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -623,6 +628,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Soraya Hausl - Leveraging recommender systems to personalise search results](https://www.youtube.com/watch?v=RyxJw9-yZYk)
 * [LightFM - Python implementation of a number of popular recommendation algorithms](http://lyst.github.io/lightfm/docs/index.html)
 * [Introduction to Recommender Systems](http://blog.arcbees.com/2017/01/12/introduction-recommender-systems/)
+* [ACM RecSys YouTube Channel](https://www.youtube.com/channel/UC2nEn-yNA1BtdDNWziphPGA)
+* [Recommendation Systems / Engines with TensorFlow - Google Cloud Platform User Group Singapore](https://www.youtube.com/watch?v=TNiWwaMGYzo) : [[Code]](https://github.com/karthikmswamy/RecSys)
+* [Alexandre Hubert: How to Improve your Recommender System with Deep Learning](https://www.youtube.com/watch?v=fQomNgNj-rg)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
