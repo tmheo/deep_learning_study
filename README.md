@@ -524,7 +524,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Brief Introduction to Machine Learning without Deep Learning](https://github.com/nyu-dl/Intro_to_ML_Lecture_Note)
 * [SOM: Self Organazing Map 으로 Clustering 코드구현 까지](https://shinjayne.github.io/deeplearning/2017/07/27/udemy-som.html)
 * [Prophet - facebook 의 시계열예측 API](https://blog.naver.com/PostView.nhn?blogId=cuteprobe&logNo=221062988983)
-* [[선형대수학 #4] 특이값 분해[Singular Value Decomposition, SVD]의 활용(http://darkpgmr.tistory.com/106)
+* [[선형대수학 #4] 특이값 분해[Singular Value Decomposition, SVD]의 활용](http://darkpgmr.tistory.com/106)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
