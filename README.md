@@ -365,7 +365,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [AutoML & AutoDraw](https://www.slideshare.net/taeyounglee1447/io17ex-automl-autodraw)
   * [Learning by association](https://www.slideshare.net/ssuser06e0c5/learning-by-association)
   * [A Practitioner’s Guide to MXNet](http://home.cse.ust.hk/~xshiab/data/MXNet.pdf)
-  * [모두를 위한 MxNET - AWS Summit Seoul 2017](https://www.slideshare.net/awskorea/2-mx-net)
+  * [모두를 위한 MxNET - AWS Summit Seoul 2017](https://www.slideshare.net/awskorea/2-mx-net) : [[Code]](https://github.com/hunkim/DeepLearningZeroToAll/tree/master/mxnet)
   * [AWS re:Invent 2016: Workshop: Deploy a Deep Learning Framework on Amazon ECS](https://www.slideshare.net/AmazonWebServices/aws-reinvent-2016-workshop-deploy-a-deep-learning-framework-on-amazon-ecs-con314) : [[Code]](https://github.com/awslabs/ecs-deep-learning-workshop)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
