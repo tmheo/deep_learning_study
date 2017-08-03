@@ -33,6 +33,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [TensorFlow Tutorial](https://github.com/sherrym/tf-tutorial/) : [[Video]](https://www.youtube.com/watch?v=Ejec3ID_h0w)
   * [Machine Learning & Deep Learning](https://drive.google.com/drive/folders/0BwwNF6qNzpOLNXA2OGZ4TW9NNEE)
   * [T아카데미 인공지능을 위한 머신러닝 알고리즘 강의](https://tacademy.sktechx.com/live/player/onlineLectureDetail.action?seq=103)
+  * [Deep Learning course: lecture slides and lab notebooks - Master Datascience Paris Saclay](https://m2dsupsdlclass.github.io/lectures-labs/)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -288,7 +289,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Towards Next Generation Deep Learning Framework - An Introduction to MXNet/Gluon](https://mli.github.io/cvpr17/)
   * [A gentle introduction to Doc2Vec](https://medium.com/towards-data-science/a-gentle-introduction-to-doc2vec-db3e8c0cce5e)
   * [A non-NLP application of Word2Vec](https://medium.com/towards-data-science/a-non-nlp-application-of-word2vec-c637e35d3668)
+  * [Deep Learning #4: Why You Need to Start Using Embedding Layers](https://medium.com/towards-data-science/deep-learning-4-embedding-layers-f9a02d55ac12)
   * [Apache MXNet에 대한 모든 것!](http://channy.creation.net/blog/all-about-mxnet)
+  * [MXNet 기반 추천 오픈 소스 딥러닝 프로젝트 모음](http://blog.creation.net/apache-mxnet-deep-learning-project#.WYMTINPyjq0)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -362,6 +365,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [AutoML & AutoDraw](https://www.slideshare.net/taeyounglee1447/io17ex-automl-autodraw)
   * [Learning by association](https://www.slideshare.net/ssuser06e0c5/learning-by-association)
   * [A Practitioner’s Guide to MXNet](http://home.cse.ust.hk/~xshiab/data/MXNet.pdf)
+  * [모두를 위한 MxNET - AWS Summit Seoul 2017](https://www.slideshare.net/awskorea/2-mx-net)
+  * [AWS re:Invent 2016: Workshop: Deploy a Deep Learning Framework on Amazon ECS](https://www.slideshare.net/AmazonWebServices/aws-reinvent-2016-workshop-deploy-a-deep-learning-framework-on-amazon-ecs-con314) : [[Code]](https://github.com/awslabs/ecs-deep-learning-workshop)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -480,6 +485,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Introduction to reinforcement learning and OpenAI Gym](https://www.oreilly.com/learning/introduction-to-reinforcement-learning-and-openai-gym)
 * [Tic-Tac-Toe-Machine-Leaning-Using-Reinforcement-Learning](https://github.com/jamesq9/Tic-Tac-Toe-Machine-Learning-Using-Reinforcement-Learning)
 * [Deep Q-Learning with Pytorch](https://github.com/AndersonJo/dqn-pytorch)
+* [[한국어] Safe Multi-Agent Reinforcement Learning for Autonomous Driving](https://www.slideshare.net/KihoSuh/safe-multiagent-reinforcement-learning-for-autonomouse-driving)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -525,6 +531,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [SOM: Self Organazing Map 으로 Clustering 코드구현 까지](https://shinjayne.github.io/deeplearning/2017/07/27/udemy-som.html)
 * [Prophet - facebook 의 시계열예측 API](https://blog.naver.com/PostView.nhn?blogId=cuteprobe&logNo=221062988983)
 * [[선형대수학 #4] 특이값 분해[Singular Value Decomposition, SVD]의 활용](http://darkpgmr.tistory.com/106)
+* [Facebook Prophet](https://www.slideshare.net/lumiamitie/facebook-prophet)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -631,6 +638,18 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [ACM RecSys YouTube Channel](https://www.youtube.com/channel/UC2nEn-yNA1BtdDNWziphPGA)
 * [Recommendation Systems / Engines with TensorFlow - Google Cloud Platform User Group Singapore](https://www.youtube.com/watch?v=TNiWwaMGYzo) : [[Code]](https://github.com/karthikmswamy/RecSys)
 * [Alexandre Hubert: How to Improve your Recommender System with Deep Learning](https://www.youtube.com/watch?v=fQomNgNj-rg)
+* [Keras Implementation of Recommender Systems](https://github.com/sonyisme/keras-recommendation)
+* [Recommending movies with deep learning](http://blog.richardweiss.org/2016/09/25/movie-embeddings.html)
+* [Building a Music Recommender with Deep Learning](http://mattmurray.net/building-a-music-recommender-with-deep-learning/)
+* [Recommender Systems & Embeddings](https://m2dsupsdlclass.github.io/lectures-labs/slides/02_recommender_systems/index.html) : [[Code]](https://github.com/m2dsupsdlclass/lectures-labs/tree/master/labs/02_neural_recsys)
+* [Movix.ai — movie recommendations with Deep Learning](https://medium.com/deep-systems/movix-ai-movie-recommendations-using-deep-learning-5903d6a31607)
+* [Using Keras' Pretrained Neural Networks for Visual Similarity Recommendations](http://blog.ethanrosenthal.com/2016/12/05/recasketch-keras/)
+* [Intro to Recommender Systems: Collaborative Filtering](http://blog.ethanrosenthal.com/2015/11/02/intro-to-collaborative-filtering/)
+* AWS re:Invent 2016: Using MXNet for Recommendation Modeling at Scale (MAC306)
+  * [Slide](https://www.slideshare.net/AmazonWebServices/aws-reinvent-2016-using-mxnet-for-recommendation-modeling-at-scale-mac306)
+  * [Video](https://www.youtube.com/watch?v=cftJAuwKWkA)
+  * [Code](https://github.com/apache/incubator-mxnet/tree/master/example/recommenders)
+* [LibRec - A Leading Java Library for Recommender Systems](https://www.librec.net/)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
