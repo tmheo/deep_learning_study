@@ -424,6 +424,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Neural image captioning implementation with Keras 2](https://github.com/oarriaga/neural_image_captioning)
   * [Seq2seq Chatbot for Keras](https://github.com/oswaldoludwig/Seq2seq-Chatbot-for-Keras)
   * [Digit Recognizer with CNN on Keras](https://www.kaggle.com/sudosudoohio/digit-recognizer-with-cnn-on-keras)
+  * [MXNet Notebooks](https://github.com/dmlc/mxnet-notebooks)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -486,6 +487,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Tic-Tac-Toe-Machine-Leaning-Using-Reinforcement-Learning](https://github.com/jamesq9/Tic-Tac-Toe-Machine-Learning-Using-Reinforcement-Learning)
 * [Deep Q-Learning with Pytorch](https://github.com/AndersonJo/dqn-pytorch)
 * [[한국어] Safe Multi-Agent Reinforcement Learning for Autonomous Driving](https://www.slideshare.net/KihoSuh/safe-multiagent-reinforcement-learning-for-autonomouse-driving)
+* [Reinforcement learning for complex goals, using TensorFlow](https://www.oreilly.com/ideas/reinforcement-learning-for-complex-goals-using-tensorflow)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -532,6 +534,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Prophet - facebook 의 시계열예측 API](https://blog.naver.com/PostView.nhn?blogId=cuteprobe&logNo=221062988983)
 * [[선형대수학 #4] 특이값 분해[Singular Value Decomposition, SVD]의 활용](http://darkpgmr.tistory.com/106)
 * [Facebook Prophet](https://www.slideshare.net/lumiamitie/facebook-prophet)
+* [Machine Learning 강의노트](https://wikidocs.net/book/587)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -650,6 +653,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Video](https://www.youtube.com/watch?v=cftJAuwKWkA)
   * [Code](https://github.com/apache/incubator-mxnet/tree/master/example/recommenders)
 * [LibRec - A Leading Java Library for Recommender Systems](https://www.librec.net/)
+* [Github-recommendation-system-using-word2vec](https://github.com/zzsza/Github-recommendation-system-using-word2vec)
+* [Kaggle_Santander-Product-Recommendation](https://github.com/zzsza/Kaggle_Santander-Product-Recommendation)
+* [Kaggle_Expedia-hotel-recommendations](https://github.com/zzsza/Kaggle_Expedia-hotel-recommendations)
+* [Recommender Systems](https://wikidocs.net/4916)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
