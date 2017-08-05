@@ -448,6 +448,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
   * [DeepForge - A Modern Development Environment for Deep Learning](http://deepforge.org/)
   * [TensorFire - A framework for running neural networks in the browser, accelerated by WebGL](https://tenso.rs/)
+  * [deeplearn.js - A hardware-accelerated machine intelligence library for the web](https://pair-code.github.io/deeplearnjs/)
 * Dataset
   * [Fueling the Gold Rush: The Greatest Public Datasets for AI](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2)
   * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
@@ -535,6 +536,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [[선형대수학 #4] 특이값 분해[Singular Value Decomposition, SVD]의 활용](http://darkpgmr.tistory.com/106)
 * [Facebook Prophet](https://www.slideshare.net/lumiamitie/facebook-prophet)
 * [Machine Learning 강의노트](https://wikidocs.net/book/587)
+* [Churn Prediction with Apache Spark Machine Learning](https://mapr.com/blog/churn-prediction-sparkml/)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
