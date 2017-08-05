@@ -660,6 +660,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Kaggle_Santander-Product-Recommendation](https://github.com/zzsza/Kaggle_Santander-Product-Recommendation)
 * [Kaggle_Expedia-hotel-recommendations](https://github.com/zzsza/Kaggle_Expedia-hotel-recommendations)
 * [Recommender Systems](https://wikidocs.net/4916)
+* [From Labelling Open data images to building a private recommender system](https://www.slideshare.net/PierreGutierrez2/from-labelling-open-data-images-to-building-a-private-recommender-system)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
