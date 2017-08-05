@@ -52,6 +52,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [AI DEV 인공지능 개발자 모임](http://aidev.co.kr/)
   * [Distill - Machine Learning Research Journal](http://distill.pub/)
   * [ArxivSanityKr](https://www.facebook.com/ArxivSanityKr/)
+  * [Towards Data Science - Sharing concepts, ideas, and codes.](https://medium.com/towards-data-science)
 * Article
   * [Andrej Karpathy's Deep Learning Blog](http://karpathy.github.io/)
   * [머신러닝 딥러닝 입문 시 도움 되는 강좌](https://www.facebook.com/groups/TensorFlowKR/permalink/485458151795248/)
