@@ -539,6 +539,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Facebook Prophet](https://www.slideshare.net/lumiamitie/facebook-prophet)
 * [Machine Learning 강의노트](https://wikidocs.net/book/587)
 * [Churn Prediction with Apache Spark Machine Learning](https://mapr.com/blog/churn-prediction-sparkml/)
+* [MNIST 시각화 - 차원 감소](https://brunch.co.kr/@chris-song/37)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
