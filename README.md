@@ -491,6 +491,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Deep Q-Learning with Pytorch](https://github.com/AndersonJo/dqn-pytorch)
 * [[한국어] Safe Multi-Agent Reinforcement Learning for Autonomous Driving](https://www.slideshare.net/KihoSuh/safe-multiagent-reinforcement-learning-for-autonomouse-driving)
 * [Reinforcement learning for complex goals, using TensorFlow](https://www.oreilly.com/ideas/reinforcement-learning-for-complex-goals-using-tensorflow)
+* [Reinforcement Learning w/ Keras + OpenAI: Actor-Critic Models](https://medium.com/towards-data-science/reinforcement-learning-w-keras-openai-actor-critic-models-f084612cfd69)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
