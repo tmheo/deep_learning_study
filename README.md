@@ -294,6 +294,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Apache MXNet에 대한 모든 것!](http://channy.creation.net/blog/all-about-mxnet)
   * [MXNet 기반 추천 오픈 소스 딥러닝 프로젝트 모음](http://blog.creation.net/apache-mxnet-deep-learning-project#.WYMTINPyjq0)
   * [Applying Deep Learning to Time Series Forecasting with TensorFlow](https://mapr.com/blog/deep-learning-tensorflow/)
+  * [Classifying e-commerce products based on images and text](http://cbonnett.github.io/Insight.html)
+  * [Autoencoders — Bits and Bytes of Deep Learning](https://medium.com/towards-data-science/autoencoders-bits-and-bytes-of-deep-learning-eaba376f23ad)
+  * [TensorFlow Photo x-Ray Object Detection with App Engine](https://medium.com/towards-data-science/tensorflow-photo-x-ray-object-detection-with-app-engine-7de9dd8f63f5)
+  * [Seq2Seq - ICML17 Tutorial](https://sites.google.com/view/seq2seq-icml17)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -386,6 +390,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [How to Deploy Keras Models to Production](https://www.youtube.com/watch?v=f6Bf3gl4hWY&t=2s)
   * [Python Plays: Grand Theft Auto V](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeETZEOy4VdocT7TOjfSA8a)
   * [PyDataTV](https://www.youtube.com/user/PyDataTV)
+  * [Deep Learning with Tensorflow - Cognitive Class](https://www.youtube.com/playlist?list=PL-XeOa5hMEYxNzHM7YLRjIwE1k3VQpqEh)
 * Code
   * [Introduction to Deep Neural Networks with Keras and Tensorflow](https://github.com/leriomaggio/deep-learning-keras-tensorflow)
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
@@ -492,6 +497,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [[한국어] Safe Multi-Agent Reinforcement Learning for Autonomous Driving](https://www.slideshare.net/KihoSuh/safe-multiagent-reinforcement-learning-for-autonomouse-driving)
 * [Reinforcement learning for complex goals, using TensorFlow](https://www.oreilly.com/ideas/reinforcement-learning-for-complex-goals-using-tensorflow)
 * [Reinforcement Learning w/ Keras + OpenAI: Actor-Critic Models](https://medium.com/towards-data-science/reinforcement-learning-w-keras-openai-actor-critic-models-f084612cfd69)
+* [Deep Reinforcement Learning, Decision Making, and Control - ICML 2017 Tutorial](https://sites.google.com/view/icml17deeprl)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -655,7 +661,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * Data Piques's Recommendation Article
   * [Intro to Recommender Systems: Collaborative Filtering](http://blog.ethanrosenthal.com/2015/11/02/intro-to-collaborative-filtering/)
   * [Explicit Matrix Factorization: ALS, SGD, and All That Jazz](http://blog.ethanrosenthal.com/2016/01/09/explicit-matrix-factorization-sgd-als/)
+  * [Intro to Implicit Matrix Factorization: Classic ALS with Sketchfab Models](http://blog.ethanrosenthal.com/2016/10/19/implicit-mf-part-1/)
+  * [Embedding Everything for Anything2Anything Recommendations](https://making.dia.com/embedding-everything-for-anything2anything-recommendations-fca7f58f53ff)
+  * [Learning to Rank Sketchfab Models with LightFM](http://blog.ethanrosenthal.com/2016/11/07/implicit-mf-part-2/)
   * [Using Keras' Pretrained Neural Networks for Visual Similarity Recommendations](http://blog.ethanrosenthal.com/2016/12/05/recasketch-keras/)
+  * [Matrix Factorization in PyTorch](http://blog.ethanrosenthal.com/2017/06/20/matrix-factorization-in-pytorch/)
 * AWS re:Invent 2016: Using MXNet for Recommendation Modeling at Scale (MAC306)
   * [Slide](https://www.slideshare.net/AmazonWebServices/aws-reinvent-2016-using-mxnet-for-recommendation-modeling-at-scale-mac306)
   * [Video](https://www.youtube.com/watch?v=cftJAuwKWkA)
@@ -666,6 +676,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Kaggle_Expedia-hotel-recommendations](https://github.com/zzsza/Kaggle_Expedia-hotel-recommendations)
 * [Recommender Systems](https://wikidocs.net/4916)
 * [From Labelling Open data images to building a private recommender system](https://www.slideshare.net/PierreGutierrez2/from-labelling-open-data-images-to-building-a-private-recommender-system)
+* [Applying Deep Learning to Collaborative Filtering: How Hulu builds its industry leading](http://tech.hulu.com/blog/2016/08/01/cfnade.html)
+* [](https://www.youtube.com/watch?v=8EaVZbmAnV0)
+* [Alexandros Karatzoglou: Deep Learning for Recommender Systems](https://www.youtube.com/watch?v=KZ7bcfYGuxw)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
