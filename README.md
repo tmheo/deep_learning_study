@@ -677,7 +677,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Recommender Systems](https://wikidocs.net/4916)
 * [From Labelling Open data images to building a private recommender system](https://www.slideshare.net/PierreGutierrez2/from-labelling-open-data-images-to-building-a-private-recommender-system)
 * [Applying Deep Learning to Collaborative Filtering: How Hulu builds its industry leading](http://tech.hulu.com/blog/2016/08/01/cfnade.html)
-* [](https://www.youtube.com/watch?v=8EaVZbmAnV0)
+* [Deep Learning with Tensorflow - Recommendation System with a Restrictive Boltzmann Machine](https://www.youtube.com/watch?v=8EaVZbmAnV0)
 * [Alexandros Karatzoglou: Deep Learning for Recommender Systems](https://www.youtube.com/watch?v=KZ7bcfYGuxw)
 
 ## Chatbot
