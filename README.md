@@ -299,6 +299,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [TensorFlow Photo x-Ray Object Detection with App Engine](https://medium.com/towards-data-science/tensorflow-photo-x-ray-object-detection-with-app-engine-7de9dd8f63f5)
   * [Seq2Seq - ICML17 Tutorial](https://sites.google.com/view/seq2seq-icml17)
   * [Jamie Kang님의 머신러닝 블로그](https://jamiekang.github.io/tag/machine-learning/)
+  * [Seamlessly Scale Predictions with AWS Lambda and MXNet](https://aws.amazon.com/blogs/compute/seamlessly-scale-predictions-with-aws-lambda-and-mxnet/)
+  * [Deep Learning on AWS Batch](https://aws.amazon.com/blogs/compute/deep-learning-on-aws-batch/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -677,7 +679,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Github-recommendation-system-using-word2vec](https://github.com/zzsza/Github-recommendation-system-using-word2vec)
 * [Kaggle_Santander-Product-Recommendation](https://github.com/zzsza/Kaggle_Santander-Product-Recommendation)
 * [Kaggle_Expedia-hotel-recommendations](https://github.com/zzsza/Kaggle_Expedia-hotel-recommendations)
-* [Recommender Systems](https://wikidocs.net/4916)
+* [Recommender Systems - Coursera Machine Learning 강의 노트](https://wikidocs.net/4916)
 * [From Labelling Open data images to building a private recommender system](https://www.slideshare.net/PierreGutierrez2/from-labelling-open-data-images-to-building-a-private-recommender-system)
 * [Applying Deep Learning to Collaborative Filtering: How Hulu builds its industry leading](http://tech.hulu.com/blog/2016/08/01/cfnade.html)
 * [Deep Learning with Tensorflow - Recommendation System with a Restrictive Boltzmann Machine](https://www.youtube.com/watch?v=8EaVZbmAnV0)
