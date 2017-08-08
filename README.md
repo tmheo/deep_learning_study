@@ -298,6 +298,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Autoencoders — Bits and Bytes of Deep Learning](https://medium.com/towards-data-science/autoencoders-bits-and-bytes-of-deep-learning-eaba376f23ad)
   * [TensorFlow Photo x-Ray Object Detection with App Engine](https://medium.com/towards-data-science/tensorflow-photo-x-ray-object-detection-with-app-engine-7de9dd8f63f5)
   * [Seq2Seq - ICML17 Tutorial](https://sites.google.com/view/seq2seq-icml17)
+  * [Jamie Kang님의 머신러닝 블로그](https://jamiekang.github.io/tag/machine-learning/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -432,6 +433,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Seq2seq Chatbot for Keras](https://github.com/oswaldoludwig/Seq2seq-Chatbot-for-Keras)
   * [Digit Recognizer with CNN on Keras](https://www.kaggle.com/sudosudoohio/digit-recognizer-with-cnn-on-keras)
   * [MXNet Notebooks](https://github.com/dmlc/mxnet-notebooks)
+  * [Textgenrnn - Python module to easily generate text using a pretrained character-based recurrent neural network](https://github.com/minimaxir/textgenrnn)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -498,6 +500,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Reinforcement learning for complex goals, using TensorFlow](https://www.oreilly.com/ideas/reinforcement-learning-for-complex-goals-using-tensorflow)
 * [Reinforcement Learning w/ Keras + OpenAI: Actor-Critic Models](https://medium.com/towards-data-science/reinforcement-learning-w-keras-openai-actor-critic-models-f084612cfd69)
 * [Deep Reinforcement Learning, Decision Making, and Control - ICML 2017 Tutorial](https://sites.google.com/view/icml17deeprl)
+* [Open-AI의 gym 이용해 강화학습 훈련하기 1: Q-learning](https://shinjayne.github.io/deeplearning/2017/08/08/open-ai-gym.html)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -679,6 +682,14 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Applying Deep Learning to Collaborative Filtering: How Hulu builds its industry leading](http://tech.hulu.com/blog/2016/08/01/cfnade.html)
 * [Deep Learning with Tensorflow - Recommendation System with a Restrictive Boltzmann Machine](https://www.youtube.com/watch?v=8EaVZbmAnV0)
 * [Alexandros Karatzoglou: Deep Learning for Recommender Systems](https://www.youtube.com/watch?v=KZ7bcfYGuxw)
+* [Factorization Machines for Recommendation Systems](https://getstream.io/blog/factorization-machines-recommendation-systems/)
+* Understanding matrix factorization for recommendation 
+  * [Part 1 - Preliminary insights on PCA](http://nicolas-hug.com/blog/matrix_facto_1)
+  * [Part 2 - The model behind SVD](http://nicolas-hug.com/blog/matrix_facto_2)
+  * [Part 3 - SVD for recommendation](http://nicolas-hug.com/blog/matrix_facto_3)
+  * [Part 4 - Algorithm implementation](http://nicolas-hug.com/blog/matrix_facto_4)
+* [Matrix Factorization with Tensorflow](http://katbailey.github.io/post/matrix-factorization-with-tensorflow/)
+* [Exploring Recommender Systems](http://blog.romanofoti.com/exploring_recommenders_movielens_dataset/)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
