@@ -301,6 +301,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Jamie Kang님의 머신러닝 블로그](https://jamiekang.github.io/tag/machine-learning/)
   * [Seamlessly Scale Predictions with AWS Lambda and MXNet](https://aws.amazon.com/blogs/compute/seamlessly-scale-predictions-with-aws-lambda-and-mxnet/)
   * [Deep Learning on AWS Batch](https://aws.amazon.com/blogs/compute/deep-learning-on-aws-batch/)
+  * [Twitter Sentiment Analysis with Gensim Word2Vec and Keras Convolutional Networks](https://www.bonaccorso.eu/2017/08/07/twitter-sentiment-analysis-with-gensim-word2vec-and-keras-convolutional-networks/)
+  * [Using AI to Super Compress Images](https://hackernoon.com/using-ai-to-super-compress-images-5a948cf09489)
+  * [Where’s Waldo : Terminator Edition](https://hackernoon.com/wheres-waldo-terminator-edition-8b3bd0805741)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -503,6 +506,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Reinforcement Learning w/ Keras + OpenAI: Actor-Critic Models](https://medium.com/towards-data-science/reinforcement-learning-w-keras-openai-actor-critic-models-f084612cfd69)
 * [Deep Reinforcement Learning, Decision Making, and Control - ICML 2017 Tutorial](https://sites.google.com/view/icml17deeprl)
 * [Open-AI의 gym 이용해 강화학습 훈련하기 1: Q-learning](https://shinjayne.github.io/deeplearning/2017/08/08/open-ai-gym.html)
+* [실용주의 머신러닝 6회차 [Jeju ML camp 2017] - Deep Reinforcement Learning based Self Driving Car](https://www.youtube.com/watch?v=IL5V_MdN7YY) : [[Code]](https://github.com/MLJejuCamp2017/DRL_based_SelfDrivingCarControl)
+* [Introduction to Imitation Learning](https://blog.statsbot.co/introduction-to-imitation-learning-32334c3b1e7a)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -525,6 +530,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Machine Learning Top 10 Articles for the Past Month - January and February 2017](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-eedfaa364e73)
 * [Machine Learning Top 10 Articles for the Past Month - March, 2017](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-ce771c6a6ba5)
 * [Machine Learning Top 10 Articles for the Past Month - May, 2017](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-may-2017-f66b865b3e99)
+* [Machine Learning Top 10 Articles For the Past Month - August, 2017](https://medium.mybridge.co/machine-learning-top-10-articles-v-august-2017-9f4b648a38be)
 * [Winning Tips on Machine Learning Competitions by Kazanova, Current Kaggle #3](http://blog.hackerearth.com/winning-tips-machine-learning-competitions-kazanova-current-kaggle-3)
 * [Applying Machine Learning To March Madness](https://adeshpande3.github.io/adeshpande3.github.io/Applying-Machine-Learning-to-March-Madness)
 * [Scikit-Learn Tutorial Series](http://www.datasciencecentral.com/profiles/blogs/scikit-learn-tutorial-series)
@@ -552,6 +558,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Machine Learning 강의노트](https://wikidocs.net/book/587)
 * [Churn Prediction with Apache Spark Machine Learning](https://mapr.com/blog/churn-prediction-sparkml/)
 * [MNIST 시각화 - 차원 감소](https://brunch.co.kr/@chris-song/37)
+* [precision, recall의 이해](http://darkpgmr.tistory.com/162)
+* [SVD와 PCA, 그리고 잠재의미분석[LSA](https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/04/06/pcasvdlsa/)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -683,7 +691,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [From Labelling Open data images to building a private recommender system](https://www.slideshare.net/PierreGutierrez2/from-labelling-open-data-images-to-building-a-private-recommender-system)
 * [Applying Deep Learning to Collaborative Filtering: How Hulu builds its industry leading](http://tech.hulu.com/blog/2016/08/01/cfnade.html)
 * [Deep Learning with Tensorflow - Recommendation System with a Restrictive Boltzmann Machine](https://www.youtube.com/watch?v=8EaVZbmAnV0)
-* [Alexandros Karatzoglou: Deep Learning for Recommender Systems](https://www.youtube.com/watch?v=KZ7bcfYGuxw)
+* [Alexandros Karatzoglou: Deep Learning for Recommender Systems](https://www.youtube.com/watch?v=KZ7bcfYGuxw) : [[Slide]](https://www.slideshare.net/kerveros99/deep-learning-for-recommender-systems-budapest-recsys-meetup)
 * [Factorization Machines for Recommendation Systems](https://getstream.io/blog/factorization-machines-recommendation-systems/)
 * Understanding matrix factorization for recommendation 
   * [Part 1 - Preliminary insights on PCA](http://nicolas-hug.com/blog/matrix_facto_1)
@@ -692,6 +700,15 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Part 4 - Algorithm implementation](http://nicolas-hug.com/blog/matrix_facto_4)
 * [Matrix Factorization with Tensorflow](http://katbailey.github.io/post/matrix-factorization-with-tensorflow/)
 * [Exploring Recommender Systems](http://blog.romanofoti.com/exploring_recommenders_movielens_dataset/)
+* [TensorFlow implementation of an arbitrary order Factorization Machine](https://github.com/geffy/tffm)
+* [How to build a movie recommender with GRAKN.AI](https://blog.grakn.ai/how-to-build-a-movie-recommender-with-grakn-ai-174d838e762d)
+* [Evaluating Recommender Systems](https://www.blabladata.com/2014/10/26/evaluating-recommender-systems/)
+* [What you wanted to know about Mean Average Precision](http://fastml.com/what-you-wanted-to-know-about-mean-average-precision/)
+* [Evaluating recommender systems](http://fastml.com/evaluating-recommender-systems/)
+* [Discounted Cumulative Gain](http://freesearch.pe.kr/archives/1574)
+* [평가가 중요하다](http://www.4four.us/article/2012/04/evaluation-matters)
+* [Evaluating Recommender Systems - Explaining F-Score, Recall and Precision using Real Data Set from Apontador](http://aimotion.blogspot.kr/2011/05/evaluating-recommender-systems.html)
+* [Evaluation - python-recsys](http://ocelma.net/software/python-recsys/build/html/evaluation.html)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
