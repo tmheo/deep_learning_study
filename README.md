@@ -9,7 +9,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
     * [해커에게 전해들은 머신러닝](https://tensorflow.blog/2016/10/31/%ED%95%B4%EC%BB%A4%EC%97%90%EA%B2%8C-%EC%A0%84%ED%95%B4%EB%93%A4%EC%9D%80-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/) : [[Slide]](https://tensorflow.blog/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C-%EC%9E%90%EB%A3%8C/)
     * [딥 러닝을 위한 콘볼루션 계산 가이드](https://tensorflow.blog/a-guide-to-convolution-arithmetic-for-deep-learning/)
   * [Andrew Ng's Coursera Machine Learning](https://www.coursera.org/learn/machine-learning)
-  * [Stanford - CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) : [[Korean]](http://aikorea.org/cs231n/)
+  * [Stanford - CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) : [[Video]](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv), [[Korean]](http://aikorea.org/cs231n/)
   * [Stanford - CS224n: Deep Learning for Natural Language Processing](http://web.stanford.edu/class/cs224n/)
   * [Stanford - Unsupervised Feature Learning and Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
   * [Stanford - Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/)
@@ -20,6 +20,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [T81-558:Applications of Deep Neural Networks](https://sites.wustl.edu/jeffheaton/t81-558/)
   * [MILA - DEEP LEARNING AND REINFORCEMENT LEARNING SUMMER SCHOOL 2017](https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/slides/)
   * [CS 598 LAZ: Cutting-Edge Trends in Deep Learning and Recognition](http://slazebni.cs.illinois.edu/spring17/)
+  * KAIST Machine Learning Lecture
+    * [[기계학습, 인공지능, 머신러닝] 한국어 기계 학습 강좌](https://www.youtube.com/playlist?list=PLbhbGI_ppZISMV4tAWHlytBqNq1-lb8bz)
+    * [[기계학습, 인공지능, 머신러닝] 한국어 기계 학습 강좌 심화 1](https://www.youtube.com/playlist?list=PLbhbGI_ppZIRPeAjprW9u9A46IJlGFdLn)
   * [Udacity - Deep Learning by Google](https://www.udacity.com/course/deep-learning--ud730)
   * [Python Deep Learning with Keras - Machine Learning Mastery](http://machinelearningmastery.com/category/deep-learning/)
   * [Practical Deep Learning For Coders—18 hours of lessons for free](http://course.fast.ai/)
@@ -34,6 +37,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Machine Learning & Deep Learning](https://drive.google.com/drive/folders/0BwwNF6qNzpOLNXA2OGZ4TW9NNEE)
   * [T아카데미 인공지능을 위한 머신러닝 알고리즘 강의](https://tacademy.sktechx.com/live/player/onlineLectureDetail.action?seq=103)
   * [Deep Learning course: lecture slides and lab notebooks - Master Datascience Paris Saclay](https://m2dsupsdlclass.github.io/lectures-labs/)
+  * [Learning Tensorflow - Beginner-level tutorials for a powerful framework](https://learningtensorflow.com/)
+  * [Tensorflow for Deep Learning](https://www.slideshare.net/taeyounglee1447/tensorflow-for-deep-learning) : [[Video]](https://tacademy.sktechx.com/live/player/onlineLectureDetail.action?seq=112)
+  * [텐서플로우 기초 이해하기](https://www.slideshare.net/dahlmoon/20160623-63318427)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -293,6 +299,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deep Learning #4: Why You Need to Start Using Embedding Layers](https://medium.com/towards-data-science/deep-learning-4-embedding-layers-f9a02d55ac12)
   * [Apache MXNet에 대한 모든 것!](http://channy.creation.net/blog/all-about-mxnet)
   * [MXNet 기반 추천 오픈 소스 딥러닝 프로젝트 모음](http://blog.creation.net/apache-mxnet-deep-learning-project#.WYMTINPyjq0)
+  * [클라우드에 딱 맞는 MXNet의 5가지 딥러닝 학습 기능](http://blog.creation.net/mxnet-deep-learning-features-aws-cloud#.WY6I7NPyjq0)
   * [Applying Deep Learning to Time Series Forecasting with TensorFlow](https://mapr.com/blog/deep-learning-tensorflow/)
   * [Classifying e-commerce products based on images and text](http://cbonnett.github.io/Insight.html)
   * [Autoencoders — Bits and Bytes of Deep Learning](https://medium.com/towards-data-science/autoencoders-bits-and-bytes-of-deep-learning-eaba376f23ad)
@@ -304,6 +311,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Twitter Sentiment Analysis with Gensim Word2Vec and Keras Convolutional Networks](https://www.bonaccorso.eu/2017/08/07/twitter-sentiment-analysis-with-gensim-word2vec-and-keras-convolutional-networks/)
   * [Using AI to Super Compress Images](https://hackernoon.com/using-ai-to-super-compress-images-5a948cf09489)
   * [Where’s Waldo : Terminator Edition](https://hackernoon.com/wheres-waldo-terminator-edition-8b3bd0805741)
+  * [Vanishing Gradient Problem](https://brunch.co.kr/@chris-song/39)
+  * [Estimating the Location of Images Using MXNet and Multimedia Commons Dataset on AWS EC2](https://aws.amazon.com/blogs/ai/estimating-the-location-of-images-using-mxnet-and-multimedia-commons-dataset-on-aws-ec2/)
+  * [Captioning Novel Objects in Images](http://bair.berkeley.edu/blog/2017/08/08/novel-object-captioning/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -369,7 +379,6 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [알기쉬운 Variational AutoEncoder](https://www.slideshare.net/ssuser06e0c5/variational-autoencoder-76552518)
   * [Sequence learning and modern RNNs](https://www.slideshare.net/grigorysapunov/sequence-learning-and-modern-rnns)
   * [Variational Autoencoder를 여러 가지 각도에서 이해하기](https://www.slideshare.net/haezoom/variational-autoencoder-understanding-variational-autoencoder-from-various-perspectives)
-  * [Tensorflow for Deep Learning](https://www.slideshare.net/taeyounglee1447/tensorflow-for-deep-learning) : [[Video]](https://tacademy.sktechx.com/live/player/onlineLectureDetail.action?seq=112)
   * [Text classification using a cnn on tensorflow](https://www.slideshare.net/YONGWOONLEE2/text-classification-using-a-cnn-on-tensorflow)
   * [[PR12]Continuous Control with Deep Reinforcement Learning](http://www.modulabs.co.kr/DeepLAB_library/14287)
   * [딥러닝 책 정리 자료](https://mega.nz/#F!ANImgCgD!w4jlPKa2HX3mZEdZWBrBQA)
@@ -560,6 +569,13 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [MNIST 시각화 - 차원 감소](https://brunch.co.kr/@chris-song/37)
 * [precision, recall의 이해](http://darkpgmr.tistory.com/162)
 * [SVD와 PCA, 그리고 잠재의미분석[LSA](https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/04/06/pcasvdlsa/)
+* ElasticSearch Machine Learning
+  * [머신러닝으로 시스템의 이상 징후를 자동으로 파악하기](https://blog.naver.com/PostView.nhn?blogId=olpaemi&logNo=221068922550)
+  * [머신러닝으로 시스템 이상 징후를 자동으로 분석하는 예제 따라하기](https://blog.naver.com/PostView.nhn?blogId=olpaemi&logNo=221068974781)
+  * [머신 러닝으로 서버 만 대의 시스템 이상 징후를 자동으로 식별하기](https://blog.naver.com/PostView.nhn?blogId=olpaemi&logNo=221070394441)
+  * [머신러닝으로 1,000개의 프로세스 중에 다르게 행동하는 것들을 프로파일링해서 자동으로 식별하는 예제 따라하기](https://blog.naver.com/PostView.nhn?blogId=olpaemi&logNo=221071162623)
+  * [엘라스틱서치와 머신러닝으로 SIEM의 CEF 데이터를 분석하여 이상 행동하는 프로세스를 자동으로 식별하는 예제](https://blog.naver.com/PostView.nhn?blogId=olpaemi&logNo=221071502934)
+* [Gaussian Process Regression tutorial](https://nbviewer.jupyter.org/github/maka89/GPRegression-tutorial/blob/master/gp_tutorial_pt1.ipynb)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -709,6 +725,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [평가가 중요하다](http://www.4four.us/article/2012/04/evaluation-matters)
 * [Evaluating Recommender Systems - Explaining F-Score, Recall and Precision using Real Data Set from Apontador](http://aimotion.blogspot.kr/2011/05/evaluating-recommender-systems.html)
 * [Evaluation - python-recsys](http://ocelma.net/software/python-recsys/build/html/evaluation.html)
+* [HT2014 Tutorial: Evaluating Recommender Systems - Ensuring Replicability of Evaluation](https://www.slideshare.net/abellogin/ht2014-tutorial-evaluating-recommender-systems-ensuring-replicability-of-evaluation)
+* [How Recommendation Systems Work On Amazon & Netflix - Simplilearn Webinar](https://www.youtube.com/watch?v=BKCAkHn8jqA)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
