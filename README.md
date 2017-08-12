@@ -314,6 +314,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Vanishing Gradient Problem](https://brunch.co.kr/@chris-song/39)
   * [Estimating the Location of Images Using MXNet and Multimedia Commons Dataset on AWS EC2](https://aws.amazon.com/blogs/ai/estimating-the-location-of-images-using-mxnet-and-multimedia-commons-dataset-on-aws-ec2/)
   * [Captioning Novel Objects in Images](http://bair.berkeley.edu/blog/2017/08/08/novel-object-captioning/)
+  * Training MXNet
+    * [Training MXNet — part 1: MNIST](https://chatbotslife.com/training-mxnet-part-1-mnist-6f0dc4210c62)
+    * [Training MXNet — part 2: CIFAR-10](https://becominghuman.ai/training-mxnet-part-2-cifar-10-c7b0b729c33c)
+    * [Training MXNet — part 3: CIFAR-10 redux](https://medium.com/@julsimon/training-mxnet-part-3-cifar-10-redux-ecab17346aa0)
+    * [Training MXNet — part 4: distributed training](https://medium.com/towards-data-science/training-mxnet-part-4-distributed-training-91def5ea3bb7)
+    * [Training MXNet — part 5: distributed training, EFS edition](https://becominghuman.ai/training-mxnet-part-5-distributed-training-efs-edition-1c2a13cd5460)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -517,6 +523,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Open-AI의 gym 이용해 강화학습 훈련하기 1: Q-learning](https://shinjayne.github.io/deeplearning/2017/08/08/open-ai-gym.html)
 * [실용주의 머신러닝 6회차 [Jeju ML camp 2017] - Deep Reinforcement Learning based Self Driving Car](https://www.youtube.com/watch?v=IL5V_MdN7YY) : [[Code]](https://github.com/MLJejuCamp2017/DRL_based_SelfDrivingCarControl)
 * [Introduction to Imitation Learning](https://blog.statsbot.co/introduction-to-imitation-learning-32334c3b1e7a)
+* [파이썬과 케라스로 배우는 강화학습 저자특강](https://www.slideshare.net/WoongwonLee/ss-78783597)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
