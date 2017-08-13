@@ -40,6 +40,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Learning Tensorflow - Beginner-level tutorials for a powerful framework](https://learningtensorflow.com/)
   * [Tensorflow for Deep Learning](https://www.slideshare.net/taeyounglee1447/tensorflow-for-deep-learning) : [[Video]](https://tacademy.sktechx.com/live/player/onlineLectureDetail.action?seq=112)
   * [텐서플로우 기초 이해하기](https://www.slideshare.net/dahlmoon/20160623-63318427)
+  * [Effective Tensorflow](https://github.com/vahidk/EffectiveTensorflow)
+  * [Introduction to Deep Neural Networks with Keras and Tensorflow](https://github.com/leriomaggio/deep-learning-keras-tensorflow)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -413,7 +415,6 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [PyDataTV](https://www.youtube.com/user/PyDataTV)
   * [Deep Learning with Tensorflow - Cognitive Class](https://www.youtube.com/playlist?list=PL-XeOa5hMEYxNzHM7YLRjIwE1k3VQpqEh)
 * Code
-  * [Introduction to Deep Neural Networks with Keras and Tensorflow](https://github.com/leriomaggio/deep-learning-keras-tensorflow)
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
   * [DeepDream in Keras](https://github.com/saikatbsk/DeepDream)
