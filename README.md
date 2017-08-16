@@ -322,6 +322,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
     * [Training MXNet — part 3: CIFAR-10 redux](https://medium.com/@julsimon/training-mxnet-part-3-cifar-10-redux-ecab17346aa0)
     * [Training MXNet — part 4: distributed training](https://medium.com/towards-data-science/training-mxnet-part-4-distributed-training-91def5ea3bb7)
     * [Training MXNet — part 5: distributed training, EFS edition](https://becominghuman.ai/training-mxnet-part-5-distributed-training-efs-edition-1c2a13cd5460)
+  * [Image Augmentation for Deep Learning using Keras and Histogram Equalization](https://medium.com/towards-data-science/image-augmentation-for-deep-learning-using-keras-and-histogram-equalization-9329f6ae5085)
+  * [Learn.AI님의 GAN 정리](http://learnai.tistory.com/category/Deep%20Learning/GAN)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -396,6 +398,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [A Practitioner’s Guide to MXNet](http://home.cse.ust.hk/~xshiab/data/MXNet.pdf)
   * [모두를 위한 MxNET - AWS Summit Seoul 2017](https://www.slideshare.net/awskorea/2-mx-net) : [[Code]](https://github.com/hunkim/DeepLearningZeroToAll/tree/master/mxnet)
   * [AWS re:Invent 2016: Workshop: Deploy a Deep Learning Framework on Amazon ECS](https://www.slideshare.net/AmazonWebServices/aws-reinvent-2016-workshop-deploy-a-deep-learning-framework-on-amazon-ecs-con314) : [[Code]](https://github.com/awslabs/ecs-deep-learning-workshop)
+  * [Let Android dream electric sheep: Making emotion model for chat-bot with Python3, NLTK and TensorFlow](https://www.slideshare.net/inureyes/let-android-dream-electric-sheep-making-emotion-model-for-chatbot-with-python3-nltk-and-tensorflow)
+  * [PYCON KR 2017 - 구름이 하늘의 일이라면[Python과 TensorFlow를 이용한 기상예측]](https://www.slideshare.net/haezoom/pycon-kr-2017)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -584,6 +588,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [머신러닝으로 1,000개의 프로세스 중에 다르게 행동하는 것들을 프로파일링해서 자동으로 식별하는 예제 따라하기](https://blog.naver.com/PostView.nhn?blogId=olpaemi&logNo=221071162623)
   * [엘라스틱서치와 머신러닝으로 SIEM의 CEF 데이터를 분석하여 이상 행동하는 프로세스를 자동으로 식별하는 예제](https://blog.naver.com/PostView.nhn?blogId=olpaemi&logNo=221071502934)
 * [Gaussian Process Regression tutorial](https://nbviewer.jupyter.org/github/maka89/GPRegression-tutorial/blob/master/gp_tutorial_pt1.ipynb)
+* [머신러닝을 위한 기초 수학 살펴보기 by mingrammer](https://speakerdeck.com/mingrammer/meosinreoningeul-wihan-gico-suhag-salpyeobogi)
+* [Kaggle 뉴욕시 임대 아파트 문제 머신러닝 튜토리얼 - Pycon Korea 2017](https://github.com/KaggleBreak/walkingkaggle/tree/master/pycon2017_kr)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -630,6 +636,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Facets: An Open Source Visualization Tool for Machine Learning Training Data](https://research.googleblog.com/2017/07/facets-open-source-visualization-tool.html)
 * [General Tips for participating Kaggle Competitions](https://www.slideshare.net/markpeng/general-tips-for-participating-kaggle-competitions)
 * [데이터과학을 시작할 때 도움되는 것들](http://ppss.kr/archives/122147)
+* [데이터/통계 분석값에 대한 직관적 이해](http://ppss.kr/archives/126998)
+* [노가다 없는 텍스트 분석을 위한 한국어 NLP - Pycon Korea 2017](https://www.slideshare.net/kimhyunjoonglovit/pycon2017-koreannlp)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -735,6 +743,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Evaluation - python-recsys](http://ocelma.net/software/python-recsys/build/html/evaluation.html)
 * [HT2014 Tutorial: Evaluating Recommender Systems - Ensuring Replicability of Evaluation](https://www.slideshare.net/abellogin/ht2014-tutorial-evaluating-recommender-systems-ensuring-replicability-of-evaluation)
 * [How Recommendation Systems Work On Amazon & Netflix - Simplilearn Webinar](https://www.youtube.com/watch?v=BKCAkHn8jqA)
+* [Deep Learning for Personalized Search and Recommender Systems](https://www.slideshare.net/BenjaminLe4/deep-learning-for-personalized-search-and-recommender-systems)
+* [Finding similar images using autoencoders](https://medium.com/towards-data-science/find-similar-images-using-autoencoders-315f374029ea)
+* [Intro to Machine Learning - Building a Recommendation Model using Keras](https://www.youtube.com/watch?v=KmLJgq18r28)
+* [Recommender systems with TensorFlow - Google I/O Extended Bangkok 2017](https://www.youtube.com/watch?v=AMF5wYsJJus)
+* [SVD Recommendations using Tensorflow](https://www.bonaccorso.eu/2017/08/02/svd-recommendations-using-tensorflow/)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
