@@ -529,6 +529,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [실용주의 머신러닝 6회차 [Jeju ML camp 2017] - Deep Reinforcement Learning based Self Driving Car](https://www.youtube.com/watch?v=IL5V_MdN7YY) : [[Code]](https://github.com/MLJejuCamp2017/DRL_based_SelfDrivingCarControl)
 * [Introduction to Imitation Learning](https://blog.statsbot.co/introduction-to-imitation-learning-32334c3b1e7a)
 * [파이썬과 케라스로 배우는 강화학습 저자특강](https://www.slideshare.net/WoongwonLee/ss-78783597)
+* [알아두면 쓸데있는 신기한 강화학습 NAVER 2017](https://www.slideshare.net/carpedm20/naver-2017)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
