@@ -42,6 +42,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [텐서플로우 기초 이해하기](https://www.slideshare.net/dahlmoon/20160623-63318427)
   * [Effective Tensorflow](https://github.com/vahidk/EffectiveTensorflow)
   * [Introduction to Deep Neural Networks with Keras and Tensorflow](https://github.com/leriomaggio/deep-learning-keras-tensorflow)
+  * [PyTorch로 시작하는 딥러닝 입문 CAMP 1기 강의자료](https://github.com/GunhoChoi/PyTorch_FastCampus)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -324,6 +325,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
     * [Training MXNet — part 5: distributed training, EFS edition](https://becominghuman.ai/training-mxnet-part-5-distributed-training-efs-edition-1c2a13cd5460)
   * [Image Augmentation for Deep Learning using Keras and Histogram Equalization](https://medium.com/towards-data-science/image-augmentation-for-deep-learning-using-keras-and-histogram-equalization-9329f6ae5085)
   * [Learn.AI님의 GAN 정리](http://learnai.tistory.com/category/Deep%20Learning/GAN)
+  * [옹쿠님의 Deep Learning 블로그](http://blog.naver.com/suma_maple)
+  * [Getting Up and Running with PyTorch on Amazon Cloud](https://kevinzakka.github.io/2017/08/13/aws-pytorch/)
+  * [Credit Card Fraud Detection using Autoencoders in Keras — TensorFlow for Hackers Part VII](https://medium.com/@curiousily/credit-card-fraud-detection-using-autoencoders-in-keras-tensorflow-for-hackers-part-vii-20e0c85301bd)
+  * [Building a Facial Recognition Pipeline with Deep Learning in Tensorflow](https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -591,6 +596,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Gaussian Process Regression tutorial](https://nbviewer.jupyter.org/github/maka89/GPRegression-tutorial/blob/master/gp_tutorial_pt1.ipynb)
 * [머신러닝을 위한 기초 수학 살펴보기 by mingrammer](https://speakerdeck.com/mingrammer/meosinreoningeul-wihan-gico-suhag-salpyeobogi)
 * [Kaggle 뉴욕시 임대 아파트 문제 머신러닝 튜토리얼 - Pycon Korea 2017](https://github.com/KaggleBreak/walkingkaggle/tree/master/pycon2017_kr)
+* [[SPSS 22] ROC 곡선](http://blog.naver.com/y4769/220290361813)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -747,7 +753,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Deep Learning for Personalized Search and Recommender Systems](https://www.slideshare.net/BenjaminLe4/deep-learning-for-personalized-search-and-recommender-systems)
 * [Finding similar images using autoencoders](https://medium.com/towards-data-science/find-similar-images-using-autoencoders-315f374029ea)
 * [Intro to Machine Learning - Building a Recommendation Model using Keras](https://www.youtube.com/watch?v=KmLJgq18r28)
-* [Recommender systems with TensorFlow - Google I/O Extended Bangkok 2017](https://www.youtube.com/watch?v=AMF5wYsJJus)
+* [Recommender systems with TensorFlow - Google I/O Extended Bangkok 2017](https://www.youtube.com/watch?v=AMF5wYsJJus) : [[Code]](https://github.com/fooljames/tf-reco-workshop)
 * [SVD Recommendations using Tensorflow](https://www.bonaccorso.eu/2017/08/02/svd-recommendations-using-tensorflow/)
 
 ## Chatbot
