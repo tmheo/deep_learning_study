@@ -43,6 +43,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Effective Tensorflow](https://github.com/vahidk/EffectiveTensorflow)
   * [Introduction to Deep Neural Networks with Keras and Tensorflow](https://github.com/leriomaggio/deep-learning-keras-tensorflow)
   * [PyTorch로 시작하는 딥러닝 입문 CAMP 1기 강의자료](https://github.com/GunhoChoi/PyTorch_FastCampus)
+  * [패스트캠퍼스 Deep Learning 강의 자료](https://github.com/nmhkahn/deep_learning_tutorial)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -329,6 +330,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Getting Up and Running with PyTorch on Amazon Cloud](https://kevinzakka.github.io/2017/08/13/aws-pytorch/)
   * [Credit Card Fraud Detection using Autoencoders in Keras — TensorFlow for Hackers Part VII](https://medium.com/@curiousily/credit-card-fraud-detection-using-autoencoders-in-keras-tensorflow-for-hackers-part-vii-20e0c85301bd)
   * [Building a Facial Recognition Pipeline with Deep Learning in Tensorflow](https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8)
+  * [Generative Adversarial Networks [GANs]: Engine and Applications](https://blog.statsbot.co/generative-adversarial-networks-gans-engine-and-applications-f96291965b47)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -423,6 +425,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Python Plays: Grand Theft Auto V](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeETZEOy4VdocT7TOjfSA8a)
   * [PyDataTV](https://www.youtube.com/user/PyDataTV)
   * [Deep Learning with Tensorflow - Cognitive Class](https://www.youtube.com/playlist?list=PL-XeOa5hMEYxNzHM7YLRjIwE1k3VQpqEh)
+  * [Deep learning framework 제작](https://www.slideshare.net/taeyounglee1447/deep-learning-framework)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
