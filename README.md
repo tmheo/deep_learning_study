@@ -600,6 +600,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [머신러닝을 위한 기초 수학 살펴보기 by mingrammer](https://speakerdeck.com/mingrammer/meosinreoningeul-wihan-gico-suhag-salpyeobogi)
 * [Kaggle 뉴욕시 임대 아파트 문제 머신러닝 튜토리얼 - Pycon Korea 2017](https://github.com/KaggleBreak/walkingkaggle/tree/master/pycon2017_kr)
 * [[SPSS 22] ROC 곡선](http://blog.naver.com/y4769/220290361813)
+* [Machine Learning Mindmap / Cheatsheet](https://github.com/dformoso/machine-learning-mindmap)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
