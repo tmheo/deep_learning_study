@@ -410,7 +410,6 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [A Practitioner’s Guide to MXNet](http://home.cse.ust.hk/~xshiab/data/MXNet.pdf)
   * [모두를 위한 MxNET - AWS Summit Seoul 2017](https://www.slideshare.net/awskorea/2-mx-net) : [[Code]](https://github.com/hunkim/DeepLearningZeroToAll/tree/master/mxnet)
   * [AWS re:Invent 2016: Workshop: Deploy a Deep Learning Framework on Amazon ECS](https://www.slideshare.net/AmazonWebServices/aws-reinvent-2016-workshop-deploy-a-deep-learning-framework-on-amazon-ecs-con314) : [[Code]](https://github.com/awslabs/ecs-deep-learning-workshop)
-  * [Let Android dream electric sheep: Making emotion model for chat-bot with Python3, NLTK and TensorFlow](https://www.slideshare.net/inureyes/let-android-dream-electric-sheep-making-emotion-model-for-chatbot-with-python3-nltk-and-tensorflow)
   * [PYCON KR 2017 - 구름이 하늘의 일이라면[Python과 TensorFlow를 이용한 기상예측]](https://www.slideshare.net/haezoom/pycon-kr-2017)
   * [Deep learning framework 제작](https://www.slideshare.net/taeyounglee1447/deep-learning-framework)
 * Video
@@ -787,3 +786,5 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Part 1](https://aws.amazon.com/blogs/ai/building-better-bots/)
   * [Part 2](https://aws.amazon.com/blogs/ai/building-better-bots-part-2/)
 * [Integrate Your Amazon Lex Bot with Any Messaging Service](https://aws.amazon.com/blogs/ai/integrate-your-amazon-lex-bot-with-any-messaging-service/)
+* [Let Android dream electric sheep: Making emotion model for chat-bot with Python3, NLTK and TensorFlow](https://www.slideshare.net/inureyes/let-android-dream-electric-sheep-making-emotion-model-for-chatbot-with-python3-nltk-and-tensorflow)
+* [Python과 Tensorflow를 활용한 AI Chatbot 개발 및 실무 적용](https://www.slideshare.net/healess/python-tensorflow-ai-chatbot)
