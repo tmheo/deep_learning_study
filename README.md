@@ -331,6 +331,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Credit Card Fraud Detection using Autoencoders in Keras — TensorFlow for Hackers Part VII](https://medium.com/@curiousily/credit-card-fraud-detection-using-autoencoders-in-keras-tensorflow-for-hackers-part-vii-20e0c85301bd)
   * [Building a Facial Recognition Pipeline with Deep Learning in Tensorflow](https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8)
   * [Generative Adversarial Networks [GANs]: Engine and Applications](https://blog.statsbot.co/generative-adversarial-networks-gans-engine-and-applications-f96291965b47)
+  * [Machine Learning for Humans](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12)
+  * [이찬우님의 Deep Learning Blog](http://chanacademy.tistory.com/m/category/%EA%B1%B0%ED%92%88%EB%AC%BC%EA%B3%A0%20%EA%B5%AC%EA%B8%80%20%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20)
+  * [[Lecture] How to build a recognition system - Part 1: best practices](https://medium.com/towards-data-science/lecture-on-how-to-build-a-recognition-system-part-1-best-practices-46208e1ae591)
+  * [[Lecture] Evolution: from vanilla RNN to GRU & LSTMs](https://medium.com/towards-data-science/lecture-evolution-from-vanilla-rnn-to-gru-lstms-58688f1da83a)
+  * [Connecting the dots for a Deep Learning App](https://medium.com/towards-data-science/connecting-the-dots-for-a-deep-learning-app-324e4648720a)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -407,6 +412,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [AWS re:Invent 2016: Workshop: Deploy a Deep Learning Framework on Amazon ECS](https://www.slideshare.net/AmazonWebServices/aws-reinvent-2016-workshop-deploy-a-deep-learning-framework-on-amazon-ecs-con314) : [[Code]](https://github.com/awslabs/ecs-deep-learning-workshop)
   * [Let Android dream electric sheep: Making emotion model for chat-bot with Python3, NLTK and TensorFlow](https://www.slideshare.net/inureyes/let-android-dream-electric-sheep-making-emotion-model-for-chatbot-with-python3-nltk-and-tensorflow)
   * [PYCON KR 2017 - 구름이 하늘의 일이라면[Python과 TensorFlow를 이용한 기상예측]](https://www.slideshare.net/haezoom/pycon-kr-2017)
+  * [Deep learning framework 제작](https://www.slideshare.net/taeyounglee1447/deep-learning-framework)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -425,7 +431,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Python Plays: Grand Theft Auto V](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeETZEOy4VdocT7TOjfSA8a)
   * [PyDataTV](https://www.youtube.com/user/PyDataTV)
   * [Deep Learning with Tensorflow - Cognitive Class](https://www.youtube.com/playlist?list=PL-XeOa5hMEYxNzHM7YLRjIwE1k3VQpqEh)
-  * [Deep learning framework 제작](https://www.slideshare.net/taeyounglee1447/deep-learning-framework)
+  * [Deep Learning, Where are you going? - 조경현[NYU 교수](https://www.youtube.com/watch?v=soZXAH3leeQ)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -467,6 +473,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Digit Recognizer with CNN on Keras](https://www.kaggle.com/sudosudoohio/digit-recognizer-with-cnn-on-keras)
   * [MXNet Notebooks](https://github.com/dmlc/mxnet-notebooks)
   * [Textgenrnn - Python module to easily generate text using a pretrained character-based recurrent neural network](https://github.com/minimaxir/textgenrnn)
+  * [Mxnet_Tutorial](https://github.com/JONGGON/Mxnet_Tutorial)
+  * [Tensorflow implementation of different GANs and their comparisions](https://github.com/sanghoon/tf-exercise-gan)
+  * [An end-to-end tutorial for OCR recognition using CNN](https://github.com/hskang9/OCRProject)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -491,6 +500,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [DeepForge - A Modern Development Environment for Deep Learning](http://deepforge.org/)
   * [TensorFire - A framework for running neural networks in the browser, accelerated by WebGL](https://tenso.rs/)
   * [deeplearn.js - A hardware-accelerated machine intelligence library for the web](https://pair-code.github.io/deeplearnjs/)
+  * [Beholder - A TensorBoard plugin for visualizing arbitrary tensors in a video as your network trains](https://github.com/chrisranderson/beholder)
 * Dataset
   * [Fueling the Gold Rush: The Greatest Public Datasets for AI](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2)
   * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
@@ -538,6 +548,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Introduction to Imitation Learning](https://blog.statsbot.co/introduction-to-imitation-learning-32334c3b1e7a)
 * [파이썬과 케라스로 배우는 강화학습 저자특강](https://www.slideshare.net/WoongwonLee/ss-78783597)
 * [알아두면 쓸데있는 신기한 강화학습 NAVER 2017](https://www.slideshare.net/carpedm20/naver-2017)
+* [스타2 강화학습 튜토리얼 - 1편](https://brunch.co.kr/@chris-song/44)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -649,6 +660,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [데이터과학을 시작할 때 도움되는 것들](http://ppss.kr/archives/122147)
 * [데이터/통계 분석값에 대한 직관적 이해](http://ppss.kr/archives/126998)
 * [노가다 없는 텍스트 분석을 위한 한국어 NLP - Pycon Korea 2017](https://www.slideshare.net/kimhyunjoonglovit/pycon2017-koreannlp)
+* [Data Wrangling with pandas Cheat Sheet](http://danzhuibing.github.io/files/Pandas_Cheat_Sheet.pdf)
+* [Analyzing Twitter Data With Spark and Algebird](https://dzone.com/articles/data-analysis-with-spark-streaming-and-algebird)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -759,6 +772,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Intro to Machine Learning - Building a Recommendation Model using Keras](https://www.youtube.com/watch?v=KmLJgq18r28)
 * [Recommender systems with TensorFlow - Google I/O Extended Bangkok 2017](https://www.youtube.com/watch?v=AMF5wYsJJus) : [[Code]](https://github.com/fooljames/tf-reco-workshop)
 * [SVD Recommendations using Tensorflow](https://www.bonaccorso.eu/2017/08/02/svd-recommendations-using-tensorflow/)
+* [Deep-Learning-for-Recommendation-Systems](https://github.com/robi56/Deep-Learning-for-Recommendation-Systems)
+* [Genre Essentials — Building an Album Recommender System](https://medium.com/towards-data-science/genre-essentials-building-an-album-recommender-system-c89c308d16f0)
+* [How Deep Neural Networks for YouTube Recommendations Work](https://www.youtube.com/watch?v=LDljD8LM9yQ)
+* [Deep neural networks for YouTube recommendations](https://blog.acolyer.org/2016/09/19/deep-neural-networks-for-youtube-recommendations/)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
