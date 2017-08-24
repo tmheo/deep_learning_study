@@ -44,6 +44,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Introduction to Deep Neural Networks with Keras and Tensorflow](https://github.com/leriomaggio/deep-learning-keras-tensorflow)
   * [PyTorch로 시작하는 딥러닝 입문 CAMP 1기 강의자료](https://github.com/GunhoChoi/PyTorch_FastCampus)
   * [패스트캠퍼스 Deep Learning 강의 자료](https://github.com/nmhkahn/deep_learning_tutorial)
+  * [딥러닝 교육 자료](http://hugrypiggykim.com/2017/08/24/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EA%B5%90%EC%9C%A1-%EC%9E%90%EB%A3%8C-deep-learning-lecture/)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -336,6 +337,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [[Lecture] How to build a recognition system - Part 1: best practices](https://medium.com/towards-data-science/lecture-on-how-to-build-a-recognition-system-part-1-best-practices-46208e1ae591)
   * [[Lecture] Evolution: from vanilla RNN to GRU & LSTMs](https://medium.com/towards-data-science/lecture-evolution-from-vanilla-rnn-to-gru-lstms-58688f1da83a)
   * [Connecting the dots for a Deep Learning App](https://medium.com/towards-data-science/connecting-the-dots-for-a-deep-learning-app-324e4648720a)
+  * [An Intuitive Guide to Deep Network Architectures](https://medium.com/towards-data-science/an-intuitive-guide-to-deep-network-architectures-65fdc477db41)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -611,6 +613,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Kaggle 뉴욕시 임대 아파트 문제 머신러닝 튜토리얼 - Pycon Korea 2017](https://github.com/KaggleBreak/walkingkaggle/tree/master/pycon2017_kr)
 * [[SPSS 22] ROC 곡선](http://blog.naver.com/y4769/220290361813)
 * [Machine Learning Mindmap / Cheatsheet](https://github.com/dformoso/machine-learning-mindmap)
+* [Ensemble Learning to Improve Machine Learning Results](https://blog.statsbot.co/ensemble-learning-d1dcd548e936)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
