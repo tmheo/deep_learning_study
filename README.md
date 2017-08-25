@@ -338,6 +338,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [[Lecture] Evolution: from vanilla RNN to GRU & LSTMs](https://medium.com/towards-data-science/lecture-evolution-from-vanilla-rnn-to-gru-lstms-58688f1da83a)
   * [Connecting the dots for a Deep Learning App](https://medium.com/towards-data-science/connecting-the-dots-for-a-deep-learning-app-324e4648720a)
   * [An Intuitive Guide to Deep Network Architectures](https://medium.com/towards-data-science/an-intuitive-guide-to-deep-network-architectures-65fdc477db41)
+  * [Secret Sauce behind the beauty of Deep Learning: Beginners guide to Activation Functions](https://medium.com/towards-data-science/secret-sauce-behind-the-beauty-of-deep-learning-beginners-guide-to-activation-functions-a8e23a57d046)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -664,6 +665,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [노가다 없는 텍스트 분석을 위한 한국어 NLP - Pycon Korea 2017](https://www.slideshare.net/kimhyunjoonglovit/pycon2017-koreannlp)
 * [Data Wrangling with pandas Cheat Sheet](http://danzhuibing.github.io/files/Pandas_Cheat_Sheet.pdf)
 * [Analyzing Twitter Data With Spark and Algebird](https://dzone.com/articles/data-analysis-with-spark-streaming-and-algebird)
+* [Kaggle Data Science Bowl 2017 Data Preprocessing](http://nbviewer.jupyter.org/github/bckenstler/dsb17-walkthrough/blob/master/Part%201.%20DSB17%20Preprocessing.ipynb)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
