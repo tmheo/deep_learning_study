@@ -339,6 +339,13 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Connecting the dots for a Deep Learning App](https://medium.com/towards-data-science/connecting-the-dots-for-a-deep-learning-app-324e4648720a)
   * [An Intuitive Guide to Deep Network Architectures](https://medium.com/towards-data-science/an-intuitive-guide-to-deep-network-architectures-65fdc477db41)
   * [Secret Sauce behind the beauty of Deep Learning: Beginners guide to Activation Functions](https://medium.com/towards-data-science/secret-sauce-behind-the-beauty-of-deep-learning-beginners-guide-to-activation-functions-a8e23a57d046)
+  * Tensorflow Object Detection API Tutorial
+    * [Introduction and Use](https://pythonprogramming.net/introduction-use-tensorflow-object-detection-api-tutorial/)
+    * [Streaming Object Detection Video](https://pythonprogramming.net/video-tensorflow-object-detection-api-tutorial/)
+    * [Tracking Custom Objects Intro](https://pythonprogramming.net/custom-objects-tracking-tensorflow-object-detection-api-tutorial/)
+    * [Creating TFRecords](https://pythonprogramming.net/creating-tfrecord-files-tensorflow-object-detection-api-tutorial/)
+    * [Training Custom Object Detector](https://pythonprogramming.net/training-custom-objects-tensorflow-object-detection-api-tutorial/)
+    * [Testing Custom Object Detector](https://pythonprogramming.net/testing-custom-object-detector-tensorflow-object-detection-api-tutorial/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
