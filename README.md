@@ -485,6 +485,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Mxnet_Tutorial](https://github.com/JONGGON/Mxnet_Tutorial)
   * [Tensorflow implementation of different GANs and their comparisions](https://github.com/sanghoon/tf-exercise-gan)
   * [An end-to-end tutorial for OCR recognition using CNN](https://github.com/hskang9/OCRProject)
+  * [Notebook from the Deep Learning Twitch Series on AWS - MXNet](https://github.com/sunilmallya/dl-twitch-series)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
