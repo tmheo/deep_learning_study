@@ -674,6 +674,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Data Wrangling with pandas Cheat Sheet](http://danzhuibing.github.io/files/Pandas_Cheat_Sheet.pdf)
 * [Analyzing Twitter Data With Spark and Algebird](https://dzone.com/articles/data-analysis-with-spark-streaming-and-algebird)
 * [Kaggle Data Science Bowl 2017 Data Preprocessing](http://nbviewer.jupyter.org/github/bckenstler/dsb17-walkthrough/blob/master/Part%201.%20DSB17%20Preprocessing.ipynb)
+* [Pandas를 이용한 국제 상품 가격 데이터 분석](http://nbviewer.jupyter.org/gist/FinanceData/d681c1a29bb4a58b8703f0e34c2c6fce)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
