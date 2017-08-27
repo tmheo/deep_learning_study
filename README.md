@@ -514,6 +514,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * Dataset
   * [Fueling the Gold Rush: The Greatest Public Datasets for AI](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2)
   * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
+  * [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)
 
 ## Reinforcement Learning
 * [Fundamental of Reinforcement Learning](https://www.gitbook.com/book/dnddnjs/rl/)
