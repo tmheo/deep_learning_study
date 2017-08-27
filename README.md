@@ -790,6 +790,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Genre Essentials — Building an Album Recommender System](https://medium.com/towards-data-science/genre-essentials-building-an-album-recommender-system-c89c308d16f0)
 * [How Deep Neural Networks for YouTube Recommendations Work](https://www.youtube.com/watch?v=LDljD8LM9yQ)
 * [Deep neural networks for YouTube recommendations](https://blog.acolyer.org/2016/09/19/deep-neural-networks-for-youtube-recommendations/)
+* [Curated list of Recommendation System](https://handong1587.github.io/deep_learning/2015/10/09/recommendation-system.html)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
