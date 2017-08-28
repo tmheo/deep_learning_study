@@ -611,7 +611,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Churn Prediction with Apache Spark Machine Learning](https://mapr.com/blog/churn-prediction-sparkml/)
 * [MNIST 시각화 - 차원 감소](https://brunch.co.kr/@chris-song/37)
 * [precision, recall의 이해](http://darkpgmr.tistory.com/162)
-* [SVD와 PCA, 그리고 잠재의미분석[LSA](https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/04/06/pcasvdlsa/)
+* [SVD와 PCA, 그리고 잠재의미분석[LSA]](https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/04/06/pcasvdlsa/)
 * ElasticSearch Machine Learning
   * [머신러닝으로 시스템의 이상 징후를 자동으로 파악하기](https://blog.naver.com/PostView.nhn?blogId=olpaemi&logNo=221068922550)
   * [머신러닝으로 시스템 이상 징후를 자동으로 분석하는 예제 따라하기](https://blog.naver.com/PostView.nhn?blogId=olpaemi&logNo=221068974781)
