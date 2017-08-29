@@ -346,6 +346,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
     * [Creating TFRecords](https://pythonprogramming.net/creating-tfrecord-files-tensorflow-object-detection-api-tutorial/)
     * [Training Custom Object Detector](https://pythonprogramming.net/training-custom-objects-tensorflow-object-detection-api-tutorial/)
     * [Testing Custom Object Detector](https://pythonprogramming.net/testing-custom-object-detector-tensorflow-object-detection-api-tutorial/)
+  * [A Deep Learning Based AI for Path of Exile: A Series](https://nicholastsmith.wordpress.com/2017/07/08/a-deep-learning-based-ai-for-path-of-exile-a-series/)
+  * [Deploying your Keras model using Keras.JS](https://medium.com/@burgalon/deploying-your-keras-model-using-keras-js-2e5a29589ad8)
+  * [Learning GAN](http://jsideas.net/python/2017/07/01/GAN.html)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -422,6 +425,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [AWS re:Invent 2016: Workshop: Deploy a Deep Learning Framework on Amazon ECS](https://www.slideshare.net/AmazonWebServices/aws-reinvent-2016-workshop-deploy-a-deep-learning-framework-on-amazon-ecs-con314) : [[Code]](https://github.com/awslabs/ecs-deep-learning-workshop)
   * [PYCON KR 2017 - 구름이 하늘의 일이라면[Python과 TensorFlow를 이용한 기상예측]](https://www.slideshare.net/haezoom/pycon-kr-2017)
   * [Deep learning framework 제작](https://www.slideshare.net/taeyounglee1447/deep-learning-framework)
+  * [1시간만에 GAN[Generative Adversarial Network] 완전 정복하기](https://www.slideshare.net/NaverEngineering/1-gangenerative-adversarial-network)
+  * [Build, Scale, and Deploy Deep Learning Pipelines with Ease Using Apache Spark](https://www.slideshare.net/databricks/build-scale-and-deploy-deep-learning-pipelines-with-ease-using-apache-spark)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -486,6 +491,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Tensorflow implementation of different GANs and their comparisions](https://github.com/sanghoon/tf-exercise-gan)
   * [An end-to-end tutorial for OCR recognition using CNN](https://github.com/hskang9/OCRProject)
   * [Notebook from the Deep Learning Twitch Series on AWS - MXNet](https://github.com/sunilmallya/dl-twitch-series)
+  * [Tensorflow implementation of various GANs and VAEs](https://github.com/hwalsuklee/tensorflow-generative-model-collections)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -559,7 +565,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Introduction to Imitation Learning](https://blog.statsbot.co/introduction-to-imitation-learning-32334c3b1e7a)
 * [파이썬과 케라스로 배우는 강화학습 저자특강](https://www.slideshare.net/WoongwonLee/ss-78783597)
 * [알아두면 쓸데있는 신기한 강화학습 NAVER 2017](https://www.slideshare.net/carpedm20/naver-2017)
-* [스타2 강화학습 튜토리얼 - 1편](https://brunch.co.kr/@chris-song/44)
+* 스타2 강화학습 튜토리얼
+  * [1편](https://brunch.co.kr/@chris-song/44)
+  * [2편](https://brunch.co.kr/@chris-song/48)
+* [Contextual Bandits and Reinforcement Learning](https://medium.com/towards-data-science/contextual-bandits-and-reinforcement-learning-6bdfeaece72a)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -676,6 +685,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Analyzing Twitter Data With Spark and Algebird](https://dzone.com/articles/data-analysis-with-spark-streaming-and-algebird)
 * [Kaggle Data Science Bowl 2017 Data Preprocessing](http://nbviewer.jupyter.org/github/bckenstler/dsb17-walkthrough/blob/master/Part%201.%20DSB17%20Preprocessing.ipynb)
 * [Pandas를 이용한 국제 상품 가격 데이터 분석](http://nbviewer.jupyter.org/gist/FinanceData/d681c1a29bb4a58b8703f0e34c2c6fce)
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+* [따라 하며 배우는 데이터 과학](https://dataninja.me/ipds-kr/)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
