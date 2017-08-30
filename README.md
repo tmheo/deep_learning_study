@@ -18,7 +18,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Oxford - Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
   * [Deep learning courses at UC Berkeley](https://berkeley-deep-learning.github.io/)
   * [T81-558:Applications of Deep Neural Networks](https://sites.wustl.edu/jeffheaton/t81-558/)
-  * [MILA - DEEP LEARNING AND REINFORCEMENT LEARNING SUMMER SCHOOL 2017](https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/slides/)
+  * [MILA - DEEP LEARNING AND REINFORCEMENT LEARNING SUMMER SCHOOL 2017](https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/slides/) : [[Video]](http://videolectures.net/deeplearning2017_montreal/)
   * [CS 598 LAZ: Cutting-Edge Trends in Deep Learning and Recognition](http://slazebni.cs.illinois.edu/spring17/)
   * KAIST Machine Learning Lecture
     * [[기계학습, 인공지능, 머신러닝] 한국어 기계 학습 강좌](https://www.youtube.com/playlist?list=PLbhbGI_ppZISMV4tAWHlytBqNq1-lb8bz)
