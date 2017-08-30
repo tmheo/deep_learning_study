@@ -293,7 +293,6 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [37 Reasons why your Neural Network is not working](https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607)
   * [37 Reasons why your Neural Network is not working 번역](http://daehoon.tistory.com/2)
   * [A Step-by-Step Guide to Synthesizing Adversarial Examples](http://www.anishathalye.com/2017/07/25/synthesizing-adversarial-examples/)
-  * [22 must watch talks on Python for Deep Learning, Machine Learning & Data Science from PyData 2017, Amsterdam](https://www.analyticsvidhya.com/blog/2017/05/pydata-amsterdam-2017-machine-learning-deep-learning-data-science/)
   * [Deep Learning for NLP Best Practices](http://ruder.io/deep-learning-nlp-best-practices/index.html)
   * [Exploiting the Unique Features of the Apache MXNet Deep Learning Framework with a Cheat Sheet](https://aws.amazon.com/blogs/ai/exploiting-the-unique-features-of-the-apache-mxnet-deep-learning-framework-with-a-cheat-sheet/)
   * [How to train your own Object Detector with TensorFlow’s Object Detector API](https://medium.com/towards-data-science/how-to-train-your-own-object-detector-with-tensorflows-object-detector-api-bec72ecfe1d9)
