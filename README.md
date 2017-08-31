@@ -64,6 +64,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Distill - Machine Learning Research Journal](http://distill.pub/)
   * [ArxivSanityKr](https://www.facebook.com/ArxivSanityKr/)
   * [Towards Data Science - Sharing concepts, ideas, and codes.](https://medium.com/towards-data-science)
+  * [카카오 AI 매거진](https://brunch.co.kr/magazine/kakaoaireport)
 * Article
   * [Andrej Karpathy's Deep Learning Blog](http://karpathy.github.io/)
   * [머신러닝 딥러닝 입문 시 도움 되는 강좌](https://www.facebook.com/groups/TensorFlowKR/permalink/485458151795248/)
@@ -202,7 +203,6 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Introducing tf-seq2seq: An Open Source Sequence-to-Sequence Framework in TensorFlow](https://research.googleblog.com/2017/04/introducing-tf-seq2seq-open-source.html)
   * [Kaggle DSTL Competition](https://fuzer.github.io/DSTL/)
   * [14 DESIGN PATTERNS TO IMPROVE YOUR CONVOLUTIONAL NEURAL NETWORKS](http://www.topbots.com/14-design-patterns-improve-convolutional-neural-network-cnn-architecture/)
-  * [카카오 AI 매거진](https://brunch.co.kr/magazine/kakaoaireport)
   * [MXNet을 활용한 이미지 분류 앱 개발하기](http://www.popit.kr/mxnet%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B6%84%EB%A5%98-%EC%95%B1-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0/)
   * [Tensorflow Tutorial 2: image classifier using convolutional neural network](http://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/)
   * [Rohan & Lenny #3: Recurrent Neural Networks & LSTMs](https://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-10300100899b)
@@ -348,6 +348,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [A Deep Learning Based AI for Path of Exile: A Series](https://nicholastsmith.wordpress.com/2017/07/08/a-deep-learning-based-ai-for-path-of-exile-a-series/)
   * [Deploying your Keras model using Keras.JS](https://medium.com/@burgalon/deploying-your-keras-model-using-keras-js-2e5a29589ad8)
   * [Learning GAN](http://jsideas.net/python/2017/07/01/GAN.html)
+  * [A Word2Vec Keras tutorial](http://adventuresinmachinelearning.com/word2vec-keras-tutorial/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -491,6 +492,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [An end-to-end tutorial for OCR recognition using CNN](https://github.com/hskang9/OCRProject)
   * [Notebook from the Deep Learning Twitch Series on AWS - MXNet](https://github.com/sunilmallya/dl-twitch-series)
   * [Tensorflow implementation of various GANs and VAEs](https://github.com/hwalsuklee/tensorflow-generative-model-collections)
+  * [Pytorch implementation of various GANs](https://github.com/znxlwm/pytorch-generative-model-collections)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -801,6 +803,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [How Deep Neural Networks for YouTube Recommendations Work](https://www.youtube.com/watch?v=LDljD8LM9yQ)
 * [Deep neural networks for YouTube recommendations](https://blog.acolyer.org/2016/09/19/deep-neural-networks-for-youtube-recommendations/)
 * [Curated list of Recommendation System](https://handong1587.github.io/deep_learning/2015/10/09/recommendation-system.html)
+* [A Glimpse into Deep Learning for Recommender Systems](https://medium.com/@libreai/a-glimpse-into-deep-learning-for-recommender-systems-d66ae0681775)
+* [Deep Learning for Recommender Systems RecSys2017 Tutorial](https://www.slideshare.net/kerveros99/deep-learning-for-recommender-systems-recsys2017-tutorial)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
