@@ -350,6 +350,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Learning GAN](http://jsideas.net/python/2017/07/01/GAN.html)
   * [A Word2Vec Keras tutorial](http://adventuresinmachinelearning.com/word2vec-keras-tutorial/)
   * [Neural Networks Part 2: Implementing a Neural Network function in python using Keras](https://medium.com/towards-data-science/neural-networks-part-2-implementing-a-neural-network-function-in-python-using-keras-1ba80aba03df)
+  * [Tutorial - What is a variational autoencoder?](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -504,6 +505,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [MXNet - AWS](http://mxnet.io/)
   * [CNTK - Microsoft](https://www.microsoft.com/en-us/research/product/cognitive-toolkit/)
   * [PaddlePaddle - Baidu](http://www.paddlepaddle.org/)
+  * [Neural Network Libraries - Sony](https://nnabla.org/)
   * [Caffe](http://caffe.berkeleyvision.org/)
   * [Theano](http://deeplearning.net/software/theano/)
   * [Torch](http://torch.ch/)
@@ -809,6 +811,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Curated list of Recommendation System](https://handong1587.github.io/deep_learning/2015/10/09/recommendation-system.html)
 * [A Glimpse into Deep Learning for Recommender Systems](https://medium.com/@libreai/a-glimpse-into-deep-learning-for-recommender-systems-d66ae0681775)
 * [Deep Learning for Recommender Systems RecSys2017 Tutorial](https://www.slideshare.net/kerveros99/deep-learning-for-recommender-systems-recsys2017-tutorial)
+* [Code for our ACM RecSys 2017 paper "Personalizing Session-based Recommendation with Hierarchical Recurrent Neural Networks"](https://github.com/mquad/hgru4rec)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
