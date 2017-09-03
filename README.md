@@ -10,7 +10,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
     * [딥 러닝을 위한 콘볼루션 계산 가이드](https://tensorflow.blog/a-guide-to-convolution-arithmetic-for-deep-learning/)
   * [Andrew Ng's Coursera Machine Learning](https://www.coursera.org/learn/machine-learning)
   * [Stanford - CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) : [[Video]](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv), [[Korean]](http://aikorea.org/cs231n/), [[Video - Korean]](https://www.youtube.com/playlist?list=PL1Kb3QTCLIVtyOuMgyVgT-OeW0PYXl3j5)
-  * [Stanford - CS224n: Deep Learning for Natural Language Processing](http://web.stanford.edu/class/cs224n/)
+  * [Stanford - CS224n: Deep Learning for Natural Language Processing](http://web.stanford.edu/class/cs224n/) : [[Video]](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
   * [Stanford - Unsupervised Feature Learning and Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
   * [Stanford - Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/)
   * [MIT - 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
