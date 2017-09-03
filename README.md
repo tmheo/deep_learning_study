@@ -349,6 +349,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deploying your Keras model using Keras.JS](https://medium.com/@burgalon/deploying-your-keras-model-using-keras-js-2e5a29589ad8)
   * [Learning GAN](http://jsideas.net/python/2017/07/01/GAN.html)
   * [A Word2Vec Keras tutorial](http://adventuresinmachinelearning.com/word2vec-keras-tutorial/)
+  * [Neural Networks Part 2: Implementing a Neural Network function in python using Keras](https://medium.com/towards-data-science/neural-networks-part-2-implementing-a-neural-network-function-in-python-using-keras-1ba80aba03df)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
