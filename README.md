@@ -352,6 +352,15 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Neural Networks Part 2: Implementing a Neural Network function in python using Keras](https://medium.com/towards-data-science/neural-networks-part-2-implementing-a-neural-network-function-in-python-using-keras-1ba80aba03df)
   * [Tutorial - What is a variational autoencoder?](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)
   * [2017 beginner's review of GAN architectures](https://sigmoidal.io/beginners-review-of-gan-architectures/)
+  * [My Neural Network isn't working! What should I do?](http://theorangeduck.com/page/neural-network-not-working)
+  * [Keras shoot-out: TensorFlow vs MXNet](https://medium.com/@julsimon/keras-shoot-out-tensorflow-vs-mxnet-51ae2b30a9c0)
+  * Applied Deep Learning
+    * [Part 1: Artificial Neural Networks](https://medium.com/towards-data-science/applied-deep-learning-part-1-artificial-neural-networks-d7834f67a4f6)
+    * [Part 2: Real World Case Studies](https://medium.com/towards-data-science/applied-deep-learning-part-2-real-world-case-studies-1bb4b142a585)
+  * [BigData와 결합한, 분산 Deep Learning 그 의미와 접근 방법에 대하여](http://hoondongkim.blogspot.kr/2017/09/bigdata-distributed-deep-learning.html)
+  * [Deep Learning with Intel’s BigDL and Apache Spark](http://blog.cloudera.com/blog/2017/09/deep-learning-with-intels-bigdl-and-apache-spark/)
+  * [My Workflow of Supervised Learning - 지도학습의 자세한 나만의 워크플로우](http://ljs93kr.tistory.com/80)
+  * [Python gensim Word2Vec tutorial with TensorFlow and Keras](http://adventuresinmachinelearning.com/gensim-word2vec-tutorial/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -428,7 +437,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [AWS re:Invent 2016: Workshop: Deploy a Deep Learning Framework on Amazon ECS](https://www.slideshare.net/AmazonWebServices/aws-reinvent-2016-workshop-deploy-a-deep-learning-framework-on-amazon-ecs-con314) : [[Code]](https://github.com/awslabs/ecs-deep-learning-workshop)
   * [PYCON KR 2017 - 구름이 하늘의 일이라면[Python과 TensorFlow를 이용한 기상예측]](https://www.slideshare.net/haezoom/pycon-kr-2017)
   * [Deep learning framework 제작](https://www.slideshare.net/taeyounglee1447/deep-learning-framework)
-  * [1시간만에 GAN[Generative Adversarial Network] 완전 정복하기](https://www.slideshare.net/NaverEngineering/1-gangenerative-adversarial-network)
+  * [1시간만에 GAN[Generative Adversarial Network] 완전 정복하기](https://www.slideshare.net/NaverEngineering/1-gangenerative-adversarial-network) : [[Video]](https://youtu.be/odpjk7_tGY0)
   * [Build, Scale, and Deploy Deep Learning Pipelines with Ease Using Apache Spark](https://www.slideshare.net/databricks/build-scale-and-deploy-deep-learning-pipelines-with-ease-using-apache-spark)
   * [Deep learning text NLP and Spark Collaboration. 한글 딥러닝 Text NLP & Spark](https://www.slideshare.net/ssusere94328/deep-learning-text-nlp-and-spark-collaboration-text-nlp-spark)
   * [Understanding RCNN Family](https://www.slideshare.net/ssuser73ec8f/understanding-rcnn-family)
@@ -498,6 +507,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Notebook from the Deep Learning Twitch Series on AWS - MXNet](https://github.com/sunilmallya/dl-twitch-series)
   * [Tensorflow implementation of various GANs and VAEs](https://github.com/hwalsuklee/tensorflow-generative-model-collections)
   * [Pytorch implementation of various GANs](https://github.com/znxlwm/pytorch-generative-model-collections)
+  * [Chatbot in 200 lines of code](https://github.com/zsdonghao/seq2seq-chatbot)
+  * [Jupyter notebooks for the code samples of the book "Deep Learning with Python"](https://github.com/fchollet/deep-learning-with-python-notebooks)
+  * [Python package with source code from the course "Creative Applications of Deep Learning w/ TensorFlow"](https://github.com/pkmital/pycadl)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -577,6 +589,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [2편](https://brunch.co.kr/@chris-song/48)
 * [Contextual Bandits and Reinforcement Learning](https://medium.com/towards-data-science/contextual-bandits-and-reinforcement-learning-6bdfeaece72a)
 * [RLCode와 A3C 쉽고 깊게 이해하기](https://www.slideshare.net/WoongwonLee/rlcode-a3c)
+* [Introduction of Deep Reinforcement Learning](https://www.slideshare.net/NaverEngineering/introduction-of-deep-reinforcement-learning) : [[Video]](https://youtu.be/dw0sHzE1oAc)
+* [5 Ways to Get Started with Reinforcement Learning](https://buzzrobot.com/5-ways-to-get-started-with-reinforcement-learning-b96d1989c575)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -641,6 +655,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [[SPSS 22] ROC 곡선](http://blog.naver.com/y4769/220290361813)
 * [Machine Learning Mindmap / Cheatsheet](https://github.com/dformoso/machine-learning-mindmap)
 * [Ensemble Learning to Improve Machine Learning Results](https://blog.statsbot.co/ensemble-learning-d1dcd548e936)
+* [MEET MICHELANGELO: UBER’S MACHINE LEARNING PLATFORM](https://eng.uber.com/michelangelo/)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -695,6 +710,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Pandas를 이용한 국제 상품 가격 데이터 분석](http://nbviewer.jupyter.org/gist/FinanceData/d681c1a29bb4a58b8703f0e34c2c6fce)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [따라 하며 배우는 데이터 과학](https://dataninja.me/ipds-kr/)
+* [문용준님의 Python Data Science Tutorial Code](https://github.com/zerosum99)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -813,6 +829,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [A Glimpse into Deep Learning for Recommender Systems](https://medium.com/@libreai/a-glimpse-into-deep-learning-for-recommender-systems-d66ae0681775)
 * [Deep Learning for Recommender Systems RecSys2017 Tutorial](https://www.slideshare.net/kerveros99/deep-learning-for-recommender-systems-recsys2017-tutorial)
 * [Code for our ACM RecSys 2017 paper "Personalizing Session-based Recommendation with Hierarchical Recurrent Neural Networks"](https://github.com/mquad/hgru4rec)
+* [Recommender Systems In Industry](https://www.slideshare.net/xamat/recommender-systems-in-industry)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
