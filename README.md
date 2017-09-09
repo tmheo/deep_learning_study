@@ -362,6 +362,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [My Workflow of Supervised Learning - 지도학습의 자세한 나만의 워크플로우](http://ljs93kr.tistory.com/80)
   * [Python gensim Word2Vec tutorial with TensorFlow and Keras](http://adventuresinmachinelearning.com/gensim-word2vec-tutorial/)
   * [Time Series Prediction Using Recurrent Neural Networks [LSTMs]](https://blog.statsbot.co/time-series-prediction-using-recurrent-neural-networks-lstms-807fa6ca7f)
+  * [GCP ML 엔진 튜토리얼: 텐서플로우 고수준 API로 작성된 CIFAR-10 모델의 초모수 최적화 하기](http://webofthink.tistory.com/76)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -511,6 +512,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Chatbot in 200 lines of code](https://github.com/zsdonghao/seq2seq-chatbot)
   * [Jupyter notebooks for the code samples of the book "Deep Learning with Python"](https://github.com/fchollet/deep-learning-with-python-notebooks)
   * [Python package with source code from the course "Creative Applications of Deep Learning w/ TensorFlow"](https://github.com/pkmital/pycadl)
+  * [GANs comparison without cherry-picking](https://github.com/khanrc/tf.gans-comparison)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -537,6 +539,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [TensorFire - A framework for running neural networks in the browser, accelerated by WebGL](https://tenso.rs/)
   * [deeplearn.js - A hardware-accelerated machine intelligence library for the web](https://pair-code.github.io/deeplearnjs/)
   * [Beholder - A TensorBoard plugin for visualizing arbitrary tensors in a video as your network trains](https://github.com/chrisranderson/beholder)
+  * [AllenNLP - An open-source NLP research library, built on PyTorch](http://allennlp.org/)
 * Dataset
   * [Fueling the Gold Rush: The Greatest Public Datasets for AI](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2)
   * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
