@@ -361,6 +361,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deep Learning with Intel’s BigDL and Apache Spark](http://blog.cloudera.com/blog/2017/09/deep-learning-with-intels-bigdl-and-apache-spark/)
   * [My Workflow of Supervised Learning - 지도학습의 자세한 나만의 워크플로우](http://ljs93kr.tistory.com/80)
   * [Python gensim Word2Vec tutorial with TensorFlow and Keras](http://adventuresinmachinelearning.com/gensim-word2vec-tutorial/)
+  * [Time Series Prediction Using Recurrent Neural Networks [LSTMs]](https://blog.statsbot.co/time-series-prediction-using-recurrent-neural-networks-lstms-807fa6ca7f)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -588,7 +589,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [1편](https://brunch.co.kr/@chris-song/44)
   * [2편](https://brunch.co.kr/@chris-song/48)
 * [Contextual Bandits and Reinforcement Learning](https://medium.com/towards-data-science/contextual-bandits-and-reinforcement-learning-6bdfeaece72a)
-* [RLCode와 A3C 쉽고 깊게 이해하기](https://www.slideshare.net/WoongwonLee/rlcode-a3c)
+* [RLCode와 A3C 쉽고 깊게 이해하기](https://www.slideshare.net/WoongwonLee/rlcode-a3c) : [[Video]](https://www.youtube.com/watch?v=gINks-YCTBs)
 * [Introduction of Deep Reinforcement Learning](https://www.slideshare.net/NaverEngineering/introduction-of-deep-reinforcement-learning) : [[Video]](https://youtu.be/dw0sHzE1oAc)
 * [5 Ways to Get Started with Reinforcement Learning](https://buzzrobot.com/5-ways-to-get-started-with-reinforcement-learning-b96d1989c575)
 
