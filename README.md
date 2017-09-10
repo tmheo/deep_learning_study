@@ -363,6 +363,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Python gensim Word2Vec tutorial with TensorFlow and Keras](http://adventuresinmachinelearning.com/gensim-word2vec-tutorial/)
   * [Time Series Prediction Using Recurrent Neural Networks [LSTMs]](https://blog.statsbot.co/time-series-prediction-using-recurrent-neural-networks-lstms-807fa6ca7f)
   * [GCP ML 엔진 튜토리얼: 텐서플로우 고수준 API로 작성된 CIFAR-10 모델의 초모수 최적화 하기](http://webofthink.tistory.com/76)
+  * [Familiarization of Sequence to Sequence model in Deep Learning](https://medium.com/towards-data-science/sequence-to-sequence-using-encoder-decoder-15e579c10a94)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -834,6 +835,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Deep Learning for Recommender Systems RecSys2017 Tutorial](https://www.slideshare.net/kerveros99/deep-learning-for-recommender-systems-recsys2017-tutorial)
 * [Code for our ACM RecSys 2017 paper "Personalizing Session-based Recommendation with Hierarchical Recurrent Neural Networks"](https://github.com/mquad/hgru4rec)
 * [Recommender Systems In Industry](https://www.slideshare.net/xamat/recommender-systems-in-industry)
+* [Deep AutoEncoders for Collaborative Filtering](https://github.com/NVIDIA/DeepRecommender)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
