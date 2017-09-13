@@ -364,6 +364,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Time Series Prediction Using Recurrent Neural Networks [LSTMs]](https://blog.statsbot.co/time-series-prediction-using-recurrent-neural-networks-lstms-807fa6ca7f)
   * [GCP ML 엔진 튜토리얼: 텐서플로우 고수준 API로 작성된 CIFAR-10 모델의 초모수 최적화 하기](http://webofthink.tistory.com/76)
   * [Familiarization of Sequence to Sequence model in Deep Learning](https://medium.com/towards-data-science/sequence-to-sequence-using-encoder-decoder-15e579c10a94)
+  * [Understanding LSTM in Tensorflow[MNIST dataset]](https://jasdeep06.github.io/posts/Understanding-LSTM-in-Tensorflow-MNIST/)
+  * [Deep Learning for Object Detection: A Comprehensive Review](https://medium.com/towards-data-science/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -444,6 +446,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Build, Scale, and Deploy Deep Learning Pipelines with Ease Using Apache Spark](https://www.slideshare.net/databricks/build-scale-and-deploy-deep-learning-pipelines-with-ease-using-apache-spark)
   * [Deep learning text NLP and Spark Collaboration. 한글 딥러닝 Text NLP & Spark](https://www.slideshare.net/ssusere94328/deep-learning-text-nlp-and-spark-collaboration-text-nlp-spark)
   * [Understanding RCNN Family](https://www.slideshare.net/ssuser73ec8f/understanding-rcnn-family)
+  * [자습해도 모르겠던 딥러닝, 머리속에 인스톨 시켜드립니다.](https://www.slideshare.net/yongho/ss-79607172)
+  * [Applying deep learning to medical data](https://www.slideshare.net/hyunseokmin/applying-deep-learning-to-medical-data)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -588,7 +592,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [실용주의 머신러닝 6회차 [Jeju ML camp 2017] - Deep Reinforcement Learning based Self Driving Car](https://www.youtube.com/watch?v=IL5V_MdN7YY) : [[Code]](https://github.com/MLJejuCamp2017/DRL_based_SelfDrivingCarControl)
 * [Introduction to Imitation Learning](https://blog.statsbot.co/introduction-to-imitation-learning-32334c3b1e7a)
 * [파이썬과 케라스로 배우는 강화학습 저자특강](https://www.slideshare.net/WoongwonLee/ss-78783597)
-* [알아두면 쓸데있는 신기한 강화학습 NAVER 2017](https://www.slideshare.net/carpedm20/naver-2017)
+* [알아두면 쓸데있는 신기한 강화학습 NAVER 2017](https://www.slideshare.net/carpedm20/naver-2017) : [[Video]](https://www.youtube.com/watch?v=NGGO0zdzhVQ)
 * 스타2 강화학습 튜토리얼
   * [1편](https://brunch.co.kr/@chris-song/44)
   * [2편](https://brunch.co.kr/@chris-song/48)
@@ -836,6 +840,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Code for our ACM RecSys 2017 paper "Personalizing Session-based Recommendation with Hierarchical Recurrent Neural Networks"](https://github.com/mquad/hgru4rec)
 * [Recommender Systems In Industry](https://www.slideshare.net/xamat/recommender-systems-in-industry)
 * [Deep AutoEncoders for Collaborative Filtering](https://github.com/NVIDIA/DeepRecommender)
+* [Deep NLP-based Recommenders at Finn.no](https://tech.finn.no/2017/09/08/NLP-based-recommenders-at-finn/)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
