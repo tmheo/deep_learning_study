@@ -603,6 +603,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [RLCode와 A3C 쉽고 깊게 이해하기](https://www.slideshare.net/WoongwonLee/rlcode-a3c) : [[Video]](https://www.youtube.com/watch?v=gINks-YCTBs)
 * [Introduction of Deep Reinforcement Learning](https://www.slideshare.net/NaverEngineering/introduction-of-deep-reinforcement-learning) : [[Video]](https://youtu.be/dw0sHzE1oAc)
 * [5 Ways to Get Started with Reinforcement Learning](https://buzzrobot.com/5-ways-to-get-started-with-reinforcement-learning-b96d1989c575)
+* [강화학습 공부 로드맵](https://www.facebook.com/groups/TensorFlowKR/permalink/531360767204986/)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
