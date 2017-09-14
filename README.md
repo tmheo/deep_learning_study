@@ -45,6 +45,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [PyTorch로 시작하는 딥러닝 입문 CAMP 1기 강의자료](https://github.com/GunhoChoi/PyTorch_FastCampus)
   * [패스트캠퍼스 Deep Learning 강의 자료](https://github.com/nmhkahn/deep_learning_tutorial)
   * [딥러닝 교육 자료](http://hugrypiggykim.com/2017/08/24/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EA%B5%90%EC%9C%A1-%EC%9E%90%EB%A3%8C-deep-learning-lecture/)
+  * [Keras 레퍼런스 - CodeOnWeb](https://www.codeonweb.com/course/@keras-references)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -366,6 +367,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Familiarization of Sequence to Sequence model in Deep Learning](https://medium.com/towards-data-science/sequence-to-sequence-using-encoder-decoder-15e579c10a94)
   * [Understanding LSTM in Tensorflow[MNIST dataset]](https://jasdeep06.github.io/posts/Understanding-LSTM-in-Tensorflow-MNIST/)
   * [Deep Learning for Object Detection: A Comprehensive Review](https://medium.com/towards-data-science/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9)
+  * [Detecting Malicious Requests with Keras & Tensorflow](https://medium.com/slalom-engineering/detecting-malicious-requests-with-keras-tensorflow-5d5db06b4f28)
+  * [Recognizing Game Genres From Screenshots using CNNs](https://vanhavel.github.io/2017/09/12/cnn-games.html)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -665,6 +668,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Machine Learning Mindmap / Cheatsheet](https://github.com/dformoso/machine-learning-mindmap)
 * [Ensemble Learning to Improve Machine Learning Results](https://blog.statsbot.co/ensemble-learning-d1dcd548e936)
 * [MEET MICHELANGELO: UBER’S MACHINE LEARNING PLATFORM](https://eng.uber.com/michelangelo/)
+* [Dimensionality Reduction Using t-SNE](https://www.displayr.com/using-t-sne-to-visualize-data-before-prediction/)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -720,6 +724,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [따라 하며 배우는 데이터 과학](https://dataninja.me/ipds-kr/)
 * [문용준님의 Python Data Science Tutorial Code](https://github.com/zerosum99)
+* [Python Seaborn Cheat Sheet For Statistical Data Visualization](https://medium.com/towards-data-science/python-seaborn-cheat-sheet-for-statistical-data-visualization-5428d07d2c9b)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -841,6 +846,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Recommender Systems In Industry](https://www.slideshare.net/xamat/recommender-systems-in-industry)
 * [Deep AutoEncoders for Collaborative Filtering](https://github.com/NVIDIA/DeepRecommender)
 * [Deep NLP-based Recommenders at Finn.no](https://tech.finn.no/2017/09/08/NLP-based-recommenders-at-finn/)
+* [Film recommendation engine - Kaggle](https://www.kaggle.com/fabiendaniel/film-recommendation-engine/notebook)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
