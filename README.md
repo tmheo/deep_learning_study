@@ -854,6 +854,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Deep NLP-based Recommenders at Finn.no](https://tech.finn.no/2017/09/08/NLP-based-recommenders-at-finn/)
 * [Film recommendation engine - Kaggle](https://www.kaggle.com/fabiendaniel/film-recommendation-engine/notebook)
 * [Public Recommendation Data - goodbooks-10k](https://github.com/zygmuntz/goodbooks-10k)
+* [Deep Learning in Recommender Systems - RecSys Summer School 2017](https://www.slideshare.net/balazshidasi/deep-learning-in-recommender-systems-recsys-summer-school-2017)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
