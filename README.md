@@ -369,6 +369,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deep Learning for Object Detection: A Comprehensive Review](https://medium.com/towards-data-science/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9)
   * [Detecting Malicious Requests with Keras & Tensorflow](https://medium.com/slalom-engineering/detecting-malicious-requests-with-keras-tensorflow-5d5db06b4f28)
   * [Recognizing Game Genres From Screenshots using CNNs](https://vanhavel.github.io/2017/09/12/cnn-games.html)
+  * [Deep Learning with Intel’s BigDL and Apache Spark](http://blog.cloudera.com/blog/2017/09/deep-learning-with-intels-bigdl-and-apache-spark/)
+  * [Keras Tutorial: Content Based Image Retrieval Using a Convolutional Denoising Autoencoder](https://blog.sicara.com/keras-tutorial-content-based-image-retrieval-convolutional-denoising-autoencoder-dc91450cc511)
+  * [How to write distributed TensorFlow code — with an example on TensorPort](https://medium.com/towards-data-science/how-to-write-distributed-tensorflow-code-with-an-example-on-tensorport-70bf3306adcb)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -848,6 +851,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Deep AutoEncoders for Collaborative Filtering](https://github.com/NVIDIA/DeepRecommender)
 * [Deep NLP-based Recommenders at Finn.no](https://tech.finn.no/2017/09/08/NLP-based-recommenders-at-finn/)
 * [Film recommendation engine - Kaggle](https://www.kaggle.com/fabiendaniel/film-recommendation-engine/notebook)
+* [Public Recommendation Data - goodbooks-10k](https://github.com/zygmuntz/goodbooks-10k)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
