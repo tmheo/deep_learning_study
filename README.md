@@ -374,6 +374,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [How to write distributed TensorFlow code — with an example on TensorPort](https://medium.com/towards-data-science/how-to-write-distributed-tensorflow-code-with-an-example-on-tensorport-70bf3306adcb)
   * [Build your own Machine Learning Visualizations with the new TensorBoard API](https://research.googleblog.com/2017/09/build-your-own-machine-learning.html)
   * [Gradient Trader Part 1: The Surprising Usefulness of Autoencoders](http://rickyhan.com/jekyll/update/2017/09/14/autoencoders.html)
+  * [Create self-driving trucks inside Euro Truck Simulator 2](https://medium.com/mars-auto/create-self-driving-trucks-inside-euro-truck-simulator-2-c64424d528ed)
+  * [Dealing with Unbalanced Classes in Machine Learning](http://www.deepideas.net/unbalanced-classes-machine-learning/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
