@@ -376,6 +376,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Gradient Trader Part 1: The Surprising Usefulness of Autoencoders](http://rickyhan.com/jekyll/update/2017/09/14/autoencoders.html)
   * [Create self-driving trucks inside Euro Truck Simulator 2](https://medium.com/mars-auto/create-self-driving-trucks-inside-euro-truck-simulator-2-c64424d528ed)
   * [Dealing with Unbalanced Classes in Machine Learning](http://www.deepideas.net/unbalanced-classes-machine-learning/)
+  * [Introduction to TensorFlow Datasets and Estimators](https://developers.googleblog.com/2017/09/introducing-tensorflow-datasets.html)
+  * [Higher-Level APIs in TensorFlow](https://medium.com/onfido-tech/higher-level-apis-in-tensorflow-67bfb602e6c0)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -528,6 +530,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Jupyter notebooks for the code samples of the book "Deep Learning with Python"](https://github.com/fchollet/deep-learning-with-python-notebooks)
   * [Python package with source code from the course "Creative Applications of Deep Learning w/ TensorFlow"](https://github.com/pkmital/pycadl)
   * [GANs comparison without cherry-picking](https://github.com/khanrc/tf.gans-comparison)
+  * [Simple GAN model using keras with Fashion-mnist data](https://github.com/jihobak/simple_gan)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -611,6 +614,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Introduction of Deep Reinforcement Learning](https://www.slideshare.net/NaverEngineering/introduction-of-deep-reinforcement-learning) : [[Video]](https://youtu.be/dw0sHzE1oAc)
 * [5 Ways to Get Started with Reinforcement Learning](https://buzzrobot.com/5-ways-to-get-started-with-reinforcement-learning-b96d1989c575)
 * [강화학습 공부 로드맵](https://www.facebook.com/groups/TensorFlowKR/permalink/531360767204986/)
+* [게임과 AI #1 심층강화학습과 AI](http://blog.ncsoft.com/?p=29996)
+* [게임과 AI #2 블레이드 & 소울과 게임 AI Part. 1](http://blog.ncsoft.com/?p=30747)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
