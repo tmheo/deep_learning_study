@@ -479,6 +479,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [PyDataTV](https://www.youtube.com/user/PyDataTV)
   * [Deep Learning with Tensorflow - Cognitive Class](https://www.youtube.com/playlist?list=PL-XeOa5hMEYxNzHM7YLRjIwE1k3VQpqEh)
   * [Deep Learning, Where are you going? - 조경현[NYU 교수]](https://www.youtube.com/watch?v=soZXAH3leeQ)
+  * [12인회 논문 읽기 비디오](https://kkweon.github.io/pr12-web-app-elm/)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -558,6 +559,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [deeplearn.js - A hardware-accelerated machine intelligence library for the web](https://pair-code.github.io/deeplearnjs/)
   * [Beholder - A TensorBoard plugin for visualizing arbitrary tensors in a video as your network trains](https://github.com/chrisranderson/beholder)
   * [AllenNLP - An open-source NLP research library, built on PyTorch](http://allennlp.org/)
+  * [StarSpace - Learning embeddings for classification, retrieval and ranking](https://github.com/facebookresearch/Starspace)
 * Dataset
   * [Fueling the Gold Rush: The Greatest Public Datasets for AI](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2)
   * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
@@ -639,6 +641,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Machine Learning Top 10 Articles for the Past Month - March, 2017](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-ce771c6a6ba5)
 * [Machine Learning Top 10 Articles for the Past Month - May, 2017](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-may-2017-f66b865b3e99)
 * [Machine Learning Top 10 Articles For the Past Month - August, 2017](https://medium.mybridge.co/machine-learning-top-10-articles-v-august-2017-9f4b648a38be)
+* [Machine Learning Top 10 Articles For the Past Month - v.Sep 2017](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-sep-2017-c68f4b0b5e72)
 * [Winning Tips on Machine Learning Competitions by Kazanova, Current Kaggle #3](http://blog.hackerearth.com/winning-tips-machine-learning-competitions-kazanova-current-kaggle-3)
 * [Applying Machine Learning To March Madness](https://adeshpande3.github.io/adeshpande3.github.io/Applying-Machine-Learning-to-March-Madness)
 * [Scikit-Learn Tutorial Series](http://www.datasciencecentral.com/profiles/blogs/scikit-learn-tutorial-series)
@@ -682,6 +685,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Ensemble Learning to Improve Machine Learning Results](https://blog.statsbot.co/ensemble-learning-d1dcd548e936)
 * [MEET MICHELANGELO: UBER’S MACHINE LEARNING PLATFORM](https://eng.uber.com/michelangelo/)
 * [Dimensionality Reduction Using t-SNE](https://www.displayr.com/using-t-sne-to-visualize-data-before-prediction/)
+* [In Raw Numpy: t-SNE](https://nlml.github.io/in-raw-numpy/in-raw-numpy-t-sne/)
+* [Interpreting Decision Trees and Random Forests](http://engineering.pivotal.io/post/interpreting-decision-trees-and-random-forests/)
+* [Data Science Simplified Part 10: An Introduction to Classification Models](https://medium.com/towards-data-science/data-science-simplified-part-10-an-introduction-to-classification-models-82490f6c171f)
+* [Machine learning by sogood](https://www.slideshare.net/SGoodKim/machine-learning-by-sogood)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -862,6 +869,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Film recommendation engine - Kaggle](https://www.kaggle.com/fabiendaniel/film-recommendation-engine/notebook)
 * [Public Recommendation Data - goodbooks-10k](https://github.com/zygmuntz/goodbooks-10k)
 * [Deep Learning in Recommender Systems - RecSys Summer School 2017](https://www.slideshare.net/balazshidasi/deep-learning-in-recommender-systems-recsys-summer-school-2017)
+* [How Did We Build Book Recommender Systems in an Hour Part 1 — The Fundamentals](https://medium.com/towards-data-science/how-did-we-build-book-recommender-systems-in-an-hour-the-fundamentals-dfee054f978e)
+* [How Did We Build Book Recommender Systems in An Hour Part 2 — k Nearest Neighbors and Matrix Factorization](https://medium.com/towards-data-science/how-did-we-build-book-recommender-systems-in-an-hour-part-2-k-nearest-neighbors-and-matrix-c04b3c2ef55c)
+* [Binary Representations in Recommendations](https://github.com/maciejkula/binge)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
