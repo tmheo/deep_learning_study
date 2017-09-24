@@ -747,6 +747,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [따라 하며 배우는 데이터 과학](https://dataninja.me/ipds-kr/)
 * [문용준님의 Python Data Science Tutorial Code](https://github.com/zerosum99)
 * [Python Seaborn Cheat Sheet For Statistical Data Visualization](https://medium.com/towards-data-science/python-seaborn-cheat-sheet-for-statistical-data-visualization-5428d07d2c9b)
+* [Numerical Tours of Data Sciences](http://www.numerical-tours.com/)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
