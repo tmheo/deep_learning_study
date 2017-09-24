@@ -688,7 +688,6 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [In Raw Numpy: t-SNE](https://nlml.github.io/in-raw-numpy/in-raw-numpy-t-sne/)
 * [Interpreting Decision Trees and Random Forests](http://engineering.pivotal.io/post/interpreting-decision-trees-and-random-forests/)
 * [Data Science Simplified Part 10: An Introduction to Classification Models](https://medium.com/towards-data-science/data-science-simplified-part-10-an-introduction-to-classification-models-82490f6c171f)
-* [Machine learning by sogood](https://www.slideshare.net/SGoodKim/machine-learning-by-sogood)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
