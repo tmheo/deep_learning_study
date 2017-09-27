@@ -380,6 +380,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Higher-Level APIs in TensorFlow](https://medium.com/onfido-tech/higher-level-apis-in-tensorflow-67bfb602e6c0)
   * [Building a Toy Detector with Tensorflow Object Detection API](https://medium.com/towards-data-science/building-a-toy-detector-with-tensorflow-object-detection-api-63c0fdf2ac95)
   * [딥러닝 기반 자연어처리 기법의 최근 연구 동향](https://ratsgo.github.io/natural%20language%20processing/2017/08/16/deepNLP/)
+  * [Recurrent Neural Network [RNN] 이해하기](https://dreamgonfly.github.io/rnn/2017/09/04/understanding-rnn.html)
+  * [Wasserstein GAN in Keras](https://myurasov.github.io/2017/09/24/wasserstein-gan-keras.html)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -535,6 +537,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Python package with source code from the course "Creative Applications of Deep Learning w/ TensorFlow"](https://github.com/pkmital/pycadl)
   * [GANs comparison without cherry-picking](https://github.com/khanrc/tf.gans-comparison)
   * [Simple GAN model using keras with Fashion-mnist data](https://github.com/jihobak/simple_gan)
+  * [Lambda API to caption images [with im2txt]](https://github.com/abhisuri97/auto-alt-text-lambda-api)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -563,6 +566,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Beholder - A TensorBoard plugin for visualizing arbitrary tensors in a video as your network trains](https://github.com/chrisranderson/beholder)
   * [AllenNLP - An open-source NLP research library, built on PyTorch](http://allennlp.org/)
   * [StarSpace - Learning embeddings for classification, retrieval and ranking](https://github.com/facebookresearch/Starspace)
+  * [Fabrik – Collaboratively build, visualize, and design neural nets in the browser](http://fabrik.cloudcv.org/) : [[Code]](https://github.com/Cloud-CV/Fabrik)
 * Dataset
   * [Fueling the Gold Rush: The Greatest Public Datasets for AI](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2)
   * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
@@ -691,6 +695,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [In Raw Numpy: t-SNE](https://nlml.github.io/in-raw-numpy/in-raw-numpy-t-sne/)
 * [Interpreting Decision Trees and Random Forests](http://engineering.pivotal.io/post/interpreting-decision-trees-and-random-forests/)
 * [Data Science Simplified Part 10: An Introduction to Classification Models](https://medium.com/towards-data-science/data-science-simplified-part-10-an-introduction-to-classification-models-82490f6c171f)
+* [쉽게 씌어진 word2vec](https://dreamgonfly.github.io/machine/learning,/natural/language/processing/2017/08/16/word2vec_explained.html)
+* [A Gentle Introduction on Market Basket Analysis — Association Rules](https://medium.com/towards-data-science/a-gentle-introduction-on-market-basket-analysis-association-rules-fa4b986a40ce)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -875,6 +881,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [How Did We Build Book Recommender Systems in an Hour Part 1 — The Fundamentals](https://medium.com/towards-data-science/how-did-we-build-book-recommender-systems-in-an-hour-the-fundamentals-dfee054f978e)
 * [How Did We Build Book Recommender Systems in An Hour Part 2 — k Nearest Neighbors and Matrix Factorization](https://medium.com/towards-data-science/how-did-we-build-book-recommender-systems-in-an-hour-part-2-k-nearest-neighbors-and-matrix-c04b3c2ef55c)
 * [Binary Representations in Recommendations](https://github.com/maciejkula/binge)
+* [Music Recommendations with Collaborative Filtering and Cosine Distance](https://beckernick.github.io/music_recommender/)
+* [Matrix Factorization for Movie Recommendations in Python](https://beckernick.github.io/matrix-factorization-recommender/)
+* Naver Search & Tech 블로그
+  * [취향저격 잇템 찾아주는 딥러닝 기반 개인화 상품 추천 시스템 ‘에이아이템즈 [AiTEMS]’](https://blog.naver.com/naver_search/221085553045)
+  * [쇼핑을 자주 하지 않는 이용자도, 신규 판매자도 만족스러운 쇼핑 플랫폼을 만드는 에이아이템즈[AiTEMS]의 기술](https://blog.naver.com/naver_search/221086300708)
+  * [CF기술•RNN기술의 장점이 융합된 ‘AiRS[에어스]’가 모바일 뉴스판에 시범 적용됩니다](https://blog.naver.com/naver_search/221105431207)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
