@@ -46,6 +46,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [패스트캠퍼스 Deep Learning 강의 자료](https://github.com/nmhkahn/deep_learning_tutorial)
   * [딥러닝 교육 자료](http://hugrypiggykim.com/2017/08/24/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EA%B5%90%EC%9C%A1-%EC%9E%90%EB%A3%8C-deep-learning-lecture/)
   * [Keras 레퍼런스 - CodeOnWeb](https://www.codeonweb.com/course/@keras-references)
+  * [DeepSchool.io - Deep Learning tutorials in jupyter notebooks](https://github.com/sachinruk/deepschool.io)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -382,6 +383,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [딥러닝 기반 자연어처리 기법의 최근 연구 동향](https://ratsgo.github.io/natural%20language%20processing/2017/08/16/deepNLP/)
   * [Recurrent Neural Network [RNN] 이해하기](https://dreamgonfly.github.io/rnn/2017/09/04/understanding-rnn.html)
   * [Wasserstein GAN in Keras](https://myurasov.github.io/2017/09/24/wasserstein-gan-keras.html)
+  * [PyTorch tutorial distilled](https://medium.com/towards-data-science/pytorch-tutorial-distilled-95ce8781a89c)
+  * [Tensorpack과 Multigpu를 활용한 빠른 트레이닝 코드 작성하기](http://openresearch.ai/t/tensorpack-multigpu/45)
+  * [‘Image Classification’ Outline](http://openresearch.ai/t/image-classification-outline/15)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -883,10 +887,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Binary Representations in Recommendations](https://github.com/maciejkula/binge)
 * [Music Recommendations with Collaborative Filtering and Cosine Distance](https://beckernick.github.io/music_recommender/)
 * [Matrix Factorization for Movie Recommendations in Python](https://beckernick.github.io/matrix-factorization-recommender/)
-* Naver Search & Tech 블로그
+* Naver 추쳔 관련 블로그
   * [취향저격 잇템 찾아주는 딥러닝 기반 개인화 상품 추천 시스템 ‘에이아이템즈 [AiTEMS]’](https://blog.naver.com/naver_search/221085553045)
   * [쇼핑을 자주 하지 않는 이용자도, 신규 판매자도 만족스러운 쇼핑 플랫폼을 만드는 에이아이템즈[AiTEMS]의 기술](https://blog.naver.com/naver_search/221086300708)
   * [CF기술•RNN기술의 장점이 융합된 ‘AiRS[에어스]’가 모바일 뉴스판에 시범 적용됩니다](https://blog.naver.com/naver_search/221105431207)
+  * [인공지능 기반 추천 시스템 AiRS를 소개합니다](https://blog.naver.com/naver_diary/220936643956)
+* [Building Recommender System for GitHub](https://medium.com/@andrey_lisin/building-recommender-system-for-github-a8108f0cb2bd)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
