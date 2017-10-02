@@ -387,6 +387,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Tensorpack과 Multigpu를 활용한 빠른 트레이닝 코드 작성하기](http://openresearch.ai/t/tensorpack-multigpu/45)
   * [‘Image Classification’ Outline](http://openresearch.ai/t/image-classification-outline/15)
   * [A ten-minute introduction to sequence-to-sequence learning in Keras](https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html)
+  * [A new kind of pooling layer for faster and sharper convergence](https://medium.com/@singlasahil14/a-new-kind-of-pooling-layer-for-faster-and-sharper-convergence-1043c756a221)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
