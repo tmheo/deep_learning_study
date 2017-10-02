@@ -544,6 +544,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [GANs comparison without cherry-picking](https://github.com/khanrc/tf.gans-comparison)
   * [Simple GAN model using keras with Fashion-mnist data](https://github.com/jihobak/simple_gan)
   * [Lambda API to caption images [with im2txt]](https://github.com/abhisuri97/auto-alt-text-lambda-api)
+  * [Multi-layer Recurrent Neural Networks for character-level language models in Python using Tensorflow by 1.3 version [Estimator, Experiment, Dataset]](https://github.com/DongjunLee/char-rnn-tensorflow)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
