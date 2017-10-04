@@ -47,6 +47,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [딥러닝 교육 자료](http://hugrypiggykim.com/2017/08/24/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EA%B5%90%EC%9C%A1-%EC%9E%90%EB%A3%8C-deep-learning-lecture/)
   * [Keras 레퍼런스 - CodeOnWeb](https://www.codeonweb.com/course/@keras-references)
   * [DeepSchool.io - Deep Learning tutorials in jupyter notebooks](https://github.com/sachinruk/deepschool.io)
+  * [Deep Learning Course - PyTorch](https://fleuret.org/dlc/)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -761,6 +762,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [문용준님의 Python Data Science Tutorial Code](https://github.com/zerosum99)
 * [Python Seaborn Cheat Sheet For Statistical Data Visualization](https://medium.com/towards-data-science/python-seaborn-cheat-sheet-for-statistical-data-visualization-5428d07d2c9b)
 * [Numerical Tours of Data Sciences](http://www.numerical-tours.com/)
+* [빅데이터 : 샘플 양의 힘 [quantity over quality]](http://thesciencelife.com/archives/923)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -896,6 +898,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [CF기술•RNN기술의 장점이 융합된 ‘AiRS[에어스]’가 모바일 뉴스판에 시범 적용됩니다](https://blog.naver.com/naver_search/221105431207)
   * [인공지능 기반 추천 시스템 AiRS를 소개합니다](https://blog.naver.com/naver_diary/220936643956)
 * [Building Recommender System for GitHub](https://medium.com/@andrey_lisin/building-recommender-system-for-github-a8108f0cb2bd)
+* [RecSys 2017 Summary](https://medium.com/towards-data-science/recsys-2017-2d0879351097)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
