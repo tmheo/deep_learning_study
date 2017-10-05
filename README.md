@@ -48,6 +48,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Keras 레퍼런스 - CodeOnWeb](https://www.codeonweb.com/course/@keras-references)
   * [DeepSchool.io - Deep Learning tutorials in jupyter notebooks](https://github.com/sachinruk/deepschool.io)
   * [Deep Learning Course - PyTorch](https://fleuret.org/dlc/)
+  * [TensorFlow Tutorial and Examples for Beginners with Latest APIs](https://github.com/aymericdamien/TensorFlow-Examples)
+  * [PyTorch Zero To All](https://github.com/hunkim/PyTorchZeroToAll)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -360,6 +362,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * Applied Deep Learning
     * [Part 1: Artificial Neural Networks](https://medium.com/towards-data-science/applied-deep-learning-part-1-artificial-neural-networks-d7834f67a4f6)
     * [Part 2: Real World Case Studies](https://medium.com/towards-data-science/applied-deep-learning-part-2-real-world-case-studies-1bb4b142a585)
+    * [Part 3: Autoencoders](https://medium.com/towards-data-science/applied-deep-learning-part-3-autoencoders-1c083af4d798)
   * [BigData와 결합한, 분산 Deep Learning 그 의미와 접근 방법에 대하여](http://hoondongkim.blogspot.kr/2017/09/bigdata-distributed-deep-learning.html)
   * [Deep Learning with Intel’s BigDL and Apache Spark](http://blog.cloudera.com/blog/2017/09/deep-learning-with-intels-bigdl-and-apache-spark/)
   * [My Workflow of Supervised Learning - 지도학습의 자세한 나만의 워크플로우](http://ljs93kr.tistory.com/80)
@@ -389,6 +392,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [‘Image Classification’ Outline](http://openresearch.ai/t/image-classification-outline/15)
   * [A ten-minute introduction to sequence-to-sequence learning in Keras](https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html)
   * [A new kind of pooling layer for faster and sharper convergence](https://medium.com/@singlasahil14/a-new-kind-of-pooling-layer-for-faster-and-sharper-convergence-1043c756a221)
+  * [Understanding emotions — from Keras to pyTorch](https://medium.com/huggingface/understanding-emotions-from-keras-to-pytorch-3ccb61d5a983)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -705,6 +709,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Data Science Simplified Part 10: An Introduction to Classification Models](https://medium.com/towards-data-science/data-science-simplified-part-10-an-introduction-to-classification-models-82490f6c171f)
 * [쉽게 씌어진 word2vec](https://dreamgonfly.github.io/machine/learning,/natural/language/processing/2017/08/16/word2vec_explained.html)
 * [A Gentle Introduction on Market Basket Analysis — Association Rules](https://medium.com/towards-data-science/a-gentle-introduction-on-market-basket-analysis-association-rules-fa4b986a40ce)
+* [Kaggle Zero To All](https://github.com/hunkim/KaggleZeroToAll)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -763,6 +768,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Python Seaborn Cheat Sheet For Statistical Data Visualization](https://medium.com/towards-data-science/python-seaborn-cheat-sheet-for-statistical-data-visualization-5428d07d2c9b)
 * [Numerical Tours of Data Sciences](http://www.numerical-tours.com/)
 * [빅데이터 : 샘플 양의 힘 [quantity over quality]](http://thesciencelife.com/archives/923)
+* [The Probability and Statistics Cookbook](http://statistics.zone/)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
