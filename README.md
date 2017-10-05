@@ -476,6 +476,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [자습해도 모르겠던 딥러닝, 머리속에 인스톨 시켜드립니다.](https://www.slideshare.net/yongho/ss-79607172)
   * [Applying deep learning to medical data](https://www.slideshare.net/hyunseokmin/applying-deep-learning-to-medical-data)
   * [Deep Learning, Where are you going? - 조경현[NYU 교수]](https://www.slideshare.net/NaverEngineering/deep-learning-where-are-you-going) : [[Video]](https://www.youtube.com/watch?v=soZXAH3leeQ)
+  * [Learning to reason by reading text and answering questions - 서민준님](https://www.slideshare.net/NaverEngineering/learning-to-reason-by-reading-text-and-answering-questions/) : [[Video]](https://www.youtube.com/watch?v=r0veZ_WV0sA)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -495,7 +496,6 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [PyDataTV](https://www.youtube.com/user/PyDataTV)
   * [Deep Learning with Tensorflow - Cognitive Class](https://www.youtube.com/playlist?list=PL-XeOa5hMEYxNzHM7YLRjIwE1k3VQpqEh)
   * [12인회 논문 읽기 비디오](https://kkweon.github.io/pr12-web-app-elm/)
-  * [Learning to reason by reading text and answering questions - 서민준님](https://www.youtube.com/watch?v=r0veZ_WV0sA)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
