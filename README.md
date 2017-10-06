@@ -393,6 +393,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [A ten-minute introduction to sequence-to-sequence learning in Keras](https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html)
   * [A new kind of pooling layer for faster and sharper convergence](https://medium.com/@singlasahil14/a-new-kind-of-pooling-layer-for-faster-and-sharper-convergence-1043c756a221)
   * [Understanding emotions — from Keras to pyTorch](https://medium.com/huggingface/understanding-emotions-from-keras-to-pytorch-3ccb61d5a983)
+  * [TensorFlow Datasets 및 Estimators를 소개합니다.](https://developers-kr.googleblog.com/2017/09/introducing-tensorflow-datasets-and-estimators.html)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -710,6 +711,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [쉽게 씌어진 word2vec](https://dreamgonfly.github.io/machine/learning,/natural/language/processing/2017/08/16/word2vec_explained.html)
 * [A Gentle Introduction on Market Basket Analysis — Association Rules](https://medium.com/towards-data-science/a-gentle-introduction-on-market-basket-analysis-association-rules-fa4b986a40ce)
 * [Kaggle Zero To All](https://github.com/hunkim/KaggleZeroToAll)
+* [Visualising high-dimensional datasets using PCA and t-SNE in Python](https://medium.com/@luckylwk/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b)
+* [Singular Value Decomposition [SVD] Tutorial: Applications, Examples, Exercises](https://blog.statsbot.co/singular-value-decomposition-tutorial-52c695315254)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
