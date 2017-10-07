@@ -394,6 +394,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [A new kind of pooling layer for faster and sharper convergence](https://medium.com/@singlasahil14/a-new-kind-of-pooling-layer-for-faster-and-sharper-convergence-1043c756a221)
   * [Understanding emotions — from Keras to pyTorch](https://medium.com/huggingface/understanding-emotions-from-keras-to-pytorch-3ccb61d5a983)
   * [TensorFlow Datasets 및 Estimators를 소개합니다.](https://developers-kr.googleblog.com/2017/09/introducing-tensorflow-datasets-and-estimators.html)
+  * [Visualizing your model using TensorBoard](https://medium.com/towards-data-science/visualizing-your-model-using-tensorboard-796ebb73e98d)
+  * [Towards data set augmentation with GANs](https://medium.com/towards-data-science/towards-data-set-augmentation-with-gans-9dd64e9628e6)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -551,6 +553,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Simple GAN model using keras with Fashion-mnist data](https://github.com/jihobak/simple_gan)
   * [Lambda API to caption images [with im2txt]](https://github.com/abhisuri97/auto-alt-text-lambda-api)
   * [Multi-layer Recurrent Neural Networks for character-level language models in Python using Tensorflow by 1.3 version [Estimator, Experiment, Dataset]](https://github.com/DongjunLee/char-rnn-tensorflow)
+  * [Keras-GAN](https://github.com/eriklindernoren/Keras-GAN)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -772,6 +775,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Numerical Tours of Data Sciences](http://www.numerical-tours.com/)
 * [빅데이터 : 샘플 양의 힘 [quantity over quality]](http://thesciencelife.com/archives/923)
 * [The Probability and Statistics Cookbook](http://statistics.zone/)
+* [3Blue1Brown - Calculus, Linear Algebra](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -908,6 +912,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [인공지능 기반 추천 시스템 AiRS를 소개합니다](https://blog.naver.com/naver_diary/220936643956)
 * [Building Recommender System for GitHub](https://medium.com/@andrey_lisin/building-recommender-system-for-github-a8108f0cb2bd)
 * [RecSys 2017 Summary](https://medium.com/towards-data-science/recsys-2017-2d0879351097)
+* [A Cost-Effective and Scalable Collaborative Filtering based Recommender System](https://www.bbvadata.com/cost-effective-scalable-collaborative-filtering-based-recommender-system/)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
