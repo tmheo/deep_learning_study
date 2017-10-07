@@ -396,6 +396,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [TensorFlow Datasets 및 Estimators를 소개합니다.](https://developers-kr.googleblog.com/2017/09/introducing-tensorflow-datasets-and-estimators.html)
   * [Visualizing your model using TensorBoard](https://medium.com/towards-data-science/visualizing-your-model-using-tensorboard-796ebb73e98d)
   * [Towards data set augmentation with GANs](https://medium.com/towards-data-science/towards-data-set-augmentation-with-gans-9dd64e9628e6)
+  * TensorFlow in a Nutshell
+    * [Part One: Basics](https://medium.com/@camrongodbout/tensorflow-in-a-nutshell-part-one-basics-3f4403709c9d)
+    * [Part Two: Hybrid Learning](https://chatbotnewsdaily.com/tensorflow-in-a-nutshell-part-two-hybrid-learning-98c121d35392)
+    * [Part Three: All the Models](https://hackernoon.com/tensorflow-in-a-nutshell-part-three-all-the-models-be1465993930)
+  * [Introducing NNVM Compiler: A New Open End-to-End Compiler for AI Frameworks](https://aws.amazon.com/blogs/ai/introducing-nnvm-compiler-a-new-open-end-to-end-compiler-for-ai-frameworks/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
