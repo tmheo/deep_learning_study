@@ -721,6 +721,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Kaggle Zero To All](https://github.com/hunkim/KaggleZeroToAll)
 * [Visualising high-dimensional datasets using PCA and t-SNE in Python](https://medium.com/@luckylwk/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b)
 * [Singular Value Decomposition [SVD] Tutorial: Applications, Examples, Exercises](https://blog.statsbot.co/singular-value-decomposition-tutorial-52c695315254)
+* [빛나유님의 Data Mining Blog](http://operatingsystems.tistory.com/category/Data%20Mining)
+* [Get Started In Machine Learning in 5 Steps](https://medium.com/@cdossman/get-started-in-machine-learning-in-5-steps-f4791a3efd5d)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
