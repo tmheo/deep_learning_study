@@ -50,6 +50,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deep Learning Course - PyTorch](https://fleuret.org/dlc/)
   * [TensorFlow Tutorial and Examples for Beginners with Latest APIs](https://github.com/aymericdamien/TensorFlow-Examples)
   * [PyTorch Zero To All](https://github.com/hunkim/PyTorchZeroToAll)
+  * [FastCampus Deep Learning NLP Chatbot](https://github.com/j-min/fastcampus_dl_nlp_chatbot)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
