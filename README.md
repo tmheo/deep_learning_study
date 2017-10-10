@@ -402,6 +402,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
     * [Part Two: Hybrid Learning](https://chatbotnewsdaily.com/tensorflow-in-a-nutshell-part-two-hybrid-learning-98c121d35392)
     * [Part Three: All the Models](https://hackernoon.com/tensorflow-in-a-nutshell-part-three-all-the-models-be1465993930)
   * [Introducing NNVM Compiler: A New Open End-to-End Compiler for AI Frameworks](https://aws.amazon.com/blogs/ai/introducing-nnvm-compiler-a-new-open-end-to-end-compiler-for-ai-frameworks/)
+  * [Vanilla LSTM with numpy](http://blog.varunajayasiri.com/numpy_lstm.html)
+  * [Sentiment analysis with Apache MXNet](https://www.oreilly.com/ideas/sentiment-analysis-with-apache-mxnet)
+  * [Question answering with TensorFlow](https://www.oreilly.com/ideas/question-answering-with-tensorflow)
+  * [Recurrent neural networks and LSTM Tutorial in Python and TensorFlow](http://adventuresinmachinelearning.com/recurrent-neural-networks-lstm-tutorial-tensorflow/)
+  * [Serving PyTorch Models on AWS Lambda with Caffe2 & ONNX](https://machinelearnings.co/serving-pytorch-models-on-aws-lambda-with-caffe2-onnx-7b096806cfac)
+  * [Behind the Magic: How we built the ARKit Sudoku Solver](https://blog.prototypr.io/behind-the-magic-how-we-built-the-arkit-sudoku-solver-e586e5b685b0)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -505,6 +511,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [PyDataTV](https://www.youtube.com/user/PyDataTV)
   * [Deep Learning with Tensorflow - Cognitive Class](https://www.youtube.com/playlist?list=PL-XeOa5hMEYxNzHM7YLRjIwE1k3VQpqEh)
   * [12인회 논문 읽기 비디오](https://kkweon.github.io/pr12-web-app-elm/)
+  * [Deep learning with Keras](https://www.youtube.com/playlist?list=PL_SSujepRkqyjjbWnXQBzKXXm86UQ53Ic)
+  * [머신러닝/딥러닝 실전 입문](https://www.youtube.com/watch?v=l_XFlB1Wwz8&list=PLBXuLgInP-5m_vn9ycXHRl7hlsd1huqmS)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -784,6 +792,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [빅데이터 : 샘플 양의 힘 [quantity over quality]](http://thesciencelife.com/archives/923)
 * [The Probability and Statistics Cookbook](http://statistics.zone/)
 * [3Blue1Brown - Calculus, Linear Algebra](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists)
+* [Interactive Visualizations In Jupyter Notebook](https://medium.com/towards-data-science/interactive-visualizations-in-jupyter-notebook-3be02ab2b8cd)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -921,6 +930,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Building Recommender System for GitHub](https://medium.com/@andrey_lisin/building-recommender-system-for-github-a8108f0cb2bd)
 * [RecSys 2017 Summary](https://medium.com/towards-data-science/recsys-2017-2d0879351097)
 * [A Cost-Effective and Scalable Collaborative Filtering based Recommender System](https://www.bbvadata.com/cost-effective-scalable-collaborative-filtering-based-recommender-system/)
+* [A news recommendation engine driven by collaborative reader behavior](https://blog.insightdatascience.com/news4u-recommend-stories-based-on-collaborative-reader-behavior-9b049b6724c4)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
