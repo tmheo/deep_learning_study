@@ -408,6 +408,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Recurrent neural networks and LSTM Tutorial in Python and TensorFlow](http://adventuresinmachinelearning.com/recurrent-neural-networks-lstm-tutorial-tensorflow/)
   * [Serving PyTorch Models on AWS Lambda with Caffe2 & ONNX](https://machinelearnings.co/serving-pytorch-models-on-aws-lambda-with-caffe2-onnx-7b096806cfac)
   * [Behind the Magic: How we built the ARKit Sudoku Solver](https://blog.prototypr.io/behind-the-magic-how-we-built-the-arkit-sudoku-solver-e586e5b685b0)
+  * [TensorFlow Lattice: Flexibility Empowered by Prior Knowledge](https://research.googleblog.com/2017/10/tensorflow-lattice-flexibility.html)
+  * [딥러닝과 OpenCV를 활용해 사진 속 글자 검출하기](http://d2.naver.com/helloworld/8344782)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -492,6 +494,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Applying deep learning to medical data](https://www.slideshare.net/hyunseokmin/applying-deep-learning-to-medical-data)
   * [Deep Learning, Where are you going? - 조경현[NYU 교수]](https://www.slideshare.net/NaverEngineering/deep-learning-where-are-you-going) : [[Video]](https://www.youtube.com/watch?v=soZXAH3leeQ)
   * [Learning to reason by reading text and answering questions - 서민준님](https://www.slideshare.net/NaverEngineering/learning-to-reason-by-reading-text-and-answering-questions/) : [[Video]](https://www.youtube.com/watch?v=r0veZ_WV0sA)
+  * [딥러닝 기본 원리의 이해](https://www.slideshare.net/HeeWonPark11/ss-80653977)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -655,6 +658,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [강화학습 공부 로드맵](https://www.facebook.com/groups/TensorFlowKR/permalink/531360767204986/)
 * [게임과 AI #1 심층강화학습과 AI](http://blog.ncsoft.com/?p=29996)
 * [게임과 AI #2 블레이드 & 소울과 게임 AI Part. 1](http://blog.ncsoft.com/?p=30747)
+* [Reinforcement learning on stock trading](https://rightx2.github.io/)
+* [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -931,6 +936,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [RecSys 2017 Summary](https://medium.com/towards-data-science/recsys-2017-2d0879351097)
 * [A Cost-Effective and Scalable Collaborative Filtering based Recommender System](https://www.bbvadata.com/cost-effective-scalable-collaborative-filtering-based-recommender-system/)
 * [A news recommendation engine driven by collaborative reader behavior](https://blog.insightdatascience.com/news4u-recommend-stories-based-on-collaborative-reader-behavior-9b049b6724c4)
+* [Spotify’s Discover Weekly: How machine learning finds your new music](https://hackernoon.com/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe)
+* [Approximate Nearest Neighbours for Recommender Systems](http://www.benfrederickson.com/approximate-nearest-neighbours-for-recommender-systems/)
+* [Deep matrix factorization using Apache MXNet](https://www.oreilly.com/ideas/deep-matrix-factorization-using-apache-mxnet)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
