@@ -416,6 +416,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Tensorflow Text Classification – Python Deep Learning](https://sourcedexter.com/tensorflow-text-classification/)
   * [D.Voice: 딥러닝 음성 합성 엔진](http://carpedm20.github.io/tacotron/)
   * [Video Analysis to Detect Suspicious Activity Based on Deep Learning](https://dzone.com/articles/video-analysis-to-detect-suspicious-activity-based)
+  * [Building a Translation System In Minutes](https://medium.com/towards-data-science/building-a-translation-system-in-minutes-d82a154f603e)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
