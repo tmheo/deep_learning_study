@@ -415,6 +415,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Recurrent Neural Networks for Email List Churn Prediction](https://www.blendo.co/blog/recurrent-neural-networks-email-churn-prediction/)
   * [Tensorflow Text Classification – Python Deep Learning](https://sourcedexter.com/tensorflow-text-classification/)
   * [D.Voice: 딥러닝 음성 합성 엔진](http://carpedm20.github.io/tacotron/)
+  * [Video Analysis to Detect Suspicious Activity Based on Deep Learning](https://dzone.com/articles/video-analysis-to-detect-suspicious-activity-based)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
