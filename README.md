@@ -410,6 +410,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Behind the Magic: How we built the ARKit Sudoku Solver](https://blog.prototypr.io/behind-the-magic-how-we-built-the-arkit-sudoku-solver-e586e5b685b0)
   * [TensorFlow Lattice: Flexibility Empowered by Prior Knowledge](https://research.googleblog.com/2017/10/tensorflow-lattice-flexibility.html)
   * [딥러닝과 OpenCV를 활용해 사진 속 글자 검출하기](http://d2.naver.com/helloworld/8344782)
+  * [옥수별님의 머신러닝/딥러닝 블로그](https://blog.naver.com/PostList.nhn?blogId=samsjang&from=postList&categoryNo=87)
+  * [Neural Networks for Advertisers](https://softwaremill.com/neural-networks-for-advertisers/)
+  * [Recurrent Neural Networks for Email List Churn Prediction](https://www.blendo.co/blog/recurrent-neural-networks-email-churn-prediction/)
+  * [Tensorflow Text Classification – Python Deep Learning](https://sourcedexter.com/tensorflow-text-classification/)
+  * [D.Voice: 딥러닝 음성 합성 엔진](http://carpedm20.github.io/tacotron/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -495,6 +500,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deep Learning, Where are you going? - 조경현[NYU 교수]](https://www.slideshare.net/NaverEngineering/deep-learning-where-are-you-going) : [[Video]](https://www.youtube.com/watch?v=soZXAH3leeQ)
   * [Learning to reason by reading text and answering questions - 서민준님](https://www.slideshare.net/NaverEngineering/learning-to-reason-by-reading-text-and-answering-questions/) : [[Video]](https://www.youtube.com/watch?v=r0veZ_WV0sA)
   * [딥러닝 기본 원리의 이해](https://www.slideshare.net/HeeWonPark11/ss-80653977)
+  * [Step-by-step approach to question answering](https://www.slideshare.net/NaverEngineering/stepbystep-approach-to-question-answering) : [[Video]](https://www.youtube.com/watch?v=JDi_P54NvsE)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -600,6 +606,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [AllenNLP - An open-source NLP research library, built on PyTorch](http://allennlp.org/)
   * [StarSpace - Learning embeddings for classification, retrieval and ranking](https://github.com/facebookresearch/Starspace)
   * [Fabrik – Collaboratively build, visualize, and design neural nets in the browser](http://fabrik.cloudcv.org/) : [[Code]](https://github.com/Cloud-CV/Fabrik)
+  * [LUMINOTH - Open source Computer Vision toolkit](https://luminoth.ai/)
 * Dataset
   * [Fueling the Gold Rush: The Greatest Public Datasets for AI](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2)
   * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
@@ -660,6 +667,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [게임과 AI #2 블레이드 & 소울과 게임 AI Part. 1](http://blog.ncsoft.com/?p=30747)
 * [Reinforcement learning on stock trading](https://rightx2.github.io/)
 * [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+* [스타크래프트2 강화학습](https://www.slideshare.net/sjhshy/2-starcraft-ii-reinforcement-learning-80779324)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -735,7 +743,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Kaggle Zero To All](https://github.com/hunkim/KaggleZeroToAll)
 * [Visualising high-dimensional datasets using PCA and t-SNE in Python](https://medium.com/@luckylwk/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b)
 * [Singular Value Decomposition [SVD] Tutorial: Applications, Examples, Exercises](https://blog.statsbot.co/singular-value-decomposition-tutorial-52c695315254)
-* [빛나유님의 Data Mining Blog](http://operatingsystems.tistory.com/category/Data%20Mining)
+* [빛나유님의 Data Mining 블로그](http://operatingsystems.tistory.com/category/Data%20Mining)
 * [Get Started In Machine Learning in 5 Steps](https://medium.com/@cdossman/get-started-in-machine-learning-in-5-steps-f4791a3efd5d)
 
 ## Data Science
@@ -798,6 +806,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [The Probability and Statistics Cookbook](http://statistics.zone/)
 * [3Blue1Brown - Calculus, Linear Algebra](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists)
 * [Interactive Visualizations In Jupyter Notebook](https://medium.com/towards-data-science/interactive-visualizations-in-jupyter-notebook-3be02ab2b8cd)
+* [[데이터야놀자2107] 강남 출근길에 판교/정자역에 내릴 사람 예측하기](https://www.slideshare.net/ssuser2fe594/2107-80754131)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
