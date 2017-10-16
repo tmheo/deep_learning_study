@@ -417,6 +417,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [D.Voice: 딥러닝 음성 합성 엔진](http://carpedm20.github.io/tacotron/)
   * [Video Analysis to Detect Suspicious Activity Based on Deep Learning](https://dzone.com/articles/video-analysis-to-detect-suspicious-activity-based)
   * [Building a Translation System In Minutes](https://medium.com/towards-data-science/building-a-translation-system-in-minutes-d82a154f603e)
+  * [Google and Uber’s Best Practices for Deep Learning](https://medium.com/intuitionmachine/google-and-ubers-best-practices-for-deep-learning-58488a8899b6)
+  * [Introducing Gluon — An Easy-to-Use Programming Interface for Flexible Deep Learning](https://aws.amazon.com/blogs/ai/introducing-gluon-an-easy-to-use-programming-interface-for-flexible-deep-learning/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -670,6 +672,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Reinforcement learning on stock trading](https://rightx2.github.io/)
 * [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 * [스타크래프트2 강화학습](https://www.slideshare.net/sjhshy/2-starcraft-ii-reinforcement-learning-80779324)
+* [슈퍼마리오에 모두를 위한 RL 수업의 딥러닝 코드 붙이기](http://jinman190.blogspot.kr/2017/10/rl.html)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
