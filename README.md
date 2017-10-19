@@ -821,6 +821,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Interactive Visualizations In Jupyter Notebook](https://medium.com/towards-data-science/interactive-visualizations-in-jupyter-notebook-3be02ab2b8cd)
 * [[데이터야놀자2107] 강남 출근길에 판교/정자역에 내릴 사람 예측하기](https://www.slideshare.net/ssuser2fe594/2107-80754131)
 * [How you can ditch PowerPoint and build better slides with Jupyter and Reveal.js](https://medium.freecodecamp.org/how-to-build-interactive-presentations-with-jupyter-notebook-and-reveal-js-c7e24f4bd9c5)
+* [Python Graph Gallery](https://python-graph-gallery.com/)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
