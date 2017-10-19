@@ -420,6 +420,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Building a Translation System In Minutes](https://medium.com/towards-data-science/building-a-translation-system-in-minutes-d82a154f603e)
   * [Google and Uber’s Best Practices for Deep Learning](https://medium.com/intuitionmachine/google-and-ubers-best-practices-for-deep-learning-58488a8899b6)
   * [Introducing Gluon — An Easy-to-Use Programming Interface for Flexible Deep Learning](https://aws.amazon.com/blogs/ai/introducing-gluon-an-easy-to-use-programming-interface-for-flexible-deep-learning/)
+  * [Gender Distribution in North Korean Posters](http://digitalnk.com/blog/2017/09/30/gender-distribution-in-north-korean-posters/)
+  * [Attention in Neural Networks and How to Use It](http://akosiorek.github.io/ml/2017/10/14/visual-attention.html)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -582,6 +584,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Lambda API to caption images [with im2txt]](https://github.com/abhisuri97/auto-alt-text-lambda-api)
   * [Multi-layer Recurrent Neural Networks for character-level language models in Python using Tensorflow by 1.3 version [Estimator, Experiment, Dataset]](https://github.com/DongjunLee/char-rnn-tensorflow)
   * [Keras-GAN](https://github.com/eriklindernoren/Keras-GAN)
+  * [Demo of running NNs across different deep learning frameworks](https://github.com/ilkarman/DeepLearningFrameworks)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -674,6 +677,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 * [스타크래프트2 강화학습](https://www.slideshare.net/sjhshy/2-starcraft-ii-reinforcement-learning-80779324)
 * [슈퍼마리오에 모두를 위한 RL 수업의 딥러닝 코드 붙이기](http://jinman190.blogspot.kr/2017/10/rl.html)
+* [알파고는 스스로 신의 경지에 올랐다](https://brunch.co.kr/@madlymissyou/18)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -751,6 +755,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Singular Value Decomposition [SVD] Tutorial: Applications, Examples, Exercises](https://blog.statsbot.co/singular-value-decomposition-tutorial-52c695315254)
 * [빛나유님의 Data Mining 블로그](http://operatingsystems.tistory.com/category/Data%20Mining)
 * [Get Started In Machine Learning in 5 Steps](https://medium.com/@cdossman/get-started-in-machine-learning-in-5-steps-f4791a3efd5d)
+* [soynlp - 김형준님의 한국어 분석을 위한 python library](https://github.com/lovit/soynlp)
+* [How to make your data and models interpretable by learning from cognitive science](https://medium.com/south-park-commons/how-to-make-your-data-and-models-interpretable-by-learning-from-cognitive-science-a6a29867790)
+* [[번역]AI 머신러닝을 시작하는 방법에 대한 조언](https://blog.naver.com/PostView.nhn?blogId=ji_sung31&logNo=221094181239)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -813,6 +820,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [3Blue1Brown - Calculus, Linear Algebra](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists)
 * [Interactive Visualizations In Jupyter Notebook](https://medium.com/towards-data-science/interactive-visualizations-in-jupyter-notebook-3be02ab2b8cd)
 * [[데이터야놀자2107] 강남 출근길에 판교/정자역에 내릴 사람 예측하기](https://www.slideshare.net/ssuser2fe594/2107-80754131)
+* [How you can ditch PowerPoint and build better slides with Jupyter and Reveal.js](https://medium.freecodecamp.org/how-to-build-interactive-presentations-with-jupyter-notebook-and-reveal-js-c7e24f4bd9c5)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -954,6 +962,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Spotify’s Discover Weekly: How machine learning finds your new music](https://hackernoon.com/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe)
 * [Approximate Nearest Neighbours for Recommender Systems](http://www.benfrederickson.com/approximate-nearest-neighbours-for-recommender-systems/)
 * [Deep matrix factorization using Apache MXNet](https://www.oreilly.com/ideas/deep-matrix-factorization-using-apache-mxnet)
+* [LastFM Artist Recommender](http://forums.fast.ai/t/lastfm-artist-recommender-video-4-5/6302)
+* [인공지능 추천 시스템 AiRS 개발기 : 모델링과 시스템](https://www.slideshare.net/deview/airs-80886207)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
