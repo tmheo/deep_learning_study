@@ -422,6 +422,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Introducing Gluon — An Easy-to-Use Programming Interface for Flexible Deep Learning](https://aws.amazon.com/blogs/ai/introducing-gluon-an-easy-to-use-programming-interface-for-flexible-deep-learning/)
   * [Gender Distribution in North Korean Posters](http://digitalnk.com/blog/2017/09/30/gender-distribution-in-north-korean-posters/)
   * [Attention in Neural Networks and How to Use It](http://akosiorek.github.io/ml/2017/10/14/visual-attention.html)
+  * [TF-Slim 시작하기](http://www.popit.kr/tf-slim-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/)
+  * [Improving Real-Time Object Detection with YOLO](https://blog.statsbot.co/real-time-object-detection-yolo-cd348527b9b7)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -529,6 +531,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [12인회 논문 읽기 비디오](https://kkweon.github.io/pr12-web-app-elm/)
   * [Deep learning with Keras](https://www.youtube.com/playlist?list=PL_SSujepRkqyjjbWnXQBzKXXm86UQ53Ic)
   * [머신러닝/딥러닝 실전 입문](https://www.youtube.com/watch?v=l_XFlB1Wwz8&list=PLBXuLgInP-5m_vn9ycXHRl7hlsd1huqmS)
+  * 3Blue1Brown - Neural Networks
+    * [But what *is* a Neural Network? | Deep learning, Part 1](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=1)
+    * [Gradient descent, how neural networks learn | Deep learning, part 2](https://www.youtube.com/watch?v=IHZwWFHWa-w&index=2&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
