@@ -424,6 +424,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Attention in Neural Networks and How to Use It](http://akosiorek.github.io/ml/2017/10/14/visual-attention.html)
   * [TF-Slim 시작하기](http://www.popit.kr/tf-slim-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/)
   * [Improving Real-Time Object Detection with YOLO](https://blog.statsbot.co/real-time-object-detection-yolo-cd348527b9b7)
+  * [How to unit test machine learning code](https://medium.com/@keeper6928/how-to-unit-test-machine-learning-code-57cf6fd81765)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
