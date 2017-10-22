@@ -620,6 +620,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [StarSpace - Learning embeddings for classification, retrieval and ranking](https://github.com/facebookresearch/Starspace)
   * [Fabrik – Collaboratively build, visualize, and design neural nets in the browser](http://fabrik.cloudcv.org/) : [[Code]](https://github.com/Cloud-CV/Fabrik)
   * [LUMINOTH - Open source Computer Vision toolkit](https://luminoth.ai/)
+  * [Horovod - Uber’s Open Source Distributed Deep Learning Framework for TensorFlow](https://eng.uber.com/horovod/)
 * Dataset
   * [Fueling the Gold Rush: The Greatest Public Datasets for AI](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2)
   * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
