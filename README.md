@@ -425,6 +425,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [TF-Slim 시작하기](http://www.popit.kr/tf-slim-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/)
   * [Improving Real-Time Object Detection with YOLO](https://blog.statsbot.co/real-time-object-detection-yolo-cd348527b9b7)
   * [How to unit test machine learning code](https://medium.com/@keeper6928/how-to-unit-test-machine-learning-code-57cf6fd81765)
+  * [Batch normalization in Neural Networks](https://medium.com/towards-data-science/batch-normalization-in-neural-networks-1ac91516821c)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -511,6 +512,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Learning to reason by reading text and answering questions - 서민준님](https://www.slideshare.net/NaverEngineering/learning-to-reason-by-reading-text-and-answering-questions/) : [[Video]](https://www.youtube.com/watch?v=r0veZ_WV0sA)
   * [딥러닝 기본 원리의 이해](https://www.slideshare.net/HeeWonPark11/ss-80653977)
   * [Step-by-step approach to question answering](https://www.slideshare.net/NaverEngineering/stepbystep-approach-to-question-answering) : [[Video]](https://www.youtube.com/watch?v=JDi_P54NvsE)
+  * [Finding connections among images using CycleGAN](https://www.slideshare.net/NaverEngineering/finding-connections-among-images-using-cyclegan) : [[Video]](https://www.youtube.com/watch?v=Fkqf3dS9Cqw)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -535,6 +537,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * 3Blue1Brown - Neural Networks
     * [But what *is* a Neural Network? | Deep learning, Part 1](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=1)
     * [Gradient descent, how neural networks learn | Deep learning, part 2](https://www.youtube.com/watch?v=IHZwWFHWa-w&index=2&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+  * [Deep learning with Keras](https://www.youtube.com/watch?v=SGn8fMrWWtg&list=PL_SSujepRkqyjjbWnXQBzKXXm86UQ53Ic)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -685,6 +688,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [스타크래프트2 강화학습](https://www.slideshare.net/sjhshy/2-starcraft-ii-reinforcement-learning-80779324)
 * [슈퍼마리오에 모두를 위한 RL 수업의 딥러닝 코드 붙이기](http://jinman190.blogspot.kr/2017/10/rl.html)
 * [알파고는 스스로 신의 경지에 올랐다](https://brunch.co.kr/@madlymissyou/18)
+* [CNTK 2.1 + Keras + Reinforcement Learning in Python with Flapping Bird](https://www.youtube.com/watch?v=GS_l308-56E)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -765,6 +769,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [soynlp - 김형준님의 한국어 분석을 위한 python library](https://github.com/lovit/soynlp)
 * [How to make your data and models interpretable by learning from cognitive science](https://medium.com/south-park-commons/how-to-make-your-data-and-models-interpretable-by-learning-from-cognitive-science-a6a29867790)
 * [[번역]AI 머신러닝을 시작하는 방법에 대한 조언](https://blog.naver.com/PostView.nhn?blogId=ji_sung31&logNo=221094181239)
+* [Three Effective Feature Selection Strategies](https://medium.com/towards-data-science/three-effective-feature-selection-strategies-e1f86f331fb1)
+* [[AI] The fastest way to identify keywords in news articles — TFIDF with Wikipedia [Python version]](https://hackernoon.com/the-fastest-way-to-identify-keywords-in-news-articles-tfidf-with-wikipedia-python-version-baf874d7eb16)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -829,6 +835,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [[데이터야놀자2107] 강남 출근길에 판교/정자역에 내릴 사람 예측하기](https://www.slideshare.net/ssuser2fe594/2107-80754131)
 * [How you can ditch PowerPoint and build better slides with Jupyter and Reveal.js](https://medium.freecodecamp.org/how-to-build-interactive-presentations-with-jupyter-notebook-and-reveal-js-c7e24f4bd9c5)
 * [Python Graph Gallery](https://python-graph-gallery.com/)
+* [베이지안 추론 - 1편](https://brunch.co.kr/@chris-song/59)
+* [Generating product usage data from scratch with Pandas](https://medium.com/towards-data-science/generating-product-usage-data-from-scratch-with-pandas-319487590c6d)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -972,6 +980,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Deep matrix factorization using Apache MXNet](https://www.oreilly.com/ideas/deep-matrix-factorization-using-apache-mxnet)
 * [LastFM Artist Recommender](http://forums.fast.ai/t/lastfm-artist-recommender-video-4-5/6302)
 * [인공지능 추천 시스템 AiRS 개발기 : 모델링과 시스템](https://www.slideshare.net/deview/airs-80886207)
+* [맥주마시며 만들어본 딥러닝 맥주 추천엔진](http://freesearch.pe.kr/archives/4656)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
