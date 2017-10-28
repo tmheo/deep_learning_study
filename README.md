@@ -426,6 +426,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Improving Real-Time Object Detection with YOLO](https://blog.statsbot.co/real-time-object-detection-yolo-cd348527b9b7)
   * [How to unit test machine learning code](https://medium.com/@keeper6928/how-to-unit-test-machine-learning-code-57cf6fd81765)
   * [Batch normalization in Neural Networks](https://medium.com/towards-data-science/batch-normalization-in-neural-networks-1ac91516821c)
+  * [Dog Breed Classification using Deep Learning: hands-on approach](https://medium.com/towards-data-science/dog-breed-classification-hands-on-approach-b5e4f88c333e)
+  * [레진 데이터 챌린지 2017](http://tech.lezhin.com/events/data-challenge-pyconkr-2017)
+  * [Distributed training in the cloud: Cloud Machine Learning Engine](https://medium.com/towards-data-science/distributed-training-in-the-cloud-cloud-machine-learning-engine-9e264ddde27f)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -513,6 +516,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [딥러닝 기본 원리의 이해](https://www.slideshare.net/HeeWonPark11/ss-80653977)
   * [Step-by-step approach to question answering](https://www.slideshare.net/NaverEngineering/stepbystep-approach-to-question-answering) : [[Video]](https://www.youtube.com/watch?v=JDi_P54NvsE)
   * [Finding connections among images using CycleGAN](https://www.slideshare.net/NaverEngineering/finding-connections-among-images-using-cyclegan) : [[Video]](https://www.youtube.com/watch?v=Fkqf3dS9Cqw)
+  * [Multimodal Sequential Learning for Video QA](https://www.slideshare.net/NaverEngineering/multimodal-sequential-learning-for-video-qa) : [[Video]](https://www.youtube.com/watch?v=3xEKKViJA44)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -538,6 +542,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
     * [But what *is* a Neural Network? | Deep learning, Part 1](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=1)
     * [Gradient descent, how neural networks learn | Deep learning, part 2](https://www.youtube.com/watch?v=IHZwWFHWa-w&index=2&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
   * [Deep learning with Keras](https://www.youtube.com/watch?v=SGn8fMrWWtg&list=PL_SSujepRkqyjjbWnXQBzKXXm86UQ53Ic)
+  * [Deep Learning and Streaming in Apache Spark 2 x - Matei Zaharia & Sue Ann Hong](https://www.youtube.com/watch?v=zom9J9sK6wY)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -594,6 +599,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Multi-layer Recurrent Neural Networks for character-level language models in Python using Tensorflow by 1.3 version [Estimator, Experiment, Dataset]](https://github.com/DongjunLee/char-rnn-tensorflow)
   * [Keras-GAN](https://github.com/eriklindernoren/Keras-GAN)
   * [Demo of running NNs across different deep learning frameworks](https://github.com/ilkarman/DeepLearningFrameworks)
+  * [Distributed TensorFlow Guide](https://github.com/tmulc18/Distributed-TensorFlow-Guide)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -625,6 +631,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Fabrik – Collaboratively build, visualize, and design neural nets in the browser](http://fabrik.cloudcv.org/) : [[Code]](https://github.com/Cloud-CV/Fabrik)
   * [LUMINOTH - Open source Computer Vision toolkit](https://luminoth.ai/)
   * [Horovod - Uber’s Open Source Distributed Deep Learning Framework for TensorFlow](https://eng.uber.com/horovod/)
+  * [Deepo - A Docker image containing almost all popular deep learning frameworks](https://github.com/ufoym/deepo)
 * Dataset
   * [Fueling the Gold Rush: The Greatest Public Datasets for AI](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2)
   * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
@@ -771,6 +778,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [[번역]AI 머신러닝을 시작하는 방법에 대한 조언](https://blog.naver.com/PostView.nhn?blogId=ji_sung31&logNo=221094181239)
 * [Three Effective Feature Selection Strategies](https://medium.com/towards-data-science/three-effective-feature-selection-strategies-e1f86f331fb1)
 * [[AI] The fastest way to identify keywords in news articles — TFIDF with Wikipedia [Python version]](https://hackernoon.com/the-fastest-way-to-identify-keywords-in-news-articles-tfidf-with-wikipedia-python-version-baf874d7eb16)
+* [Linear Regression in Python; Predict The Bay Area’s Home Prices](https://medium.com/towards-data-science/linear-regression-in-python-predict-the-bay-areas-home-price-5c91c8378878)
+* [Best Method to Learn Essential Machine Learning Skills Fast](https://medium.com/towards-data-science/best-method-to-learn-essential-machine-learning-skills-fast-533e30f3023d)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
