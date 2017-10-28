@@ -990,6 +990,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [LastFM Artist Recommender](http://forums.fast.ai/t/lastfm-artist-recommender-video-4-5/6302)
 * [인공지능 추천 시스템 AiRS 개발기 : 모델링과 시스템](https://www.slideshare.net/deview/airs-80886207)
 * [맥주마시며 만들어본 딥러닝 맥주 추천엔진](http://freesearch.pe.kr/archives/4656)
+* [Building a Real-time Recommendation Engine With Neo4j - William Lyon - OSCON 2017](https://www.youtube.com/watch?v=wbI5JwIFYEM&list=PLYXrHS_RtDZ2fbH6Ml9K5DxYBATYGeCgN)
+* [Evaluation in IR system [검색 시스템의 평가]](https://www.slideshare.net/MinsubYim/evaluation-in-ir-system)
+* [Precision, Recall, AP[Average Precision], MAP[Mean Average Precision]](https://blog.naver.com/PostView.nhn?blogId=pktoto&logNo=100093423334)
+* [Unranked Retrieval Evaluation](https://yunjinhan.github.io/2017/05/Unranked-Retrieval-Evaluation-Precision-and-Recall)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
