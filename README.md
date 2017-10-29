@@ -429,6 +429,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Dog Breed Classification using Deep Learning: hands-on approach](https://medium.com/towards-data-science/dog-breed-classification-hands-on-approach-b5e4f88c333e)
   * [레진 데이터 챌린지 2017](http://tech.lezhin.com/events/data-challenge-pyconkr-2017)
   * [Distributed training in the cloud: Cloud Machine Learning Engine](https://medium.com/towards-data-science/distributed-training-in-the-cloud-cloud-machine-learning-engine-9e264ddde27f)
+  * [Object detection with TensorFlow](https://www.oreilly.com/ideas/object-detection-with-tensorflow)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -780,6 +781,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [[AI] The fastest way to identify keywords in news articles — TFIDF with Wikipedia [Python version]](https://hackernoon.com/the-fastest-way-to-identify-keywords-in-news-articles-tfidf-with-wikipedia-python-version-baf874d7eb16)
 * [Linear Regression in Python; Predict The Bay Area’s Home Prices](https://medium.com/towards-data-science/linear-regression-in-python-predict-the-bay-areas-home-price-5c91c8378878)
 * [Best Method to Learn Essential Machine Learning Skills Fast](https://medium.com/towards-data-science/best-method-to-learn-essential-machine-learning-skills-fast-533e30f3023d)
+* [캐글[Kaggle] 데이터분석 배우기](https://www.youtube.com/playlist?list=PLVNY1HnUlO25B-8Gwn1mS35SD0yMHh147)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -994,6 +996,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Evaluation in IR system [검색 시스템의 평가]](https://www.slideshare.net/MinsubYim/evaluation-in-ir-system)
 * [Precision, Recall, AP[Average Precision], MAP[Mean Average Precision]](https://blog.naver.com/PostView.nhn?blogId=pktoto&logNo=100093423334)
 * [Unranked Retrieval Evaluation](https://yunjinhan.github.io/2017/05/Unranked-Retrieval-Evaluation-Precision-and-Recall)
+* [accuracy, precision, recall의 차이](http://shine-ing.tistory.com/157)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
