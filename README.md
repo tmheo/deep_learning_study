@@ -446,6 +446,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Latest Deep Learning OCR with Keras and Supervisely in 15 minutes](https://hackernoon.com/latest-deep-learning-ocr-with-keras-and-supervisely-in-15-minutes-34aecd630ed8)
   * [Machine Learning Meets Fashion](https://medium.com/towards-data-science/machine-learning-meets-fashion-48ee8f6541ad)
   * [[카카오AI리포트]딥러닝과 데이터](https://brunch.co.kr/@kakao-it/137)
+  * [CapsuleNet on MNIST](https://www.kaggle.com/kmader/capsulenet-on-mnist)
+  * [How do CNNs Deal with Position Differences?](https://petewarden.com/2017/10/29/how-do-cnns-deal-with-position-differences/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -536,6 +538,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Multimodal Sequential Learning for Video QA](https://www.slideshare.net/NaverEngineering/multimodal-sequential-learning-for-video-qa) : [[Video]](https://www.youtube.com/watch?v=3xEKKViJA44)
   * [딥러닝을 활용한 비디오 스토리 질의응답: 뽀로로QA와 심층 임베딩 메모리망](https://www.slideshare.net/NaverEngineering/qa-81412519) : [[Video]](https://www.youtube.com/watch?v=EHiGjiP3FbY)
   * [Predictive Maintenance with Deep Learning and Apache Flink](https://www.slideshare.net/FlinkForward/flink-forward-berlin-2017-dongwon-kim-predictive-maintenance-with-apache-flink) : [[Video]](https://www.youtube.com/watch?v=ZZevulsXp0g)
+  * [Video Object Segmentation in Videos](https://www.slideshare.net/NaverEngineering/video-object-segmentation-in-videos) : [[Video]](https://www.youtube.com/watch?v=0X-J5kNNSZw)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
