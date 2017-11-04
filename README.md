@@ -51,6 +51,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [TensorFlow Tutorial and Examples for Beginners with Latest APIs](https://github.com/aymericdamien/TensorFlow-Examples)
   * [PyTorch Zero To All](https://github.com/hunkim/PyTorchZeroToAll)
   * [FastCampus Deep Learning NLP Chatbot](https://github.com/j-min/fastcampus_dl_nlp_chatbot)
+  * [최신 논문으로 시작하는 딥러닝 - 최성준님](http://www.edwith.org/deeplearningchoi/) : [[Code]](https://github.com/sjchoi86/dl_tutorials_10weeks)
+  * [Everybody Tensorflow](https://github.com/jwkanggist/EveryBodyTensorFlow)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -419,7 +421,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Video Analysis to Detect Suspicious Activity Based on Deep Learning](https://dzone.com/articles/video-analysis-to-detect-suspicious-activity-based)
   * [Building a Translation System In Minutes](https://medium.com/towards-data-science/building-a-translation-system-in-minutes-d82a154f603e)
   * [Google and Uber’s Best Practices for Deep Learning](https://medium.com/intuitionmachine/google-and-ubers-best-practices-for-deep-learning-58488a8899b6)
-  * [Introducing Gluon — An Easy-to-Use Programming Interface for Flexible Deep Learning](https://aws.amazon.com/blogs/ai/introducing-gluon-an-easy-to-use-programming-interface-for-flexible-deep-learning/)
+  * [Introducing Gluon — An Easy-to-Use Programming Interface for Flexible Deep Learning](https://aws.amazon.com/blogs/ai/introducing-gluon-an-easy-to-use-programming-interface-for-flexible-deep-learning/) : [[한글]](https://aws.amazon.com/ko/blogs/korea/introducing-gluon-an-easy-to-use-programming-interface-for-flexible-deep-learning/)
   * [Gender Distribution in North Korean Posters](http://digitalnk.com/blog/2017/09/30/gender-distribution-in-north-korean-posters/)
   * [Attention in Neural Networks and How to Use It](http://akosiorek.github.io/ml/2017/10/14/visual-attention.html)
   * [TF-Slim 시작하기](http://www.popit.kr/tf-slim-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/)
@@ -430,6 +432,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [레진 데이터 챌린지 2017](http://tech.lezhin.com/events/data-challenge-pyconkr-2017)
   * [Distributed training in the cloud: Cloud Machine Learning Engine](https://medium.com/towards-data-science/distributed-training-in-the-cloud-cloud-machine-learning-engine-9e264ddde27f)
   * [Object detection with TensorFlow](https://www.oreilly.com/ideas/object-detection-with-tensorflow)
+  * [Simple MNIST Autoencoder in TensorFlow](https://gertjanvandenburg.com/blog/autoencoder/)
+  * [What is a CapsNet or Capsule Network?](https://hackernoon.com/what-is-a-capsnet-or-capsule-network-2bfbe48769cc)
+  * [Latest Deep Learning OCR with Keras and Supervisely in 15 minutes](https://hackernoon.com/latest-deep-learning-ocr-with-keras-and-supervisely-in-15-minutes-34aecd630ed8)
+  * [Machine Learning Meets Fashion](https://medium.com/towards-data-science/machine-learning-meets-fashion-48ee8f6541ad)
+  * [[카카오AI리포트]딥러닝과 데이터](https://brunch.co.kr/@kakao-it/137)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -518,6 +525,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Step-by-step approach to question answering](https://www.slideshare.net/NaverEngineering/stepbystep-approach-to-question-answering) : [[Video]](https://www.youtube.com/watch?v=JDi_P54NvsE)
   * [Finding connections among images using CycleGAN](https://www.slideshare.net/NaverEngineering/finding-connections-among-images-using-cyclegan) : [[Video]](https://www.youtube.com/watch?v=Fkqf3dS9Cqw)
   * [Multimodal Sequential Learning for Video QA](https://www.slideshare.net/NaverEngineering/multimodal-sequential-learning-for-video-qa) : [[Video]](https://www.youtube.com/watch?v=3xEKKViJA44)
+  * [딥러닝을 활용한 비디오 스토리 질의응답: 뽀로로QA와 심층 임베딩 메모리망](https://www.slideshare.net/NaverEngineering/qa-81412519) : [[Video]](https://www.youtube.com/watch?v=EHiGjiP3FbY)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -544,6 +552,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
     * [Gradient descent, how neural networks learn | Deep learning, part 2](https://www.youtube.com/watch?v=IHZwWFHWa-w&index=2&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
   * [Deep learning with Keras](https://www.youtube.com/watch?v=SGn8fMrWWtg&list=PL_SSujepRkqyjjbWnXQBzKXXm86UQ53Ic)
   * [Deep Learning and Streaming in Apache Spark 2 x - Matei Zaharia & Sue Ann Hong](https://www.youtube.com/watch?v=zom9J9sK6wY)
+  * [Apache MXNet으로 배워보는 딥러닝](https://www.youtube.com/watch?v=H66GDuLsGl4)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -601,6 +610,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Keras-GAN](https://github.com/eriklindernoren/Keras-GAN)
   * [Demo of running NNs across different deep learning frameworks](https://github.com/ilkarman/DeepLearningFrameworks)
   * [Distributed TensorFlow Guide](https://github.com/tmulc18/Distributed-TensorFlow-Guide)
+  * [Jupyter-Tensorboard: Start tensorboard in Jupyter notebook](https://github.com/lspvic/jupyter_tensorboard)
+  * [TensorNets - High level network definitions with pre-trained weights in TensorFlow](https://github.com/taehoonlee/tensornets)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -697,6 +708,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [슈퍼마리오에 모두를 위한 RL 수업의 딥러닝 코드 붙이기](http://jinman190.blogspot.kr/2017/10/rl.html)
 * [알파고는 스스로 신의 경지에 올랐다](https://brunch.co.kr/@madlymissyou/18)
 * [CNTK 2.1 + Keras + Reinforcement Learning in Python with Flapping Bird](https://www.youtube.com/watch?v=GS_l308-56E)
+* [AlphaGo Zero Explained In One Diagram](https://medium.com/applied-data-science/alphago-zero-explained-in-one-diagram-365f5abf67e0)
+* [[카카오AI리포트]강화학습 & 슈퍼마리오 part1](https://brunch.co.kr/@kakao-it/144)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -848,6 +861,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Python Graph Gallery](https://python-graph-gallery.com/)
 * [베이지안 추론 - 1편](https://brunch.co.kr/@chris-song/59)
 * [Generating product usage data from scratch with Pandas](https://medium.com/towards-data-science/generating-product-usage-data-from-scratch-with-pandas-319487590c6d)
+* [A Data Science Workflow](https://medium.com/towards-data-science/a-data-science-workflow-26c3f05a010e)
+* [NumPy Exercises](https://github.com/Kyubyong/numpy_exercises)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
