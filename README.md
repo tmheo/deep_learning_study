@@ -53,6 +53,15 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [FastCampus Deep Learning NLP Chatbot](https://github.com/j-min/fastcampus_dl_nlp_chatbot)
   * [최신 논문으로 시작하는 딥러닝 - 최성준님](http://www.edwith.org/deeplearningchoi/) : [[Code]](https://github.com/sjchoi86/dl_tutorials_10weeks)
   * [Everybody Tensorflow](https://github.com/jwkanggist/EveryBodyTensorFlow)
+  * 이찬우님의 패스트 캠퍼스 TensorFlow 딥러닝 강의자료
+    * [1. Machine Learning Basic, Linear Regression, Logistic Regression](http://nbviewer.jupyter.org/format/slides/gist/leechanwoo/179f9dcbde20e368ed19e1b63ff1f08f)
+    * [2. Feed Forward Neural Network](http://nbviewer.jupyter.org/format/slides/gist/leechanwoo/f9fc6edef8a4cfb4bd5fb3965b1a1b95)
+    * [3. Pipeline, TFRecord, Queue Runners, Dataset Framework](http://nbviewer.jupyter.org/format/slides/gist/leechanwoo/ef17f59f83fa837acae0ecfa88ea0d45)
+    * [4. Convolutional Neural Network](http://nbviewer.jupyter.org/format/slides/gist/leechanwoo/38ed39d73e772a3e16280a81cb80edbe)
+    * [5. Recurrent Neural Network](http://nbviewer.jupyter.org/format/slides/gist/leechanwoo/13f49ba3839b406f6b8e1eeacb2417fa)
+    * [6. RNN Cells, Advanced RNNs](http://nbviewer.jupyter.org/format/slides/gist/leechanwoo/d5fbd038ad6c7242efbfeeb87d1f740b)
+    * [7. High Level APIs, Estimator, Experiment](http://nbviewer.jupyter.org/format/slides/gist/leechanwoo/91ddc075ef74ee7eb03e9038bb63a354)
+    * [8. Word2vec, GAN Basic](http://nbviewer.jupyter.org/format/slides/gist/leechanwoo/c104702c7f1cbaf10e4188b88b2080ff)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -526,6 +535,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Finding connections among images using CycleGAN](https://www.slideshare.net/NaverEngineering/finding-connections-among-images-using-cyclegan) : [[Video]](https://www.youtube.com/watch?v=Fkqf3dS9Cqw)
   * [Multimodal Sequential Learning for Video QA](https://www.slideshare.net/NaverEngineering/multimodal-sequential-learning-for-video-qa) : [[Video]](https://www.youtube.com/watch?v=3xEKKViJA44)
   * [딥러닝을 활용한 비디오 스토리 질의응답: 뽀로로QA와 심층 임베딩 메모리망](https://www.slideshare.net/NaverEngineering/qa-81412519) : [[Video]](https://www.youtube.com/watch?v=EHiGjiP3FbY)
+  * [Predictive Maintenance with Deep Learning and Apache Flink](https://www.slideshare.net/FlinkForward/flink-forward-berlin-2017-dongwon-kim-predictive-maintenance-with-apache-flink) : [[Video]](https://www.youtube.com/watch?v=ZZevulsXp0g)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
