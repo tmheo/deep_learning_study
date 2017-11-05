@@ -447,7 +447,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Machine Learning Meets Fashion](https://medium.com/towards-data-science/machine-learning-meets-fashion-48ee8f6541ad)
   * [[카카오AI리포트]딥러닝과 데이터](https://brunch.co.kr/@kakao-it/137)
   * [CapsuleNet on MNIST](https://www.kaggle.com/kmader/capsulenet-on-mnist)
-  * [How do CNNs Deal with Position Differences?](https://petewarden.com/2017/10/29/how-do-cnns-deal-with-position-differences/)
+  * [How do CNNs Deal with Position Differences?](https://petewarden.com/2017/10/29/how-do-cnns-deal-with-position-differences/) : [[번역]](http://blog.funhnc.com/entry/%EC%9C%84%EC%B9%98-%EC%B0%A8%EC%9D%B4%EB%A5%BC-CNN%EC%9D%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%B2%98%EB%A6%AC%ED%95%A9%EB%8B%88%EA%B9%8C)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -526,7 +526,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deep learning framework 제작](https://www.slideshare.net/taeyounglee1447/deep-learning-framework)
   * [1시간만에 GAN[Generative Adversarial Network] 완전 정복하기](https://www.slideshare.net/NaverEngineering/1-gangenerative-adversarial-network) : [[Video]](https://youtu.be/odpjk7_tGY0)
   * [Build, Scale, and Deploy Deep Learning Pipelines with Ease Using Apache Spark](https://www.slideshare.net/databricks/build-scale-and-deploy-deep-learning-pipelines-with-ease-using-apache-spark)
-  * [Deep learning text NLP and Spark Collaboration. 한글 딥러닝 Text NLP & Spark](https://www.slideshare.net/ssusere94328/deep-learning-text-nlp-and-spark-collaboration-text-nlp-spark)
+  * [Deep learning text NLP and Spark Collaboration. 한글 딥러닝 Text NLP & Spark](https://www.slidesha글re.net/ssusere94328/deep-learning-text-nlp-and-spark-collaboration-text-nlp-spark)
   * [Understanding RCNN Family](https://www.slideshare.net/ssuser73ec8f/understanding-rcnn-family)
   * [자습해도 모르겠던 딥러닝, 머리속에 인스톨 시켜드립니다.](https://www.slideshare.net/yongho/ss-79607172)
   * [Applying deep learning to medical data](https://www.slideshare.net/hyunseokmin/applying-deep-learning-to-medical-data)
@@ -808,6 +808,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Linear Regression in Python; Predict The Bay Area’s Home Prices](https://medium.com/towards-data-science/linear-regression-in-python-predict-the-bay-areas-home-price-5c91c8378878)
 * [Best Method to Learn Essential Machine Learning Skills Fast](https://medium.com/towards-data-science/best-method-to-learn-essential-machine-learning-skills-fast-533e30f3023d)
 * [캐글[Kaggle] 데이터분석 배우기](https://www.youtube.com/playlist?list=PLVNY1HnUlO25B-8Gwn1mS35SD0yMHh147)
+* [2017년 가을 Azure Machine Learning 스터디 계획 및 자료 관리](http://distudy.azurewebsites.net/)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
