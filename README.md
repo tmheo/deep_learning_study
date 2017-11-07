@@ -62,6 +62,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
     * [6. RNN Cells, Advanced RNNs](http://nbviewer.jupyter.org/format/slides/gist/leechanwoo/d5fbd038ad6c7242efbfeeb87d1f740b)
     * [7. High Level APIs, Estimator, Experiment](http://nbviewer.jupyter.org/format/slides/gist/leechanwoo/91ddc075ef74ee7eb03e9038bb63a354)
     * [8. Word2vec, GAN Basic](http://nbviewer.jupyter.org/format/slides/gist/leechanwoo/c104702c7f1cbaf10e4188b88b2080ff)
+  * [딥러닝 이론에서 실습까지 - 엑셈](https://drive.google.com/file/d/0B-qyuGELhRZ6dGhFeUNVaFNPbms/view)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -566,6 +567,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deep learning with Keras](https://www.youtube.com/watch?v=SGn8fMrWWtg&list=PL_SSujepRkqyjjbWnXQBzKXXm86UQ53Ic)
   * [Deep Learning and Streaming in Apache Spark 2 x - Matei Zaharia & Sue Ann Hong](https://www.youtube.com/watch?v=zom9J9sK6wY)
   * [Apache MXNet으로 배워보는 딥러닝](https://www.youtube.com/watch?v=H66GDuLsGl4)
+  * [헬로 딥러닝 - 남세동님](https://www.youtube.com/watch?v=yWySw4EfSJc&list=PLefQdA1SdkhsO4yGqIFAWcG6vr211di1j)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -625,6 +627,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Distributed TensorFlow Guide](https://github.com/tmulc18/Distributed-TensorFlow-Guide)
   * [Jupyter-Tensorboard: Start tensorboard in Jupyter notebook](https://github.com/lspvic/jupyter_tensorboard)
   * [TensorNets - High level network definitions with pre-trained weights in TensorFlow](https://github.com/taehoonlee/tensornets)
+  * [A neural chatbot using sequence to sequence model with attentional decoder implements by Tensorflow 1.4 version ](https://github.com/DongjunLee/conversation-tensorflow)
+  * [Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow](https://github.com/matterport/Mask_RCNN)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -723,6 +727,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [CNTK 2.1 + Keras + Reinforcement Learning in Python with Flapping Bird](https://www.youtube.com/watch?v=GS_l308-56E)
 * [AlphaGo Zero Explained In One Diagram](https://medium.com/applied-data-science/alphago-zero-explained-in-one-diagram-365f5abf67e0)
 * [[카카오AI리포트]강화학습 & 슈퍼마리오 part1](https://brunch.co.kr/@kakao-it/144)
+* [Teaching an Actor-Critic Agent Through Optimal Scripted Agent Trajectories](https://www.slideshare.net/sjhshy/teaching-an-actorcritic-agent-through-optimal-scripted-agent-trajectories-81632718)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -877,6 +882,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Generating product usage data from scratch with Pandas](https://medium.com/towards-data-science/generating-product-usage-data-from-scratch-with-pandas-319487590c6d)
 * [A Data Science Workflow](https://medium.com/towards-data-science/a-data-science-workflow-26c3f05a010e)
 * [NumPy Exercises](https://github.com/Kyubyong/numpy_exercises)
+* [파이썬 뉴스 텍스트 워드 클라우드](http://nbviewer.jupyter.org/gist/FinanceData/6bda99ce6ec5b9de2fd93e204f831561)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
