@@ -1033,6 +1033,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Precision, Recall, AP[Average Precision], MAP[Mean Average Precision]](https://blog.naver.com/PostView.nhn?blogId=pktoto&logNo=100093423334)
 * [Unranked Retrieval Evaluation](https://yunjinhan.github.io/2017/05/Unranked-Retrieval-Evaluation-Precision-and-Recall)
 * [accuracy, precision, recall의 차이](http://shine-ing.tistory.com/157)
+* [A recommender system for discovering GitHub repos, built with Apache Spark](https://github.com/vinta/albedo)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
