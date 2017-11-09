@@ -13,6 +13,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Stanford - CS224n: Deep Learning for Natural Language Processing](http://web.stanford.edu/class/cs224n/) : [[Video]](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
   * [Stanford - Unsupervised Feature Learning and Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
   * [Stanford - Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/)
+  * [Stanford - Theories of Deep Learning [STATS 385]](https://stats385.github.io/)
   * [MIT - 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
   * [MIT - 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
   * [Oxford - Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
@@ -63,6 +64,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
     * [7. High Level APIs, Estimator, Experiment](http://nbviewer.jupyter.org/format/slides/gist/leechanwoo/91ddc075ef74ee7eb03e9038bb63a354)
     * [8. Word2vec, GAN Basic](http://nbviewer.jupyter.org/format/slides/gist/leechanwoo/c104702c7f1cbaf10e4188b88b2080ff)
   * [딥러닝 이론에서 실습까지 - 엑셈](https://drive.google.com/file/d/0B-qyuGELhRZ6dGhFeUNVaFNPbms/view)
+  * [Easy-deep-learning-with-Keras](https://github.com/buomsoo-kim/Easy-deep-learning-with-Keras)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -84,6 +86,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Towards Data Science - Sharing concepts, ideas, and codes.](https://medium.com/towards-data-science)
   * [카카오 AI 매거진](https://brunch.co.kr/magazine/kakaoaireport)
   * [HillClimber.ai - a curated machine learning mashup](http://www.hillclimber.ai/)
+  * [MyBridge - Machine Learning Top 10 Articles For the Past Month](https://medium.mybridge.co/tagged/machine-learning)
 * Article
   * [Andrej Karpathy's Deep Learning Blog](http://karpathy.github.io/)
   * [머신러닝 딥러닝 입문 시 도움 되는 강좌](https://www.facebook.com/groups/TensorFlowKR/permalink/485458151795248/)
@@ -449,6 +452,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [[카카오AI리포트]딥러닝과 데이터](https://brunch.co.kr/@kakao-it/137)
   * [CapsuleNet on MNIST](https://www.kaggle.com/kmader/capsulenet-on-mnist)
   * [How do CNNs Deal with Position Differences?](https://petewarden.com/2017/10/29/how-do-cnns-deal-with-position-differences/) : [[번역]](http://blog.funhnc.com/entry/%EC%9C%84%EC%B9%98-%EC%B0%A8%EC%9D%B4%EB%A5%BC-CNN%EC%9D%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%B2%98%EB%A6%AC%ED%95%A9%EB%8B%88%EA%B9%8C)
+  * [옹쿠님의 Capsule Network 정리](https://blog.naver.com/PostView.nhn?blogId=suma_maple&logNo=221134956780)
+  * [NVIDIA DIGITS 알아보기!](http://digitalbourgeois.tistory.com/36)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -747,11 +752,6 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 * [How to use pre-trained word vectors from Facebook’s fastText](https://blog.manash.me/how-to-use-pre-trained-word-vectors-from-facebooks-fasttext-a71e6d55f27)
 * [한국어와 NLTK, Gensim의 만남](https://www.lucypark.kr/slides/2015-pyconkr/)
-* [Machine Learning Top 10 Articles for the Past Month - January and February 2017](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-eedfaa364e73)
-* [Machine Learning Top 10 Articles for the Past Month - March, 2017](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-ce771c6a6ba5)
-* [Machine Learning Top 10 Articles for the Past Month - May, 2017](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-may-2017-f66b865b3e99)
-* [Machine Learning Top 10 Articles For the Past Month - August, 2017](https://medium.mybridge.co/machine-learning-top-10-articles-v-august-2017-9f4b648a38be)
-* [Machine Learning Top 10 Articles For the Past Month - v.Sep 2017](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-sep-2017-c68f4b0b5e72)
 * [Winning Tips on Machine Learning Competitions by Kazanova, Current Kaggle #3](http://blog.hackerearth.com/winning-tips-machine-learning-competitions-kazanova-current-kaggle-3)
 * [Applying Machine Learning To March Madness](https://adeshpande3.github.io/adeshpande3.github.io/Applying-Machine-Learning-to-March-Madness)
 * [Scikit-Learn Tutorial Series](http://www.datasciencecentral.com/profiles/blogs/scikit-learn-tutorial-series)
@@ -814,6 +814,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Best Method to Learn Essential Machine Learning Skills Fast](https://medium.com/towards-data-science/best-method-to-learn-essential-machine-learning-skills-fast-533e30f3023d)
 * [캐글[Kaggle] 데이터분석 배우기](https://www.youtube.com/playlist?list=PLVNY1HnUlO25B-8Gwn1mS35SD0yMHh147)
 * [2017년 가을 Azure Machine Learning 스터디 계획 및 자료 관리](http://distudy.azurewebsites.net/)
+* [Predict Employee Turnover With Python](https://towardsdatascience.com/predict-employee-turnover-with-python-da4975588aa3)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
