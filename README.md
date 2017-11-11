@@ -46,7 +46,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [PyTorch로 시작하는 딥러닝 입문 CAMP 1기 강의자료](https://github.com/GunhoChoi/PyTorch_FastCampus)
   * [패스트캠퍼스 Deep Learning 강의 자료](https://github.com/nmhkahn/deep_learning_tutorial)
   * [딥러닝 교육 자료](http://hugrypiggykim.com/2017/08/24/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EA%B5%90%EC%9C%A1-%EC%9E%90%EB%A3%8C-deep-learning-lecture/)
-  * [Keras 레퍼런스 - CodeOnWeb](https://www.codeonweb.com/course/@keras-references)
+  * Keras 강의 - CodeOnWeb
+    * [Keras와 함께 딥러닝 백지부터 GANs까지](https://www.codeonweb.com/course/@keras-dlwp)
+    * [Keras 레퍼런스](https://www.codeonweb.com/course/@keras-references)
   * [DeepSchool.io - Deep Learning tutorials in jupyter notebooks](https://github.com/sachinruk/deepschool.io)
   * [Deep Learning Course - PyTorch](https://fleuret.org/dlc/)
   * [TensorFlow Tutorial and Examples for Beginners with Latest APIs](https://github.com/aymericdamien/TensorFlow-Examples)
