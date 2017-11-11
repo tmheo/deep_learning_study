@@ -569,7 +569,6 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deep learning with Keras](https://www.youtube.com/playlist?list=PL_SSujepRkqyjjbWnXQBzKXXm86UQ53Ic)
   * [머신러닝/딥러닝 실전 입문](https://www.youtube.com/watch?v=l_XFlB1Wwz8&list=PLBXuLgInP-5m_vn9ycXHRl7hlsd1huqmS)
   * [Neural Networks - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-  * [Deep learning with Keras](https://www.youtube.com/watch?v=SGn8fMrWWtg&list=PL_SSujepRkqyjjbWnXQBzKXXm86UQ53Ic)
   * [Deep Learning and Streaming in Apache Spark 2 x - Matei Zaharia & Sue Ann Hong](https://www.youtube.com/watch?v=zom9J9sK6wY)
   * [Apache MXNet으로 배워보는 딥러닝](https://www.youtube.com/watch?v=H66GDuLsGl4)
   * [헬로 딥러닝 - 남세동님](https://www.youtube.com/watch?v=yWySw4EfSJc&list=PLefQdA1SdkhsO4yGqIFAWcG6vr211di1j)
