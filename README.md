@@ -380,6 +380,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
     * [Part 1: Artificial Neural Networks](https://medium.com/towards-data-science/applied-deep-learning-part-1-artificial-neural-networks-d7834f67a4f6)
     * [Part 2: Real World Case Studies](https://medium.com/towards-data-science/applied-deep-learning-part-2-real-world-case-studies-1bb4b142a585)
     * [Part 3: Autoencoders](https://medium.com/towards-data-science/applied-deep-learning-part-3-autoencoders-1c083af4d798)
+    * [Part 4: Convolutional Neural Networks](https://towardsdatascience.com/applied-deep-learning-part-4-convolutional-neural-networks-584bc134c1e2)
   * [BigData와 결합한, 분산 Deep Learning 그 의미와 접근 방법에 대하여](http://hoondongkim.blogspot.kr/2017/09/bigdata-distributed-deep-learning.html)
   * [Deep Learning with Intel’s BigDL and Apache Spark](http://blog.cloudera.com/blog/2017/09/deep-learning-with-intels-bigdl-and-apache-spark/)
   * [My Workflow of Supervised Learning - 지도학습의 자세한 나만의 워크플로우](http://ljs93kr.tistory.com/80)
@@ -545,6 +546,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [딥러닝을 활용한 비디오 스토리 질의응답: 뽀로로QA와 심층 임베딩 메모리망](https://www.slideshare.net/NaverEngineering/qa-81412519) : [[Video]](https://www.youtube.com/watch?v=EHiGjiP3FbY)
   * [Predictive Maintenance with Deep Learning and Apache Flink](https://www.slideshare.net/FlinkForward/flink-forward-berlin-2017-dongwon-kim-predictive-maintenance-with-apache-flink) : [[Video]](https://www.youtube.com/watch?v=ZZevulsXp0g)
   * [Video Object Segmentation in Videos](https://www.slideshare.net/NaverEngineering/video-object-segmentation-in-videos) : [[Video]](https://www.youtube.com/watch?v=0X-J5kNNSZw)
+  * [NLP_with_Deep_Learning_한국어](https://www.dropbox.com/s/ca748gr9i91tn8f/NLP_with_Deep_Learning_%ED%95%9C%EA%B5%AD%EC%96%B4.pdf?dl=0)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -566,9 +568,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [12인회 논문 읽기 비디오](https://kkweon.github.io/pr12-web-app-elm/)
   * [Deep learning with Keras](https://www.youtube.com/playlist?list=PL_SSujepRkqyjjbWnXQBzKXXm86UQ53Ic)
   * [머신러닝/딥러닝 실전 입문](https://www.youtube.com/watch?v=l_XFlB1Wwz8&list=PLBXuLgInP-5m_vn9ycXHRl7hlsd1huqmS)
-  * 3Blue1Brown - Neural Networks
-    * [But what *is* a Neural Network? | Deep learning, Part 1](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=1)
-    * [Gradient descent, how neural networks learn | Deep learning, part 2](https://www.youtube.com/watch?v=IHZwWFHWa-w&index=2&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+  * [Neural Networks - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
   * [Deep learning with Keras](https://www.youtube.com/watch?v=SGn8fMrWWtg&list=PL_SSujepRkqyjjbWnXQBzKXXm86UQ53Ic)
   * [Deep Learning and Streaming in Apache Spark 2 x - Matei Zaharia & Sue Ann Hong](https://www.youtube.com/watch?v=zom9J9sK6wY)
   * [Apache MXNet으로 배워보는 딥러닝](https://www.youtube.com/watch?v=H66GDuLsGl4)
@@ -634,6 +634,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [TensorNets - High level network definitions with pre-trained weights in TensorFlow](https://github.com/taehoonlee/tensornets)
   * [A neural chatbot using sequence to sequence model with attentional decoder implements by Tensorflow 1.4 version ](https://github.com/DongjunLee/conversation-tensorflow)
   * [Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow](https://github.com/matterport/Mask_RCNN)
+  * [Pytorch implementations of various Deep NLP models in cs-224n[Stanford Univ]](https://github.com/DSKSD/DeepNLP-models-Pytorch)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
