@@ -457,6 +457,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [How do CNNs Deal with Position Differences?](https://petewarden.com/2017/10/29/how-do-cnns-deal-with-position-differences/) : [[번역]](http://blog.funhnc.com/entry/%EC%9C%84%EC%B9%98-%EC%B0%A8%EC%9D%B4%EB%A5%BC-CNN%EC%9D%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%B2%98%EB%A6%AC%ED%95%A9%EB%8B%88%EA%B9%8C)
   * [옹쿠님의 Capsule Network 정리](https://blog.naver.com/PostView.nhn?blogId=suma_maple&logNo=221134956780)
   * [NVIDIA DIGITS 알아보기!](http://digitalbourgeois.tistory.com/36)
+  * [Getting Started with the AWS Deep Learning Conda and Base AMIs](https://aws.amazon.com/blogs/ai/getting-started-with-the-aws-deep-learning-conda-and-base-amis/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1036,6 +1037,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Unranked Retrieval Evaluation](https://yunjinhan.github.io/2017/05/Unranked-Retrieval-Evaluation-Precision-and-Recall)
 * [accuracy, precision, recall의 차이](http://shine-ing.tistory.com/157)
 * [A recommender system for discovering GitHub repos, built with Apache Spark](https://github.com/vinta/albedo)
+* [CIKM2017에서 발표한 네이버의 자동 뉴스 추천 기술](https://blog.naver.com/PostView.nhn?blogId=naver_search&logNo=221140708518)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
