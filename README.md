@@ -458,6 +458,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [옹쿠님의 Capsule Network 정리](https://blog.naver.com/PostView.nhn?blogId=suma_maple&logNo=221134956780)
   * [NVIDIA DIGITS 알아보기!](http://digitalbourgeois.tistory.com/36)
   * [Getting Started with the AWS Deep Learning Conda and Base AMIs](https://aws.amazon.com/blogs/ai/getting-started-with-the-aws-deep-learning-conda-and-base-amis/)
+  * [Announcing ONNX Support for Apache MXNet](https://aws.amazon.com/blogs/ai/announcing-onnx-support-for-apache-mxnet/)
+  * [TechtreeAI - AI 학습법](https://github.com/zeran4/TechtreeAI)
+  * [Dynamic Routing Between Capsules - 캡슐 간 동적 라우팅](https://blog.naver.com/PostView.nhn?blogId=sogangori&logNo=221129974140)
+  * [10 more Deep Learning projects based on Apache MXNet](https://medium.com/@julsimon/10-more-deep-learning-projects-based-on-apache-mxnet-a2dababe455f)
+  * [Keras + Horovod = Distributed Deep Learning on Steroids](https://medium.com/searchink-eng/keras-horovod-distributed-deep-learning-on-steroids-94666e16673d)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -574,7 +579,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Neural Networks - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
   * [Deep Learning and Streaming in Apache Spark 2 x - Matei Zaharia & Sue Ann Hong](https://www.youtube.com/watch?v=zom9J9sK6wY)
   * [Apache MXNet으로 배워보는 딥러닝](https://www.youtube.com/watch?v=H66GDuLsGl4)
-  * [헬로 딥러닝 - 남세동님](https://www.youtube.com/watch?v=yWySw4EfSJc&list=PLefQdA1SdkhsO4yGqIFAWcG6vr211di1j)
+  * [헬로 딥러닝 - 남세동님](https://www.youtube.com/playlist?list=PLefQdA1SdkhsO4yGqIFAWcG6vr211di1j)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -637,6 +642,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [A neural chatbot using sequence to sequence model with attentional decoder implements by Tensorflow 1.4 version ](https://github.com/DongjunLee/conversation-tensorflow)
   * [Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow](https://github.com/matterport/Mask_RCNN)
   * [Pytorch implementations of various Deep NLP models in cs-224n[Stanford Univ]](https://github.com/DSKSD/DeepNLP-models-Pytorch)
+  * [Korean Restaurant Reservation Dialogue System](https://github.com/JudeLee19/korean_restaurant_reservation)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -718,8 +724,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [파이썬과 케라스로 배우는 강화학습 저자특강](https://www.slideshare.net/WoongwonLee/ss-78783597)
 * [알아두면 쓸데있는 신기한 강화학습 NAVER 2017](https://www.slideshare.net/carpedm20/naver-2017) : [[Video]](https://www.youtube.com/watch?v=NGGO0zdzhVQ)
 * 스타2 강화학습 튜토리얼
-  * [1편](https://brunch.co.kr/@chris-song/44)
-  * [2편](https://brunch.co.kr/@chris-song/48)
+  * [1편](https://brunch.co.kr/@chris-song/44) : [[English]](http://chris-chris.ai/2017/08/30/pysc2-tutorial1/)
+  * [2편](https://brunch.co.kr/@chris-song/48) : [[English]](http://chris-chris.ai/2017/11/06/pysc2-tutorial2/)
 * [Contextual Bandits and Reinforcement Learning](https://medium.com/towards-data-science/contextual-bandits-and-reinforcement-learning-6bdfeaece72a)
 * [RLCode와 A3C 쉽고 깊게 이해하기](https://www.slideshare.net/WoongwonLee/rlcode-a3c) : [[Video]](https://www.youtube.com/watch?v=gINks-YCTBs)
 * [Introduction of Deep Reinforcement Learning](https://www.slideshare.net/NaverEngineering/introduction-of-deep-reinforcement-learning) : [[Video]](https://youtu.be/dw0sHzE1oAc)
@@ -887,6 +893,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [A Data Science Workflow](https://medium.com/towards-data-science/a-data-science-workflow-26c3f05a010e)
 * [NumPy Exercises](https://github.com/Kyubyong/numpy_exercises)
 * [파이썬 뉴스 텍스트 워드 클라우드](http://nbviewer.jupyter.org/gist/FinanceData/6bda99ce6ec5b9de2fd93e204f831561)
+* [Wrangling data with Pandas](https://towardsdatascience.com/wrangling-data-with-pandas-27ef828aff01)
+* [InSpace 딥러닝 관련 블로그](https://inspace4u.github.io/dllab/index.html)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
