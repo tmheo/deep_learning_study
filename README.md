@@ -555,6 +555,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Predictive Maintenance with Deep Learning and Apache Flink](https://www.slideshare.net/FlinkForward/flink-forward-berlin-2017-dongwon-kim-predictive-maintenance-with-apache-flink) : [[Video]](https://www.youtube.com/watch?v=ZZevulsXp0g)
   * [Video Object Segmentation in Videos](https://www.slideshare.net/NaverEngineering/video-object-segmentation-in-videos) : [[Video]](https://www.youtube.com/watch?v=0X-J5kNNSZw)
   * [NLP_with_Deep_Learning_한국어](https://www.dropbox.com/s/ca748gr9i91tn8f/NLP_with_Deep_Learning_%ED%95%9C%EA%B5%AD%EC%96%B4.pdf?dl=0)
+  * [텐서플로우로 배우는 딥러닝](https://www.slideshare.net/w0ong/ss-82372826)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
