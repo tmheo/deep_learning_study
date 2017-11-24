@@ -463,6 +463,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Dynamic Routing Between Capsules - 캡슐 간 동적 라우팅](https://blog.naver.com/PostView.nhn?blogId=sogangori&logNo=221129974140)
   * [10 more Deep Learning projects based on Apache MXNet](https://medium.com/@julsimon/10-more-deep-learning-projects-based-on-apache-mxnet-a2dababe455f)
   * [Keras + Horovod = Distributed Deep Learning on Steroids](https://medium.com/searchink-eng/keras-horovod-distributed-deep-learning-on-steroids-94666e16673d)
+  * [Run Deep Learning Frameworks with GPU Instance Types on Amazon EMR](https://aws.amazon.com/blogs/ai/run-deep-learning-frameworks-with-gpu-instance-types-on-amazon-emr/)
+  * [[번역] Go와 Tensorflow로 이미지 인식 API 만들기](https://blog.kesuskim.com/2017/11/make-image-recognition-api-using-go-tensorflow/)
+  * [TensorFlow Lite 101 - MoblieNet 맛보기](https://soundlly.github.io/2017/11/20/tensorflowlite-moblienet-demo/)
+  * [딥러닝을 제대로 이해하기 위해서 필요한 배경지식맵](http://bahnsville.tistory.com/1155)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -556,6 +560,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Video Object Segmentation in Videos](https://www.slideshare.net/NaverEngineering/video-object-segmentation-in-videos) : [[Video]](https://www.youtube.com/watch?v=0X-J5kNNSZw)
   * [NLP_with_Deep_Learning_한국어](https://www.dropbox.com/s/ca748gr9i91tn8f/NLP_with_Deep_Learning_%ED%95%9C%EA%B5%AD%EC%96%B4.pdf?dl=0)
   * [텐서플로우로 배우는 딥러닝](https://www.slideshare.net/w0ong/ss-82372826)
+  * [Introduction to Capsule Networks [CapsNets]](https://www.slideshare.net/aureliengeron/introduction-to-capsule-networks-capsnets) : [[Video]](https://www.youtube.com/watch?v=pPN8d0E3900)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -644,6 +649,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow](https://github.com/matterport/Mask_RCNN)
   * [Pytorch implementations of various Deep NLP models in cs-224n[Stanford Univ]](https://github.com/DSKSD/DeepNLP-models-Pytorch)
   * [Korean Restaurant Reservation Dialogue System](https://github.com/JudeLee19/korean_restaurant_reservation)
+  * 구글 머신러닝 워크샵 교육 코드
+    * [Day 1](https://github.com/bwcho75/tensorflowML)
+    * [Day 2](https://github.com/bwcho75/mlworkshop)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -743,6 +751,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [AlphaGo Zero Explained In One Diagram](https://medium.com/applied-data-science/alphago-zero-explained-in-one-diagram-365f5abf67e0)
 * [[카카오AI리포트]강화학습 & 슈퍼마리오 part1](https://brunch.co.kr/@kakao-it/144)
 * [Teaching an Actor-Critic Agent Through Optimal Scripted Agent Trajectories](https://www.slideshare.net/sjhshy/teaching-an-actorcritic-agent-through-optimal-scripted-agent-trajectories-81632718)
+* [Doing Deep Reinforcement learning with PPO](https://www.slideshare.net/ssuser517c25/doing-deep-reinforcement-learning-with-ppo-82483715)
+* [Direct Future Prediction - Supervised Learning for Reinforcement Learning](https://flyyufelix.github.io/2017/11/17/direct-future-prediction.html)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -825,6 +835,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [캐글[Kaggle] 데이터분석 배우기](https://www.youtube.com/playlist?list=PLVNY1HnUlO25B-8Gwn1mS35SD0yMHh147)
 * [2017년 가을 Azure Machine Learning 스터디 계획 및 자료 관리](http://distudy.azurewebsites.net/)
 * [Predict Employee Turnover With Python](https://towardsdatascience.com/predict-employee-turnover-with-python-da4975588aa3)
+* [Kaggle-Knowhow[Korean Ver] 한국분들을 위한 Kaggle 자료 모음](https://github.com/zzsza/Kaggle-knowhow)
+* How Feature Engineering can help you do well in a Kaggle competition
+  * [Part I](https://medium.com/unstructured/how-feature-engineering-can-help-you-do-well-in-a-kaggle-competition-part-i-9cc9a883514d)
+  * [Part II](https://medium.com/unstructured/how-feature-engineering-can-help-you-do-well-in-a-kaggle-competition-part-ii-3645d92282b8)
+  * [Part III](https://medium.com/unstructured/how-feature-engineering-can-help-you-do-well-in-a-kaggle-competition-part-iii-f67567aaf57c)
+* [자연어 처리[NLP] 관련 블로그](http://blog.naver.com/PostList.nhn?blogId=bcj1210)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -896,6 +912,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [파이썬 뉴스 텍스트 워드 클라우드](http://nbviewer.jupyter.org/gist/FinanceData/6bda99ce6ec5b9de2fd93e204f831561)
 * [Wrangling data with Pandas](https://towardsdatascience.com/wrangling-data-with-pandas-27ef828aff01)
 * [InSpace 딥러닝 관련 블로그](https://inspace4u.github.io/dllab/index.html)
+* [아주 심플한 블룸필터의 원리](https://www.slideshare.net/charsyam2/bloomfilter-82589241)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -1038,7 +1055,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Approximate Nearest Neighbours for Recommender Systems](http://www.benfrederickson.com/approximate-nearest-neighbours-for-recommender-systems/)
 * [Deep matrix factorization using Apache MXNet](https://www.oreilly.com/ideas/deep-matrix-factorization-using-apache-mxnet)
 * [LastFM Artist Recommender](http://forums.fast.ai/t/lastfm-artist-recommender-video-4-5/6302)
-* [인공지능 추천 시스템 AiRS 개발기 : 모델링과 시스템](https://www.slideshare.net/deview/airs-80886207)
+* [인공지능 추천 시스템 AiRS 개발기 : 모델링과 시스템](https://www.slideshare.net/deview/airs-80886207) : [[Video]](http://tv.naver.com/v/2297146)
 * [맥주마시며 만들어본 딥러닝 맥주 추천엔진](http://freesearch.pe.kr/archives/4656)
 * [Building a Real-time Recommendation Engine With Neo4j - William Lyon - OSCON 2017](https://www.youtube.com/watch?v=wbI5JwIFYEM&list=PLYXrHS_RtDZ2fbH6Ml9K5DxYBATYGeCgN)
 * [Evaluation in IR system [검색 시스템의 평가]](https://www.slideshare.net/MinsubYim/evaluation-in-ir-system)
@@ -1047,6 +1064,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [accuracy, precision, recall의 차이](http://shine-ing.tistory.com/157)
 * [A recommender system for discovering GitHub repos, built with Apache Spark](https://github.com/vinta/albedo)
 * [CIKM2017에서 발표한 네이버의 자동 뉴스 추천 기술](https://blog.naver.com/PostView.nhn?blogId=naver_search&logNo=221140708518)
+* [Recommendation Papers Summary](https://github.com/gopala-kr/summary/tree/master/summaries/Week-6)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
