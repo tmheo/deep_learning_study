@@ -467,6 +467,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [[번역] Go와 Tensorflow로 이미지 인식 API 만들기](https://blog.kesuskim.com/2017/11/make-image-recognition-api-using-go-tensorflow/)
   * [TensorFlow Lite 101 - MoblieNet 맛보기](https://soundlly.github.io/2017/11/20/tensorflowlite-moblienet-demo/)
   * [딥러닝을 제대로 이해하기 위해서 필요한 배경지식맵](http://bahnsville.tistory.com/1155)
+  * [여러가지 합성곱 신경망 레이어들 - InceptionV1[Googlenet]](https://hskang9.github.io/various_cnn/2017/11/24/inception/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1047,6 +1048,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [쇼핑을 자주 하지 않는 이용자도, 신규 판매자도 만족스러운 쇼핑 플랫폼을 만드는 에이아이템즈[AiTEMS]의 기술](https://blog.naver.com/naver_search/221086300708)
   * [CF기술•RNN기술의 장점이 융합된 ‘AiRS[에어스]’가 모바일 뉴스판에 시범 적용됩니다](https://blog.naver.com/naver_search/221105431207)
   * [인공지능 기반 추천 시스템 AiRS를 소개합니다](https://blog.naver.com/naver_diary/220936643956)
+  * [인공지능 추천 시스템 AiRS 개발기 : 모델링과 시스템](https://www.slideshare.net/deview/airs-80886207) : [[Video]](http://tv.naver.com/v/2297146)
+  * [CIKM2017에서 발표한 네이버의 자동 뉴스 추천 기술](https://blog.naver.com/PostView.nhn?blogId=naver_search&logNo=221140708518)
 * [Building Recommender System for GitHub](https://medium.com/@andrey_lisin/building-recommender-system-for-github-a8108f0cb2bd)
 * [RecSys 2017 Summary](https://medium.com/towards-data-science/recsys-2017-2d0879351097)
 * [A Cost-Effective and Scalable Collaborative Filtering based Recommender System](https://www.bbvadata.com/cost-effective-scalable-collaborative-filtering-based-recommender-system/)
@@ -1055,7 +1058,6 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Approximate Nearest Neighbours for Recommender Systems](http://www.benfrederickson.com/approximate-nearest-neighbours-for-recommender-systems/)
 * [Deep matrix factorization using Apache MXNet](https://www.oreilly.com/ideas/deep-matrix-factorization-using-apache-mxnet)
 * [LastFM Artist Recommender](http://forums.fast.ai/t/lastfm-artist-recommender-video-4-5/6302)
-* [인공지능 추천 시스템 AiRS 개발기 : 모델링과 시스템](https://www.slideshare.net/deview/airs-80886207) : [[Video]](http://tv.naver.com/v/2297146)
 * [맥주마시며 만들어본 딥러닝 맥주 추천엔진](http://freesearch.pe.kr/archives/4656)
 * [Building a Real-time Recommendation Engine With Neo4j - William Lyon - OSCON 2017](https://www.youtube.com/watch?v=wbI5JwIFYEM&list=PLYXrHS_RtDZ2fbH6Ml9K5DxYBATYGeCgN)
 * [Evaluation in IR system [검색 시스템의 평가]](https://www.slideshare.net/MinsubYim/evaluation-in-ir-system)
@@ -1063,7 +1065,6 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Unranked Retrieval Evaluation](https://yunjinhan.github.io/2017/05/Unranked-Retrieval-Evaluation-Precision-and-Recall)
 * [accuracy, precision, recall의 차이](http://shine-ing.tistory.com/157)
 * [A recommender system for discovering GitHub repos, built with Apache Spark](https://github.com/vinta/albedo)
-* [CIKM2017에서 발표한 네이버의 자동 뉴스 추천 기술](https://blog.naver.com/PostView.nhn?blogId=naver_search&logNo=221140708518)
 * [Recommendation Papers Summary](https://github.com/gopala-kr/summary/tree/master/summaries/Week-6)
 
 ## Chatbot
