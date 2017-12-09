@@ -472,8 +472,16 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Serving TensorFlow Models. Serverless](https://towardsdatascience.com/serving-tensorflow-models-serverless-6a39614094ff)
   * [Distributed TensorFlow: A Gentle Introduction](http://amid.fish/distributed-tensorflow-a-gentle-introduction)
   * [Structured Deep Learning](https://towardsdatascience.com/structured-deep-learning-b8ca4138b848)
-  * [Amazon SageMaker – Accelerating Machine Learning](https://aws.amazon.com/blogs/aws/sagemaker/)
+  * [Amazon SageMaker – Accelerating Machine Learning](https://aws.amazon.com/blogs/aws/sagemaker/) : [[한글]](https://aws.amazon.com/ko/blogs/korea/sagemaker/)
   * [AWS SageMaker: AI’s Next Game Changer](https://towardsdatascience.com/aws-sagemaker-ais-next-game-changer-480d79e252a8)
+  * [How to Build a Real-time Hand-Detector using Neural Networks [SSD] on Tensorflow](https://towardsdatascience.com/how-to-build-a-real-time-hand-detector-using-neural-networks-ssd-on-tensorflow-d6bac0e4b2ce)
+  * [How to Find Wally with a Neural Network](https://towardsdatascience.com/how-to-find-wally-neural-network-eddbb20b0b90)
+  * [Using T-SNE to Visualise how your Model thinks](https://buzzrobot.com/using-t-sne-to-visualise-how-your-deep-model-thinks-4ba6da0c63a0)
+  * [SuaLab Research Blog - Deep Learning, Computer Vision](http://research.sualab.com/)
+  * [Grad CAM을 이용한 딥러닝 모형 해석](http://freesearch.pe.kr/archives/4685)
+  * [AWS Contributes to Milestone 1.0 Release of Apache MXNet Including the Addition of a New Model Serving Capability](https://aws.amazon.com/blogs/ai/aws-contributes-to-milestone-1-0-release-of-apache-mxnet-including-the-addition-of-a-new-model-serving-capability/) : [[한글]](https://aws.amazon.com/ko/blogs/korea/aws-contributes-to-milestone-1-0-release-and-adds-model-serving-capability-for-apache-mxnet/)
+  * [Introducing Model Server for Apache MXNet](https://aws.amazon.com/blogs/ai/introducing-model-server-for-apache-mxnet/)
+  * [How to Generate Music using a LSTM Neural Network in Keras](https://towardsdatascience.com/how-to-generate-music-using-a-lstm-neural-network-in-keras-68786834d4c5)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -567,7 +575,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Video Object Segmentation in Videos](https://www.slideshare.net/NaverEngineering/video-object-segmentation-in-videos) : [[Video]](https://www.youtube.com/watch?v=0X-J5kNNSZw)
   * [NLP_with_Deep_Learning_한국어](https://www.dropbox.com/s/ca748gr9i91tn8f/NLP_with_Deep_Learning_%ED%95%9C%EA%B5%AD%EC%96%B4.pdf?dl=0)
   * [텐서플로우로 배우는 딥러닝](https://www.slideshare.net/w0ong/ss-82372826)
-  * [Introduction to Capsule Networks [CapsNets]](https://www.slideshare.net/aureliengeron/introduction-to-capsule-networks-capsnets) : [[Video]](https://www.youtube.com/watch?v=pPN8d0E3900)
+  * [Introduction to Capsule Networks [CapsNets]](https://www.slideshare.net/aureliengeron/introduction-to-capsule-networks-capsnets) : [[Video]](https://www.youtube.com/watch?v=pPN8d0E3900), [[Video2]](https://www.youtube.com/watch?v=2Kawrd5szHE)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -659,6 +667,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * 구글 머신러닝 워크샵 교육 코드
     * [Day 1](https://github.com/bwcho75/tensorflowML)
     * [Day 2](https://github.com/bwcho75/mlworkshop)
+  * [Convolutional Neural Networks for Sentence Classification[TextCNN] implements by TensorFlow](https://github.com/DongjunLee/text-cnn-tensorflow)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -849,6 +858,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Part II](https://medium.com/unstructured/how-feature-engineering-can-help-you-do-well-in-a-kaggle-competition-part-ii-3645d92282b8)
   * [Part III](https://medium.com/unstructured/how-feature-engineering-can-help-you-do-well-in-a-kaggle-competition-part-iii-f67567aaf57c)
 * [자연어 처리[NLP] 관련 블로그](http://blog.naver.com/PostList.nhn?blogId=bcj1210)
+* [Solving A Simple Classification Problem with Python — Fruits Lovers’ Edition](https://towardsdatascience.com/solving-a-simple-classification-problem-with-python-fruits-lovers-edition-d20ab6b071d2)
+* [Introduction to Kaggle Kernels](https://towardsdatascience.com/introduction-to-kaggle-kernels-2ad754ebf77)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -921,6 +932,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Wrangling data with Pandas](https://towardsdatascience.com/wrangling-data-with-pandas-27ef828aff01)
 * [InSpace 딥러닝 관련 블로그](https://inspace4u.github.io/dllab/index.html)
 * [아주 심플한 블룸필터의 원리](https://www.slideshare.net/charsyam2/bloomfilter-82589241)
+* [Conditional probability explained visually [Bayes' Theorem]](https://www.youtube.com/watch?v=Zxm4Xxvzohk)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -1073,6 +1085,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [accuracy, precision, recall의 차이](http://shine-ing.tistory.com/157)
 * [A recommender system for discovering GitHub repos, built with Apache Spark](https://github.com/vinta/albedo)
 * [Recommendation Papers Summary](https://github.com/gopala-kr/summary/tree/master/summaries/Week-6)
+* [Recommender system for education](https://www.slideshare.net/NaverEngineering/recommender-system-for-education) : [[Video]](https://www.youtube.com/watch?v=v_wnkwuoHew)
+* [Artwork Personalization at Netflix](https://medium.com/netflix-techblog/artwork-personalization-c589f074ad76)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
