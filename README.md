@@ -67,6 +67,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
     * [8. Word2vec, GAN Basic](http://nbviewer.jupyter.org/format/slides/gist/leechanwoo/c104702c7f1cbaf10e4188b88b2080ff)
   * [딥러닝 이론에서 실습까지 - 엑셈](https://drive.google.com/file/d/0B-qyuGELhRZ6dGhFeUNVaFNPbms/view)
   * [Easy-deep-learning-with-Keras](https://github.com/buomsoo-kim/Easy-deep-learning-with-Keras)
+  * [AI Student Kits - Intel Academy](https://software.intel.com/en-us/ai-academy/students/kits)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -479,9 +480,18 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Using T-SNE to Visualise how your Model thinks](https://buzzrobot.com/using-t-sne-to-visualise-how-your-deep-model-thinks-4ba6da0c63a0)
   * [SuaLab Research Blog - Deep Learning, Computer Vision](http://research.sualab.com/)
   * [Grad CAM을 이용한 딥러닝 모형 해석](http://freesearch.pe.kr/archives/4685)
+  * [Gluon을 이용한 Grad CAM](http://freesearch.pe.kr/archives/4695)
   * [AWS Contributes to Milestone 1.0 Release of Apache MXNet Including the Addition of a New Model Serving Capability](https://aws.amazon.com/blogs/ai/aws-contributes-to-milestone-1-0-release-of-apache-mxnet-including-the-addition-of-a-new-model-serving-capability/) : [[한글]](https://aws.amazon.com/ko/blogs/korea/aws-contributes-to-milestone-1-0-release-and-adds-model-serving-capability-for-apache-mxnet/)
   * [Introducing Model Server for Apache MXNet](https://aws.amazon.com/blogs/ai/introducing-model-server-for-apache-mxnet/)
   * [How to Generate Music using a LSTM Neural Network in Keras](https://towardsdatascience.com/how-to-generate-music-using-a-lstm-neural-network-in-keras-68786834d4c5)
+  * [Transfer learning from multiple pre-trained computer vision models](https://www.oreilly.com/ideas/transfer-learning-from-multiple-pre-trained-computer-vision-models)
+  * Deploying Object Detection Model with TensorFlow Serving
+    * [Part 1](https://medium.com/@KailaGaurav/deploying-object-detection-model-with-tensorflow-serving-part-1-51cf9465eabc)
+    * [Part 2](https://medium.com/@KailaGaurav/deploying-object-detection-model-with-tensorflow-serving-part-2-55e6c638822e)
+  * [Building an Automated Image Captioning Application](https://daniel.lasiman.com/post/image-captioning/)
+  * [Serverless deep/machine learning in production — the pythonic way](https://medium.com/@waya.ai/deploy-deep-machine-learning-in-production-the-pythonic-way-a17105f1540e)
+  * [TFGAN: A Lightweight Library for Generative Adversarial Networks](https://research.googleblog.com/2017/12/tfgan-lightweight-library-for.html)
+  * [AWS Lambda에 Tensorflow/Keras 배포하기](https://beomi.github.io/2017/12/07/Deploy-Tensorflow-Keras-on-AWS-Lambda/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -576,6 +586,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [NLP_with_Deep_Learning_한국어](https://www.dropbox.com/s/ca748gr9i91tn8f/NLP_with_Deep_Learning_%ED%95%9C%EA%B5%AD%EC%96%B4.pdf?dl=0)
   * [텐서플로우로 배우는 딥러닝](https://www.slideshare.net/w0ong/ss-82372826)
   * [Introduction to Capsule Networks [CapsNets]](https://www.slideshare.net/aureliengeron/introduction-to-capsule-networks-capsnets) : [[Video]](https://www.youtube.com/watch?v=pPN8d0E3900), [[Video2]](https://www.youtube.com/watch?v=2Kawrd5szHE)
+  * [그림 그리는 AI - GAN](https://www.slideshare.net/NaverEngineering/ai-83896428) : [[Video]](https://www.youtube.com/watch?v=RYRgX3WD178)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -700,6 +711,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [LUMINOTH - Open source Computer Vision toolkit](https://luminoth.ai/)
   * [Horovod - Uber’s Open Source Distributed Deep Learning Framework for TensorFlow](https://eng.uber.com/horovod/)
   * [Deepo - A Docker image containing almost all popular deep learning frameworks](https://github.com/ufoym/deepo)
+  * [Skorch - A scikit-learn compatible neural network library that wraps PyTorch](https://github.com/dnouri/skorch)
 * Dataset
   * [Fueling the Gold Rush: The Greatest Public Datasets for AI](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2)
   * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
@@ -860,6 +872,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [자연어 처리[NLP] 관련 블로그](http://blog.naver.com/PostList.nhn?blogId=bcj1210)
 * [Solving A Simple Classification Problem with Python — Fruits Lovers’ Edition](https://towardsdatascience.com/solving-a-simple-classification-problem-with-python-fruits-lovers-edition-d20ab6b071d2)
 * [Introduction to Kaggle Kernels](https://towardsdatascience.com/introduction-to-kaggle-kernels-2ad754ebf77)
+* [머신러닝 강의 - 허민석님](https://www.youtube.com/playlist?list=PLVNY1HnUlO241gILgQloWAs0xrrkqQfKe)
+* [오늘의 캐글[Kaggle]](https://www.youtube.com/playlist?list=PLaTc2c6yEwmo4hpZKEGi05UFN0tpwHVG1)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1087,6 +1101,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Recommendation Papers Summary](https://github.com/gopala-kr/summary/tree/master/summaries/Week-6)
 * [Recommender system for education](https://www.slideshare.net/NaverEngineering/recommender-system-for-education) : [[Video]](https://www.youtube.com/watch?v=v_wnkwuoHew)
 * [Artwork Personalization at Netflix](https://medium.com/netflix-techblog/artwork-personalization-c589f074ad76)
+* [Using Word2vec for Music Recommendations](https://towardsdatascience.com/using-word2vec-for-music-recommendations-bb9649ac2484)
+* [When two trends fuse: PyTorch and recommender systems](https://www.oreilly.com/ideas/when-two-trends-fuse-pytorch-and-recommender-systems)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
