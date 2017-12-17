@@ -593,6 +593,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [텐서플로우로 배우는 딥러닝](https://www.slideshare.net/w0ong/ss-82372826)
   * [Introduction to Capsule Networks [CapsNets]](https://www.slideshare.net/aureliengeron/introduction-to-capsule-networks-capsnets) : [[Video]](https://www.youtube.com/watch?v=pPN8d0E3900), [[Video2]](https://www.youtube.com/watch?v=2Kawrd5szHE)
   * [그림 그리는 AI - GAN](https://www.slideshare.net/NaverEngineering/ai-83896428) : [[Video]](https://www.youtube.com/watch?v=RYRgX3WD178)
+  * [Deep Learning: Practice and Trends - NIPS 2017](https://docs.google.com/presentation/d/e/2PACX-1vQMZsWfjjLLz_wi8iaMxHKawuTkdqeA3Gw00wy5dBHLhAkuLEvhB7k-4LcO5RQEVFzZXfS6ByABaRr4/pub?slide=id.p) : [[Video]](https://www.youtube.com/watch?v=YJnddoa8sHk)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
