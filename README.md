@@ -686,6 +686,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
     * [Day 1](https://github.com/bwcho75/tensorflowML)
     * [Day 2](https://github.com/bwcho75/mlworkshop)
   * [Convolutional Neural Networks for Sentence Classification[TextCNN] implements by TensorFlow](https://github.com/DongjunLee/text-cnn-tensorflow)
+  * [imgaug - Image augmentation for machine learning experiments](https://github.com/aleju/imgaug)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
