@@ -481,6 +481,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [SuaLab Research Blog - Deep Learning, Computer Vision](http://research.sualab.com/)
   * [Grad CAM을 이용한 딥러닝 모형 해석](http://freesearch.pe.kr/archives/4685)
   * [Gluon을 이용한 Grad CAM](http://freesearch.pe.kr/archives/4695)
+  * [전이학습[transfer learning]으로 모형 재사용하기 [Gluon 기반]](http://freesearch.pe.kr/archives/4701)
   * [AWS Contributes to Milestone 1.0 Release of Apache MXNet Including the Addition of a New Model Serving Capability](https://aws.amazon.com/blogs/ai/aws-contributes-to-milestone-1-0-release-of-apache-mxnet-including-the-addition-of-a-new-model-serving-capability/) : [[한글]](https://aws.amazon.com/ko/blogs/korea/aws-contributes-to-milestone-1-0-release-and-adds-model-serving-capability-for-apache-mxnet/)
   * [Introducing Model Server for Apache MXNet](https://aws.amazon.com/blogs/ai/introducing-model-server-for-apache-mxnet/)
   * [How to Generate Music using a LSTM Neural Network in Keras](https://towardsdatascience.com/how-to-generate-music-using-a-lstm-neural-network-in-keras-68786834d4c5)
@@ -492,6 +493,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Serverless deep/machine learning in production — the pythonic way](https://medium.com/@waya.ai/deploy-deep-machine-learning-in-production-the-pythonic-way-a17105f1540e)
   * [TFGAN: A Lightweight Library for Generative Adversarial Networks](https://research.googleblog.com/2017/12/tfgan-lightweight-library-for.html)
   * [AWS Lambda에 Tensorflow/Keras 배포하기](https://beomi.github.io/2017/12/07/Deploy-Tensorflow-Keras-on-AWS-Lambda/)
+  * GCP CloudML
+    * [CloudML - 개념](http://jybaek.tistory.com/652)
+    * [CloudML - 기본](http://jybaek.tistory.com/654)
+    * [CloudML - 실전 심화](http://jybaek.tistory.com/687)
+  * [Leveraging Low Precision and Quantization for Deep Learning Using the Amazon EC2 C5 Instance and BigDL](https://aws.amazon.com/blogs/ai/leveraging-low-precision-and-quantization-for-deep-learning-using-the-amazon-ec2-c5-instance-and-bigdl/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -874,6 +880,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Introduction to Kaggle Kernels](https://towardsdatascience.com/introduction-to-kaggle-kernels-2ad754ebf77)
 * [머신러닝 강의 - 허민석님](https://www.youtube.com/playlist?list=PLVNY1HnUlO241gILgQloWAs0xrrkqQfKe)
 * [오늘의 캐글[Kaggle]](https://www.youtube.com/playlist?list=PLaTc2c6yEwmo4hpZKEGi05UFN0tpwHVG1)
+* [Interactive Machine Learning: Make Python ‘Lively’ Again](https://towardsdatascience.com/interactive-machine-learning-make-python-lively-again-a96aec7e1627)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
