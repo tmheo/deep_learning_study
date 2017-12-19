@@ -500,6 +500,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Leveraging Low Precision and Quantization for Deep Learning Using the Amazon EC2 C5 Instance and BigDL](https://aws.amazon.com/blogs/ai/leveraging-low-precision-and-quantization-for-deep-learning-using-the-amazon-ec2-c5-instance-and-bigdl/)
   * [Fine-tuning Convolutional Neural Network on own data using Keras Tensorflow](http://cv-tricks.com/keras/fine-tuning-tensorflow/)
   * [Backpropagation – Algorithm For Training A Neural Network](https://www.edureka.co/blog/backpropagation/)
+  * [gradient를 활용한 DNN 해석 방안](https://seujung.github.io/deep_learning/2017/12/19/Itpr_model.html)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
