@@ -481,6 +481,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [SuaLab Research Blog - Deep Learning, Computer Vision](http://research.sualab.com/)
   * [Grad CAM을 이용한 딥러닝 모형 해석](http://freesearch.pe.kr/archives/4685)
   * [Gluon을 이용한 Grad CAM](http://freesearch.pe.kr/archives/4695)
+  * [seq2seq기반 덧셈 모형 빌드[with Gluon]](http://freesearch.pe.kr/archives/4710)
   * [전이학습[transfer learning]으로 모형 재사용하기 [Gluon 기반]](http://freesearch.pe.kr/archives/4701)
   * [AWS Contributes to Milestone 1.0 Release of Apache MXNet Including the Addition of a New Model Serving Capability](https://aws.amazon.com/blogs/ai/aws-contributes-to-milestone-1-0-release-of-apache-mxnet-including-the-addition-of-a-new-model-serving-capability/) : [[번역]](https://aws.amazon.com/ko/blogs/korea/aws-contributes-to-milestone-1-0-release-and-adds-model-serving-capability-for-apache-mxnet/)
   * [Introducing Model Server for Apache MXNet](https://aws.amazon.com/blogs/ai/introducing-model-server-for-apache-mxnet/)
@@ -501,6 +502,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Fine-tuning Convolutional Neural Network on own data using Keras Tensorflow](http://cv-tricks.com/keras/fine-tuning-tensorflow/)
   * [Backpropagation – Algorithm For Training A Neural Network](https://www.edureka.co/blog/backpropagation/)
   * [gradient를 활용한 DNN 해석 방안](https://seujung.github.io/deep_learning/2017/12/19/Itpr_model.html)
+  * [Building a spam classifier: PySpark+MLLib vs SageMaker+XGBoost](https://medium.com/@julsimon/building-a-spam-classifier-pyspark-mllib-vs-sagemaker-xgboost-1980158a900f)
+  * [CNN을 이용한 얼굴 분류기](http://wonwooddo.tistory.com/47)
+  * [TensorFlow Lite를 사용한 온디바이스 대화형 모델링에 대해 확인해 보세요](https://developers-kr.googleblog.com/2017/12/on-device-conversational-modeling-with-tensorflow-lite.html)
+  * [Real-time forecasts in the cloud: from market feed capture to ML predictions](https://cloud.google.com/blog/big-data/2017/12/real-time-forecasts-in-the-cloud-from-market-feed-capture-to-ml-predictions)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1127,6 +1132,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Part I](https://medium.com/unstructured/how-feature-engineering-can-help-you-do-well-in-a-kaggle-competition-part-i-9cc9a883514d)
   * [Part II](https://medium.com/unstructured/how-feature-engineering-can-help-you-do-well-in-a-kaggle-competition-part-ii-3645d92282b8)
   * [Part III](https://medium.com/unstructured/how-feature-engineering-can-help-you-do-well-in-a-kaggle-competition-part-iii-f67567aaf57c)
+* [이바로님의 머신러닝/추천시스템 블로그](http://leebaro.tistory.com/category/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%28Machine%20Learning%29/%EC%B6%94%EC%B2%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C%28Recommendation%20System%29)
+* [Kaggle's click through rate prediction with Spark Pipeline API](https://github.com/yu-iskw/click-through-rate-prediction)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
