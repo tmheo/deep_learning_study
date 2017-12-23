@@ -506,6 +506,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [CNN을 이용한 얼굴 분류기](http://wonwooddo.tistory.com/47)
   * [TensorFlow Lite를 사용한 온디바이스 대화형 모델링에 대해 확인해 보세요](https://developers-kr.googleblog.com/2017/12/on-device-conversational-modeling-with-tensorflow-lite.html)
   * [Real-time forecasts in the cloud: from market feed capture to ML predictions](https://cloud.google.com/blog/big-data/2017/12/real-time-forecasts-in-the-cloud-from-market-feed-capture-to-ml-predictions)
+  * [당근마켓에서 딥러닝 활용하기](https://medium.com/n42-corp/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%97%90%EC%84%9C-%EB%94%A5%EB%9F%AC%EB%8B%9D-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-3b48844eba62)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -603,6 +604,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [그림 그리는 AI - GAN](https://www.slideshare.net/NaverEngineering/ai-83896428) : [[Video]](https://www.youtube.com/watch?v=RYRgX3WD178)
   * [Deep Learning: Practice and Trends - NIPS 2017](https://docs.google.com/presentation/d/e/2PACX-1vQMZsWfjjLLz_wi8iaMxHKawuTkdqeA3Gw00wy5dBHLhAkuLEvhB7k-4LcO5RQEVFzZXfS6ByABaRr4/pub?slide=id.p) : [[Video]](https://www.youtube.com/watch?v=YJnddoa8sHk)
   * [[PR12] Capsule Networks - Jaejun Yoo](https://www.slideshare.net/thinkingfactory/pr12-capsule-networks-jaejun-yoo) : [[Video]](https://www.youtube.com/watch?v=_YT_8CT2w_Q)
+  * [Tensorflow & GCP - 그렇고 그런 사이](https://storage.googleapis.com/workplace/withGCP-2017-%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/%235-Tensorflow%2CGCP-%E1%84%80%E1%85%B3%E1%84%85%E1%85%A5%E1%87%82%E1%84%80%E1%85%A9-%E1%84%80%E1%85%B3%E1%84%85%E1%85%A5%E1%86%AB-%E1%84%89%E1%85%A1%E1%84%8B%E1%85%B5-%E1%84%8B%E1%85%B5%E1%84%8E%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%AE%E1%84%82%E1%85%B5%E1%86%B7.pdf)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -1134,6 +1136,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Part III](https://medium.com/unstructured/how-feature-engineering-can-help-you-do-well-in-a-kaggle-competition-part-iii-f67567aaf57c)
 * [이바로님의 머신러닝/추천시스템 블로그](http://leebaro.tistory.com/category/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%28Machine%20Learning%29/%EC%B6%94%EC%B2%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C%28Recommendation%20System%29)
 * [Kaggle's click through rate prediction with Spark Pipeline API](https://github.com/yu-iskw/click-through-rate-prediction)
+* [A Library for Field-aware Factorization Machines](https://github.com/guestwalk/libffm)
+* GCP ML Engine Sample Code
+  * [Criteo Ctr Prediction](https://github.com/GoogleCloudPlatform/cloudml-samples/tree/master/criteo_tft)
+  * [MovieLens Recommendation](https://github.com/GoogleCloudPlatform/cloudml-samples/tree/master/movielens)
+* [Recommender Engine — Under The Hood](https://towardsdatascience.com/recommender-engine-under-the-hood-7869d5eab072)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
