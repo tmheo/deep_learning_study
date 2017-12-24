@@ -1142,6 +1142,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [MovieLens Recommendation](https://github.com/GoogleCloudPlatform/cloudml-samples/tree/master/movielens)
 * [Recommender Engine — Under The Hood](https://towardsdatascience.com/recommender-engine-under-the-hood-7869d5eab072)
 * [Recommender Systems in Python 101](https://www.kaggle.com/gspmoreira/recommender-systems-in-python-101)
+* [Apache Spark Scalable Machine Learning - Lecture 4: Logistic Regression and Click-through Rate Prediction](https://docs.databricks.com/spark/1.6/training/scalable-machine-learning-cs190x-2015/module-4.html#lecture-4-logistic-regression-and-click-through-rate-prediction)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
