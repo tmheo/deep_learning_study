@@ -1141,6 +1141,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Criteo Ctr Prediction](https://github.com/GoogleCloudPlatform/cloudml-samples/tree/master/criteo_tft)
   * [MovieLens Recommendation](https://github.com/GoogleCloudPlatform/cloudml-samples/tree/master/movielens)
 * [Recommender Engine — Under The Hood](https://towardsdatascience.com/recommender-engine-under-the-hood-7869d5eab072)
+* [Recommender Systems in Python 101](https://www.kaggle.com/gspmoreira/recommender-systems-in-python-101)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
