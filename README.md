@@ -483,6 +483,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Gluon을 이용한 Grad CAM](http://freesearch.pe.kr/archives/4695)
   * [seq2seq기반 덧셈 모형 빌드[with Gluon]](http://freesearch.pe.kr/archives/4710)
   * [전이학습[transfer learning]으로 모형 재사용하기 [Gluon 기반]](http://freesearch.pe.kr/archives/4701)
+  * [딥러닝이 덧셈을 하는 방법, Attention Mechanism으로 살펴보기[Gluon]](http://freesearch.pe.kr/archives/4724)
   * [AWS Contributes to Milestone 1.0 Release of Apache MXNet Including the Addition of a New Model Serving Capability](https://aws.amazon.com/blogs/ai/aws-contributes-to-milestone-1-0-release-of-apache-mxnet-including-the-addition-of-a-new-model-serving-capability/) : [[번역]](https://aws.amazon.com/ko/blogs/korea/aws-contributes-to-milestone-1-0-release-and-adds-model-serving-capability-for-apache-mxnet/)
   * [Introducing Model Server for Apache MXNet](https://aws.amazon.com/blogs/ai/introducing-model-server-for-apache-mxnet/)
   * [How to Generate Music using a LSTM Neural Network in Keras](https://towardsdatascience.com/how-to-generate-music-using-a-lstm-neural-network-in-keras-68786834d4c5)
