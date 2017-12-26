@@ -1144,6 +1144,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Recommender Engine — Under The Hood](https://towardsdatascience.com/recommender-engine-under-the-hood-7869d5eab072)
 * [Recommender Systems in Python 101](https://www.kaggle.com/gspmoreira/recommender-systems-in-python-101)
 * [Apache Spark Scalable Machine Learning - Lecture 4: Logistic Regression and Click-through Rate Prediction](https://docs.databricks.com/spark/1.6/training/scalable-machine-learning-cs190x-2015/module-4.html#lecture-4-logistic-regression-and-click-through-rate-prediction)
+* [Apache Spark - Click-Through Rate Prediction Lab](http://lncohn.com/spark/ctr.html)
+* [Amazon Fine Food Recommendation System PMF, SVD](https://www.kaggle.com/neocryan/amazon-fine-food-recommendation-system-pmf-svd)
+* Kaggle - The Movies Dataset
+  * [The Story of Film](https://www.kaggle.com/rounakbanik/movie-recommender-systems)
+  * [Movie Recommender Systems](https://www.kaggle.com/rounakbanik/the-story-of-film)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
