@@ -508,6 +508,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [TensorFlow Lite를 사용한 온디바이스 대화형 모델링에 대해 확인해 보세요](https://developers-kr.googleblog.com/2017/12/on-device-conversational-modeling-with-tensorflow-lite.html)
   * [Real-time forecasts in the cloud: from market feed capture to ML predictions](https://cloud.google.com/blog/big-data/2017/12/real-time-forecasts-in-the-cloud-from-market-feed-capture-to-ml-predictions)
   * [당근마켓에서 딥러닝 활용하기](https://medium.com/n42-corp/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%97%90%EC%84%9C-%EB%94%A5%EB%9F%AC%EB%8B%9D-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-3b48844eba62)
+  * [Deep Learning Inference & Serving Architecture 를 위한 실험 및 고찰 1 - GPU vs CPU](http://hoondongkim.blogspot.kr/2017/12/deep-learning-inference-serving.html)
+  * [One-Shot Learning: Face Recognition using Siamese Neural Network](https://towardsdatascience.com/one-shot-learning-face-recognition-using-siamese-neural-network-a13dcf739e)
+  * [Neural Networks with Google CoLaboratory | Artificial Intelligence Getting started](https://medium.com/@howal/neural-networks-with-google-colaboratory-artificial-intelligence-getting-started-713b5eb07f14)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -900,6 +903,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [XGBoost - eXtreme Gradient Boosting](https://github.com/dmlc/xgboost)
 * [A Gentle Introduction to XGBoost for Applied Machine Learning](https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/) : [[번역]](http://gentlej90.tistory.com/87)
 * [XGBoost 사용하기](https://brunch.co.kr/@snobberys/137)
+* [Kaggle Tutorial: EDA & Machine Learning](https://www.datacamp.com/community/tutorials/kaggle-machine-learning-eda)
+* [Ensemble Learning in Machine Learning | Getting Started](https://towardsdatascience.com/ensemble-learning-in-machine-learning-getting-started-4ed85eb38e00)
+* [차원축소 훑어보기 [PCA, SVD, NMF]](https://www.slideshare.net/madvirus/pca-svd)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1149,6 +1155,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * Kaggle - The Movies Dataset
   * [The Story of Film](https://www.kaggle.com/rounakbanik/movie-recommender-systems)
   * [Movie Recommender Systems](https://www.kaggle.com/rounakbanik/the-story-of-film)
+* [Using Google Cloud Machine Learning to predict clicks at scale](https://cloud.google.com/blog/big-data/2017/02/using-google-cloud-machine-learning-to-predict-clicks-at-scale)
+* [RecoLabs 스터디 자료 Part 1](https://drive.google.com/drive/u/0/folders/0B8ETIsKCwpwXcmpZM21BbVpodGM)
+* [GETTING ‘YA MUSIC RECOMMENDATION GROOVE ON WITH GOOGLE CLOUD PLATFORM!](https://shinesolutions.com/2017/12/15/getting-ya-music-recommendation-groove-on-with-google-cloud-platform/)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
