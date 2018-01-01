@@ -514,6 +514,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [How to Deploy Deep Learning Models with AWS Lambda and Tensorflow](https://aws.amazon.com/blogs/ai/how-to-deploy-deep-learning-models-with-aws-lambda-and-tensorflow/)
   * [Zero to Hero: Guide to Object Detection using Deep Learning: Faster R-CNN,YOLO,SSD](http://cv-tricks.com/object-detection/faster-r-cnn-yolo-ssd/)
   * [Release Of A New Machine Learning Toolkit By Kubernetes: KubeFlow](https://www.techleer.com/articles/454-release-of-a-new-machine-learning-toolkit-by-kubernetes-kubeflow/)
+  * [AI and Deep Learning in 2017 – A Year in Review](http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
