@@ -509,12 +509,15 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Real-time forecasts in the cloud: from market feed capture to ML predictions](https://cloud.google.com/blog/big-data/2017/12/real-time-forecasts-in-the-cloud-from-market-feed-capture-to-ml-predictions)
   * [당근마켓에서 딥러닝 활용하기](https://medium.com/n42-corp/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%97%90%EC%84%9C-%EB%94%A5%EB%9F%AC%EB%8B%9D-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-3b48844eba62)
   * [Deep Learning Inference & Serving Architecture 를 위한 실험 및 고찰 1 - GPU vs CPU](http://hoondongkim.blogspot.kr/2017/12/deep-learning-inference-serving.html)
+  * [Deep Learning Multi Host & Multi GPU Architecture 고찰 및 구성 1](http://hoondongkim.blogspot.kr/2018/01/deep-learning-multi-host-multi-gpu.html)
   * [One-Shot Learning: Face Recognition using Siamese Neural Network](https://towardsdatascience.com/one-shot-learning-face-recognition-using-siamese-neural-network-a13dcf739e)
   * [Neural Networks with Google CoLaboratory | Artificial Intelligence Getting started](https://medium.com/@howal/neural-networks-with-google-colaboratory-artificial-intelligence-getting-started-713b5eb07f14)
   * [How to Deploy Deep Learning Models with AWS Lambda and Tensorflow](https://aws.amazon.com/blogs/ai/how-to-deploy-deep-learning-models-with-aws-lambda-and-tensorflow/)
   * [Zero to Hero: Guide to Object Detection using Deep Learning: Faster R-CNN,YOLO,SSD](http://cv-tricks.com/object-detection/faster-r-cnn-yolo-ssd/)
   * [Release Of A New Machine Learning Toolkit By Kubernetes: KubeFlow](https://www.techleer.com/articles/454-release-of-a-new-machine-learning-toolkit-by-kubernetes-kubeflow/)
   * [AI and Deep Learning in 2017 – A Year in Review](http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/)
+  * [Predicting Cryptocurrency Price With Tensorflow and Keras](https://medium.com/@huangkh19951228/predicting-cryptocurrency-price-with-tensorflow-and-keras-e1674b0dc58a)
+  * [Build a Taylor Swift detector with the TensorFlow Object Detection API, ML Engine, and Swift](https://towardsdatascience.com/build-a-taylor-swift-detector-with-the-tensorflow-object-detection-api-ml-engine-and-swift-82707f5b4a56)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -983,6 +986,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [InSpace 딥러닝 관련 블로그](https://inspace4u.github.io/dllab/index.html)
 * [아주 심플한 블룸필터의 원리](https://www.slideshare.net/charsyam2/bloomfilter-82589241)
 * [Conditional probability explained visually [Bayes' Theorem]](https://www.youtube.com/watch?v=Zxm4Xxvzohk)
+* [벡터, 행렬에 대한 미분](http://nbviewer.jupyter.org/github/metamath1/ml-simple-works/blob/master/fitting/matrix-derivative.ipynb)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
