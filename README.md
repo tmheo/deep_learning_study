@@ -910,10 +910,14 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [XGBoost - eXtreme Gradient Boosting](https://github.com/dmlc/xgboost)
 * [A Gentle Introduction to XGBoost for Applied Machine Learning](https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/) : [[번역]](http://gentlej90.tistory.com/87)
 * [XGBoost 사용하기](https://brunch.co.kr/@snobberys/137)
-* [Kaggle Tutorial: EDA & Machine Learning](https://www.datacamp.com/community/tutorials/kaggle-machine-learning-eda)
+* Kaggle Tutorial - DataCamp
+  * [EDA & Machine Learning](https://www.datacamp.com/community/tutorials/kaggle-machine-learning-eda)
+  * [Your First Machine Learning Model](https://www.datacamp.com/community/tutorials/kaggle-tutorial-machine-learning)
+  * [Kaggle Python Tutorial on Machine Learning](https://campus.datacamp.com/courses/kaggle-python-tutorial-on-machine-learning)
 * [Ensemble Learning in Machine Learning | Getting Started](https://towardsdatascience.com/ensemble-learning-in-machine-learning-getting-started-4ed85eb38e00)
 * [차원축소 훑어보기 [PCA, SVD, NMF]](https://www.slideshare.net/madvirus/pca-svd)
 * [Kaggle Titanic Competition - A Data Science Framework: To Achieve 99% Accuracy](https://www.kaggle.com/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy)
+* [General Tips for participating Kaggle Competitions](https://www.slideshare.net/markpeng/general-tips-for-participating-kaggle-competitions)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -958,7 +962,6 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Exploratory Image Analysis](https://www.kaggle.com/bkamphaus/exploratory-image-analysis)
 * [Image Augmentation for Deep Learning using Keras and Histogram Equalization](https://medium.com/towards-data-science/image-augmentation-for-deep-learning-using-keras-and-histogram-equalization-9329f6ae5085)
 * [Facets: An Open Source Visualization Tool for Machine Learning Training Data](https://research.googleblog.com/2017/07/facets-open-source-visualization-tool.html)
-* [General Tips for participating Kaggle Competitions](https://www.slideshare.net/markpeng/general-tips-for-participating-kaggle-competitions)
 * [데이터과학을 시작할 때 도움되는 것들](http://ppss.kr/archives/122147)
 * [데이터/통계 분석값에 대한 직관적 이해](http://ppss.kr/archives/126998)
 * [노가다 없는 텍스트 분석을 위한 한국어 NLP - Pycon Korea 2017](https://www.slideshare.net/kimhyunjoonglovit/pycon2017-koreannlp)
