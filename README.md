@@ -514,10 +514,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Neural Networks with Google CoLaboratory | Artificial Intelligence Getting started](https://medium.com/@howal/neural-networks-with-google-colaboratory-artificial-intelligence-getting-started-713b5eb07f14)
   * [How to Deploy Deep Learning Models with AWS Lambda and Tensorflow](https://aws.amazon.com/blogs/ai/how-to-deploy-deep-learning-models-with-aws-lambda-and-tensorflow/)
   * [Zero to Hero: Guide to Object Detection using Deep Learning: Faster R-CNN,YOLO,SSD](http://cv-tricks.com/object-detection/faster-r-cnn-yolo-ssd/)
+  * [Object Detection using Single Shot Multibox Detector](http://cv-tricks.com/object-detection/single-shot-multibox-detector-ssd/)
   * [Release Of A New Machine Learning Toolkit By Kubernetes: KubeFlow](https://www.techleer.com/articles/454-release-of-a-new-machine-learning-toolkit-by-kubernetes-kubeflow/)
-  * [AI and Deep Learning in 2017 – A Year in Review](http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/)
+  * [AI and Deep Learning in 2017 – A Year in Review](http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/) : [[번역]](http://softgearko.blogspot.kr/2018/01/2017-by-softgear.html)
   * [Predicting Cryptocurrency Price With Tensorflow and Keras](https://medium.com/@huangkh19951228/predicting-cryptocurrency-price-with-tensorflow-and-keras-e1674b0dc58a)
   * [Build a Taylor Swift detector with the TensorFlow Object Detection API, ML Engine, and Swift](https://towardsdatascience.com/build-a-taylor-swift-detector-with-the-tensorflow-object-detection-api-ml-engine-and-swift-82707f5b4a56)
+  * [How to break a CAPTCHA system in 15 minutes with Machine Learning](https://medium.com/@ageitgey/how-to-break-a-captcha-system-in-15-minutes-with-machine-learning-dbebb035a710)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -616,6 +618,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deep Learning: Practice and Trends - NIPS 2017](https://docs.google.com/presentation/d/e/2PACX-1vQMZsWfjjLLz_wi8iaMxHKawuTkdqeA3Gw00wy5dBHLhAkuLEvhB7k-4LcO5RQEVFzZXfS6ByABaRr4/pub?slide=id.p) : [[Video]](https://www.youtube.com/watch?v=YJnddoa8sHk)
   * [[PR12] Capsule Networks - Jaejun Yoo](https://www.slideshare.net/thinkingfactory/pr12-capsule-networks-jaejun-yoo) : [[Video]](https://www.youtube.com/watch?v=_YT_8CT2w_Q)
   * [Tensorflow & GCP - 그렇고 그런 사이](https://storage.googleapis.com/workplace/withGCP-2017-%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/%235-Tensorflow%2CGCP-%E1%84%80%E1%85%B3%E1%84%85%E1%85%A5%E1%87%82%E1%84%80%E1%85%A9-%E1%84%80%E1%85%B3%E1%84%85%E1%85%A5%E1%86%AB-%E1%84%89%E1%85%A1%E1%84%8B%E1%85%B5-%E1%84%8B%E1%85%B5%E1%84%8E%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%AE%E1%84%82%E1%85%B5%E1%86%B7.pdf)
+  * [슬로우캠퍼스 딥러닝스쿨[한대희] 파트#1-이론](https://www.slideshare.net/slowcampus/1-85709996)
+  * [슬로우캠퍼스 딥러닝스쿨[한대희] 파트#2-딥러닝핵심](https://www.slideshare.net/slowcampus/2-85710199)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -917,7 +921,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Ensemble Learning in Machine Learning | Getting Started](https://towardsdatascience.com/ensemble-learning-in-machine-learning-getting-started-4ed85eb38e00)
 * [차원축소 훑어보기 [PCA, SVD, NMF]](https://www.slideshare.net/madvirus/pca-svd)
 * [Kaggle Titanic Competition - A Data Science Framework: To Achieve 99% Accuracy](https://www.kaggle.com/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy)
+* [How to score 0.8134 in Titanic Kaggle Challenge](https://ahmedbesbes.com/how-to-score-08134-in-titanic-kaggle-challenge.html)
 * [General Tips for participating Kaggle Competitions](https://www.slideshare.net/markpeng/general-tips-for-participating-kaggle-competitions)
+* [멀티 암드 밴딧[Multi-Armed Bandits]](https://brunch.co.kr/@chris-song/62)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -991,6 +997,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [아주 심플한 블룸필터의 원리](https://www.slideshare.net/charsyam2/bloomfilter-82589241)
 * [Conditional probability explained visually [Bayes' Theorem]](https://www.youtube.com/watch?v=Zxm4Xxvzohk)
 * [벡터, 행렬에 대한 미분](http://nbviewer.jupyter.org/github/metamath1/ml-simple-works/blob/master/fitting/matrix-derivative.ipynb)
+* [Probability concepts explained: Maximum likelihood estimation](https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
