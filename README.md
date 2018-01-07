@@ -930,6 +930,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * Understanding Feature Engineering
   * [Part 1 — Continuous Numeric Data](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b)
   * [Part 2 — Categorical Data](https://towardsdatascience.com/understanding-feature-engineering-part-2-categorical-data-f54324193e63)
+* [Stacked Regressions : Top 4% on LeaderBoard - Kaggle House Prices](https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
