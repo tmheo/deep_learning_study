@@ -520,6 +520,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Predicting Cryptocurrency Price With Tensorflow and Keras](https://medium.com/@huangkh19951228/predicting-cryptocurrency-price-with-tensorflow-and-keras-e1674b0dc58a)
   * [Build a Taylor Swift detector with the TensorFlow Object Detection API, ML Engine, and Swift](https://towardsdatascience.com/build-a-taylor-swift-detector-with-the-tensorflow-object-detection-api-ml-engine-and-swift-82707f5b4a56)
   * [How to break a CAPTCHA system in 15 minutes with Machine Learning](https://medium.com/@ageitgey/how-to-break-a-captcha-system-in-15-minutes-with-machine-learning-dbebb035a710)
+  * [Build Amazon SageMaker notebooks backed by Spark in Amazon EMR](https://aws.amazon.com/blogs/ai/build-amazon-sagemaker-notebooks-backed-by-spark-in-amazon-emr/)
+  * [Predicting Cryptocurrency Price With Tensorflow and Keras](https://blog.goodaudience.com/predicting-cryptocurrency-price-with-tensorflow-and-keras-e1674b0dc58a)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -924,6 +926,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [How to score 0.8134 in Titanic Kaggle Challenge](https://ahmedbesbes.com/how-to-score-08134-in-titanic-kaggle-challenge.html)
 * [General Tips for participating Kaggle Competitions](https://www.slideshare.net/markpeng/general-tips-for-participating-kaggle-competitions)
 * [멀티 암드 밴딧[Multi-Armed Bandits]](https://brunch.co.kr/@chris-song/62)
+* [Who will survive the shipwreck?! - Kaggle Titanic](https://zlatankr.github.io/posts/2017/01/30/kaggle-titanic)
+* Understanding Feature Engineering
+  * [Part 1 — Continuous Numeric Data](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b)
+  * [Part 2 — Categorical Data](https://towardsdatascience.com/understanding-feature-engineering-part-2-categorical-data-f54324193e63)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
