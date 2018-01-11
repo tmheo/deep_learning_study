@@ -522,6 +522,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [How to break a CAPTCHA system in 15 minutes with Machine Learning](https://medium.com/@ageitgey/how-to-break-a-captcha-system-in-15-minutes-with-machine-learning-dbebb035a710)
   * [Build Amazon SageMaker notebooks backed by Spark in Amazon EMR](https://aws.amazon.com/blogs/ai/build-amazon-sagemaker-notebooks-backed-by-spark-in-amazon-emr/)
   * [Predicting Cryptocurrency Price With Tensorflow and Keras](https://blog.goodaudience.com/predicting-cryptocurrency-price-with-tensorflow-and-keras-e1674b0dc58a)
+  * [Now available in Amazon SageMaker: DeepAR algorithm for more accurate time series forecasting](https://aws.amazon.com/blogs/machine-learning/now-available-in-amazon-sagemaker-deepar-algorithm-for-more-accurate-time-series-forecasting/)
+  * [Neural Machine Translation — Using seq2seq with Keras](https://towardsdatascience.com/neural-machine-translation-using-seq2seq-with-keras-c23540453c74)
+  * [Turning Design Mockups Into Code With Deep Learning](https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -715,6 +718,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
     * [Day 2](https://github.com/bwcho75/mlworkshop)
   * [Convolutional Neural Networks for Sentence Classification[TextCNN] implements by TensorFlow](https://github.com/DongjunLee/text-cnn-tensorflow)
   * [imgaug - Image augmentation for machine learning experiments](https://github.com/aleju/imgaug)
+  * [Pytorch easy-to-follow Capsule Network tutorial](https://github.com/higgsfield/Capsule-Network-Tutorial)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -919,6 +923,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * Kaggle Tutorial - DataCamp
   * [EDA & Machine Learning](https://www.datacamp.com/community/tutorials/kaggle-machine-learning-eda)
   * [Your First Machine Learning Model](https://www.datacamp.com/community/tutorials/kaggle-tutorial-machine-learning)
+  * [Machine Learning with Kaggle: Feature Engineering](https://www.datacamp.com/community/tutorials/feature-engineering-kaggle)
   * [Kaggle Python Tutorial on Machine Learning](https://campus.datacamp.com/courses/kaggle-python-tutorial-on-machine-learning)
 * [Ensemble Learning in Machine Learning | Getting Started](https://towardsdatascience.com/ensemble-learning-in-machine-learning-getting-started-4ed85eb38e00)
 * [차원축소 훑어보기 [PCA, SVD, NMF]](https://www.slideshare.net/madvirus/pca-svd)
@@ -931,6 +936,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Part 1 — Continuous Numeric Data](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b)
   * [Part 2 — Categorical Data](https://towardsdatascience.com/understanding-feature-engineering-part-2-categorical-data-f54324193e63)
 * [Stacked Regressions : Top 4% on LeaderBoard - Kaggle House Prices](https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard)
+* [Using Yelp Data to Predict Restaurant Closure](https://towardsdatascience.com/using-yelp-data-to-predict-restaurant-closure-8aafa4f72ad6)
+* [Random Forest in Python](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0)
+* [Improving the Random Forest in Python Part 1](https://towardsdatascience.com/improving-random-forest-in-python-part-1-893916666cd)
+* [Hyperparameter Tuning the Random Forest in Python](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1004,7 +1013,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [아주 심플한 블룸필터의 원리](https://www.slideshare.net/charsyam2/bloomfilter-82589241)
 * [Conditional probability explained visually [Bayes' Theorem]](https://www.youtube.com/watch?v=Zxm4Xxvzohk)
 * [벡터, 행렬에 대한 미분](http://nbviewer.jupyter.org/github/metamath1/ml-simple-works/blob/master/fitting/matrix-derivative.ipynb)
-* [Probability concepts explained: Maximum likelihood estimation](https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1)
+* Probability concepts explained
+  * [Introduction](https://towardsdatascience.com/probability-concepts-explained-introduction-a7c0316de465)
+  * [Maximum likelihood estimation](https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1)
+  * [Bayesian inference for parameter estimation](https://towardsdatascience.com/probability-concepts-explained-bayesian-inference-for-parameter-estimation-90e8930e5348)
+* [일자무식으로 데이터 사이언스 도전기](https://brunch.co.kr/@nonfictionlife/95)
+* [pandas-profiling - Create HTML profiling reports from pandas DataFrame objects](https://github.com/pandas-profiling/pandas-profiling)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -1184,6 +1198,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Using Google Cloud Machine Learning to predict clicks at scale](https://cloud.google.com/blog/big-data/2017/02/using-google-cloud-machine-learning-to-predict-clicks-at-scale)
 * [RecoLabs 스터디 자료 Part 1](https://drive.google.com/drive/u/0/folders/0B8ETIsKCwpwXcmpZM21BbVpodGM)
 * [GETTING ‘YA MUSIC RECOMMENDATION GROOVE ON WITH GOOGLE CLOUD PLATFORM!](https://shinesolutions.com/2017/12/15/getting-ya-music-recommendation-groove-on-with-google-cloud-platform/)
+* [Beyond Word2Vec Usage For Only Words](https://www.smartcat.io/blog/2017/beyond-word2vec-usage-for-only-words/)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
