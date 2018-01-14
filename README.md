@@ -510,6 +510,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [당근마켓에서 딥러닝 활용하기](https://medium.com/n42-corp/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%97%90%EC%84%9C-%EB%94%A5%EB%9F%AC%EB%8B%9D-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-3b48844eba62)
   * [Deep Learning Inference & Serving Architecture 를 위한 실험 및 고찰 1 - GPU vs CPU](http://hoondongkim.blogspot.kr/2017/12/deep-learning-inference-serving.html)
   * [Deep Learning Multi Host & Multi GPU Architecture 고찰 및 구성 1](http://hoondongkim.blogspot.kr/2018/01/deep-learning-multi-host-multi-gpu.html)
+  * [Deep Learning Multi Host & Multi GPU Architecture #2 - Keras 를 이용한 Scale Up, Horovod 를 이용한 Scale Out 성능 비교](http://hoondongkim.blogspot.kr/2018/01/deep-learning-multi-host-multi-gpu_11.html)
   * [One-Shot Learning: Face Recognition using Siamese Neural Network](https://towardsdatascience.com/one-shot-learning-face-recognition-using-siamese-neural-network-a13dcf739e)
   * [Neural Networks with Google CoLaboratory | Artificial Intelligence Getting started](https://medium.com/@howal/neural-networks-with-google-colaboratory-artificial-intelligence-getting-started-713b5eb07f14)
   * [How to Deploy Deep Learning Models with AWS Lambda and Tensorflow](https://aws.amazon.com/blogs/ai/how-to-deploy-deep-learning-models-with-aws-lambda-and-tensorflow/)
@@ -525,6 +526,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Now available in Amazon SageMaker: DeepAR algorithm for more accurate time series forecasting](https://aws.amazon.com/blogs/machine-learning/now-available-in-amazon-sagemaker-deepar-algorithm-for-more-accurate-time-series-forecasting/)
   * [Neural Machine Translation — Using seq2seq with Keras](https://towardsdatascience.com/neural-machine-translation-using-seq2seq-with-keras-c23540453c74)
   * [Turning Design Mockups Into Code With Deep Learning](https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/)
+  * [Deep Image Retrieval](https://norman3.github.io/papers/docs/deepimgir.html)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -940,6 +942,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Random Forest in Python](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0)
 * [Improving the Random Forest in Python Part 1](https://towardsdatascience.com/improving-random-forest-in-python-part-1-893916666cd)
 * [Hyperparameter Tuning the Random Forest in Python](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74)
+* [Time Series Analysis in Python: An Introduction](https://towardsdatascience.com/time-series-analysis-in-python-an-introduction-70d5a5b1d52a)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
