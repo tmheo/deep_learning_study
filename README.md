@@ -1202,6 +1202,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [RecoLabs 스터디 자료 Part 1](https://drive.google.com/drive/u/0/folders/0B8ETIsKCwpwXcmpZM21BbVpodGM)
 * [GETTING ‘YA MUSIC RECOMMENDATION GROOVE ON WITH GOOGLE CLOUD PLATFORM!](https://shinesolutions.com/2017/12/15/getting-ya-music-recommendation-groove-on-with-google-cloud-platform/)
 * [Beyond Word2Vec Usage For Only Words](https://www.smartcat.io/blog/2017/beyond-word2vec-usage-for-only-words/)
+* [Various Implementations of Collaborative Filtering](https://towardsdatascience.com/various-implementations-of-collaborative-filtering-100385c6dfe0)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
