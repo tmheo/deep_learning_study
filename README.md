@@ -68,6 +68,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [딥러닝 이론에서 실습까지 - 엑셈](https://drive.google.com/file/d/0B-qyuGELhRZ6dGhFeUNVaFNPbms/view)
   * [Easy-deep-learning-with-Keras](https://github.com/buomsoo-kim/Easy-deep-learning-with-Keras)
   * [AI Student Kits - Intel Academy](https://software.intel.com/en-us/ai-academy/students/kits)
+  * [Kaggle - Hands-On Data Science Education](https://www.kaggle.com/learn/overview)
+  * [Google - SuperComputing 2017 Deep Learning Tutorial](https://github.com/google-aai/sc17)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -527,6 +529,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Neural Machine Translation — Using seq2seq with Keras](https://towardsdatascience.com/neural-machine-translation-using-seq2seq-with-keras-c23540453c74)
   * [Turning Design Mockups Into Code With Deep Learning](https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/)
   * [Deep Image Retrieval](https://norman3.github.io/papers/docs/deepimgir.html)
+  * [Fitting larger networks into memory](https://medium.com/@yaroslavvb/fitting-larger-networks-into-memory-583e3c758ff9)
+  * [Ideas for 9th Kaggle TensorFlow Speech Recognition Challenge](http://openresearch.ai/t/ideas-for-9th-kaggle-tensorflow-speech-recognition-challenge/105)
+  * [Freeze Tensorflow models and serve on web](http://cv-tricks.com/how-to/freeze-tensorflow-models/)
+  * [How To Create Data Products That Are Magical Using Sequence-to-Sequence Models](https://towardsdatascience.com/how-to-create-data-products-that-are-magical-using-sequence-to-sequence-models-703f86a231f8)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -652,6 +658,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deep Learning and Streaming in Apache Spark 2 x - Matei Zaharia & Sue Ann Hong](https://www.youtube.com/watch?v=zom9J9sK6wY)
   * [Apache MXNet으로 배워보는 딥러닝](https://www.youtube.com/watch?v=H66GDuLsGl4)
   * [헬로 딥러닝 - 남세동님](https://www.youtube.com/playlist?list=PLefQdA1SdkhsO4yGqIFAWcG6vr211di1j)
+  * [빅데이터, 머신러닝, 그리고 AI](https://www.youtube.com/playlist?list=PLQVIXdJBV3ePLVDYgGGObyC5Dvqy6tb7u)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -721,6 +728,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Convolutional Neural Networks for Sentence Classification[TextCNN] implements by TensorFlow](https://github.com/DongjunLee/text-cnn-tensorflow)
   * [imgaug - Image augmentation for machine learning experiments](https://github.com/aleju/imgaug)
   * [Pytorch easy-to-follow Capsule Network tutorial](https://github.com/higgsfield/Capsule-Network-Tutorial)
+  * [Understanding NN - Tensorflow tutorial for "Methods for Interpreting and Understanding Deep Neural Networks"](https://github.com/1202kbs/Understanding-NN)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -755,6 +763,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deepo - A Docker image containing almost all popular deep learning frameworks](https://github.com/ufoym/deepo)
   * [Skorch - A scikit-learn compatible neural network library that wraps PyTorch](https://github.com/dnouri/skorch)
   * [Kubeflow - Machine Learning Toolkit for Kubernetes](https://github.com/google/kubeflow)
+  * [Darkon: Toolkit to Hack Your Deep Learning Models](http://darkon.io/)
 * Dataset
   * [Fueling the Gold Rush: The Greatest Public Datasets for AI](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2)
   * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
@@ -825,6 +834,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Teaching an Actor-Critic Agent Through Optimal Scripted Agent Trajectories](https://www.slideshare.net/sjhshy/teaching-an-actorcritic-agent-through-optimal-scripted-agent-trajectories-81632718)
 * [Doing Deep Reinforcement learning with PPO](https://www.slideshare.net/ssuser517c25/doing-deep-reinforcement-learning-with-ppo-82483715)
 * [Direct Future Prediction - Supervised Learning for Reinforcement Learning](https://flyyufelix.github.io/2017/11/17/direct-future-prediction.html)
+* Introduction to Various Reinforcement Learning Algorithms
+  * [Part I [Q-Learning, SARSA, DQN, DDPG]](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287)
+  * [Part II [TRPO, PPO]](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-part-ii-trpo-ppo-87f2c5919bb9)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -933,6 +945,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [How to score 0.8134 in Titanic Kaggle Challenge](https://ahmedbesbes.com/how-to-score-08134-in-titanic-kaggle-challenge.html)
 * [General Tips for participating Kaggle Competitions](https://www.slideshare.net/markpeng/general-tips-for-participating-kaggle-competitions)
 * [멀티 암드 밴딧[Multi-Armed Bandits]](https://brunch.co.kr/@chris-song/62)
+* [톰슨 샘플링 for Bandits](https://brunch.co.kr/@chris-song/66)
 * [Who will survive the shipwreck?! - Kaggle Titanic](https://zlatankr.github.io/posts/2017/01/30/kaggle-titanic)
 * Understanding Feature Engineering
   * [Part 1 — Continuous Numeric Data](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b)
@@ -943,6 +956,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Improving the Random Forest in Python Part 1](https://towardsdatascience.com/improving-random-forest-in-python-part-1-893916666cd)
 * [Hyperparameter Tuning the Random Forest in Python](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74)
 * [Time Series Analysis in Python: An Introduction](https://towardsdatascience.com/time-series-analysis-in-python-an-introduction-70d5a5b1d52a)
+* [Machine Learning Zero-to-Hero: Everything you need in order to compete on Kaggle for the first time, step-by-step!](https://towardsdatascience.com/machine-learning-zero-to-hero-everything-you-need-in-order-to-compete-on-kaggle-for-the-first-time-18644e701cf1)
+* [Time Series Analysis Tutorial with Python](https://www.datacamp.com/community/tutorials/time-series-analysis-tutorial)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1022,6 +1037,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Bayesian inference for parameter estimation](https://towardsdatascience.com/probability-concepts-explained-bayesian-inference-for-parameter-estimation-90e8930e5348)
 * [일자무식으로 데이터 사이언스 도전기](https://brunch.co.kr/@nonfictionlife/95)
 * [pandas-profiling - Create HTML profiling reports from pandas DataFrame objects](https://github.com/pandas-profiling/pandas-profiling)
+* [The Art of Effective Visualization of Multi-dimensional Data](https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -1203,6 +1219,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [GETTING ‘YA MUSIC RECOMMENDATION GROOVE ON WITH GOOGLE CLOUD PLATFORM!](https://shinesolutions.com/2017/12/15/getting-ya-music-recommendation-groove-on-with-google-cloud-platform/)
 * [Beyond Word2Vec Usage For Only Words](https://www.smartcat.io/blog/2017/beyond-word2vec-usage-for-only-words/)
 * [Various Implementations of Collaborative Filtering](https://towardsdatascience.com/various-implementations-of-collaborative-filtering-100385c6dfe0)
+* [Recommender Systems in Python: Beginner Tutorial](https://www.datacamp.com/community/tutorials/recommender-systems-python)
+* [TensorRec: A Recommendation Engine Framework in TensorFlow
+](https://hackernoon.com/tensorrec-a-recommendation-engine-framework-in-tensorflow-d85e4f0874e8)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
