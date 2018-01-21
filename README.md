@@ -1221,8 +1221,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Beyond Word2Vec Usage For Only Words](https://www.smartcat.io/blog/2017/beyond-word2vec-usage-for-only-words/)
 * [Various Implementations of Collaborative Filtering](https://towardsdatascience.com/various-implementations-of-collaborative-filtering-100385c6dfe0)
 * [Recommender Systems in Python: Beginner Tutorial](https://www.datacamp.com/community/tutorials/recommender-systems-python)
-* [TensorRec: A Recommendation Engine Framework in TensorFlow
-](https://hackernoon.com/tensorrec-a-recommendation-engine-framework-in-tensorflow-d85e4f0874e8)
+* [TensorRec: A Recommendation Engine Framework in TensorFlow](https://hackernoon.com/tensorrec-a-recommendation-engine-framework-in-tensorflow-d85e4f0874e8)
+* [PR12-060: Deep Neural Networks for YouTube Recommendations](https://www.youtube.com/watch?v=V6zixdCIOqw)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
