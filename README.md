@@ -962,7 +962,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
-* [수강료 400만원 데이터사이언스 스쿨 커리큘럼을 대체하는 온라인 무료강의 15개 커리큘럼](http://commeci.kr/archives/473)
+* [수강료 500만원 데이터 사이언스 커리큘럼을 대체하는 무료강의 15개 커리큘럼](http://earlybird.ai/data_science_free_curriculum/)
 * [DODOMIRA님의 Data Analysis 블로그](http://www.dodomira.com/category/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D/)
 * [데이터 입수 이상징후 탐지](http://readme.skplanet.com/?p=13557)
 * [네이버 파이낸스 - 재무제표 크롤링 | FinanceData](https://financedata.github.io/posts/naver-finance-finstate-crawling.html)
