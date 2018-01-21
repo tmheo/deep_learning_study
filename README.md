@@ -946,6 +946,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [General Tips for participating Kaggle Competitions](https://www.slideshare.net/markpeng/general-tips-for-participating-kaggle-competitions)
 * [멀티 암드 밴딧[Multi-Armed Bandits]](https://brunch.co.kr/@chris-song/62)
 * [톰슨 샘플링 for Bandits](https://brunch.co.kr/@chris-song/66)
+* [정보 이론: Information Theory 1편](https://brunch.co.kr/@chris-song/68)
 * [Who will survive the shipwreck?! - Kaggle Titanic](https://zlatankr.github.io/posts/2017/01/30/kaggle-titanic)
 * Understanding Feature Engineering
   * [Part 1 — Continuous Numeric Data](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b)
