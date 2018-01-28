@@ -533,6 +533,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Ideas for 9th Kaggle TensorFlow Speech Recognition Challenge](http://openresearch.ai/t/ideas-for-9th-kaggle-tensorflow-speech-recognition-challenge/105)
   * [Freeze Tensorflow models and serve on web](http://cv-tricks.com/how-to/freeze-tensorflow-models/)
   * [How To Create Data Products That Are Magical Using Sequence-to-Sequence Models](https://towardsdatascience.com/how-to-create-data-products-that-are-magical-using-sequence-to-sequence-models-703f86a231f8)
+  * [Basics of image classification with Keras](https://towardsdatascience.com/basics-of-image-classification-with-keras-43779a299c8b)
+  * [[Deep Learning - GAN] Simple Generative Adversarial Network with MNIST dataset](http://ljs93kr.tistory.com/81)
+  * [[Keras] A thing you should know about Keras if you plan to train a deep learning model on a large dataset](https://towardsdatascience.com/keras-a-thing-you-should-know-about-keras-if-you-plan-to-train-a-deep-learning-model-on-a-large-fdd63ce66bd2)
+  * [TensorFlow에서 커스텀 Estimator를 만드는 방법에 대해 확인해 보세요](https://developers-kr.googleblog.com/2018/01/creating-custom-estimators-in-tensorflow.html)
+  * [AI 기반 스마트 폰의 명암 [The light and dark of AI-powered smartphones]](https://pakddo.github.io/2018-01-15-the-light-and-dark-of-ai-powered-smartphones.html)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -764,6 +769,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Skorch - A scikit-learn compatible neural network library that wraps PyTorch](https://github.com/dnouri/skorch)
   * [Kubeflow - Machine Learning Toolkit for Kubernetes](https://github.com/google/kubeflow)
   * [Darkon: Toolkit to Hack Your Deep Learning Models](http://darkon.io/)
+  * [Detectron - FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet](https://github.com/facebookresearch/Detectron)
 * Dataset
   * [Fueling the Gold Rush: The Greatest Public Datasets for AI](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2)
   * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
@@ -837,6 +843,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * Introduction to Various Reinforcement Learning Algorithms
   * [Part I [Q-Learning, SARSA, DQN, DDPG]](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287)
   * [Part II [TRPO, PPO]](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-part-ii-trpo-ppo-87f2c5919bb9)
+* [Reinforcement Learning - 첫번째 이야기](https://medium.com/@wonseokjung_95449/reinforcement-learning-2fc7d6e7c1e4)
+* [강화학습으로 똑똑한 슈퍼마리오 만들기](https://medium.com/@wonseokjung_95449/%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5%EC%9C%BC%EB%A1%9C-%EB%98%91%EB%98%91%ED%95%9C-%EC%8A%88%ED%8D%BC%EB%A7%88%EB%A6%AC%EC%98%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0-87c423f46b05)
+* [How to build your own AlphaZero AI using Python and Keras](https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -923,7 +932,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Solving A Simple Classification Problem with Python — Fruits Lovers’ Edition](https://towardsdatascience.com/solving-a-simple-classification-problem-with-python-fruits-lovers-edition-d20ab6b071d2)
 * [Introduction to Kaggle Kernels](https://towardsdatascience.com/introduction-to-kaggle-kernels-2ad754ebf77)
 * [머신러닝 강의 - 허민석님](https://www.youtube.com/playlist?list=PLVNY1HnUlO241gILgQloWAs0xrrkqQfKe) : [[English]](https://www.youtube.com/playlist?list=PLVNY1HnUlO26x597OgAN8TCgGTiE-38D6)
-* [오늘의 캐글[Kaggle]](https://www.youtube.com/playlist?list=PLaTc2c6yEwmo4hpZKEGi05UFN0tpwHVG1)
+* [오늘의 캐글[Kaggle]](https://www.youtube.com/playlist?list=PLaTc2c6yEwmo4hpZKEGi05UFN0tpwHVG1) : [[Code]](https://github.com/corazzon/KaggleStruggle)
 * [Interactive Machine Learning: Make Python ‘Lively’ Again](https://towardsdatascience.com/interactive-machine-learning-make-python-lively-again-a96aec7e1627)
 * [Machine Learning for Diabetes](https://towardsdatascience.com/machine-learning-for-diabetes-562dd7df4d42)
 * [A Kaggle Master Explains Gradient Boosting](http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/)
@@ -959,6 +968,13 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Time Series Analysis in Python: An Introduction](https://towardsdatascience.com/time-series-analysis-in-python-an-introduction-70d5a5b1d52a)
 * [Machine Learning Zero-to-Hero: Everything you need in order to compete on Kaggle for the first time, step-by-step!](https://towardsdatascience.com/machine-learning-zero-to-hero-everything-you-need-in-order-to-compete-on-kaggle-for-the-first-time-18644e701cf1)
 * [Time Series Analysis Tutorial with Python](https://www.datacamp.com/community/tutorials/time-series-analysis-tutorial)
+* [End-to-end Distributed ML using AWS EMR, Apache Spark [Pyspark] and MongoDB Tutorial with MillionSongs Data](https://towardsdatascience.com/end-to-end-distributed-ml-using-aws-emr-apache-spark-pyspark-and-mongodb-tutorial-with-4d1077f68381)
+* [How to Handle Imbalanced Classes in Machine Learning](https://elitedatascience.com/imbalanced-classes)
+* [Introduction to Python Ensembles](https://www.dataquest.io/blog/introduction-to-ensembles/)
+* [Data ScienceTutorial for Beginners](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners)
+* [Machine Learning Tutorial for Beginners](https://www.kaggle.com/kanncaa1/machine-learning-tutorial-for-beginners)
+* [Feature Selection and Data Visualization](https://www.kaggle.com/kanncaa1/feature-selection-and-data-visualization)
+* [초짜 대학원생의 입장에서 이해하는 Support Vector Machine [1]](http://jaejunyoo.blogspot.com/2018/01/support-vector-machine-1.html)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
