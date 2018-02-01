@@ -538,6 +538,13 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [[Keras] A thing you should know about Keras if you plan to train a deep learning model on a large dataset](https://towardsdatascience.com/keras-a-thing-you-should-know-about-keras-if-you-plan-to-train-a-deep-learning-model-on-a-large-fdd63ce66bd2)
   * [TensorFlow에서 커스텀 Estimator를 만드는 방법에 대해 확인해 보세요](https://developers-kr.googleblog.com/2018/01/creating-custom-estimators-in-tensorflow.html)
   * [AI 기반 스마트 폰의 명암 [The light and dark of AI-powered smartphones]](https://pakddo.github.io/2018-01-15-the-light-and-dark-of-ai-powered-smartphones.html)
+  * [Real Time Object Detection with TensorFlow Detection Model](https://towardsdatascience.com/real-time-object-detection-with-tensorflow-detection-model-e7fd20421d5d)
+  * [Another Twitter sentiment analysis with Python — Part 9 [Neural Networks with Tfidf vectors using Keras]](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-9-neural-networks-with-tfidf-vectors-using-d0b4af6be6d7)
+  * [Financial forecasting with probabilistic programming and Pyro](https://medium.com/@alexrachnog/financial-forecasting-with-probabilistic-programming-and-pyro-db68ab1a1dba)
+  * [Anomaly detection with Apache MXNet](https://www.oreilly.com/ideas/anomaly-detection-with-apache-mxnet)
+  * [Tensorflow: Kaggle Spooky Authors Bag of Words Model](http://www.markhneedham.com/blog/2018/01/29/tensorflow-kaggle-spooky-authors-bag-words-model/)
+  * [Google Colab Free GPU Tutorial](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d)
+  * [How to use Detectron — Facebook’s Free Platform for Object Detection](https://hackernoon.com/how-to-use-detectron-facebooks-free-platform-for-object-detection-9d41e170bbcb)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -638,6 +645,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Tensorflow & GCP - 그렇고 그런 사이](https://storage.googleapis.com/workplace/withGCP-2017-%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/%235-Tensorflow%2CGCP-%E1%84%80%E1%85%B3%E1%84%85%E1%85%A5%E1%87%82%E1%84%80%E1%85%A9-%E1%84%80%E1%85%B3%E1%84%85%E1%85%A5%E1%86%AB-%E1%84%89%E1%85%A1%E1%84%8B%E1%85%B5-%E1%84%8B%E1%85%B5%E1%84%8E%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%AE%E1%84%82%E1%85%B5%E1%86%B7.pdf)
   * [슬로우캠퍼스 딥러닝스쿨[한대희] 파트#1-이론](https://www.slideshare.net/slowcampus/1-85709996)
   * [슬로우캠퍼스 딥러닝스쿨[한대희] 파트#2-딥러닝핵심](https://www.slideshare.net/slowcampus/2-85710199)
+  * [GCP CloudML Intro](https://www.slideshare.net/bevislee/gcp-cloudml-intro)
+  * [Tutorial on Object Detection [Faster R-CNN]](https://www.slideshare.net/hpkim0512/tutorial-of-faster-rcnn)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -734,6 +743,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [imgaug - Image augmentation for machine learning experiments](https://github.com/aleju/imgaug)
   * [Pytorch easy-to-follow Capsule Network tutorial](https://github.com/higgsfield/Capsule-Network-Tutorial)
   * [Understanding NN - Tensorflow tutorial for "Methods for Interpreting and Understanding Deep Neural Networks"](https://github.com/1202kbs/Understanding-NN)
+  * [Neural Korean to English Machine Translater with Gluon](https://github.com/haven-jeon/ko_en_neural_machine_translation)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -956,6 +966,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [멀티 암드 밴딧[Multi-Armed Bandits]](https://brunch.co.kr/@chris-song/62)
 * [톰슨 샘플링 for Bandits](https://brunch.co.kr/@chris-song/66)
 * [정보 이론: Information Theory 1편](https://brunch.co.kr/@chris-song/68)
+* [정보 이론 2편: KL-Divergence](https://brunch.co.kr/@chris-song/69)
 * [Who will survive the shipwreck?! - Kaggle Titanic](https://zlatankr.github.io/posts/2017/01/30/kaggle-titanic)
 * Understanding Feature Engineering
   * [Part 1 — Continuous Numeric Data](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b)
@@ -975,6 +986,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Machine Learning Tutorial for Beginners](https://www.kaggle.com/kanncaa1/machine-learning-tutorial-for-beginners)
 * [Feature Selection and Data Visualization](https://www.kaggle.com/kanncaa1/feature-selection-and-data-visualization)
 * [초짜 대학원생의 입장에서 이해하는 Support Vector Machine [1]](http://jaejunyoo.blogspot.com/2018/01/support-vector-machine-1.html)
+* [열 개의 팔을 가진 강도 - Multi Armed Bandit](https://cveai.github.io/%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5/2018/01/31/mab.html)
+* [Word2vec을 응용한 컨텐츠 클러스터링](https://brunch.co.kr/@mobiinside/950)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1055,6 +1068,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [일자무식으로 데이터 사이언스 도전기](https://brunch.co.kr/@nonfictionlife/95)
 * [pandas-profiling - Create HTML profiling reports from pandas DataFrame objects](https://github.com/pandas-profiling/pandas-profiling)
 * [The Art of Effective Visualization of Multi-dimensional Data](https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57)
+* [제대로 시작하는 기초통계학](https://www.youtube.com/channel/UCJ2-Cr7HV5s5dE2Qx-CaQVA/playlists)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -1239,6 +1253,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Recommender Systems in Python: Beginner Tutorial](https://www.datacamp.com/community/tutorials/recommender-systems-python)
 * [TensorRec: A Recommendation Engine Framework in TensorFlow](https://hackernoon.com/tensorrec-a-recommendation-engine-framework-in-tensorflow-d85e4f0874e8)
 * [PR12-060: Deep Neural Networks for YouTube Recommendations](https://www.youtube.com/watch?v=V6zixdCIOqw)
+* [Introduction to Recommender System. Part 1 [Collaborative Filtering, Singular Value Decomposition]](https://hackernoon.com/introduction-to-recommender-system-part-1-collaborative-filtering-singular-value-decomposition-44c9659c5e75)
+* [Introduction To Recommendation Systems With Deep Autoencoders](https://miguelgfierro.com/blog/2018/introduction-to-recommendation-systems-with-deep-autoencoders/)
+* Scaling Gradient Boosted Trees for CTR Prediction
+  * [Part I](https://engineeringblog.yelp.com/2018/01/building-a-distributed-ml-pipeline-part1.html)
+  * [Part II](https://engineeringblog.yelp.com/2018/01/growing-cache-friendly-trees-part2.html)
+* [Python Data Wrangling Tutorial: Cryptocurrency Edition](https://elitedatascience.com/python-data-wrangling-tutorial)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
