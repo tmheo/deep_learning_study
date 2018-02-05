@@ -1264,6 +1264,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Recommender Systems in Python: Beginner Tutorial](https://www.datacamp.com/community/tutorials/recommender-systems-python)
 * [TensorRec: A Recommendation Engine Framework in TensorFlow](https://hackernoon.com/tensorrec-a-recommendation-engine-framework-in-tensorflow-d85e4f0874e8)
 * [PR12-060: Deep Neural Networks for YouTube Recommendations](https://www.youtube.com/watch?v=V6zixdCIOqw)
+* [PR12-064: Wide&Deep Learning for Recommender Systems](https://www.youtube.com/watch?v=hKoJPqWLrI4)
 * [Introduction to Recommender System. Part 1 [Collaborative Filtering, Singular Value Decomposition]](https://hackernoon.com/introduction-to-recommender-system-part-1-collaborative-filtering-singular-value-decomposition-44c9659c5e75)
 * [Introduction To Recommendation Systems With Deep Autoencoders](https://miguelgfierro.com/blog/2018/introduction-to-recommendation-systems-with-deep-autoencoders/)
 * Scaling Gradient Boosted Trees for CTR Prediction
