@@ -545,6 +545,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Tensorflow: Kaggle Spooky Authors Bag of Words Model](http://www.markhneedham.com/blog/2018/01/29/tensorflow-kaggle-spooky-authors-bag-words-model/)
   * [Google Colab Free GPU Tutorial](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d)
   * [How to use Detectron — Facebook’s Free Platform for Object Detection](https://hackernoon.com/how-to-use-detectron-facebooks-free-platform-for-object-detection-9d41e170bbcb)
+  * [Digging into AWS SageMaker — First Look](https://engineering.upside.com/digging-into-aws-sagemaker-first-look-90975d80cd87)
+  * [Predicting world temperature with time series and DeepAR on Amazon SageMaker](https://medium.com/@julsimon/predicting-world-temperature-with-time-series-and-deepar-on-amazon-sagemaker-e371cf94ddb5)
+  * [Only Numpy: Implementing GAN [General Adversarial Networks] and Adam Optimizer using Numpy with Interactive Code. [Run GAN Online]](https://towardsdatascience.com/only-numpy-implementing-gan-general-adversarial-networks-and-adam-optimizer-using-numpy-with-2a7e4e032021)
+  * [Introduction to LSTMs with TensorFlow](https://www.oreilly.com/ideas/introduction-to-lstms-with-tensorflow)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -673,6 +677,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Apache MXNet으로 배워보는 딥러닝](https://www.youtube.com/watch?v=H66GDuLsGl4)
   * [헬로 딥러닝 - 남세동님](https://www.youtube.com/playlist?list=PLefQdA1SdkhsO4yGqIFAWcG6vr211di1j)
   * [빅데이터, 머신러닝, 그리고 AI](https://www.youtube.com/playlist?list=PLQVIXdJBV3ePLVDYgGGObyC5Dvqy6tb7u)
+  * [AWS의 새로운 통합 딥러닝 서비스, Amazon SageMaker - 김무현 솔루션즈 아키텍트 [AWS]](https://www.youtube.com/watch?v=q0rGxPru_20)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -988,6 +993,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [초짜 대학원생의 입장에서 이해하는 Support Vector Machine [1]](http://jaejunyoo.blogspot.com/2018/01/support-vector-machine-1.html)
 * [열 개의 팔을 가진 강도 - Multi Armed Bandit](https://cveai.github.io/%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5/2018/01/31/mab.html)
 * [Word2vec을 응용한 컨텐츠 클러스터링](https://brunch.co.kr/@mobiinside/950)
+* [Why, How and When to apply Feature Selection](https://towardsdatascience.com/why-how-and-when-to-apply-feature-selection-e9c69adfabf2)
+* [Regression 모델 평가 방법](https://brunch.co.kr/@chris-song/34)
+* [Minimizing the Negative Log-Likelihood, in Korean [1]](https://jaejunyoo.blogspot.com/2018/02/minimizing-negative-log-likelihood-in-kor.html)
+* [Minimizing the Negative Log-Likelihood, in Korean [2]](http://jaejunyoo.blogspot.com/2018/02/inimizing-negative-log-likelihood-in-kor-2.html)
+* [Dealing with Imbalanced Classes in Machine Learning](https://towardsdatascience.com/dealing-with-imbalanced-classes-in-machine-learning-d43d6fa19d2)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1069,6 +1079,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [pandas-profiling - Create HTML profiling reports from pandas DataFrame objects](https://github.com/pandas-profiling/pandas-profiling)
 * [The Art of Effective Visualization of Multi-dimensional Data](https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57)
 * [제대로 시작하는 기초통계학](https://www.youtube.com/channel/UCJ2-Cr7HV5s5dE2Qx-CaQVA/playlists)
+* [Python Data Wrangling Tutorial: Cryptocurrency Edition](https://elitedatascience.com/python-data-wrangling-tutorial)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -1258,7 +1269,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * Scaling Gradient Boosted Trees for CTR Prediction
   * [Part I](https://engineeringblog.yelp.com/2018/01/building-a-distributed-ml-pipeline-part1.html)
   * [Part II](https://engineeringblog.yelp.com/2018/01/growing-cache-friendly-trees-part2.html)
-* [Python Data Wrangling Tutorial: Cryptocurrency Edition](https://elitedatascience.com/python-data-wrangling-tutorial)
+* [Building a movie recommender with Factorization Machines on Amazon SageMaker](https://medium.com/@julsimon/building-a-movie-recommender-with-factorization-machines-on-amazon-sagemaker-cedbfc8c93d8)
+* [Machine learning movie recommender](https://github.com/klauscfhq/moviebox)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
