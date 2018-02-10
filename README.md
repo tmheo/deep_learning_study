@@ -549,6 +549,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Predicting world temperature with time series and DeepAR on Amazon SageMaker](https://medium.com/@julsimon/predicting-world-temperature-with-time-series-and-deepar-on-amazon-sagemaker-e371cf94ddb5)
   * [Only Numpy: Implementing GAN [General Adversarial Networks] and Adam Optimizer using Numpy with Interactive Code. [Run GAN Online]](https://towardsdatascience.com/only-numpy-implementing-gan-general-adversarial-networks-and-adam-optimizer-using-numpy-with-2a7e4e032021)
   * [Introduction to LSTMs with TensorFlow](https://www.oreilly.com/ideas/introduction-to-lstms-with-tensorflow)
+  * [fast.ai : the BEST things in life are always FREE](https://towardsdatascience.com/fast-ai-the-best-things-in-life-are-always-free-3b05c54913cd)
+  * [How to use Dataset in TensorFlow](https://towardsdatascience.com/how-to-use-dataset-in-tensorflow-c758ef9e4428)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -678,6 +680,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [헬로 딥러닝 - 남세동님](https://www.youtube.com/playlist?list=PLefQdA1SdkhsO4yGqIFAWcG6vr211di1j)
   * [빅데이터, 머신러닝, 그리고 AI](https://www.youtube.com/playlist?list=PLQVIXdJBV3ePLVDYgGGObyC5Dvqy6tb7u)
   * [AWS의 새로운 통합 딥러닝 서비스, Amazon SageMaker - 김무현 솔루션즈 아키텍트 [AWS]](https://www.youtube.com/watch?v=q0rGxPru_20)
+  * [Getting Started With AWS SageMaker](https://www.youtube.com/watch?v=tBRHh_V8vjc)
+  * [AWS SageMaker Deep Learning for Breast Cancer Prediction](https://www.youtube.com/watch?v=PtBBN_kxffg)
+  * [How To Pull Data into S3 using AWS Sagemaker](https://www.youtube.com/watch?v=-YiHPIGyFGo)
+  * [An overview of Amazon SageMaker](https://www.youtube.com/watch?v=ym7NEYEx9x4)
+  * [Image classification with Amazon SageMaker](https://www.youtube.com/watch?v=weYHuyyEtyU)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -1080,6 +1087,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [The Art of Effective Visualization of Multi-dimensional Data](https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57)
 * [제대로 시작하는 기초통계학](https://www.youtube.com/channel/UCJ2-Cr7HV5s5dE2Qx-CaQVA/playlists)
 * [Python Data Wrangling Tutorial: Cryptocurrency Edition](https://elitedatascience.com/python-data-wrangling-tutorial)
+* [Notes On Using Data Science & Artificial Intelligence To Fight For Something That Matters](https://chrisalbon.com/)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -1272,6 +1280,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Part II](https://engineeringblog.yelp.com/2018/01/growing-cache-friendly-trees-part2.html)
 * [Building a movie recommender with Factorization Machines on Amazon SageMaker](https://medium.com/@julsimon/building-a-movie-recommender-with-factorization-machines-on-amazon-sagemaker-cedbfc8c93d8)
 * [Machine learning movie recommender](https://github.com/klauscfhq/moviebox)
+* [Deep Learning for Recommender Systems](https://ebaytech.berlin/deep-learning-for-recommender-systems-48c786a20e1a)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
