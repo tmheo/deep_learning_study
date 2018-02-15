@@ -551,6 +551,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Introduction to LSTMs with TensorFlow](https://www.oreilly.com/ideas/introduction-to-lstms-with-tensorflow)
   * [fast.ai : the BEST things in life are always FREE](https://towardsdatascience.com/fast-ai-the-best-things-in-life-are-always-free-3b05c54913cd)
   * [How to use Dataset in TensorFlow](https://towardsdatascience.com/how-to-use-dataset-in-tensorflow-c758ef9e4428)
+  * [Introducing capsule networks](https://www.oreilly.com/ideas/introducing-capsule-networks)
+  * [Logo detection using Apache MXNet](https://www.oreilly.com/ideas/logo-detection-using-apache-mxnet)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1005,6 +1007,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Minimizing the Negative Log-Likelihood, in Korean [1]](https://jaejunyoo.blogspot.com/2018/02/minimizing-negative-log-likelihood-in-kor.html)
 * [Minimizing the Negative Log-Likelihood, in Korean [2]](http://jaejunyoo.blogspot.com/2018/02/inimizing-negative-log-likelihood-in-kor-2.html)
 * [Dealing with Imbalanced Classes in Machine Learning](https://towardsdatascience.com/dealing-with-imbalanced-classes-in-machine-learning-d43d6fa19d2)
+* [Topic Modeling with Scikit Learn](https://medium.com/mlreview/topic-modeling-with-scikit-learn-e80d33668730)
+* [An illustrated introduction to the t-SNE algorithm](https://www.oreilly.com/learning/an-illustrated-introduction-to-the-t-sne-algorithm) : [[Code]](https://github.com/oreillymedia/t-SNE-tutorial)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1088,6 +1092,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [제대로 시작하는 기초통계학](https://www.youtube.com/channel/UCJ2-Cr7HV5s5dE2Qx-CaQVA/playlists)
 * [Python Data Wrangling Tutorial: Cryptocurrency Edition](https://elitedatascience.com/python-data-wrangling-tutorial)
 * [Notes On Using Data Science & Artificial Intelligence To Fight For Something That Matters](https://chrisalbon.com/)
+* [확률변수를 이해하다](https://cveai.github.io/%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5/2018/02/14/rvariable.html)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
