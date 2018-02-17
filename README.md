@@ -1093,6 +1093,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Python Data Wrangling Tutorial: Cryptocurrency Edition](https://elitedatascience.com/python-data-wrangling-tutorial)
 * [Notes On Using Data Science & Artificial Intelligence To Fight For Something That Matters](https://chrisalbon.com/)
 * [확률변수를 이해하다](https://cveai.github.io/%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5/2018/02/14/rvariable.html)
+* [matplotlib 한글폰트 사용하기](http://corazzon.github.io/matplotlib_font_setting)
+* [Datascience-Interview-Questions for Korean](https://github.com/zzsza/Datascience-Interview-Questions)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -1279,6 +1281,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [PR12-060: Deep Neural Networks for YouTube Recommendations](https://www.youtube.com/watch?v=V6zixdCIOqw)
 * [PR12-064: Wide&Deep Learning for Recommender Systems](https://www.youtube.com/watch?v=hKoJPqWLrI4)
 * [Introduction to Recommender System. Part 1 [Collaborative Filtering, Singular Value Decomposition]](https://hackernoon.com/introduction-to-recommender-system-part-1-collaborative-filtering-singular-value-decomposition-44c9659c5e75)
+* [Introduction to Recommender System. Part 2 [Neural Network Approach]](https://towardsdatascience.com/introduction-to-recommender-system-part-2-adoption-of-neural-network-831972c4cbf7)
 * [Introduction To Recommendation Systems With Deep Autoencoders](https://miguelgfierro.com/blog/2018/introduction-to-recommendation-systems-with-deep-autoencoders/)
 * Scaling Gradient Boosted Trees for CTR Prediction
   * [Part I](https://engineeringblog.yelp.com/2018/01/building-a-distributed-ml-pipeline-part1.html)
@@ -1286,6 +1289,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Building a movie recommender with Factorization Machines on Amazon SageMaker](https://medium.com/@julsimon/building-a-movie-recommender-with-factorization-machines-on-amazon-sagemaker-cedbfc8c93d8)
 * [Machine learning movie recommender](https://github.com/klauscfhq/moviebox)
 * [Deep Learning for Recommender Systems](https://ebaytech.berlin/deep-learning-for-recommender-systems-48c786a20e1a)
+* [Recommender built using keras](https://github.com/chen0040/keras-recommender)
+* [DEEP BEERS: Playing with Deep Recommendation Engines Using Keras, Part 1](https://medium.com/data-from-the-trenches/deep-beers-playing-with-deep-recommendation-engines-using-keras-part-1-1efc4779568f)
+* [DEEP BEERS: Playing with Deep Recommendation Engines Using Keras, Part 2)](https://medium.com/data-from-the-trenches/deep-beers-playing-with-deep-recommendation-engines-using-keras-part-2-effe703ff83c)
+* [Insights from an evening with recommender systems experts](http://www.bibblio.org/blog/insights-evening-recommender-systems-experts)
+* [Building Content Recommendation Systems Using Apache MXNet and Gluon - MCL402 - re:Invent 2017](https://www.slideshare.net/AmazonWebServices/building-content-recommendation-systems-using-apache-mxnet-and-gluon-mcl402-reinvent-2017)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
