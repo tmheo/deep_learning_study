@@ -1009,6 +1009,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Dealing with Imbalanced Classes in Machine Learning](https://towardsdatascience.com/dealing-with-imbalanced-classes-in-machine-learning-d43d6fa19d2)
 * [Topic Modeling with Scikit Learn](https://medium.com/mlreview/topic-modeling-with-scikit-learn-e80d33668730)
 * [An illustrated introduction to the t-SNE algorithm](https://www.oreilly.com/learning/an-illustrated-introduction-to-the-t-sne-algorithm) : [[Code]](https://github.com/oreillymedia/t-SNE-tutorial)
+* [Gradient Descent[경사하강법]](https://blog.naver.com/PostView.nhn?blogId=anthouse28&logNo=221210836545)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
