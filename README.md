@@ -553,6 +553,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [How to use Dataset in TensorFlow](https://towardsdatascience.com/how-to-use-dataset-in-tensorflow-c758ef9e4428)
   * [Introducing capsule networks](https://www.oreilly.com/ideas/introducing-capsule-networks)
   * [Logo detection using Apache MXNet](https://www.oreilly.com/ideas/logo-detection-using-apache-mxnet)
+  * [Using Deep Learning for Structured Data with Entity Embeddings](https://towardsdatascience.com/deep-learning-structured-data-8d6a278f3088)
+  * [Getting Text into Tensorflow with the Dataset API](https://medium.com/@TalPerry/getting-text-into-tensorflow-with-the-dataset-api-ffb832c8bec6)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1010,6 +1012,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Topic Modeling with Scikit Learn](https://medium.com/mlreview/topic-modeling-with-scikit-learn-e80d33668730)
 * [An illustrated introduction to the t-SNE algorithm](https://www.oreilly.com/learning/an-illustrated-introduction-to-the-t-sne-algorithm) : [[Code]](https://github.com/oreillymedia/t-SNE-tutorial)
 * [Gradient Descent[경사하강법]](https://blog.naver.com/PostView.nhn?blogId=anthouse28&logNo=221210836545)
+* [Multi-Class Text Classification with Scikit-Learn](https://towardsdatascience.com/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f)
+* [Multi-Class Text Classification with PySpark](https://towardsdatascience.com/multi-class-text-classification-with-pyspark-7d78d022ed35)
+* [Common Design for Distributed Machine Learning](https://www.slideshare.net/JunyoungPark22/common-design-for-distributed-machine-learning)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1295,6 +1300,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [DEEP BEERS: Playing with Deep Recommendation Engines Using Keras, Part 2)](https://medium.com/data-from-the-trenches/deep-beers-playing-with-deep-recommendation-engines-using-keras-part-2-effe703ff83c)
 * [Insights from an evening with recommender systems experts](http://www.bibblio.org/blog/insights-evening-recommender-systems-experts)
 * [Building Content Recommendation Systems Using Apache MXNet and Gluon - MCL402 - re:Invent 2017](https://www.slideshare.net/AmazonWebServices/building-content-recommendation-systems-using-apache-mxnet-and-gluon-mcl402-reinvent-2017)
+* [Production Recommendation Systems with Cloudera](http://blog.cloudera.com/blog/2018/02/production-recommendation-systems-with-cloudera/)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
