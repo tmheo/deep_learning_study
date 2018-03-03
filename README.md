@@ -70,6 +70,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [AI Student Kits - Intel Academy](https://software.intel.com/en-us/ai-academy/students/kits)
   * [Kaggle - Hands-On Data Science Education](https://www.kaggle.com/learn/overview)
   * [Google - SuperComputing 2017 Deep Learning Tutorial](https://github.com/google-aai/sc17)
+  * [Google - Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -555,6 +556,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Logo detection using Apache MXNet](https://www.oreilly.com/ideas/logo-detection-using-apache-mxnet)
   * [Using Deep Learning for Structured Data with Entity Embeddings](https://towardsdatascience.com/deep-learning-structured-data-8d6a278f3088)
   * [Getting Text into Tensorflow with the Dataset API](https://medium.com/@TalPerry/getting-text-into-tensorflow-with-the-dataset-api-ffb832c8bec6)
+  * [Machine Learning with TensorFlow on Google Cloud Platform: code samples](https://towardsdatascience.com/machine-learning-with-tensorflow-on-google-cloud-platform-code-samples-7c1bc07cd265)
+  * [Build generative models using Apache MXNet](https://www.oreilly.com/ideas/generative-model-using-apache-mxnet)
+  * [How to generate realistic yelp restaurant reviews with Keras](https://hackernoon.com/how-to-generate-realistic-yelp-restaurant-reviews-with-keras-c1167c05e86d)
+  * [Deep learning in production with Keras, Redis, Flask, and Apache](https://www.pyimagesearch.com/2018/02/05/deep-learning-production-keras-redis-flask-apache/)
+  * [TensorFlow Object Detection in Action](https://towardsdatascience.com/tensorflow-object-detection-in-action-4aca394d51b1)
+  * [How to predict Bitcoin and Ethereum price with RNN-LSTM in Keras](https://towardsdatascience.com/how-to-predict-bitcoin-and-ethereum-price-with-rnn-lstm-in-keras-a6d8ee8a5109)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -657,6 +664,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [슬로우캠퍼스 딥러닝스쿨[한대희] 파트#2-딥러닝핵심](https://www.slideshare.net/slowcampus/2-85710199)
   * [GCP CloudML Intro](https://www.slideshare.net/bevislee/gcp-cloudml-intro)
   * [Tutorial on Object Detection [Faster R-CNN]](https://www.slideshare.net/hpkim0512/tutorial-of-faster-rcnn)
+  * [Amazon SageMaker을 통한 손쉬운 Jupyter Notebook 활용하기 - 윤석찬](https://www.slideshare.net/awskorea/amazon-sage-maker-jupyter-notebook-channy-88646940)
+  * [Variational AutoEncoder](https://www.slideshare.net/MingukKang/vae-ppt)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -1015,6 +1024,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Multi-Class Text Classification with Scikit-Learn](https://towardsdatascience.com/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f)
 * [Multi-Class Text Classification with PySpark](https://towardsdatascience.com/multi-class-text-classification-with-pyspark-7d78d022ed35)
 * [Common Design for Distributed Machine Learning](https://www.slideshare.net/JunyoungPark22/common-design-for-distributed-machine-learning)
+* [Machine Learning Workflow on Diabetes Data : Part 01](https://towardsdatascience.com/machine-learning-workflow-on-diabetes-data-part-01-573864fcc6b8)
+* [Kaggle House Prices Advanced Regression Techniques: One hour analysis](https://www.kaggle.com/sunmiyoon/one-hour-analysis-written-in-both-eng-and-kor)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1101,6 +1112,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [확률변수를 이해하다](https://cveai.github.io/%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5/2018/02/14/rvariable.html)
 * [matplotlib 한글폰트 사용하기](http://corazzon.github.io/matplotlib_font_setting)
 * [Datascience-Interview-Questions for Korean](https://github.com/zzsza/Datascience-Interview-Questions)
+* [A Beginner’s Guide to Data Engineering — Part I](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
+* [A Beginner’s Guide to Data Engineering — Part II](https://towardsdatascience.com/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71)
+* [Khan Academy - Linear Algebra](https://ko.khanacademy.org/math/linear-algebra)
+* [Interactive Bokeh Tutorial Part 1](https://www.kaggle.com/kanncaa1/interactive-bokeh-tutorial-part-1)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -1301,6 +1316,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Insights from an evening with recommender systems experts](http://www.bibblio.org/blog/insights-evening-recommender-systems-experts)
 * [Building Content Recommendation Systems Using Apache MXNet and Gluon - MCL402 - re:Invent 2017](https://www.slideshare.net/AmazonWebServices/building-content-recommendation-systems-using-apache-mxnet-and-gluon-mcl402-reinvent-2017)
 * [Production Recommendation Systems with Cloudera](http://blog.cloudera.com/blog/2018/02/production-recommendation-systems-with-cloudera/)
+* [PyTorch Implementation of Session-based Recommendations with Recurrent Neural Networks](https://github.com/yhs-968/pyGRU4REC)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
