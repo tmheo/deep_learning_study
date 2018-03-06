@@ -562,6 +562,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deep learning in production with Keras, Redis, Flask, and Apache](https://www.pyimagesearch.com/2018/02/05/deep-learning-production-keras-redis-flask-apache/)
   * [TensorFlow Object Detection in Action](https://towardsdatascience.com/tensorflow-object-detection-in-action-4aca394d51b1)
   * [How to predict Bitcoin and Ethereum price with RNN-LSTM in Keras](https://towardsdatascience.com/how-to-predict-bitcoin-and-ethereum-price-with-rnn-lstm-in-keras-a6d8ee8a5109)
+  * [Keras Tutorial: Deep Learning in Python](https://www.datacamp.com/community/tutorials/deep-learning-python)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1025,6 +1026,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Multi-Class Text Classification with PySpark](https://towardsdatascience.com/multi-class-text-classification-with-pyspark-7d78d022ed35)
 * [Common Design for Distributed Machine Learning](https://www.slideshare.net/JunyoungPark22/common-design-for-distributed-machine-learning)
 * [Machine Learning Workflow on Diabetes Data : Part 01](https://towardsdatascience.com/machine-learning-workflow-on-diabetes-data-part-01-573864fcc6b8)
+* [Machine Learning Workflow on Diabetes Data : Part 02](https://towardsdatascience.com/machine-learning-workflow-on-diabetes-data-part-02-11262b7f7a5c)
 * [Kaggle House Prices Advanced Regression Techniques: One hour analysis](https://www.kaggle.com/sunmiyoon/one-hour-analysis-written-in-both-eng-and-kor)
 
 ## Data Science
@@ -1116,6 +1118,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [A Beginner’s Guide to Data Engineering — Part II](https://towardsdatascience.com/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71)
 * [Khan Academy - Linear Algebra](https://ko.khanacademy.org/math/linear-algebra)
 * [Interactive Bokeh Tutorial Part 1](https://www.kaggle.com/kanncaa1/interactive-bokeh-tutorial-part-1)
+* [Jupyter Notebook Tutorial: The Definitive Guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
+* [How to rewrite your SQL queries in Pandas, and more](https://codeburst.io/how-to-rewrite-your-sql-queries-in-pandas-and-more-149d341fc53e)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
