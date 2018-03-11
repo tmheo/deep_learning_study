@@ -71,6 +71,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Kaggle - Hands-On Data Science Education](https://www.kaggle.com/learn/overview)
   * [Google - SuperComputing 2017 Deep Learning Tutorial](https://github.com/google-aai/sc17)
   * [Google - Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/)
+  * [Lecture Slides for Deeplearning book](https://github.com/InfolabAI/DeepLearning)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -90,6 +91,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Distill - Machine Learning Research Journal](http://distill.pub/)
   * [ArxivSanityKr](https://www.facebook.com/ArxivSanityKr/)
   * [Towards Data Science - Sharing concepts, ideas, and codes.](https://medium.com/towards-data-science)
+  * [INSIGHT - Your bridge to careers in Data Science and Data Engineering](https://blog.insightdatascience.com/)
   * [카카오 AI 매거진](https://brunch.co.kr/magazine/kakaoaireport)
   * [HillClimber.ai - a curated machine learning mashup](http://www.hillclimber.ai/)
   * [MyBridge - Machine Learning Top 10 Articles For the Past Month](https://medium.mybridge.co/tagged/machine-learning)
@@ -563,6 +565,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [TensorFlow Object Detection in Action](https://towardsdatascience.com/tensorflow-object-detection-in-action-4aca394d51b1)
   * [How to predict Bitcoin and Ethereum price with RNN-LSTM in Keras](https://towardsdatascience.com/how-to-predict-bitcoin-and-ethereum-price-with-rnn-lstm-in-keras-a6d8ee8a5109)
   * [Keras Tutorial: Deep Learning in Python](https://www.datacamp.com/community/tutorials/deep-learning-python)
+  * [Gluon으로 구현해보는 한영기계번역 모형 – 마이크로소프트웨어 기고문](http://freesearch.pe.kr/archives/4754)
+  * [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)
+  * [Predicting e-sports winners with Machine Learning - Hero2vec: Embeddings are all you need](https://blog.insightdatascience.com/hero2vec-d42d6838c941)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -665,7 +670,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [슬로우캠퍼스 딥러닝스쿨[한대희] 파트#2-딥러닝핵심](https://www.slideshare.net/slowcampus/2-85710199)
   * [GCP CloudML Intro](https://www.slideshare.net/bevislee/gcp-cloudml-intro)
   * [Tutorial on Object Detection [Faster R-CNN]](https://www.slideshare.net/hpkim0512/tutorial-of-faster-rcnn)
-  * [Amazon SageMaker을 통한 손쉬운 Jupyter Notebook 활용하기 - 윤석찬](https://www.slideshare.net/awskorea/amazon-sage-maker-jupyter-notebook-channy-88646940)
+  * [Amazon SageMaker을 통한 손쉬운 Jupyter Notebook 활용하기 - 윤석찬](https://www.slideshare.net/awskorea/amazon-sage-maker-jupyter-notebook-channy-88646940) : [[Video]](https://www.youtube.com/watch?v=tSFF0osd7ZM)
   * [Variational AutoEncoder](https://www.slideshare.net/MingukKang/vae-ppt)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
@@ -770,6 +775,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Pytorch easy-to-follow Capsule Network tutorial](https://github.com/higgsfield/Capsule-Network-Tutorial)
   * [Understanding NN - Tensorflow tutorial for "Methods for Interpreting and Understanding Deep Neural Networks"](https://github.com/1202kbs/Understanding-NN)
   * [Neural Korean to English Machine Translater with Gluon](https://github.com/haven-jeon/ko_en_neural_machine_translation)
+  * [Simple Tensorflow DatasetAPI Tutorial for reading image](https://github.com/taki0112/Tensorflow-DatasetAPI)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -1028,6 +1034,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Machine Learning Workflow on Diabetes Data : Part 01](https://towardsdatascience.com/machine-learning-workflow-on-diabetes-data-part-01-573864fcc6b8)
 * [Machine Learning Workflow on Diabetes Data : Part 02](https://towardsdatascience.com/machine-learning-workflow-on-diabetes-data-part-02-11262b7f7a5c)
 * [Kaggle House Prices Advanced Regression Techniques: One hour analysis](https://www.kaggle.com/sunmiyoon/one-hour-analysis-written-in-both-eng-and-kor)
+* [Always start with a stupid model, no exceptions](https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa)
+* [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
+* [Multi-Class Text Classification with Scikit-Learn](https://towardsdatascience.com/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1321,6 +1330,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Building Content Recommendation Systems Using Apache MXNet and Gluon - MCL402 - re:Invent 2017](https://www.slideshare.net/AmazonWebServices/building-content-recommendation-systems-using-apache-mxnet-and-gluon-mcl402-reinvent-2017)
 * [Production Recommendation Systems with Cloudera](http://blog.cloudera.com/blog/2018/02/production-recommendation-systems-with-cloudera/)
 * [PyTorch Implementation of Session-based Recommendations with Recurrent Neural Networks](https://github.com/yhs-968/pyGRU4REC)
+* [Building Recommenders with Multilayer Perceptron Using TensorFlow](https://www.altoros.com/blog/building-recommenders-with-multilayer-perceptron-using-tensorflow/)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
