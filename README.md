@@ -568,6 +568,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Gluon으로 구현해보는 한영기계번역 모형 – 마이크로소프트웨어 기고문](http://freesearch.pe.kr/archives/4754)
   * [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)
   * [Predicting e-sports winners with Machine Learning - Hero2vec: Embeddings are all you need](https://blog.insightdatascience.com/hero2vec-d42d6838c941)
+  * [Automatic feature engineering using deep learning and Bayesian inference](https://towardsdatascience.com/automatic-feature-engineering-using-deep-learning-and-bayesian-inference-application-to-computer-7b2bb8dc7351)
+  * [How I implemented iPhone X’s FaceID using Deep Learning in Python](https://towardsdatascience.com/how-i-implemented-iphone-xs-faceid-using-deep-learning-in-python-d5dbaa128e1d)
+  * [Convolutional Neural Networks with TensorFlow](https://www.datacamp.com/community/tutorials/cnn-tensorflow-python)
+  * [Deploy TensorFlow models](https://towardsdatascience.com/deploy-tensorflow-models-9813b5a705d5)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -672,6 +676,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Tutorial on Object Detection [Faster R-CNN]](https://www.slideshare.net/hpkim0512/tutorial-of-faster-rcnn)
   * [Amazon SageMaker을 통한 손쉬운 Jupyter Notebook 활용하기 - 윤석찬](https://www.slideshare.net/awskorea/amazon-sage-maker-jupyter-notebook-channy-88646940) : [[Video]](https://www.youtube.com/watch?v=tSFF0osd7ZM)
   * [Variational AutoEncoder](https://www.slideshare.net/MingukKang/vae-ppt)
+  * [Notes from Coursera Deep Learning courses by Andrew Ng](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng)
+  * [Deep learning overview](https://www.slideshare.net/MingukKang/deep-learning-overview-90945231)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -776,6 +782,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Understanding NN - Tensorflow tutorial for "Methods for Interpreting and Understanding Deep Neural Networks"](https://github.com/1202kbs/Understanding-NN)
   * [Neural Korean to English Machine Translater with Gluon](https://github.com/haven-jeon/ko_en_neural_machine_translation)
   * [Simple Tensorflow DatasetAPI Tutorial for reading image](https://github.com/taki0112/Tensorflow-DatasetAPI)
+  * [This repository provides tutorial python scripts used in the EverybodyTensorlfow lecture by Jaewook Kang](https://github.com/jwkanggist/EveryBodyTensorFlow)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -1037,6 +1044,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Always start with a stupid model, no exceptions](https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa)
 * [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
 * [Multi-Class Text Classification with Scikit-Learn](https://towardsdatascience.com/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f)
+* [Sentiment Analysis with PySpark](https://towardsdatascience.com/sentiment-analysis-with-pyspark-bc8e83f80c35)
+* [Logistic Regression — Detailed Overview](https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1129,6 +1138,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Interactive Bokeh Tutorial Part 1](https://www.kaggle.com/kanncaa1/interactive-bokeh-tutorial-part-1)
 * [Jupyter Notebook Tutorial: The Definitive Guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
 * [How to rewrite your SQL queries in Pandas, and more](https://codeburst.io/how-to-rewrite-your-sql-queries-in-pandas-and-more-149d341fc53e)
+* [Common Patterns for Analyzing Data](https://thekevinscott.com/common-patterns-for-analyzing-data/)
+* [Data Visualization with Bokeh in Python Part One: Getting Started](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-one-getting-started-a11655a467d4)
+* [Analysing IPL Data to begin Data Analytics with Python](https://towardsdatascience.com/analysing-ipl-data-to-begin-data-analytics-with-python-5d2f610126a)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -1331,6 +1343,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Production Recommendation Systems with Cloudera](http://blog.cloudera.com/blog/2018/02/production-recommendation-systems-with-cloudera/)
 * [PyTorch Implementation of Session-based Recommendations with Recurrent Neural Networks](https://github.com/yhs-968/pyGRU4REC)
 * [Building Recommenders with Multilayer Perceptron Using TensorFlow](https://www.altoros.com/blog/building-recommenders-with-multilayer-perceptron-using-tensorflow/)
+* [Listing Embeddings for Similar Listing Recommendations and Real-time Personalization in Search](https://medium.com/airbnb-engineering/listing-embeddings-for-similar-listing-recommendations-and-real-time-personalization-in-search-601172f7603e)
+* [파이썬 추천 시스템 심화과정](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
