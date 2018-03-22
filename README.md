@@ -572,6 +572,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [How I implemented iPhone X’s FaceID using Deep Learning in Python](https://towardsdatascience.com/how-i-implemented-iphone-xs-faceid-using-deep-learning-in-python-d5dbaa128e1d)
   * [Convolutional Neural Networks with TensorFlow](https://www.datacamp.com/community/tutorials/cnn-tensorflow-python)
   * [Deploy TensorFlow models](https://towardsdatascience.com/deploy-tensorflow-models-9813b5a705d5)
+  * [GPU EC2 스팟 인스턴스에 Cuda/cuDNN와 Tensorflow/PyTorch/Jupyter Notebook 세팅하기](https://beomi.github.io/2018/03/18/Create_GPU_spot_EC2_for_ML/)
+  * [How to train custom Word Embeddings using GPU on AWS](https://towardsdatascience.com/how-to-train-custom-word-embeddings-using-gpu-on-aws-f62727a1e3f6)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -783,6 +785,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Neural Korean to English Machine Translater with Gluon](https://github.com/haven-jeon/ko_en_neural_machine_translation)
   * [Simple Tensorflow DatasetAPI Tutorial for reading image](https://github.com/taki0112/Tensorflow-DatasetAPI)
   * [This repository provides tutorial python scripts used in the EverybodyTensorlfow lecture by Jaewook Kang](https://github.com/jwkanggist/EveryBodyTensorFlow)
+  * [Unsupervised anomaly detection with generative model, keras implementation](https://github.com/tkwoo/anogan-keras)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -895,6 +898,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Reinforcement Learning - 첫번째 이야기](https://medium.com/@wonseokjung_95449/reinforcement-learning-2fc7d6e7c1e4)
 * [강화학습으로 똑똑한 슈퍼마리오 만들기](https://medium.com/@wonseokjung_95449/%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5%EC%9C%BC%EB%A1%9C-%EB%98%91%EB%98%91%ED%95%9C-%EC%8A%88%ED%8D%BC%EB%A7%88%EB%A6%AC%EC%98%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0-87c423f46b05)
 * [How to build your own AlphaZero AI using Python and Keras](https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188)
+* 강화학습 소개 - 이동민님
+  * [강화학습의 개요](https://drive.google.com/file/d/1j7SviXEJEIxa50zBHh8f5bmEZW9VgVpg/view)
+  * [강화학습 알고리즘의 흐름도 Part 1](https://drive.google.com/file/d/1mB7kluuQbNLn_DzhXPNsRMPt3jO3gO_c/view)
+  * [강화학습 알고리즘의 흐름도 Part 2](https://drive.google.com/file/d/1UTZScuzQRwtIs-XEZ4bn9f8vAz69279q/view)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -1141,6 +1148,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Common Patterns for Analyzing Data](https://thekevinscott.com/common-patterns-for-analyzing-data/)
 * [Data Visualization with Bokeh in Python Part One: Getting Started](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-one-getting-started-a11655a467d4)
 * [Analysing IPL Data to begin Data Analytics with Python](https://towardsdatascience.com/analysing-ipl-data-to-begin-data-analytics-with-python-5d2f610126a)
+* [Seeing Theory - A visual introduction to probability and statistics](http://students.brown.edu/seeing-theory/)
+* [K-MOOC: Operations Research with Python](https://github.com/TeamLab/Gachon_CS50_OR_KMOOC)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -1345,6 +1354,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Building Recommenders with Multilayer Perceptron Using TensorFlow](https://www.altoros.com/blog/building-recommenders-with-multilayer-perceptron-using-tensorflow/)
 * [Listing Embeddings for Similar Listing Recommendations and Real-time Personalization in Search](https://medium.com/airbnb-engineering/listing-embeddings-for-similar-listing-recommendations-and-real-time-personalization-in-search-601172f7603e)
 * [파이썬 추천 시스템 심화과정](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
+* [SKPlanet 추천 플랫폼 콜로세오 - SK ICT Tech Summit 2017](https://www.slideshare.net/JaehoonJung/skplanet-sk-ict-tech-summit-2017-skplanet-sk-ict-tech-summit-2017)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
@@ -1359,3 +1369,4 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Let Android dream electric sheep: Making emotion model for chat-bot with Python3, NLTK and TensorFlow](https://www.slideshare.net/inureyes/let-android-dream-electric-sheep-making-emotion-model-for-chatbot-with-python3-nltk-and-tensorflow)
 * [Python과 Tensorflow를 활용한 AI Chatbot 개발 및 실무 적용](https://www.slideshare.net/healess/python-tensorflow-ai-chatbot)
 * [[번역] 챗봇 제작 기술 선택을 위한 최상의 안내서](https://brunch.co.kr/@hrcloser/1)
+* [딥러닝을 사용한 챗봇 개발방법 정리](http://aidev.co.kr/chatbotdeeplearning/3187)
