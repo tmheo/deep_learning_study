@@ -786,6 +786,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Simple Tensorflow DatasetAPI Tutorial for reading image](https://github.com/taki0112/Tensorflow-DatasetAPI)
   * [This repository provides tutorial python scripts used in the EverybodyTensorlfow lecture by Jaewook Kang](https://github.com/jwkanggist/EveryBodyTensorFlow)
   * [Unsupervised anomaly detection with generative model, keras implementation](https://github.com/tkwoo/anogan-keras)
+  * [GAN in Numpy](https://github.com/shinseung428/gan_numpy)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -899,9 +900,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [강화학습으로 똑똑한 슈퍼마리오 만들기](https://medium.com/@wonseokjung_95449/%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5%EC%9C%BC%EB%A1%9C-%EB%98%91%EB%98%91%ED%95%9C-%EC%8A%88%ED%8D%BC%EB%A7%88%EB%A6%AC%EC%98%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0-87c423f46b05)
 * [How to build your own AlphaZero AI using Python and Keras](https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188)
 * 강화학습 소개 - 이동민님
-  * [강화학습의 개요](https://drive.google.com/file/d/1j7SviXEJEIxa50zBHh8f5bmEZW9VgVpg/view)
-  * [강화학습 알고리즘의 흐름도 Part 1](https://drive.google.com/file/d/1mB7kluuQbNLn_DzhXPNsRMPt3jO3gO_c/view)
-  * [강화학습 알고리즘의 흐름도 Part 2](https://drive.google.com/file/d/1UTZScuzQRwtIs-XEZ4bn9f8vAz69279q/view)
+  * [강화학습의 개요](https://www.slideshare.net/DongMinLee32/ss-91521646)
+  * [강화학습 알고리즘의 흐름도 Part 1](https://www.slideshare.net/DongMinLee32/part-1-91522059)
+  * [강화학습 알고리즘의 흐름도 Part 2](https://www.slideshare.net/DongMinLee32/part-2-91522217)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -1053,6 +1054,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Multi-Class Text Classification with Scikit-Learn](https://towardsdatascience.com/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f)
 * [Sentiment Analysis with PySpark](https://towardsdatascience.com/sentiment-analysis-with-pyspark-bc8e83f80c35)
 * [Logistic Regression — Detailed Overview](https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc)
+* [Time Series for scikit-learn People Part I: Where's the X Matrix?](http://blog.ethanrosenthal.com/2018/01/28/time-series-for-scikit-learn-people-part1/)
+* [Time Series for scikit-learn People Part II: Autoregressive Forecasting Pipelines](http://blog.ethanrosenthal.com/2018/03/22/time-series-for-scikit-learn-people-part2/)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1147,9 +1150,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [How to rewrite your SQL queries in Pandas, and more](https://codeburst.io/how-to-rewrite-your-sql-queries-in-pandas-and-more-149d341fc53e)
 * [Common Patterns for Analyzing Data](https://thekevinscott.com/common-patterns-for-analyzing-data/)
 * [Data Visualization with Bokeh in Python Part One: Getting Started](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-one-getting-started-a11655a467d4)
+* [Data Visualization with Bokeh in Python, Part II: Interactions](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-ii-interactions-a4cf994e2512)
+* [Histograms and Density Plots in Python](https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0)
 * [Analysing IPL Data to begin Data Analytics with Python](https://towardsdatascience.com/analysing-ipl-data-to-begin-data-analytics-with-python-5d2f610126a)
 * [Seeing Theory - A visual introduction to probability and statistics](http://students.brown.edu/seeing-theory/)
 * [K-MOOC: Operations Research with Python](https://github.com/TeamLab/Gachon_CS50_OR_KMOOC)
+* [Visualize your data with Facets](https://towardsdatascience.com/visualize-your-data-with-facets-d11b085409bc)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -1355,6 +1361,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Listing Embeddings for Similar Listing Recommendations and Real-time Personalization in Search](https://medium.com/airbnb-engineering/listing-embeddings-for-similar-listing-recommendations-and-real-time-personalization-in-search-601172f7603e)
 * [파이썬 추천 시스템 심화과정](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
 * [SKPlanet 추천 플랫폼 콜로세오 - SK ICT Tech Summit 2017](https://www.slideshare.net/JaehoonJung/skplanet-sk-ict-tech-summit-2017-skplanet-sk-ict-tech-summit-2017)
+* [딥러닝을 이용한 사용자 선호도 기반 의상 추천 알고리즘](https://www.slideshare.net/MinjiKang31/ppt-79412896)
+* [Matrix Factorization for Ad Recommendation](https://blog.codecentric.de/en/2018/03/matrix-factorization-ad-recommendation/)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
