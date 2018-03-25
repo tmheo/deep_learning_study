@@ -1153,6 +1153,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Data Visualization with Bokeh in Python, Part II: Interactions](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-ii-interactions-a4cf994e2512)
 * [Histograms and Density Plots in Python](https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0)
 * [Analysing IPL Data to begin Data Analytics with Python](https://towardsdatascience.com/analysing-ipl-data-to-begin-data-analytics-with-python-5d2f610126a)
+* [Interactive Visualization of Australian Wine Ratings - Bokeh](http://pbpython.com/wine_visualization.html)
 * [Seeing Theory - A visual introduction to probability and statistics](http://students.brown.edu/seeing-theory/)
 * [K-MOOC: Operations Research with Python](https://github.com/TeamLab/Gachon_CS50_OR_KMOOC)
 * [Visualize your data with Facets](https://towardsdatascience.com/visualize-your-data-with-facets-d11b085409bc)
