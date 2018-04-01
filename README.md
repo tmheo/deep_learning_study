@@ -574,6 +574,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deploy TensorFlow models](https://towardsdatascience.com/deploy-tensorflow-models-9813b5a705d5)
   * [GPU EC2 스팟 인스턴스에 Cuda/cuDNN와 Tensorflow/PyTorch/Jupyter Notebook 세팅하기](https://beomi.github.io/2018/03/18/Create_GPU_spot_EC2_for_ML/)
   * [How to train custom Word Embeddings using GPU on AWS](https://towardsdatascience.com/how-to-train-custom-word-embeddings-using-gpu-on-aws-f62727a1e3f6)
+  * [Understanding Capsule Networks — AI’s Alluring New Architecture](https://medium.freecodecamp.org/understanding-capsule-networks-ais-alluring-new-architecture-bdb228173ddc) : [[Code]](https://github.com/bourdakos1/CapsNet-Visualization)
+  * [Introducing TensorFlow Model Analysis: Scaleable, Sliced, and Full-Pass Metrics](https://medium.com/tensorflow/introducing-tensorflow-model-analysis-scaleable-sliced-and-full-pass-metrics-5cde7baf0b7b)
+  * [Introducing TensorFlow Hub: A Library for Reusable Machine Learning Modules in TensorFlow](https://medium.com/tensorflow/introducing-tensorflow-hub-a-library-for-reusable-machine-learning-modules-in-tensorflow-cdee41fa18f9)
+  * [Introducing TensorFlow.js: Machine Learning in Javascript](https://medium.com/tensorflow/introducing-tensorflow-js-machine-learning-in-javascript-bf3eab376db)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -680,6 +684,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Variational AutoEncoder](https://www.slideshare.net/MingukKang/vae-ppt)
   * [Notes from Coursera Deep Learning courses by Andrew Ng](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng)
   * [Deep learning overview](https://www.slideshare.net/MingukKang/deep-learning-overview-90945231)
+  * [텐서플로 120% 활용하기](http://nbviewer.jupyter.org/format/slides/gist/leechanwoo/3d2eeb4afadcb0de7604ac2ab0c63f99#/)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -787,6 +792,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [This repository provides tutorial python scripts used in the EverybodyTensorlfow lecture by Jaewook Kang](https://github.com/jwkanggist/EveryBodyTensorFlow)
   * [Unsupervised anomaly detection with generative model, keras implementation](https://github.com/tkwoo/anogan-keras)
   * [GAN in Numpy](https://github.com/shinseung428/gan_numpy)
+  * [Deep Learning Study with Gluon](https://github.com/ski-net/dl_study_with_gluon)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -903,6 +909,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [강화학습의 개요](https://www.slideshare.net/DongMinLee32/ss-91521646)
   * [강화학습 알고리즘의 흐름도 Part 1](https://www.slideshare.net/DongMinLee32/part-1-91522059)
   * [강화학습 알고리즘의 흐름도 Part 2](https://www.slideshare.net/DongMinLee32/part-2-91522217)
+* [Monte Carlo Tree Search – beginners guide](https://int8.io/monte-carlo-tree-search-beginners-guide/)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -1056,6 +1063,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Logistic Regression — Detailed Overview](https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc)
 * [Time Series for scikit-learn People Part I: Where's the X Matrix?](http://blog.ethanrosenthal.com/2018/01/28/time-series-for-scikit-learn-people-part1/)
 * [Time Series for scikit-learn People Part II: Autoregressive Forecasting Pipelines](http://blog.ethanrosenthal.com/2018/03/22/time-series-for-scikit-learn-people-part2/)
+* [Topic Modeling with Gensim[Python]](https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1069,6 +1077,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [2016 PyCon APAC - 너의 사진은 내가 지난 과거에 한 일을 알고 있다](https://www.slideshare.net/ssuser2fe594/ss-64974166)
 * [[FAQ] - Daum부동산 - DataFrame 행 추출과 컬럼으로 합치기](https://financedata.github.io/posts/dataframe-extract-rows-and-concat-as-column.html)
 * [gimmesilver님의 데이터 분석 블로그](http://agbird.egloos.com/category/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D)
+* [gimmesilver님의 데이터 분석 브런치](https://brunch.co.kr/@gimmesilver/)
 * [datageek님의 데이터 분석 블로그](http://blog.naver.com/datageeks)
 * [PinkWink님의 데이터 분석 블로그](http://pinkwink.kr/category/Theory/DataScience)
 * [LEARNING PYTHON FOR DATA SCIENCE: CHEAT SHEETS](https://www.continuum.io/blog/developer-blog/learning-python-data-science-cheat-sheets)
@@ -1077,7 +1086,6 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [K-MOOC Operation Research : Numpy Part #2](https://www.youtube.com/watch?v=Sbywpatl-BA)
 * [Reproducible Data Analysis in Jupyter](http://jakevdp.github.io/blog/2017/03/03/reproducible-data-analysis-in-jupyter/)
 * [에어브릿지 블로그 - Data science](http://blog.airbridge.io/tag/data-science/)
-* [A visual introduction to probability and statistics](http://students.brown.edu/seeing-theory/index.html)
 * [Analyze one year of radio station songs aired with SQL, Spark, Spotify, and Databricks](https://medium.com/@polomarcus/analyze-one-year-of-radio-station-songs-aired-with-sql-spark-spotify-and-databricks-835fcf73df6)
 * [데이터 사이언스 스쿨](https://datascienceschool.net/)
 * Linear Algebra & Matrix Calculus
@@ -1151,12 +1159,16 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Common Patterns for Analyzing Data](https://thekevinscott.com/common-patterns-for-analyzing-data/)
 * [Data Visualization with Bokeh in Python Part One: Getting Started](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-one-getting-started-a11655a467d4)
 * [Data Visualization with Bokeh in Python, Part II: Interactions](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-ii-interactions-a4cf994e2512)
+* [Data Visualization with Bokeh in Python, Part III: A Complete Dashboard](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-iii-a-complete-dashboard-dc6a86aa6e23)
 * [Histograms and Density Plots in Python](https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0)
 * [Analysing IPL Data to begin Data Analytics with Python](https://towardsdatascience.com/analysing-ipl-data-to-begin-data-analytics-with-python-5d2f610126a)
 * [Interactive Visualization of Australian Wine Ratings - Bokeh](http://pbpython.com/wine_visualization.html)
 * [Seeing Theory - A visual introduction to probability and statistics](http://students.brown.edu/seeing-theory/)
 * [K-MOOC: Operations Research with Python](https://github.com/TeamLab/Gachon_CS50_OR_KMOOC)
 * [Visualize your data with Facets](https://towardsdatascience.com/visualize-your-data-with-facets-d11b085409bc)
+* [An Introduction to Altair](http://vallandingham.me/altair_intro.html)
+* [5 Quick and Easy Data Visualizations in Python with Code](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f)
+* [Boost your data science skills. Learn linear algebra](https://towardsdatascience.com/boost-your-data-sciences-skills-learn-linear-algebra-2c30fdd008cf)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -1364,6 +1376,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [SKPlanet 추천 플랫폼 콜로세오 - SK ICT Tech Summit 2017](https://www.slideshare.net/JaehoonJung/skplanet-sk-ict-tech-summit-2017-skplanet-sk-ict-tech-summit-2017)
 * [딥러닝을 이용한 사용자 선호도 기반 의상 추천 알고리즘](https://www.slideshare.net/MinjiKang31/ppt-79412896)
 * [Matrix Factorization for Ad Recommendation](https://blog.codecentric.de/en/2018/03/matrix-factorization-ad-recommendation/)
+* [GETTING YA MUSIC RECOMMENDATION GROOVE ON WITH GOOGLE CLOUD PLATFORM!](https://shinesolutions.com/2017/12/15/getting-ya-music-recommendation-groove-on-with-google-cloud-platform/)
+* [GETTING YA MUSIC RECOMMENDATION GROOVE ON WITH GOOGLE CLOUD PLATFORM! PART 2](https://shinesolutions.com/2018/01/24/getting-ya-music-recommendation-groove-on-with-google-cloud-platform-part-2/)
+* [GETTING YA MUSIC RECOMMENDATION GROOVE ON WITH GOOGLE CLOUD PLATFORM! PART 3](https://shinesolutions.com/2018/03/06/getting-ya-music-recommendation-groove-on-with-google-cloud-platform-part-3/)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
