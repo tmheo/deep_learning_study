@@ -74,6 +74,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Lecture Slides for Deeplearning book](https://github.com/InfolabAI/DeepLearning)
   * [Microsoft Professional Program for Data Science track](https://academy.microsoft.com/en-us/tracks/data-science/)
   * [Microsoft Professional Program for Artificial Intelligence track](https://academy.microsoft.com/en-us/tracks/artificial-intelligence/)
+  * [Edwith - 인공지능을 위한 선형대수](http://www.edwith.org/linearalgebra4ai)
+  * [Edwith - 머신러닝을 위한 Python](http://www.edwith.org/aipython)
+  * [Edwith - Bayesian Deep Learning](http://www.edwith.org/bayesiandeeplearning)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
