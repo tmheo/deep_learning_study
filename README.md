@@ -72,6 +72,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Google - SuperComputing 2017 Deep Learning Tutorial](https://github.com/google-aai/sc17)
   * [Google - Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/)
   * [Lecture Slides for Deeplearning book](https://github.com/InfolabAI/DeepLearning)
+  * [Microsoft Professional Program for Data Science track](https://academy.microsoft.com/en-us/tracks/data-science/)
+  * [Microsoft Professional Program for Artificial Intelligence track](https://academy.microsoft.com/en-us/tracks/artificial-intelligence/)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -578,6 +580,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Introducing TensorFlow Model Analysis: Scaleable, Sliced, and Full-Pass Metrics](https://medium.com/tensorflow/introducing-tensorflow-model-analysis-scaleable-sliced-and-full-pass-metrics-5cde7baf0b7b)
   * [Introducing TensorFlow Hub: A Library for Reusable Machine Learning Modules in TensorFlow](https://medium.com/tensorflow/introducing-tensorflow-hub-a-library-for-reusable-machine-learning-modules-in-tensorflow-cdee41fa18f9)
   * [Introducing TensorFlow.js: Machine Learning in Javascript](https://medium.com/tensorflow/introducing-tensorflow-js-machine-learning-in-javascript-bf3eab376db)
+  * [Entity extraction using Deep Learning](https://towardsdatascience.com/entity-extraction-using-deep-learning-8014acac6bb8)
+  * [Five video classification methods implemented in Keras and TensorFlow](https://blog.coast.ai/five-video-classification-methods-implemented-in-keras-and-tensorflow-99cad29cc0b5)
+  * [Implementing Autoencoders in Keras: Tutorial](https://www.datacamp.com/community/tutorials/autoencoder-keras-tutorial)
+  * [[Keras] 케라스로 풀어보는 다변수 입력에 대한 선형회귀 예제 - 나이, 체중에 대한 혈액지방함량 문제 -](http://pinkwink.kr/1118)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -910,6 +916,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [강화학습 알고리즘의 흐름도 Part 1](https://www.slideshare.net/DongMinLee32/part-1-91522059)
   * [강화학습 알고리즘의 흐름도 Part 2](https://www.slideshare.net/DongMinLee32/part-2-91522217)
 * [Monte Carlo Tree Search – beginners guide](https://int8.io/monte-carlo-tree-search-beginners-guide/)
+* [My Journey to Reinforcement Learning — Part 0: Introduction](https://towardsdatascience.com/my-journey-to-reinforcement-learning-part-0-introduction-1e3aec1ee5bf)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -1064,6 +1071,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Time Series for scikit-learn People Part I: Where's the X Matrix?](http://blog.ethanrosenthal.com/2018/01/28/time-series-for-scikit-learn-people-part1/)
 * [Time Series for scikit-learn People Part II: Autoregressive Forecasting Pipelines](http://blog.ethanrosenthal.com/2018/03/22/time-series-for-scikit-learn-people-part2/)
 * [Topic Modeling with Gensim[Python]](https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/)
+* [Topic Modelling in Python with NLTK and Gensim](https://towardsdatascience.com/topic-modelling-in-python-with-nltk-and-gensim-4ef03213cd21)
+* [Save Lives With 10 Lines of Code: Detecting Parkinson’s with XGBoost](https://towardsdatascience.com/detect-parkinsons-with-10-lines-of-code-intro-to-xgboost-51a4bf76b2e6)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1161,6 +1170,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Data Visualization with Bokeh in Python, Part II: Interactions](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-ii-interactions-a4cf994e2512)
 * [Data Visualization with Bokeh in Python, Part III: A Complete Dashboard](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-iii-a-complete-dashboard-dc6a86aa6e23)
 * [Histograms and Density Plots in Python](https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0)
+* [Visualizing Data with Pairs Plots in Python](https://towardsdatascience.com/visualizing-data-with-pair-plots-in-python-f228cf529166)
 * [Analysing IPL Data to begin Data Analytics with Python](https://towardsdatascience.com/analysing-ipl-data-to-begin-data-analytics-with-python-5d2f610126a)
 * [Interactive Visualization of Australian Wine Ratings - Bokeh](http://pbpython.com/wine_visualization.html)
 * [Seeing Theory - A visual introduction to probability and statistics](http://students.brown.edu/seeing-theory/)
@@ -1169,6 +1179,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [An Introduction to Altair](http://vallandingham.me/altair_intro.html)
 * [5 Quick and Easy Data Visualizations in Python with Code](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f)
 * [Boost your data science skills. Learn linear algebra](https://towardsdatascience.com/boost-your-data-sciences-skills-learn-linear-algebra-2c30fdd008cf)
+* [Data Science. Intro](https://www.slideshare.net/zzsza/data-science-intro)
+* [파이썬 X 스타벅스 매장 데이터와 지도 - pandas](http://nbviewer.jupyter.org/gist/FinanceData/b68b2840b43a2ff18b0295ed3732fb1d)
+* [파이썬 데이터 사이언스 Cheat Sheet: NumPy 기본](http://taewan.kim/post/numpy_cheat_sheet/)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -1379,6 +1392,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [GETTING YA MUSIC RECOMMENDATION GROOVE ON WITH GOOGLE CLOUD PLATFORM!](https://shinesolutions.com/2017/12/15/getting-ya-music-recommendation-groove-on-with-google-cloud-platform/)
 * [GETTING YA MUSIC RECOMMENDATION GROOVE ON WITH GOOGLE CLOUD PLATFORM! PART 2](https://shinesolutions.com/2018/01/24/getting-ya-music-recommendation-groove-on-with-google-cloud-platform-part-2/)
 * [GETTING YA MUSIC RECOMMENDATION GROOVE ON WITH GOOGLE CLOUD PLATFORM! PART 3](https://shinesolutions.com/2018/03/06/getting-ya-music-recommendation-groove-on-with-google-cloud-platform-part-3/)
+* [Bandits for Recommender System Optimization](https://towardsdatascience.com/bandits-for-recommender-system-optimization-1d702662346e)
+* [Building a Recommendation System in TensorFlow: Overview](https://cloud.google.com/solutions/machine-learning/recommendation-system-tensorflow-overview)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
