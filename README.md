@@ -77,6 +77,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Edwith - 인공지능을 위한 선형대수](http://www.edwith.org/linearalgebra4ai)
   * [Edwith - 머신러닝을 위한 Python](http://www.edwith.org/aipython)
   * [Edwith - Bayesian Deep Learning](http://www.edwith.org/bayesiandeeplearning)
+  * [딥러닝 퀵스타트 : 파이토치편](https://github.com/hanbitmedia/PyTorch-Hanbit)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -587,6 +588,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Five video classification methods implemented in Keras and TensorFlow](https://blog.coast.ai/five-video-classification-methods-implemented-in-keras-and-tensorflow-99cad29cc0b5)
   * [Implementing Autoencoders in Keras: Tutorial](https://www.datacamp.com/community/tutorials/autoencoder-keras-tutorial)
   * [[Keras] 케라스로 풀어보는 다변수 입력에 대한 선형회귀 예제 - 나이, 체중에 대한 혈액지방함량 문제 -](http://pinkwink.kr/1118)
+  * [파이썬 손코딩으로 하는 딥러닝 - MNIST](https://scalalang2.github.io/posts/deeplearning-back-propagation-with-python/)
+  * [Deep Learning With Apache Spark — Part 1](https://towardsdatascience.com/deep-learning-with-apache-spark-part-1-6d397c16abd)
+  * [Automated front-end development using deep learning](https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82)
+  * [Building a simple Keras + deep learning REST API](https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html)
+  * [A 60-minute Gluon Crash Course](http://gluon-crash-course.mxnet.io/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -802,6 +808,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Unsupervised anomaly detection with generative model, keras implementation](https://github.com/tkwoo/anogan-keras)
   * [GAN in Numpy](https://github.com/shinseung428/gan_numpy)
   * [Deep Learning Study with Gluon](https://github.com/ski-net/dl_study_with_gluon)
+  * [Deploy Keras Model with Flask as Web App in 10 Minutes](https://github.com/mtobeiyf/keras-flask-deploy-webapp)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -920,6 +927,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [강화학습 알고리즘의 흐름도 Part 2](https://www.slideshare.net/DongMinLee32/part-2-91522217)
 * [Monte Carlo Tree Search – beginners guide](https://int8.io/monte-carlo-tree-search-beginners-guide/)
 * [My Journey to Reinforcement Learning — Part 0: Introduction](https://towardsdatascience.com/my-journey-to-reinforcement-learning-part-0-introduction-1e3aec1ee5bf)
+* [My Journey to Reinforcement Learning — Part 1: Q-Learning with Table](https://towardsdatascience.com/my-journey-to-reinforcement-learning-part-1-q-learning-with-table-35540020bcf9)
+* [My Journey to Reinforcement Learning — Part 1.5: Simple Binary Image Transformation with Q-Learning](https://towardsdatascience.com/my-journey-to-reinforcement-learning-part-1-5-57f334189655)
+* [Multi-armed Bandits](https://www.slideshare.net/DongMinLee32/multiarmed-bandits)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -1076,6 +1086,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Topic Modeling with Gensim[Python]](https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/)
 * [Topic Modelling in Python with NLTK and Gensim](https://towardsdatascience.com/topic-modelling-in-python-with-nltk-and-gensim-4ef03213cd21)
 * [Save Lives With 10 Lines of Code: Detecting Parkinson’s with XGBoost](https://towardsdatascience.com/detect-parkinsons-with-10-lines-of-code-intro-to-xgboost-51a4bf76b2e6)
+* [Machine Learning Study[Boosting 기법 이해]](https://www.slideshare.net/freepsw/boosting-bagging-vs-boosting)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1185,6 +1196,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Data Science. Intro](https://www.slideshare.net/zzsza/data-science-intro)
 * [파이썬 X 스타벅스 매장 데이터와 지도 - pandas](http://nbviewer.jupyter.org/gist/FinanceData/b68b2840b43a2ff18b0295ed3732fb1d)
 * [파이썬 데이터 사이언스 Cheat Sheet: NumPy 기본](http://taewan.kim/post/numpy_cheat_sheet/)
+* [선형대수 - 한양대학교 이상화](http://www.kocw.net/home/cview.do?cid=e3763e4456cf47ed)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -1397,6 +1409,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [GETTING YA MUSIC RECOMMENDATION GROOVE ON WITH GOOGLE CLOUD PLATFORM! PART 3](https://shinesolutions.com/2018/03/06/getting-ya-music-recommendation-groove-on-with-google-cloud-platform-part-3/)
 * [Bandits for Recommender System Optimization](https://towardsdatascience.com/bandits-for-recommender-system-optimization-1d702662346e)
 * [Building a Recommendation System in TensorFlow: Overview](https://cloud.google.com/solutions/machine-learning/recommendation-system-tensorflow-overview)
+* [How to build a collaborative filtering model for personalized recommendations using TensorFlow and TensorFlow Transform](https://towardsdatascience.com/how-to-build-a-collaborative-filtering-model-for-personalized-recommendations-using-tensorflow-and-b9a77dc1320)
+* [Recommender Systems with Implicit Feedback Challenges, Techniques, and Applications](https://www.slideshare.net/NaverEngineering/recommender-systems-with-implicit-feedback-challenges-techniques-and-applications) : [[Video]](https://www.youtube.com/watch?v=IegId_GenC0)
+* [SGD vs. ALS on solving BiasedMF[SVD]](https://ita9naiwa.github.io/recommender%20systems/2017/11/25/SGD-versus-ALS.html)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
