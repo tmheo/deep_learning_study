@@ -1087,6 +1087,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Topic Modelling in Python with NLTK and Gensim](https://towardsdatascience.com/topic-modelling-in-python-with-nltk-and-gensim-4ef03213cd21)
 * [Save Lives With 10 Lines of Code: Detecting Parkinson’s with XGBoost](https://towardsdatascience.com/detect-parkinsons-with-10-lines-of-code-intro-to-xgboost-51a4bf76b2e6)
 * [Machine Learning Study[Boosting 기법 이해]](https://www.slideshare.net/freepsw/boosting-bagging-vs-boosting)
+* [Introduction to Bayesian Linear Regression](https://towardsdatascience.com/introduction-to-bayesian-linear-regression-e66e60791ea7)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
