@@ -593,6 +593,13 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Automated front-end development using deep learning](https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82)
   * [Building a simple Keras + deep learning REST API](https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html)
   * [A 60-minute Gluon Crash Course](http://gluon-crash-course.mxnet.io/)
+  * [Text Classification with TensorFlow Estimators](http://ruder.io/text-classification-tensorflow-estimators/)
+  * [Data2Vis: Automatic Generation of Data Visualizations Using Sequence-to-Sequence Recurrent Neural Networks](https://towardsdatascience.com/data2vis-automatic-generation-of-data-visualizations-using-sequence-to-sequence-recurrent-neural-5da8e9d3e43e)
+  * [CIFAR-10 Image Classification in TensorFlow](https://medium.com/@parkchansung/cifar-10-image-classification-in-tensorflow-5b501f7dc77c)
+  * [GAN with Keras: Application to Image Deblurring](https://blog.sicara.com/keras-generative-adversarial-networks-image-deblurring-45e3ab6977b5)
+  * [Diabetes Prediction — Artificial Neural Network Experimentation](https://towardsdatascience.com/diabetes-prediction-artificial-neural-network-experimentation-f4267796443d)
+  * [A Beginner's Guide to Object Detection](https://www.datacamp.com/community/tutorials/object-detection-guide)
+  * [Visualizing Artificial Neural Networks [ANNs] with just One Line of Code](https://towardsdatascience.com/visualizing-artificial-neural-networks-anns-with-just-one-line-of-code-b4233607209e)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -700,6 +707,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Notes from Coursera Deep Learning courses by Andrew Ng](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng)
   * [Deep learning overview](https://www.slideshare.net/MingukKang/deep-learning-overview-90945231)
   * [텐서플로 120% 활용하기](http://nbviewer.jupyter.org/format/slides/gist/leechanwoo/3d2eeb4afadcb0de7604ac2ab0c63f99#/)
+  * [AWS Lambda를 통한 Tensorflow 및 Keras 기반 추론 모델 서비스하기](https://speakerdeck.com/beomi/aws-lambdareul-tonghan-tensorflow-mic-keras-giban-curon-model-seobiseuhagi)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -724,7 +732,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Neural Networks - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
   * [Deep Learning and Streaming in Apache Spark 2 x - Matei Zaharia & Sue Ann Hong](https://www.youtube.com/watch?v=zom9J9sK6wY)
   * [Apache MXNet으로 배워보는 딥러닝](https://www.youtube.com/watch?v=H66GDuLsGl4)
-  * [헬로 딥러닝 - 남세동님](https://www.youtube.com/playlist?list=PLefQdA1SdkhsO4yGqIFAWcG6vr211di1j)
+  * [헬로 딥러닝 - 남세동님](https://www.youtube.com/playlist?list=PLefQdA1SdkhsO4yGqIFAWcG6vr211di1j) : [[eBook]](http://www.realhanbit.co.kr/books/136)
   * [빅데이터, 머신러닝, 그리고 AI](https://www.youtube.com/playlist?list=PLQVIXdJBV3ePLVDYgGGObyC5Dvqy6tb7u)
   * [AWS의 새로운 통합 딥러닝 서비스, Amazon SageMaker - 김무현 솔루션즈 아키텍트 [AWS]](https://www.youtube.com/watch?v=q0rGxPru_20)
   * [Getting Started With AWS SageMaker](https://www.youtube.com/watch?v=tBRHh_V8vjc)
@@ -896,6 +904,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * 스타2 강화학습 튜토리얼
   * [1편](https://brunch.co.kr/@chris-song/44) : [[English]](http://chris-chris.ai/2017/08/30/pysc2-tutorial1/)
   * [2편](https://brunch.co.kr/@chris-song/48) : [[English]](http://chris-chris.ai/2017/11/06/pysc2-tutorial2/)
+  * [3편](https://brunch.co.kr/@chris-song/53)
 * [Contextual Bandits and Reinforcement Learning](https://medium.com/towards-data-science/contextual-bandits-and-reinforcement-learning-6bdfeaece72a)
 * [RLCode와 A3C 쉽고 깊게 이해하기](https://www.slideshare.net/WoongwonLee/rlcode-a3c) : [[Video]](https://www.youtube.com/watch?v=gINks-YCTBs)
 * [Introduction of Deep Reinforcement Learning](https://www.slideshare.net/NaverEngineering/introduction-of-deep-reinforcement-learning) : [[Video]](https://youtu.be/dw0sHzE1oAc)
@@ -930,6 +939,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [My Journey to Reinforcement Learning — Part 1: Q-Learning with Table](https://towardsdatascience.com/my-journey-to-reinforcement-learning-part-1-q-learning-with-table-35540020bcf9)
 * [My Journey to Reinforcement Learning — Part 1.5: Simple Binary Image Transformation with Q-Learning](https://towardsdatascience.com/my-journey-to-reinforcement-learning-part-1-5-57f334189655)
 * [Multi-armed Bandits](https://www.slideshare.net/DongMinLee32/multiarmed-bandits)
+* [An introduction to Reinforcement Learning](https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -1088,6 +1098,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Save Lives With 10 Lines of Code: Detecting Parkinson’s with XGBoost](https://towardsdatascience.com/detect-parkinsons-with-10-lines-of-code-intro-to-xgboost-51a4bf76b2e6)
 * [Machine Learning Study[Boosting 기법 이해]](https://www.slideshare.net/freepsw/boosting-bagging-vs-boosting)
 * [Introduction to Bayesian Linear Regression](https://towardsdatascience.com/introduction-to-bayesian-linear-regression-e66e60791ea7)
+* [A note about finding anomalies](https://towardsdatascience.com/a-note-about-finding-anomalies-f9cedee38f0b)
+* [Machine Learning for Text Classification Using SpaCy in Python](https://towardsdatascience.com/machine-learning-for-text-classification-using-spacy-in-python-b276b4051a49)
+* [Interpretable Machine Learning with XGBoost](https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1198,6 +1211,19 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [파이썬 X 스타벅스 매장 데이터와 지도 - pandas](http://nbviewer.jupyter.org/gist/FinanceData/b68b2840b43a2ff18b0295ed3732fb1d)
 * [파이썬 데이터 사이언스 Cheat Sheet: NumPy 기본](http://taewan.kim/post/numpy_cheat_sheet/)
 * [선형대수 - 한양대학교 이상화](http://www.kocw.net/home/cview.do?cid=e3763e4456cf47ed)
+* [Data Exploration with Python, Part 1](https://medium.com/district-data-labs/data-exploration-with-python-part-1-643fda933479)
+* [Data Exploration with Python, Part 2](https://medium.com/district-data-labs/data-exploration-with-python-part-2-4712930d16d6)
+* [Data Exploration with Python, Part 3](https://medium.com/district-data-labs/data-exploration-with-python-part-3-dd6007bb3ae7)
+* [Fundamental Python Data Science Libraries: A Cheatsheet [Part 1/4]](https://hackernoon.com/fundamental-python-data-science-libraries-a-cheatsheet-part-1-4-58884e95c2bd)
+* [Fundamental Python Data Science Libraries: A Cheatsheet [Part 2/4]](https://hackernoon.com/fundamental-python-data-science-libraries-a-cheatsheet-part-2-4-fcf5fab9cdf1)
+* [Introducing Dash](https://medium.com/@plotlygraphs/introducing-dash-5ecf7191b503)
+* [Bokeh vs Dash — Which is the Best Dashboard Framework for Python?](https://blog.sicara.com/bokeh-dash-best-dashboard-framework-python-shiny-alternative-c5b576375f7f)
+* [Creating Interactive Visualizations with Plotly’s Dash Framework](http://pbpython.com/plotly-dash-intro.html)
+* [Interactive, Web-Based Dashboards in Python - Dash](https://alysivji.github.io/reactive-dashboards-with-dash.html)
+* [Using Plotly’s Dash to deliver public sector decision support dashboards](https://medium.com/a-r-g-o/using-plotlys-dash-to-deliver-public-sector-decision-support-dashboards-ac863fa829fb) : [[Video-1]](https://www.youtube.com/watch?v=yPSbJSblrvw), [[Video-2]](https://www.youtube.com/watch?v=f2qUWgq7fb8), [[Video-3]](https://www.youtube.com/watch?v=o5fgj1AIq4s)
+* [ARGO Labs - Plotly Dash Tutorial](https://www.youtube.com/watch?v=yfWJXkySfe0)
+* [Karnataka 2013 Election Results Visualized using Plotly’s Dash](https://medium.com/@Imaadmkhan1/karnataka-2013-election-results-visualized-using-plotlys-dash-687c0ebbd8e3)
+* [Visualizing Bitcoin prices moving averages using Dash](https://hackernoon.com/visualizing-bitcoin-prices-moving-averages-using-dash-aac93c994301)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -1413,6 +1439,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [How to build a collaborative filtering model for personalized recommendations using TensorFlow and TensorFlow Transform](https://towardsdatascience.com/how-to-build-a-collaborative-filtering-model-for-personalized-recommendations-using-tensorflow-and-b9a77dc1320)
 * [Recommender Systems with Implicit Feedback Challenges, Techniques, and Applications](https://www.slideshare.net/NaverEngineering/recommender-systems-with-implicit-feedback-challenges-techniques-and-applications) : [[Video]](https://www.youtube.com/watch?v=IegId_GenC0)
 * [SGD vs. ALS on solving BiasedMF[SVD]](https://ita9naiwa.github.io/recommender%20systems/2017/11/25/SGD-versus-ALS.html)
+* [Recurrent Neural Networks for Session-based Recommendations - Alexandros Karatzoglou](https://www.youtube.com/watch?v=M7FqgXySKYk)
+* [Deep Autoencoders For Collaborative Filtering](https://towardsdatascience.com/deep-autoencoders-for-collaborative-filtering-6cf8d25bbf1d)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
