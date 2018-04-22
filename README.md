@@ -636,7 +636,6 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Image Segmentation](https://www.slideshare.net/HyungjooCho2/image-segmentation-hjcho)
   * [Understanding deep learning requires rethinking generalization 2017 1/2](https://www.slideshare.net/JungHoonSeo2/understanding-deep-learning-requires-rethinking-generalization-2017-12)
   * [Understanding deep learning requires rethinking generalization 2017 2/2](https://www.slideshare.net/JungHoonSeo2/understanding-deep-learning-requires-rethinking-generalization-2017-2-22)
-  * [Visualizing data using t-SNE](https://www.slideshare.net/ssuser06e0c5/visualizing-data-using-tsne-73621033)
   * [대전AI포럼 - 1회 자료](https://drive.google.com/drive/folders/0B64W-UQ233A5am5RSGhGQjNDT0k)
   * [Scalable Deep Learning Using MXNet](https://www.slideshare.net/AIFrontiers/scalable-deep-learning-using-mxnet)
   * [Introduction For seq2seq and RNN](https://www.slideshare.net/HyeminAhn/introduction-for-seq2seqsequence-to-sequence-and-rnn)
@@ -1101,6 +1100,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [A note about finding anomalies](https://towardsdatascience.com/a-note-about-finding-anomalies-f9cedee38f0b)
 * [Machine Learning for Text Classification Using SpaCy in Python](https://towardsdatascience.com/machine-learning-for-text-classification-using-spacy-in-python-b276b4051a49)
 * [Interpretable Machine Learning with XGBoost](https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27)
+* [Bayesian Linear Regression in Python: Using Machine Learning to Predict Student Grades Part 1](https://medium.com/@williamkoehrsen/bayesian-linear-regression-in-python-using-machine-learning-to-predict-student-grades-part-1-7d0ad817fca5)
+* [Bayesian Linear Regression in Python: Using Machine Learning to Predict Student Grades Part 2](https://towardsdatascience.com/bayesian-linear-regression-in-python-using-machine-learning-to-predict-student-grades-part-2-b72059a8ac7e)
+* [Visualizing data using t-SNE](https://www.slideshare.net/ssuser06e0c5/visualizing-data-using-tsne-73621033)
+* [Automatic feature extraction with t-SNE](https://medium.com/jungle-book/automatic-feature-extraction-with-t-sne-62826ce09268)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
