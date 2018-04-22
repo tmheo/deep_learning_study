@@ -1227,6 +1227,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [ARGO Labs - Plotly Dash Tutorial](https://www.youtube.com/watch?v=yfWJXkySfe0)
 * [Karnataka 2013 Election Results Visualized using Plotly’s Dash](https://medium.com/@Imaadmkhan1/karnataka-2013-election-results-visualized-using-plotlys-dash-687c0ebbd8e3)
 * [Visualizing Bitcoin prices moving averages using Dash](https://hackernoon.com/visualizing-bitcoin-prices-moving-averages-using-dash-aac93c994301)
+* [Finding Bigfoot with Dash, Part 1](https://timothyrenner.github.io/datascience/2017/08/08/finding-bigfoot-with-dash-part-1.html)
+* [Finding Bigfoot with Dash, Part 2](https://timothyrenner.github.io/datascience/2017/08/09/finding-bigfoot-with-dash-part-2.html)
+* [Finding Bigfoot with Dash, Part 3](https://timothyrenner.github.io/datascience/2017/08/10/finding-bigfoot-with-dash-part-3.html)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
