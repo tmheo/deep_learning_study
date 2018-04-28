@@ -600,6 +600,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Diabetes Prediction — Artificial Neural Network Experimentation](https://towardsdatascience.com/diabetes-prediction-artificial-neural-network-experimentation-f4267796443d)
   * [A Beginner's Guide to Object Detection](https://www.datacamp.com/community/tutorials/object-detection-guide)
   * [Visualizing Artificial Neural Networks [ANNs] with just One Line of Code](https://towardsdatascience.com/visualizing-artificial-neural-networks-anns-with-just-one-line-of-code-b4233607209e)
+  * [First time with Kaggle: A ConvNet to classify toxic comments with Keras](https://medium.com/@srjoglekar246/first-time-with-kaggle-a-convnet-to-classify-toxic-comments-with-keras-ef84b6d18328)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -707,6 +708,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deep learning overview](https://www.slideshare.net/MingukKang/deep-learning-overview-90945231)
   * [텐서플로 120% 활용하기](http://nbviewer.jupyter.org/format/slides/gist/leechanwoo/3d2eeb4afadcb0de7604ac2ab0c63f99#/)
   * [AWS Lambda를 통한 Tensorflow 및 Keras 기반 추론 모델 서비스하기](https://speakerdeck.com/beomi/aws-lambdareul-tonghan-tensorflow-mic-keras-giban-curon-model-seobiseuhagi)
+  * [TensorFlow.Data 및 TensorFlow Hub](https://www.slideshare.net/inureyes/tensorflowdata-tensorflow-hub)
+  * [Recurrent Neural Network and its Application](https://www.slideshare.net/samchoi7/rnnerica)
+  * [Introduction to GAN](https://www.slideshare.net/JiminLee36/introduction-to-gan)
+  * [소프트웨어 2.0을 활용한 게임 어뷰징 검출](https://www.slideshare.net/ssuser163469/20-95081863)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -1081,6 +1086,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Gradient Descent[경사하강법]](https://blog.naver.com/PostView.nhn?blogId=anthouse28&logNo=221210836545)
 * [Multi-Class Text Classification with Scikit-Learn](https://towardsdatascience.com/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f)
 * [Multi-Class Text Classification with PySpark](https://towardsdatascience.com/multi-class-text-classification-with-pyspark-7d78d022ed35)
+* [Multi Label Text Classification with Scikit-Learn](https://towardsdatascience.com/multi-label-text-classification-with-scikit-learn-30714b7819c5)
 * [Common Design for Distributed Machine Learning](https://www.slideshare.net/JunyoungPark22/common-design-for-distributed-machine-learning)
 * [Machine Learning Workflow on Diabetes Data : Part 01](https://towardsdatascience.com/machine-learning-workflow-on-diabetes-data-part-01-573864fcc6b8)
 * [Machine Learning Workflow on Diabetes Data : Part 02](https://towardsdatascience.com/machine-learning-workflow-on-diabetes-data-part-02-11262b7f7a5c)
@@ -1104,6 +1110,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Bayesian Linear Regression in Python: Using Machine Learning to Predict Student Grades Part 2](https://towardsdatascience.com/bayesian-linear-regression-in-python-using-machine-learning-to-predict-student-grades-part-2-b72059a8ac7e)
 * [Visualizing data using t-SNE](https://www.slideshare.net/ssuser06e0c5/visualizing-data-using-tsne-73621033)
 * [Automatic feature extraction with t-SNE](https://medium.com/jungle-book/automatic-feature-extraction-with-t-sne-62826ce09268)
+* [How to Use Machine Learning to Predict the Quality of Wines](https://medium.freecodecamp.org/using-machine-learning-to-predict-the-quality-of-wines-9e2e13d7480d)
+* [구글 ML 엔진 - scikit-learn, XGBoost 지원](https://blog.naver.com/PostView.nhn?blogId=rpgcpstory&logNo=221261741565)
+* [Machine Learning - Ensemble, Bagging, Boosting](https://github.com/modulabs/DeepNLP/blob/master/Kaggle/Machine%20Learning%20Boosting_20180424.pdf)
+* [PCA using Python [scikit-learn]](https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60)
+* [Use the built-in Amazon SageMaker Random Cut Forest algorithm for anomaly detection](https://aws.amazon.com/blogs/machine-learning/use-the-built-in-amazon-sagemaker-random-cut-forest-algorithm-for-anomaly-detection/)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1230,6 +1241,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Finding Bigfoot with Dash, Part 1](https://timothyrenner.github.io/datascience/2017/08/08/finding-bigfoot-with-dash-part-1.html)
 * [Finding Bigfoot with Dash, Part 2](https://timothyrenner.github.io/datascience/2017/08/09/finding-bigfoot-with-dash-part-2.html)
 * [Finding Bigfoot with Dash, Part 3](https://timothyrenner.github.io/datascience/2017/08/10/finding-bigfoot-with-dash-part-3.html)
+* [How to Use Data Science to Understand What Makes Wine Taste Good](https://medium.freecodecamp.org/using-data-science-to-understand-what-makes-wine-taste-good-669b496c67ee)
+* [푸른생선의 신바람 금융바다 - 통계, Time Series 데이터 분석](https://blog.naver.com/PostList.nhn?blogId=bluefish850&categoryNo=17)
+* [Visualize Your Data with Google Data Studio](https://towardsdatascience.com/visualize-your-data-with-google-data-studio-609c38247905)
+* [How to Use Statistics to Identify Outliers in Data](https://machinelearningmastery.com/how-to-use-statistics-to-identify-outliers-in-data/)
+* [파이썬 데이터 분석 3종세트](https://www.slideshare.net/itproman35/3-65232120)
+* [ARIMA, Python으로 하는 시계열분석 [feat. 비트코인 가격예측]](https://byeongkijeong.github.io/ARIMA-with-Python/)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
