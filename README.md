@@ -78,6 +78,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Edwith - 머신러닝을 위한 Python](http://www.edwith.org/aipython)
   * [Edwith - Bayesian Deep Learning](http://www.edwith.org/bayesiandeeplearning)
   * [딥러닝 퀵스타트 : 파이토치편](https://github.com/hanbitmedia/PyTorch-Hanbit)
+  * [Open Machine Learning Course](https://medium.com/open-machine-learning-course)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -601,6 +602,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [A Beginner's Guide to Object Detection](https://www.datacamp.com/community/tutorials/object-detection-guide)
   * [Visualizing Artificial Neural Networks [ANNs] with just One Line of Code](https://towardsdatascience.com/visualizing-artificial-neural-networks-anns-with-just-one-line-of-code-b4233607209e)
   * [First time with Kaggle: A ConvNet to classify toxic comments with Keras](https://medium.com/@srjoglekar246/first-time-with-kaggle-a-convnet-to-classify-toxic-comments-with-keras-ef84b6d18328)
+  * [Stock Market Predictions with LSTM in Python](https://www.datacamp.com/community/tutorials/lstm-python-stock-market)
+  * [Introduction to Deep Learning with Keras](https://heartbeat.fritz.ai/introduction-to-deep-learning-with-keras-c7c3d14e1527)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -944,6 +947,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [My Journey to Reinforcement Learning — Part 1.5: Simple Binary Image Transformation with Q-Learning](https://towardsdatascience.com/my-journey-to-reinforcement-learning-part-1-5-57f334189655)
 * [Multi-armed Bandits](https://www.slideshare.net/DongMinLee32/multiarmed-bandits)
 * [An introduction to Reinforcement Learning](https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419)
+* [reinforcement_learning_an_introduction](https://github.com/Curt-Park/reinforcement_learning_an_introduction/blob/master/README.md)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -1115,6 +1119,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Machine Learning - Ensemble, Bagging, Boosting](https://github.com/modulabs/DeepNLP/blob/master/Kaggle/Machine%20Learning%20Boosting_20180424.pdf)
 * [PCA using Python [scikit-learn]](https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60)
 * [Use the built-in Amazon SageMaker Random Cut Forest algorithm for anomaly detection](https://aws.amazon.com/blogs/machine-learning/use-the-built-in-amazon-sagemaker-random-cut-forest-algorithm-for-anomaly-detection/)
+* [Using Word2Vec for Better Embeddings of Categorical Features](https://towardsdatascience.com/using-word2vec-for-better-embeddings-of-categorical-features-de75020e1233)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1247,6 +1252,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [How to Use Statistics to Identify Outliers in Data](https://machinelearningmastery.com/how-to-use-statistics-to-identify-outliers-in-data/)
 * [파이썬 데이터 분석 3종세트](https://www.slideshare.net/itproman35/3-65232120)
 * [ARIMA, Python으로 하는 시계열분석 [feat. 비트코인 가격예측]](https://byeongkijeong.github.io/ARIMA-with-Python/)
+* [A comprehensive beginner’s guide to create a Time Series Forecast [with Codes in Python]](https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/)
+* [Time Series Visualization and Forecasting](https://www.digitalocean.com/community/tutorial_series/time-series-visualization-and-forecasting/)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -1464,6 +1471,13 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [SGD vs. ALS on solving BiasedMF[SVD]](https://ita9naiwa.github.io/recommender%20systems/2017/11/25/SGD-versus-ALS.html)
 * [Recurrent Neural Networks for Session-based Recommendations - Alexandros Karatzoglou](https://www.youtube.com/watch?v=M7FqgXySKYk)
 * [Deep Autoencoders For Collaborative Filtering](https://towardsdatascience.com/deep-autoencoders-for-collaborative-filtering-6cf8d25bbf1d)
+* [Multi-armed bandits for dynamic movie recommendations](https://blog.insightdatascience.com/multi-armed-bandits-for-dynamic-movie-recommendations-5eb8f325ed1d)
+* [The 4 Recommendation Engines That Can Predict Your Movie Tastes](https://towardsdatascience.com/the-4-recommendation-engines-that-can-predict-your-movie-tastes-109dc4e10c52)
+* [Fundamentals of Data Visualization](http://serialmentor.com/dataviz/)
+* [Understanding Feature Engineering [Part 1] — Continuous Numeric Data](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b)
+* [Understanding Feature Engineering [Part 2] — Categorical Data](https://towardsdatascience.com/understanding-feature-engineering-part-2-categorical-data-f54324193e63)
+* [Understanding Feature Engineering [Part 3] — Traditional Methods for Text Data](https://towardsdatascience.com/understanding-feature-engineering-part-3-traditional-methods-for-text-data-f6f7d70acd41)
+* [Understanding Feature Engineering [Part 4] — Deep Learning Methods for Text Data](https://towardsdatascience.com/understanding-feature-engineering-part-4-deep-learning-methods-for-text-data-96c44370bbfa)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
