@@ -1254,6 +1254,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [ARIMA, Python으로 하는 시계열분석 [feat. 비트코인 가격예측]](https://byeongkijeong.github.io/ARIMA-with-Python/)
 * [A comprehensive beginner’s guide to create a Time Series Forecast [with Codes in Python]](https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/)
 * [Time Series Visualization and Forecasting](https://www.digitalocean.com/community/tutorial_series/time-series-visualization-and-forecasting/)
+* [Fundamentals of Data Visualization](http://serialmentor.com/dataviz/)
+* [Understanding Feature Engineering [Part 1] — Continuous Numeric Data](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b)
+* [Understanding Feature Engineering [Part 2] — Categorical Data](https://towardsdatascience.com/understanding-feature-engineering-part-2-categorical-data-f54324193e63)
+* [Understanding Feature Engineering [Part 3] — Traditional Methods for Text Data](https://towardsdatascience.com/understanding-feature-engineering-part-3-traditional-methods-for-text-data-f6f7d70acd41)
+* [Understanding Feature Engineering [Part 4] — Deep Learning Methods for Text Data](https://towardsdatascience.com/understanding-feature-engineering-part-4-deep-learning-methods-for-text-data-96c44370bbfa)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -1473,11 +1478,6 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Deep Autoencoders For Collaborative Filtering](https://towardsdatascience.com/deep-autoencoders-for-collaborative-filtering-6cf8d25bbf1d)
 * [Multi-armed bandits for dynamic movie recommendations](https://blog.insightdatascience.com/multi-armed-bandits-for-dynamic-movie-recommendations-5eb8f325ed1d)
 * [The 4 Recommendation Engines That Can Predict Your Movie Tastes](https://towardsdatascience.com/the-4-recommendation-engines-that-can-predict-your-movie-tastes-109dc4e10c52)
-* [Fundamentals of Data Visualization](http://serialmentor.com/dataviz/)
-* [Understanding Feature Engineering [Part 1] — Continuous Numeric Data](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b)
-* [Understanding Feature Engineering [Part 2] — Categorical Data](https://towardsdatascience.com/understanding-feature-engineering-part-2-categorical-data-f54324193e63)
-* [Understanding Feature Engineering [Part 3] — Traditional Methods for Text Data](https://towardsdatascience.com/understanding-feature-engineering-part-3-traditional-methods-for-text-data-f6f7d70acd41)
-* [Understanding Feature Engineering [Part 4] — Deep Learning Methods for Text Data](https://towardsdatascience.com/understanding-feature-engineering-part-4-deep-learning-methods-for-text-data-96c44370bbfa)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
