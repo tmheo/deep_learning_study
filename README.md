@@ -1114,12 +1114,13 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Bayesian Linear Regression in Python: Using Machine Learning to Predict Student Grades Part 2](https://towardsdatascience.com/bayesian-linear-regression-in-python-using-machine-learning-to-predict-student-grades-part-2-b72059a8ac7e)
 * [Visualizing data using t-SNE](https://www.slideshare.net/ssuser06e0c5/visualizing-data-using-tsne-73621033)
 * [Automatic feature extraction with t-SNE](https://medium.com/jungle-book/automatic-feature-extraction-with-t-sne-62826ce09268)
-* [How to Use Machine Learning to Predict the Quality of Wines](https://medium.freecodecamp.org/using-machine-learning-to-predict-the-quality-of-wines-9e2e13d7480d)
+* [How to Use Machine Learning to Predict the Quality of Wines](https://medium.freecodecamp.org/using-machine-learning-to-predict-the-quality-of-wines-9e2e13d7480d) : [[Code]](https://github.com/booleanhunter/ML-supervised-learning/tree/master/game-of-wines)
 * [구글 ML 엔진 - scikit-learn, XGBoost 지원](https://blog.naver.com/PostView.nhn?blogId=rpgcpstory&logNo=221261741565)
 * [Machine Learning - Ensemble, Bagging, Boosting](https://github.com/modulabs/DeepNLP/blob/master/Kaggle/Machine%20Learning%20Boosting_20180424.pdf)
 * [PCA using Python [scikit-learn]](https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60)
 * [Use the built-in Amazon SageMaker Random Cut Forest algorithm for anomaly detection](https://aws.amazon.com/blogs/machine-learning/use-the-built-in-amazon-sagemaker-random-cut-forest-algorithm-for-anomaly-detection/)
 * [Using Word2Vec for Better Embeddings of Categorical Features](https://towardsdatascience.com/using-word2vec-for-better-embeddings-of-categorical-features-de75020e1233)
+* [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1246,7 +1247,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Finding Bigfoot with Dash, Part 1](https://timothyrenner.github.io/datascience/2017/08/08/finding-bigfoot-with-dash-part-1.html)
 * [Finding Bigfoot with Dash, Part 2](https://timothyrenner.github.io/datascience/2017/08/09/finding-bigfoot-with-dash-part-2.html)
 * [Finding Bigfoot with Dash, Part 3](https://timothyrenner.github.io/datascience/2017/08/10/finding-bigfoot-with-dash-part-3.html)
-* [How to Use Data Science to Understand What Makes Wine Taste Good](https://medium.freecodecamp.org/using-data-science-to-understand-what-makes-wine-taste-good-669b496c67ee)
+* [How to Use Data Science to Understand What Makes Wine Taste Good](https://medium.freecodecamp.org/using-data-science-to-understand-what-makes-wine-taste-good-669b496c67ee) : [[Code]](https://github.com/booleanhunter/ML-supervised-learning/tree/master/game-of-wines)
 * [푸른생선의 신바람 금융바다 - 통계, Time Series 데이터 분석](https://blog.naver.com/PostList.nhn?blogId=bluefish850&categoryNo=17)
 * [Visualize Your Data with Google Data Studio](https://towardsdatascience.com/visualize-your-data-with-google-data-studio-609c38247905)
 * [How to Use Statistics to Identify Outliers in Data](https://machinelearningmastery.com/how-to-use-statistics-to-identify-outliers-in-data/)
