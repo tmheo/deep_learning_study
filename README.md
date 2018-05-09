@@ -102,6 +102,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [카카오 AI 매거진](https://brunch.co.kr/magazine/kakaoaireport)
   * [HillClimber.ai - a curated machine learning mashup](http://www.hillclimber.ai/)
   * [MyBridge - Machine Learning Top 10 Articles For the Past Month](https://medium.mybridge.co/tagged/machine-learning)
+  * [Datascience+ - An online community for showcasing R & Python tutorials](https://datascienceplus.com/)
 * Article
   * [Andrej Karpathy's Deep Learning Blog](http://karpathy.github.io/)
   * [머신러닝 딥러닝 입문 시 도움 되는 강좌](https://www.facebook.com/groups/TensorFlowKR/permalink/485458151795248/)
@@ -948,6 +949,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Multi-armed Bandits](https://www.slideshare.net/DongMinLee32/multiarmed-bandits)
 * [An introduction to Reinforcement Learning](https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419)
 * [reinforcement_learning_an_introduction](https://github.com/Curt-Park/reinforcement_learning_an_introduction/blob/master/README.md)
+* [Hallucinogenic Deep Reinforcement Learning Using Python and Keras](https://medium.com/applied-data-science/how-to-build-your-own-world-model-using-python-and-keras-64fb388ba459)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -1060,9 +1062,6 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [정보 이론: Information Theory 1편](https://brunch.co.kr/@chris-song/68)
 * [정보 이론 2편: KL-Divergence](https://brunch.co.kr/@chris-song/69)
 * [Who will survive the shipwreck?! - Kaggle Titanic](https://zlatankr.github.io/posts/2017/01/30/kaggle-titanic)
-* Understanding Feature Engineering
-  * [Part 1 — Continuous Numeric Data](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b)
-  * [Part 2 — Categorical Data](https://towardsdatascience.com/understanding-feature-engineering-part-2-categorical-data-f54324193e63)
 * [Stacked Regressions : Top 4% on LeaderBoard - Kaggle House Prices](https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard)
 * [Using Yelp Data to Predict Restaurant Closure](https://towardsdatascience.com/using-yelp-data-to-predict-restaurant-closure-8aafa4f72ad6)
 * [Random Forest in Python](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0)
@@ -1260,6 +1259,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Understanding Feature Engineering [Part 2] — Categorical Data](https://towardsdatascience.com/understanding-feature-engineering-part-2-categorical-data-f54324193e63)
 * [Understanding Feature Engineering [Part 3] — Traditional Methods for Text Data](https://towardsdatascience.com/understanding-feature-engineering-part-3-traditional-methods-for-text-data-f6f7d70acd41)
 * [Understanding Feature Engineering [Part 4] — Deep Learning Methods for Text Data](https://towardsdatascience.com/understanding-feature-engineering-part-4-deep-learning-methods-for-text-data-96c44370bbfa)
+* [통계적 사고 워크샵](http://statkclee.github.io/think-stat/)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
