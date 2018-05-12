@@ -605,6 +605,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [First time with Kaggle: A ConvNet to classify toxic comments with Keras](https://medium.com/@srjoglekar246/first-time-with-kaggle-a-convnet-to-classify-toxic-comments-with-keras-ef84b6d18328)
   * [Stock Market Predictions with LSTM in Python](https://www.datacamp.com/community/tutorials/lstm-python-stock-market)
   * [Introduction to Deep Learning with Keras](https://heartbeat.fritz.ai/introduction-to-deep-learning-with-keras-c7c3d14e1527)
+  * [Real-time Human Pose Estimation in the Browser with TensorFlow.js](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)
+  * [Naver Tech Talk: 오토인코더의 모든 것 [2017년 11월]](https://d2.naver.com/news/0956269)
+  * [Learning Entity Embeddings in one breath](https://medium.com/@apiltamang/learning-entity-embeddings-in-one-breath-b35da807b596)
+  * [Neural Style Transfer 따라하기](https://www.popit.kr/neural-style-transfer-%EB%94%B0%EB%9D%BC%ED%95%98%EA%B8%B0/)
+  * [Demystifying Generative Adversarial Nets [GANs]](https://www.datacamp.com/community/tutorials/generative-adversarial-networks)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1120,6 +1125,17 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Use the built-in Amazon SageMaker Random Cut Forest algorithm for anomaly detection](https://aws.amazon.com/blogs/machine-learning/use-the-built-in-amazon-sagemaker-random-cut-forest-algorithm-for-anomaly-detection/)
 * [Using Word2Vec for Better Embeddings of Categorical Features](https://towardsdatascience.com/using-word2vec-for-better-embeddings-of-categorical-features-de75020e1233)
 * [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+* [Facebook’s Field Guide to Machine Learning video series](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
+* [Dimensionality Reduction in Machine Learning by stacking PCA and t-SNE](https://towardsdatascience.com/dimensionality-reduction-by-stacking-pca-and-t-sne-420d9fcfab54)
+* [Python Machine Learning: Scikit-Learn Tutorial](https://www.datacamp.com/community/tutorials/machine-learning-python)
+* [Running KMeans clustering on Spark](https://rsandstroem.github.io/sparkkmeans.html)
+* [Using K-Means to analyse hacking attacks](https://medium.com/tensorist/using-k-means-to-analyse-hacking-attacks-81957c492c93)
+* [K-Means Clustering in Python](https://mubaris.com/2017/10/01/kmeans-clustering-in-python/)
+* [Introduction to K-means Clustering](https://www.datascience.com/blog/k-means-clustering)
+* [Clustering with Sklearn](http://marcharper.codes/2016-07-11/Clustering+with+Scikit-Learn.html)
+* [Python K-Means Data Clustering and finding of the best K](https://learn.scientificprogramming.io/python-k-means-data-clustering-and-finding-of-the-best-k-485f66297c06)
+* [ELI5: ROC Curve, AUC metrics](https://medium.com/@andygon/eli5-roc-curve-auc-metrics-ac4fe482f018)
+* [Generate Quick and Accurate Time Series Forecasts using Facebook’s Prophet [with Python & R codes]](https://www.analyticsvidhya.com/blog/2018/05/generate-accurate-forecasts-facebook-prophet-python-r/)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1260,6 +1276,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Understanding Feature Engineering [Part 3] — Traditional Methods for Text Data](https://towardsdatascience.com/understanding-feature-engineering-part-3-traditional-methods-for-text-data-f6f7d70acd41)
 * [Understanding Feature Engineering [Part 4] — Deep Learning Methods for Text Data](https://towardsdatascience.com/understanding-feature-engineering-part-4-deep-learning-methods-for-text-data-96c44370bbfa)
 * [통계적 사고 워크샵](http://statkclee.github.io/think-stat/)
+* [Python For Data Science Training](https://www.youtube.com/playlist?list=PLZ7s-Z1aAtmIbaEj_PtUqkqdmI1k7libK)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
