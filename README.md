@@ -592,6 +592,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [[Keras] 케라스로 풀어보는 다변수 입력에 대한 선형회귀 예제 - 나이, 체중에 대한 혈액지방함량 문제 -](http://pinkwink.kr/1118)
   * [파이썬 손코딩으로 하는 딥러닝 - MNIST](https://scalalang2.github.io/posts/deeplearning-back-propagation-with-python/)
   * [Deep Learning With Apache Spark — Part 1](https://towardsdatascience.com/deep-learning-with-apache-spark-part-1-6d397c16abd)
+  * [Deep Learning With Apache Spark — Part 2](https://towardsdatascience.com/deep-learning-with-apache-spark-part-2-2a2938a36d35)
   * [Automated front-end development using deep learning](https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82)
   * [Building a simple Keras + deep learning REST API](https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html)
   * [A 60-minute Gluon Crash Course](http://gluon-crash-course.mxnet.io/)
@@ -1018,7 +1019,6 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Dimensionality Reduction Using t-SNE](https://www.displayr.com/using-t-sne-to-visualize-data-before-prediction/)
 * [In Raw Numpy: t-SNE](https://nlml.github.io/in-raw-numpy/in-raw-numpy-t-sne/)
 * [Interpreting Decision Trees and Random Forests](http://engineering.pivotal.io/post/interpreting-decision-trees-and-random-forests/)
-* [Data Science Simplified Part 10: An Introduction to Classification Models](https://medium.com/towards-data-science/data-science-simplified-part-10-an-introduction-to-classification-models-82490f6c171f)
 * [쉽게 씌어진 word2vec](https://dreamgonfly.github.io/machine/learning,/natural/language/processing/2017/08/16/word2vec_explained.html)
 * [A Gentle Introduction on Market Basket Analysis — Association Rules](https://medium.com/towards-data-science/a-gentle-introduction-on-market-basket-analysis-association-rules-fa4b986a40ce)
 * [Kaggle Zero To All](https://github.com/hunkim/KaggleZeroToAll)
@@ -1136,6 +1136,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Python K-Means Data Clustering and finding of the best K](https://learn.scientificprogramming.io/python-k-means-data-clustering-and-finding-of-the-best-k-485f66297c06)
 * [ELI5: ROC Curve, AUC metrics](https://medium.com/@andygon/eli5-roc-curve-auc-metrics-ac4fe482f018)
 * [Generate Quick and Accurate Time Series Forecasts using Facebook’s Prophet [with Python & R codes]](https://www.analyticsvidhya.com/blog/2018/05/generate-accurate-forecasts-facebook-prophet-python-r/)
+* [Let’s learn about AUC ROC Curve!](https://medium.com/greyatom/lets-learn-about-auc-roc-curve-4a94b4d88152)
+* [Bias-Variance Tradeoff](https://jkeun.github.io/2018-05-03/bias-variance-tradeoff/)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1277,6 +1279,18 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Understanding Feature Engineering [Part 4] — Deep Learning Methods for Text Data](https://towardsdatascience.com/understanding-feature-engineering-part-4-deep-learning-methods-for-text-data-96c44370bbfa)
 * [통계적 사고 워크샵](http://statkclee.github.io/think-stat/)
 * [Python For Data Science Training](https://www.youtube.com/playlist?list=PLZ7s-Z1aAtmIbaEj_PtUqkqdmI1k7libK)
+* [Data Science Simplified Part 1: Principles and Process](https://becominghuman.ai/data-science-simplified-principles-and-process-b06304d63308)
+* [Data Science Simplified Part 2: Key Concepts of Statistical Learning](https://towardsdatascience.com/data-science-simplified-key-concepts-of-statistical-learning-45648049709e)
+* [Data Science Simplified Part 3: Hypothesis Testing](https://towardsdatascience.com/data-science-simplified-hypothesis-testing-56e180ef2f71)
+* [Data Science Simplified Part 4: Simple Linear Regression Models](https://towardsdatascience.com/data-science-simplified-simple-linear-regression-models-3a97811a6a3d)
+* [Data Science Simplified Part 5: Multivariate Regression Models](https://towardsdatascience.com/data-science-simplified-part-5-multivariate-regression-models-7684b0489015)
+* [Data Science Simplified Part 6: Model Selection Methods](https://towardsdatascience.com/data-science-simplified-part-6-model-selection-methods-2511cbdf7cb0)
+* [Data Science Simplified Part 7: Log-Log Regression Models](https://towardsdatascience.com/data-science-simplified-part-7-log-log-regression-models-499ecd1495f0)
+* [Data Science Simplified Part 8: Qualitative Variables in Regression Models](https://towardsdatascience.com/data-science-simplified-part-8-qualitative-variables-in-regression-models-d1817d56245c)
+* [Data Science Simplified Part 9: Interactions and Limitations of Regression Models](https://towardsdatascience.com/data-science-simplified-part-9-interactions-and-limitations-of-regression-models-4702dff03820)
+* [Data Science Simplified Part 10: An Introduction to Classification Models](https://towardsdatascience.com/data-science-simplified-part-10-an-introduction-to-classification-models-82490f6c171f)
+* [Data Science Simplified Part 11: Logistic Regression](https://towardsdatascience.com/data-science-simplified-part-11-logistic-regression-5ae8d994bf0e)
+* [Tidying Datasets in Python](https://medium.com/@aaronmak/tidying-datasets-in-python-8634f39159bc)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
