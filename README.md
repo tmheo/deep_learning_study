@@ -21,7 +21,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [T81-558:Applications of Deep Neural Networks](https://sites.wustl.edu/jeffheaton/t81-558/)
   * [MILA - DEEP LEARNING AND REINFORCEMENT LEARNING SUMMER SCHOOL 2017](https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/slides/) : [[Video]](http://videolectures.net/deeplearning2017_montreal/)
   * [CS 598 LAZ: Cutting-Edge Trends in Deep Learning and Recognition](http://slazebni.cs.illinois.edu/spring17/)
-  * KAIST Machine Learning Lecture
+  * [KAIST Machine Learning Lecture](http://seslab.kaist.ac.kr/xe2/page_GBex27)
     * [[기계학습, 인공지능, 머신러닝] 한국어 기계 학습 강좌](https://www.youtube.com/playlist?list=PLbhbGI_ppZISMV4tAWHlytBqNq1-lb8bz)
     * [[기계학습, 인공지능, 머신러닝] 한국어 기계 학습 강좌 심화 1](https://www.youtube.com/playlist?list=PLbhbGI_ppZIRPeAjprW9u9A46IJlGFdLn)
   * [Udacity - Deep Learning by Google](https://www.udacity.com/course/deep-learning--ud730)
@@ -962,7 +962,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Natural Language Processing using Word2Vec](http://malaikannan.io//2017/01/22/Natural-Language-Processing-using-Vectoriziation/)
 * [6 Fun Machine Learning Projects for Beginners](https://elitedatascience.com/machine-learning-projects-for-beginners)
 * [50+ Data Science, Machine Learning Cheat Sheets, updated](http://www.kdnuggets.com/2016/12/data-science-machine-learning-cheat-sheets-updated.html)
-* [Prophet: forecasting at scale - Time Series Data Analysis](https://research.fb.com/prophet-forecasting-at-scale/﻿)
+* [Prophet: forecasting at scale - Time Series Data Analysis](https://research.fb.com/prophet-forecasting-at-scale)
 * [Paper Reading : Enriching word vectors with subword information(2016)](https://www.slideshare.net/JungHoonSeo2/paper-reading-enriching-word-vectors-with-subword-information2016)
 * [머신러닝, 제대로 배우는 법](https://brunch.co.kr/@aidenswmo/2)
 * [Predicting Breast Cancer Using Apache Spark Machine Learning Logistic Regression](https://www.javacodegeeks.com/2016/10/predicting-breast-cancer-using-apache-spark-machine-learning-logistic-regression.html)
