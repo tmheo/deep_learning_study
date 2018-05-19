@@ -614,6 +614,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [[번역글] Image Segmentation에 대한 짧은 이야기: R-CNN 에서 부터 Mask R-CNN 까지](https://junn.in/archives/2517)
   * [이미지 Detection 문제와 딥러닝: YOLOv2로 얼굴인식하기](http://research.sualab.com/machine-learning/computer-vision/2018/05/14/image-detection-deep-learning.html)
   * [Keras와 HDF5으로 대용량 데이터 학습하기](http://nuxlear.tistory.com/4)
+  * [MXBoard — MXNet Data Visualization](https://medium.com/apache-mxnet/mxboard-mxnet-data-visualization-2eed6ae31d2c)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
