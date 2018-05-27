@@ -1325,6 +1325,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Tidying Datasets in Python](https://medium.com/@aaronmak/tidying-datasets-in-python-8634f39159bc)
 * [Overview of Dash Python Framework from Plotly for building dashboards](https://appsilondatascience.com/blog/rstats/2018/05/08/dash.html)
 * [Handling Categorical Data in Python](https://www.datacamp.com/community/tutorials/categorical-data)
+* [Learn More About Pandas By Building and Using a Weighted Average Function](http://pbpython.com/weighted-average.html)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
