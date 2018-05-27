@@ -615,6 +615,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [이미지 Detection 문제와 딥러닝: YOLOv2로 얼굴인식하기](http://research.sualab.com/machine-learning/computer-vision/2018/05/14/image-detection-deep-learning.html)
   * [Keras와 HDF5으로 대용량 데이터 학습하기](http://nuxlear.tistory.com/4)
   * [MXBoard — MXNet Data Visualization](https://medium.com/apache-mxnet/mxboard-mxnet-data-visualization-2eed6ae31d2c)
+  * [MXNet - Keras gets a lightning fast backend!](https://medium.com/apache-mxnet/keras-gets-a-speedy-new-backend-with-keras-mxnet-3a853efc1d75)
+  * [Sentiment Analysis on movie reviews using CNN-LSTM architecture](https://medium.com/@vivanraaj/sentiment-analysis-on-movie-reviews-using-cnn-lstm-architecture-81c6305d4605)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -871,6 +873,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Kubeflow - Machine Learning Toolkit for Kubernetes](https://github.com/google/kubeflow)
   * [Darkon: Toolkit to Hack Your Deep Learning Models](http://darkon.io/)
   * [Detectron - FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet](https://github.com/facebookresearch/Detectron)
+  * [Visual Search with MXNet Gluon](https://thomasdelteil.github.io/VisualSearch_MXNet/)
 * Dataset
   * [Fueling the Gold Rush: The Greatest Public Datasets for AI](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2)
   * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
@@ -1163,6 +1166,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [A Complete Machine Learning Walk-Through in Python: Part Three](https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-three-388834e8804b)
 * [Time Series - Machine Learning Mastery](https://machinelearningmastery.com/category/time-series/)
 * [Comprehensive Guide to Time Series Analytics, Visualization and Prediction with Python](http://dacatay.com/data-science/comprehensive-guide-time-series-analytics-visualization-prediction-python/)
+* [Koshort - 한국어 NLP를 위한 high-level API 프로젝트](https://koshort.github.io/)
+* [The Logistic Regression Algorithm](https://towardsdatascience.com/the-logistic-regression-algorithm-75fe48e21cfa)
+* [Apache Spark and Amazon SageMaker, the Infinity Gems of analytics](https://medium.com/@julsimon/apache-spark-and-amazon-sagemaker-the-infinity-gems-of-analytics-8bd780b07243)
+* [Using Chalice to serve SageMaker predictions](https://medium.com/@julsimon/using-chalice-to-serve-sagemaker-predictions-a2015c02b033)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1317,6 +1324,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Data Science Simplified Part 11: Logistic Regression](https://towardsdatascience.com/data-science-simplified-part-11-logistic-regression-5ae8d994bf0e)
 * [Tidying Datasets in Python](https://medium.com/@aaronmak/tidying-datasets-in-python-8634f39159bc)
 * [Overview of Dash Python Framework from Plotly for building dashboards](https://appsilondatascience.com/blog/rstats/2018/05/08/dash.html)
+* [Handling Categorical Data in Python](https://www.datacamp.com/community/tutorials/categorical-data)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
