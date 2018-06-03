@@ -971,6 +971,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Hallucinogenic Deep Reinforcement Learning Using Python and Keras](https://medium.com/applied-data-science/how-to-build-your-own-world-model-using-python-and-keras-64fb388ba459)
 * [How I built an AI to play Dino Run](https://medium.com/acing-ai/how-i-build-an-ai-to-play-dino-run-e37f37bdf153)
 * [Build an AI to play Dino Run](https://blog.paperspace.com/dino-run/)
+* [RL Basics: 1. Markov Process](https://brunch.co.kr/@chris-song/77)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
