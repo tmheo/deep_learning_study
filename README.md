@@ -9,7 +9,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
     * [해커에게 전해들은 머신러닝](https://tensorflow.blog/2016/10/31/%ED%95%B4%EC%BB%A4%EC%97%90%EA%B2%8C-%EC%A0%84%ED%95%B4%EB%93%A4%EC%9D%80-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/) : [[Slide]](https://tensorflow.blog/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C-%EC%9E%90%EB%A3%8C/)
     * [딥 러닝을 위한 콘볼루션 계산 가이드](https://tensorflow.blog/a-guide-to-convolution-arithmetic-for-deep-learning/)
   * [Andrew Ng's Coursera Machine Learning](https://www.coursera.org/learn/machine-learning)
-  * [Stanford - CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) : [[Video]](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv), [[Korean]](http://aikorea.org/cs231n/), [[Video - Korean]](https://www.youtube.com/playlist?list=PL1Kb3QTCLIVtyOuMgyVgT-OeW0PYXl3j5)
+  * [Stanford - CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) : [[Video]](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv), [[Korean]](http://aikorea.org/cs231n/), [[Video - Korean]](https://www.youtube.com/playlist?list=PL1Kb3QTCLIVtyOuMgyVgT-OeW0PYXl3j5), [[Korean - KNU]](https://github.com/insurgent92/CS231N_17_KOR_SUB)
   * [Stanford - CS224n: Deep Learning for Natural Language Processing](http://web.stanford.edu/class/cs224n/) : [[Video]](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
   * [Stanford - Unsupervised Feature Learning and Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
   * [Stanford - Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/)
@@ -71,6 +71,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Kaggle - Hands-On Data Science Education](https://www.kaggle.com/learn/overview)
   * [Google - SuperComputing 2017 Deep Learning Tutorial](https://github.com/google-aai/sc17)
   * [Google - Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/)
+  * [Google - Machine Learning Practica](https://developers.google.com/machine-learning/practica/)
   * [Lecture Slides for Deeplearning book](https://github.com/InfolabAI/DeepLearning)
   * [Microsoft Professional Program for Data Science track](https://academy.microsoft.com/en-us/tracks/data-science/)
   * [Microsoft Professional Program for Artificial Intelligence track](https://academy.microsoft.com/en-us/tracks/artificial-intelligence/)
@@ -103,6 +104,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [HillClimber.ai - a curated machine learning mashup](http://www.hillclimber.ai/)
   * [MyBridge - Machine Learning Top 10 Articles For the Past Month](https://medium.mybridge.co/tagged/machine-learning)
   * [Datascience+ - An online community for showcasing R & Python tutorials](https://datascienceplus.com/)
+  * [Data School - Launch a data science career!](http://www.dataschool.io/)
 * Article
   * [Andrej Karpathy's Deep Learning Blog](http://karpathy.github.io/)
   * [머신러닝 딥러닝 입문 시 도움 되는 강좌](https://www.facebook.com/groups/TensorFlowKR/permalink/485458151795248/)
@@ -617,6 +619,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [MXBoard — MXNet Data Visualization](https://medium.com/apache-mxnet/mxboard-mxnet-data-visualization-2eed6ae31d2c)
   * [MXNet - Keras gets a lightning fast backend!](https://medium.com/apache-mxnet/keras-gets-a-speedy-new-backend-with-keras-mxnet-3a853efc1d75)
   * [Sentiment Analysis on movie reviews using CNN-LSTM architecture](https://medium.com/@vivanraaj/sentiment-analysis-on-movie-reviews-using-cnn-lstm-architecture-81c6305d4605)
+  * [Introducing Machine Learning Practica](https://www.blog.google/topics/machine-learning/introducing-machine-learning-practica/)
+  * [DIY Deep Learning Projects](https://towardsdatascience.com/diy-deep-learning-projects-c2e0fac3274f)
+  * [Credit Card Default Prediction Using TensorFlow [Part-1 Deep Neural Networks]](https://medium.com/@Saadism/credit-card-default-prediction-using-tensorflow-part-1-deep-neural-networks-ef22cfd4d278)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -837,6 +842,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [GAN in Numpy](https://github.com/shinseung428/gan_numpy)
   * [Deep Learning Study with Gluon](https://github.com/ski-net/dl_study_with_gluon)
   * [Deploy Keras Model with Flask as Web App in 10 Minutes](https://github.com/mtobeiyf/keras-flask-deploy-webapp)
+  * [Transfer Learning on CIFAR-10 using VGG19 in Tensorflow](https://github.com/deep-diver/CIFAR10-VGG19-Tensorflow)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -963,6 +969,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [An introduction to Reinforcement Learning](https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419)
 * [reinforcement_learning_an_introduction](https://github.com/Curt-Park/reinforcement_learning_an_introduction/blob/master/README.md)
 * [Hallucinogenic Deep Reinforcement Learning Using Python and Keras](https://medium.com/applied-data-science/how-to-build-your-own-world-model-using-python-and-keras-64fb388ba459)
+* [How I built an AI to play Dino Run](https://medium.com/acing-ai/how-i-build-an-ai-to-play-dino-run-e37f37bdf153)
+* [Build an AI to play Dino Run](https://blog.paperspace.com/dino-run/)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -1164,6 +1172,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [A Complete Machine Learning Project Walk-Through in Python: Part One](https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-one-c62152f39420)
 * [A Complete Machine Learning Walk-Through in Python: Part Two](https://towardsdatascience.com/a-complete-machine-learning-project-walk-through-in-python-part-two-300f1f8147e2)
 * [A Complete Machine Learning Walk-Through in Python: Part Three](https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-three-388834e8804b)
+* [Automated Machine Learning on the Cloud in Python](https://towardsdatascience.com/automated-machine-learning-on-the-cloud-in-python-47cf568859f)
+* [Machine Learning Kaggle Competition Part One: Getting Started](https://towardsdatascience.com/machine-learning-kaggle-competition-part-one-getting-started-32fb9ff47426)
+* [Automated Feature Engineering in Python](https://towardsdatascience.com/automated-feature-engineering-in-python-99baf11cc219)
 * [Time Series - Machine Learning Mastery](https://machinelearningmastery.com/category/time-series/)
 * [Comprehensive Guide to Time Series Analytics, Visualization and Prediction with Python](http://dacatay.com/data-science/comprehensive-guide-time-series-analytics-visualization-prediction-python/)
 * [푸른생선의 신바람 금융바다 - 통계, Time Series 데이터 분석](https://blog.naver.com/PostList.nhn?blogId=bluefish850&categoryNo=17)
@@ -1174,6 +1185,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [The Logistic Regression Algorithm](https://towardsdatascience.com/the-logistic-regression-algorithm-75fe48e21cfa)
 * [Apache Spark and Amazon SageMaker, the Infinity Gems of analytics](https://medium.com/@julsimon/apache-spark-and-amazon-sagemaker-the-infinity-gems-of-analytics-8bd780b07243)
 * [Using Chalice to serve SageMaker predictions](https://medium.com/@julsimon/using-chalice-to-serve-sagemaker-predictions-a2015c02b033)
+* [Trend, Seasonality, Moving Average, Auto Regressive Model : My Journey to Time Series Data with Interactive Code](https://towardsdatascience.com/trend-seasonality-moving-average-auto-regressive-model-my-journey-to-time-series-data-with-edc4c0c8284b)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1326,6 +1338,13 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Overview of Dash Python Framework from Plotly for building dashboards](https://appsilondatascience.com/blog/rstats/2018/05/08/dash.html)
 * [Handling Categorical Data in Python](https://www.datacamp.com/community/tutorials/categorical-data)
 * [Learn More About Pandas By Building and Using a Weighted Average Function](http://pbpython.com/weighted-average.html)
+* [Let’s talk about NumPy — for Data Science Beginners](https://towardsdatascience.com/lets-talk-about-numpy-for-datascience-beginners-b8088722309f)
+* [Quick dive into Pandas for Data Science](https://towardsdatascience.com/quick-dive-into-pandas-for-data-science-cc1c1a80d9c4)
+* [Introduction to Matplotlib — Data Visualization in Python](https://heartbeat.fritz.ai/introduction-to-matplotlib-data-visualization-in-python-d9143287ae39)
+* [The 10 Statistical Techniques Data Scientists Need to Master](https://towardsdatascience.com/the-10-statistical-techniques-data-scientists-need-to-master-1ef6dbd531f7)
+* [Statistics for people in a hurry](https://towardsdatascience.com/statistics-for-people-in-a-hurry-a9613c0ed0b)
+* [On Average, You’re Using the Wrong Average: Geometric & Harmonic Means in Data Analysis](https://towardsdatascience.com/on-average-youre-using-the-wrong-average-geometric-harmonic-means-in-data-analysis-2a703e21ea0)
+* [On Average, You’re Using the Wrong Average — Part II](https://towardsdatascience.com/on-average-youre-using-the-wrong-average-part-ii-b32fcb41527e)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -1549,6 +1568,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Metflix: How to recommend movies — Part 1](https://medium.com/all-things-ai/metflix-how-to-recommend-movies-part-1-98ae30127033)
 * [Metflix: How to recommend movies — Part 2](https://hackernoon.com/metflix-how-to-recommend-movies-part-2-54d2b6cfed13)
 * [Metflix: Because You Watched X](https://hackernoon.com/metflix-because-you-watched-x-26fe9bdfca7f)
+* [유튜브의 완벽한 피드](https://medium.com/@nottora2/youtube-feed-f0554e90f88d)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
