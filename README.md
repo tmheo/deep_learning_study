@@ -972,6 +972,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [How I built an AI to play Dino Run](https://medium.com/acing-ai/how-i-build-an-ai-to-play-dino-run-e37f37bdf153)
 * [Build an AI to play Dino Run](https://blog.paperspace.com/dino-run/)
 * [RL Basics: 1. Markov Process](https://brunch.co.kr/@chris-song/77)
+* [강화학습에 대한 기본적인 알고리즘 구현](https://github.com/jcwleo/Reinforcement_Learning)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
