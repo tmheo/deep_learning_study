@@ -622,6 +622,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Introducing Machine Learning Practica](https://www.blog.google/topics/machine-learning/introducing-machine-learning-practica/)
   * [DIY Deep Learning Projects](https://towardsdatascience.com/diy-deep-learning-projects-c2e0fac3274f)
   * [Credit Card Default Prediction Using TensorFlow [Part-1 Deep Neural Networks]](https://medium.com/@Saadism/credit-card-default-prediction-using-tensorflow-part-1-deep-neural-networks-ef22cfd4d278)
+  * [Relational Network Review](https://seujung.github.io/2018/05/29/rl_network/)
+  * [TensorBoard Tutorial](https://www.datacamp.com/community/tutorials/tensorboard-tutorial)
+  * [A curated list of MXNet examples, tutorials and blogs](https://github.com/chinakook/Awesome-MXNet)
+  * [TensorFlow Estimator & Dataset APIs](https://medium.com/@peter.roelants/tensorflow-estimator-dataset-apis-caeb71e6e196)
+  * [Realtime tSNE Visualizations with TensorFlow.js](https://ai.googleblog.com/2018/06/realtime-tsne-visualizations-with.html)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1188,6 +1193,14 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Apache Spark and Amazon SageMaker, the Infinity Gems of analytics](https://medium.com/@julsimon/apache-spark-and-amazon-sagemaker-the-infinity-gems-of-analytics-8bd780b07243)
 * [Using Chalice to serve SageMaker predictions](https://medium.com/@julsimon/using-chalice-to-serve-sagemaker-predictions-a2015c02b033)
 * [Trend, Seasonality, Moving Average, Auto Regressive Model : My Journey to Time Series Data with Interactive Code](https://towardsdatascience.com/trend-seasonality-moving-average-auto-regressive-model-my-journey-to-time-series-data-with-edc4c0c8284b)
+* [Building Trust in Machine Learning Models [using LIME in Python]](https://www.analyticsvidhya.com/blog/2017/06/building-trust-in-machine-learning-models/)
+* [Using categorical data in machine learning with python](https://blog.myyellowroad.com/using-categorical-data-in-machine-learning-with-python-from-dummy-variables-to-deep-category-66041f734512)
+* [Time Series Analysis for Financial Data I— Stationarity, Autocorrelation and White Noise](https://medium.com/auquan/time-series-analysis-for-financial-data-part-1-stationarity-autocorrelation-and-white-noise-1a1cc2fb23f2)
+* [Time Series Analysis for Financial Data II — Auto-Regressive Models](https://medium.com/auquan/time-series-analysis-ii-auto-regressive-models-d0cb1a8a7c43)
+* [Time Series Analysis for Financial Data III— Moving Average Models](https://medium.com/auquan/time-series-analysis-for-financial-data-iii-moving-average-models-cccf027f264e)
+* [Time Series Analysis for Financial Data IV— ARMA Models](https://medium.com/auquan/time-series-analysis-for-finance-arma-models-21695e14c999)
+* [Time Series Analysis for Financial Data V — ARIMA Models](https://medium.com/auquan/time-series-analysis-for-finance-arima-models-acb5e39999df)
+* [Time Series Analysis for Financial Data VI— GARCH model and predicting SPX returns](https://medium.com/auquan/time-series-analysis-for-finance-arch-garch-models-822f87f1d755)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1347,6 +1360,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Statistics for people in a hurry](https://towardsdatascience.com/statistics-for-people-in-a-hurry-a9613c0ed0b)
 * [On Average, You’re Using the Wrong Average: Geometric & Harmonic Means in Data Analysis](https://towardsdatascience.com/on-average-youre-using-the-wrong-average-geometric-harmonic-means-in-data-analysis-2a703e21ea0)
 * [On Average, You’re Using the Wrong Average — Part II](https://towardsdatascience.com/on-average-youre-using-the-wrong-average-part-ii-b32fcb41527e)
+* [Pandas and Tidy Data](http://shzhangji.com/blog/2017/09/30/pandas-and-tidy-data/index.html)
+* [깔끔한 데이터[Tidy data]](https://partrita.github.io/posts/tidy-data/)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -1571,6 +1586,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Metflix: How to recommend movies — Part 2](https://hackernoon.com/metflix-how-to-recommend-movies-part-2-54d2b6cfed13)
 * [Metflix: Because You Watched X](https://hackernoon.com/metflix-because-you-watched-x-26fe9bdfca7f)
 * [유튜브의 완벽한 피드](https://medium.com/@nottora2/youtube-feed-f0554e90f88d)
+* [Santander Recommendation Engine - How I made it to top 5% on Kaggle?](https://medium.com/@pds.bangalore/santander-recommendation-engine-scored-in-top-5-on-kaggle-3466339fcfed)
+* [페이스북에서 '싫어요'를 누를 수 없는 이유](https://ita9naiwa.github.io/recommender%20systems/2018/06/03/rating-set-distributions.html)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
