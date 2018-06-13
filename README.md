@@ -627,6 +627,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [A curated list of MXNet examples, tutorials and blogs](https://github.com/chinakook/Awesome-MXNet)
   * [TensorFlow Estimator & Dataset APIs](https://medium.com/@peter.roelants/tensorflow-estimator-dataset-apis-caeb71e6e196)
   * [Realtime tSNE Visualizations with TensorFlow.js](https://ai.googleblog.com/2018/06/realtime-tsne-visualizations-with.html)
+  * [Transfer Learning in Tensorflow [VGG19 on CIFAR-10]: Part 1](https://medium.com/@parkchansung/transfer-learning-in-tensorflow-9e4f7eae3bb4)
+  * [Transfer Learning in Tensorflow [VGG19 on CIFAR-10]: Part 2](https://medium.com/@parkchansung/transfer-learning-in-tensorflow-5d2b6ad495cb) : [[Code]](https://github.com/deep-diver/CIFAR10-VGG19-Tensorflow)
+  * [Sagify: Training and Deploying ML/DL models on AWS SageMaker made simple](https://medium.com/kenza-ai/training-and-deploying-ml-dl-models-on-aws-sagemaker-made-simple-e1132719838d)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -847,7 +850,6 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [GAN in Numpy](https://github.com/shinseung428/gan_numpy)
   * [Deep Learning Study with Gluon](https://github.com/ski-net/dl_study_with_gluon)
   * [Deploy Keras Model with Flask as Web App in 10 Minutes](https://github.com/mtobeiyf/keras-flask-deploy-webapp)
-  * [Transfer Learning on CIFAR-10 using VGG19 in Tensorflow](https://github.com/deep-diver/CIFAR10-VGG19-Tensorflow)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -1362,6 +1364,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [On Average, You’re Using the Wrong Average — Part II](https://towardsdatascience.com/on-average-youre-using-the-wrong-average-part-ii-b32fcb41527e)
 * [Pandas and Tidy Data](http://shzhangji.com/blog/2017/09/30/pandas-and-tidy-data/index.html)
 * [깔끔한 데이터[Tidy data]](https://partrita.github.io/posts/tidy-data/)
+* [FIFA World Cup 2018: A Data-Driven Approach to Ideal Team Line-Ups](https://towardsdatascience.com/fifa-world-cup-2018-a-data-driven-approach-to-ideal-team-line-ups-93505cfe36f8)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -1588,6 +1591,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [유튜브의 완벽한 피드](https://medium.com/@nottora2/youtube-feed-f0554e90f88d)
 * [Santander Recommendation Engine - How I made it to top 5% on Kaggle?](https://medium.com/@pds.bangalore/santander-recommendation-engine-scored-in-top-5-on-kaggle-3466339fcfed)
 * [페이스북에서 '싫어요'를 누를 수 없는 이유](https://ita9naiwa.github.io/recommender%20systems/2018/06/03/rating-set-distributions.html)
+* [Recommender systems behind the scenes](https://medium.com/parrot-prediction/recommender-systems-behind-the-scenes-a39c831a0ae2)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
