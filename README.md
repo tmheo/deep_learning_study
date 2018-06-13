@@ -1203,6 +1203,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Time Series Analysis for Financial Data IV— ARMA Models](https://medium.com/auquan/time-series-analysis-for-finance-arma-models-21695e14c999)
 * [Time Series Analysis for Financial Data V — ARIMA Models](https://medium.com/auquan/time-series-analysis-for-finance-arima-models-acb5e39999df)
 * [Time Series Analysis for Financial Data VI— GARCH model and predicting SPX returns](https://medium.com/auquan/time-series-analysis-for-finance-arch-garch-models-822f87f1d755)
+* [Featuretools - An open source framework for automated feature engineering](https://www.featuretools.com/)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
