@@ -80,6 +80,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Edwith - Bayesian Deep Learning](http://www.edwith.org/bayesiandeeplearning)
   * [딥러닝 퀵스타트 : 파이토치편](https://github.com/hanbitmedia/PyTorch-Hanbit)
   * [Open Machine Learning Course](https://medium.com/open-machine-learning-course)
+  * [텐서플로 강의 - 이찬우님](https://www.youtube.com/playlist?list=PL1H8jIvbSo1piZJRnp9bIww8Fp2ddIpeR)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -105,6 +106,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [MyBridge - Machine Learning Top 10 Articles For the Past Month](https://medium.mybridge.co/tagged/machine-learning)
   * [Datascience+ - An online community for showcasing R & Python tutorials](https://datascienceplus.com/)
   * [Data School - Launch a data science career!](http://www.dataschool.io/)
+  * [Papers with Code](https://paperswithcode.com/)
+  * [explained.ai - Deep explanations of machine learning and related topics](http://explained.ai/)
 * Article
   * [Andrej Karpathy's Deep Learning Blog](http://karpathy.github.io/)
   * [머신러닝 딥러닝 입문 시 도움 되는 강좌](https://www.facebook.com/groups/TensorFlowKR/permalink/485458151795248/)
@@ -630,6 +633,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Transfer Learning in Tensorflow [VGG19 on CIFAR-10]: Part 1](https://medium.com/@parkchansung/transfer-learning-in-tensorflow-9e4f7eae3bb4)
   * [Transfer Learning in Tensorflow [VGG19 on CIFAR-10]: Part 2](https://medium.com/@parkchansung/transfer-learning-in-tensorflow-5d2b6ad495cb) : [[Code]](https://github.com/deep-diver/CIFAR10-VGG19-Tensorflow)
   * [Sagify: Training and Deploying ML/DL models on AWS SageMaker made simple](https://medium.com/kenza-ai/training-and-deploying-ml-dl-models-on-aws-sagemaker-made-simple-e1132719838d)
+  * [이미지 탐지기 쉽게 구현하기](https://medium.com/n42-corp/%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%83%90%EC%A7%80%EA%B8%B0-%EC%89%BD%EA%B2%8C-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-abd967638c8e)
+  * [Deploying deep learning models: Part 1 an overview](https://towardsdatascience.com/deploying-deep-learning-models-part-1-an-overview-77b4d01dd6f7)
+  * [How to EASILY put Machine Learning Models into Production using Tensorflow Serving](https://medium.com/@brianalois/how-to-easily-put-machine-learning-models-into-production-using-tensorflow-serving-91998fa4b4e1)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1147,7 +1153,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [PCA using Python [scikit-learn]](https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60)
 * [Use the built-in Amazon SageMaker Random Cut Forest algorithm for anomaly detection](https://aws.amazon.com/blogs/machine-learning/use-the-built-in-amazon-sagemaker-random-cut-forest-algorithm-for-anomaly-detection/)
 * [Using Word2Vec for Better Embeddings of Categorical Features](https://towardsdatascience.com/using-word2vec-for-better-embeddings-of-categorical-features-de75020e1233)
-* [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+* [A visual introduction to machine learning Part I](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+* [A visual introduction to machine learning Part II - Model Tuning and the Bias-Variance Tradeoff](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/)
 * [Facebook’s Field Guide to Machine Learning video series](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
 * [Dimensionality Reduction in Machine Learning by stacking PCA and t-SNE](https://towardsdatascience.com/dimensionality-reduction-by-stacking-pca-and-t-sne-420d9fcfab54)
 * [Python Machine Learning: Scikit-Learn Tutorial](https://www.datacamp.com/community/tutorials/machine-learning-python)
@@ -1183,7 +1190,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [A Complete Machine Learning Walk-Through in Python: Part Three](https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-three-388834e8804b)
 * [Automated Machine Learning on the Cloud in Python](https://towardsdatascience.com/automated-machine-learning-on-the-cloud-in-python-47cf568859f)
 * [Machine Learning Kaggle Competition Part One: Getting Started](https://towardsdatascience.com/machine-learning-kaggle-competition-part-one-getting-started-32fb9ff47426)
+* [Machine Learning Kaggle Competition Part Two: Improving](https://towardsdatascience.com/machine-learning-kaggle-competition-part-two-improving-e5b4d61ab4b8)
 * [Automated Feature Engineering in Python](https://towardsdatascience.com/automated-feature-engineering-in-python-99baf11cc219)
+* [A Feature Selection Tool for Machine Learning in Python](https://towardsdatascience.com/a-feature-selection-tool-for-machine-learning-in-python-b64dd23710f0)
 * [Time Series - Machine Learning Mastery](https://machinelearningmastery.com/category/time-series/)
 * [Comprehensive Guide to Time Series Analytics, Visualization and Prediction with Python](http://dacatay.com/data-science/comprehensive-guide-time-series-analytics-visualization-prediction-python/)
 * [푸른생선의 신바람 금융바다 - 통계, Time Series 데이터 분석](https://blog.naver.com/PostList.nhn?blogId=bluefish850&categoryNo=17)
@@ -1204,6 +1213,15 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Time Series Analysis for Financial Data V — ARIMA Models](https://medium.com/auquan/time-series-analysis-for-finance-arima-models-acb5e39999df)
 * [Time Series Analysis for Financial Data VI— GARCH model and predicting SPX returns](https://medium.com/auquan/time-series-analysis-for-finance-arch-garch-models-822f87f1d755)
 * [Featuretools - An open source framework for automated feature engineering](https://www.featuretools.com/)
+* [Manage your Machine Learning Lifecycle with MLflow — Part 1.](https://towardsdatascience.com/manage-your-machine-learning-lifecycle-with-mlflow-part-1-a7252c859f72)
+* [Kaggle Fundamentals: The Titanic Competition](https://www.dataquest.io/blog/kaggle-fundamentals/)
+* [Getting Started with Kaggle: House Prices Competition](https://www.dataquest.io/blog/kaggle-getting-started/)
+* [Machine Learning Fundamentals: Predicting Airbnb Prices](https://www.dataquest.io/blog/machine-learning-tutorial/)
+* [Machine Learning with Python: A Tutorial](https://www.dataquest.io/blog/machine-learning-python/)
+* [Human Interpretable Machine Learning [Part 1] — The Need and Importance of Model Interpretation](https://towardsdatascience.com/human-interpretable-machine-learning-part-1-the-need-and-importance-of-model-interpretation-2ed758f5f476)
+* [Kaggle 강의 자료](https://www.youtube.com/channel/UC--LgKcZVgffjsxudoXg5pQ)
+* [Predicting the Status of H-1B Visa Applications](https://www.datacamp.com/community/tutorials/predicting-H-1B-visa-status-python)
+* [Sentiment analysis on reviews: Train Test Split, Bootstrapping, Cross Validation & Word Clouds](https://medium.com/@annabiancajones/sentiment-analysis-on-reviews-train-test-split-bootstrapping-cross-validation-word-clouds-4ae65e745f59)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1366,6 +1384,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Pandas and Tidy Data](http://shzhangji.com/blog/2017/09/30/pandas-and-tidy-data/index.html)
 * [깔끔한 데이터[Tidy data]](https://partrita.github.io/posts/tidy-data/)
 * [FIFA World Cup 2018: A Data-Driven Approach to Ideal Team Line-Ups](https://towardsdatascience.com/fifa-world-cup-2018-a-data-driven-approach-to-ideal-team-line-ups-93505cfe36f8)
+* [How to Generate FiveThirtyEight Graphs in Python](https://www.dataquest.io/blog/making-538-plots/)
+* [Variability Methods in Statistics](https://medium.com/@diana.culincu/variability-methods-in-statistics-9e68bc83da6)
+* [Understanding Descriptive Statistics](https://towardsdatascience.com/understanding-descriptive-statistics-c9c2b0641291)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
