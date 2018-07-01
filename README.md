@@ -1243,6 +1243,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Chapter-1 Machine Learning Introduction](https://medium.com/ml-research-lab/chapter-1-machine-learning-introduction-6e29f8df43e9)
 * [Chapter-2 Data and It’s Different Types](https://medium.com/@ashishpatel.ce.2011/chapter-2-data-and-its-different-types-d322e4048b61)
 * [Chapter-3 Bias and Variance Trade-off in Machine Learning](https://medium.com/ml-research-lab/chapter-3-bias-and-variance-trade-off-in-machine-learning-a449fa1e2729)
+* [Learn How to Code and Deploy Machine Learning Models on Structured Streaming](https://towardsdatascience.com/learn-how-to-code-and-deploy-machine-learning-models-on-structured-streaming-564749840516)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1636,6 +1637,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Santander Recommendation Engine - How I made it to top 5% on Kaggle?](https://medium.com/@pds.bangalore/santander-recommendation-engine-scored-in-top-5-on-kaggle-3466339fcfed)
 * [페이스북에서 '싫어요'를 누를 수 없는 이유](https://ita9naiwa.github.io/recommender%20systems/2018/06/03/rating-set-distributions.html)
 * [Recommender systems behind the scenes](https://medium.com/parrot-prediction/recommender-systems-behind-the-scenes-a39c831a0ae2)
+* [Implicit Negative Feedback In Factor Based Recommendation Algorithms](https://ita9naiwa.github.io/recommender%20systems/2018/06/15/implicit-negative-feedback.html)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
