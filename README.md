@@ -636,6 +636,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [이미지 탐지기 쉽게 구현하기](https://medium.com/n42-corp/%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%83%90%EC%A7%80%EA%B8%B0-%EC%89%BD%EA%B2%8C-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-abd967638c8e)
   * [Deploying deep learning models: Part 1 an overview](https://towardsdatascience.com/deploying-deep-learning-models-part-1-an-overview-77b4d01dd6f7)
   * [How to EASILY put Machine Learning Models into Production using Tensorflow Serving](https://medium.com/@brianalois/how-to-easily-put-machine-learning-models-into-production-using-tensorflow-serving-91998fa4b4e1)
+  * [Stanfoard CS231n 2017 요약](https://zzsza.github.io/tag/data-cs231/)
+  * [Reconstructing Brain MRI Images Using Deep Learning [Convolutional Autoencoder]](https://www.datacamp.com/community/tutorials/reconstructing-brain-images-deep-learning)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -747,6 +749,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Recurrent Neural Network and its Application](https://www.slideshare.net/samchoi7/rnnerica)
   * [Introduction to GAN](https://www.slideshare.net/JiminLee36/introduction-to-gan)
   * [소프트웨어 2.0을 활용한 게임 어뷰징 검출](https://www.slideshare.net/ssuser163469/20-95081863)
+  * [빠르게 구현하는 RNN](https://www.slideshare.net/BoSeopKim/to-quickly-implementing-rnn)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -986,6 +989,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Build an AI to play Dino Run](https://blog.paperspace.com/dino-run/)
 * [RL Basics: 1. Markov Process](https://brunch.co.kr/@chris-song/77)
 * [강화학습에 대한 기본적인 알고리즘 구현](https://github.com/jcwleo/Reinforcement_Learning)
+* [안.전.제.일. 강화학습!](https://www.slideshare.net/DongMinLee32/ss-103395612)
+* [강화학습 기초부터 DQN까지 [Reinforcement Learning from Basics to DQN]](https://www.slideshare.net/CurtPark1/dqn-reinforcement-learning-from-basics-to-dqn)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -1193,6 +1198,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Machine Learning Kaggle Competition Part Two: Improving](https://towardsdatascience.com/machine-learning-kaggle-competition-part-two-improving-e5b4d61ab4b8)
 * [Automated Feature Engineering in Python](https://towardsdatascience.com/automated-feature-engineering-in-python-99baf11cc219)
 * [A Feature Selection Tool for Machine Learning in Python](https://towardsdatascience.com/a-feature-selection-tool-for-machine-learning-in-python-b64dd23710f0)
+* [A Conceptual Explanation of Bayesian Model-Based Hyperparameter Optimization for Machine Learning](https://towardsdatascience.com/a-conceptual-explanation-of-bayesian-model-based-hyperparameter-optimization-for-machine-learning-b8172278050f)
+* [An Introductory Example of Bayesian Optimization in Python with Hyperopt](https://towardsdatascience.com/an-introductory-example-of-bayesian-optimization-in-python-with-hyperopt-aae40fff4ff0)
 * [Time Series - Machine Learning Mastery](https://machinelearningmastery.com/category/time-series/)
 * [Comprehensive Guide to Time Series Analytics, Visualization and Prediction with Python](http://dacatay.com/data-science/comprehensive-guide-time-series-analytics-visualization-prediction-python/)
 * [푸른생선의 신바람 금융바다 - 통계, Time Series 데이터 분석](https://blog.naver.com/PostList.nhn?blogId=bluefish850&categoryNo=17)
@@ -1222,6 +1229,20 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Kaggle 강의 자료](https://www.youtube.com/channel/UC--LgKcZVgffjsxudoXg5pQ)
 * [Predicting the Status of H-1B Visa Applications](https://www.datacamp.com/community/tutorials/predicting-H-1B-visa-status-python)
 * [Sentiment analysis on reviews: Train Test Split, Bootstrapping, Cross Validation & Word Clouds](https://medium.com/@annabiancajones/sentiment-analysis-on-reviews-train-test-split-bootstrapping-cross-validation-word-clouds-4ae65e745f59)
+* [K-Means Clustering](https://medium.com/datadriveninvestor/k-means-clustering-b89d349e98e6)
+* [Realtime prediction using Spark Structured Streaming, XGBoost and Scala](https://medium.com/@bogdan.cojocar/realtime-prediction-using-spark-structured-streaming-xgboost-and-scala-d4869a9a4c66)
+* [Unboxing Outliers In Machine Learning](https://medium.com/datadriveninvestor/unboxing-outliers-in-machine-learning-d43fe40d88a6)
+* [Detecting Financial Fraud Using Machine Learning: Winning the War Against Imbalanced Data](https://towardsdatascience.com/detecting-financial-fraud-using-machine-learning-three-ways-of-winning-the-war-against-imbalanced-a03f8815cce9)
+* [Using regression models to predict per capita and median household income in NYC](https://medium.com/alien-status/using-regression-models-to-predict-per-capita-and-median-household-income-in-nyc-91d5ca899509)
+* [Philadelphia Housing Data Part-I: Data Analysis](https://medium.com/@GaussEuler/philadelphia-housing-data-part-i-data-analysis-fe45415554a9)
+* [Philadelphia Housing Data Part-II: Features Engineering](https://medium.com/@GaussEuler/philadelphia-housing-data-part-ii-features-engineering-1df184df307)
+* [Philadelphia Housing Data Part-III: Machine Learning](https://medium.com/@GaussEuler/philadelphia-housing-data-part-iii-machine-learning-ba4ff0fab34e)
+* [Approaching a competition on Kaggle: Avito Demand Prediction Challenge [Part 1]](https://medium.com/@chrisstevens1/approaching-a-competition-on-kaggle-avito-demand-prediction-challenge-part-1-9bc4e6299ba4) : [[Code]](https://github.com/chr15stevens/avito-demand-prediction-analysis)
+* [Approaching a competition on Kaggle: Avito Demand Prediction Challenge [Part 2]](https://medium.com/@chrisstevens1/approaching-a-competition-on-kaggle-avito-demand-prediction-challenge-part-2-a1afbe063bb8)
+* [Approaching a competition on Kaggle: Avito Demand Prediction Challenge [Part 3 — linear regression]](https://medium.com/@chrisstevens1/approaching-a-competition-on-kaggle-avito-demand-prediction-challenge-part-3-linear-regression-115312500ff4)
+* [Chapter-1 Machine Learning Introduction](https://medium.com/ml-research-lab/chapter-1-machine-learning-introduction-6e29f8df43e9)
+* [Chapter-2 Data and It’s Different Types](https://medium.com/@ashishpatel.ce.2011/chapter-2-data-and-its-different-types-d322e4048b61)
+* [Chapter-3 Bias and Variance Trade-off in Machine Learning](https://medium.com/ml-research-lab/chapter-3-bias-and-variance-trade-off-in-machine-learning-a449fa1e2729)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1310,6 +1331,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Datascience-Interview-Questions for Korean](https://github.com/zzsza/Datascience-Interview-Questions)
 * [A Beginner’s Guide to Data Engineering — Part I](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
 * [A Beginner’s Guide to Data Engineering — Part II](https://towardsdatascience.com/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71)
+* [A Beginner’s Guide to Data Engineering — The Series Finale](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-the-series-finale-2cc92ff14b0)
 * [Khan Academy - Linear Algebra](https://ko.khanacademy.org/math/linear-algebra)
 * [Interactive Bokeh Tutorial Part 1](https://www.kaggle.com/kanncaa1/interactive-bokeh-tutorial-part-1)
 * [Jupyter Notebook Tutorial: The Definitive Guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
