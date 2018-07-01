@@ -991,6 +991,13 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [강화학습에 대한 기본적인 알고리즘 구현](https://github.com/jcwleo/Reinforcement_Learning)
 * [안.전.제.일. 강화학습!](https://www.slideshare.net/DongMinLee32/ss-103395612)
 * [강화학습 기초부터 DQN까지 [Reinforcement Learning from Basics to DQN]](https://www.slideshare.net/CurtPark1/dqn-reinforcement-learning-from-basics-to-dqn)
+* [Rl from scratch part1](https://www.slideshare.net/ShinwooPark3/rl-from-scratch-part1)
+* [Rl from scratch part2](https://www.slideshare.net/ShinwooPark3/rl-from-scratch-part2)
+* [Rl from scratch part3](https://www.slideshare.net/ShinwooPark3/rl-from-scratch-part3)
+* [Rl from scratch part4](https://www.slideshare.net/ShinwooPark3/rl-from-scratch-part4)
+* [Rl from scratch part5](https://www.slideshare.net/ShinwooPark3/rl-from-scratch-part5)
+* [Rl from scratch part6](https://www.slideshare.net/ShinwooPark3/rl-from-scratch-part6)
+* [Rl from scratch part7](https://www.slideshare.net/ShinwooPark3/rl-from-scratch-part7)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
