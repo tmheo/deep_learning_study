@@ -81,6 +81,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [딥러닝 퀵스타트 : 파이토치편](https://github.com/hanbitmedia/PyTorch-Hanbit)
   * [Open Machine Learning Course](https://medium.com/open-machine-learning-course)
   * [텐서플로 강의 - 이찬우님](https://www.youtube.com/playlist?list=PL1H8jIvbSo1piZJRnp9bIww8Fp2ddIpeR)
+  * [Machine learning in Python with scikit-learn](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A) : [[Code]](https://github.com/justmarkham/scikit-learn-videos)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -638,6 +639,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [How to EASILY put Machine Learning Models into Production using Tensorflow Serving](https://medium.com/@brianalois/how-to-easily-put-machine-learning-models-into-production-using-tensorflow-serving-91998fa4b4e1)
   * [Stanfoard CS231n 2017 요약](https://zzsza.github.io/tag/data-cs231/)
   * [Reconstructing Brain MRI Images Using Deep Learning [Convolutional Autoencoder]](https://www.datacamp.com/community/tutorials/reconstructing-brain-images-deep-learning)
+  * [Applied ML on Structured Data: Deep Learning vs Tree Methods [Part 1]](https://medium.com/@mikeliao/applied-ml-on-structured-data-deep-learning-vs-regression-methods-part-1-1b13510b4f6d)
+  * [Train a model in tf.keras with Colab, and run it in the browser with TensorFlow.js](https://medium.com/tensorflow/train-on-google-colab-and-run-on-the-browser-a-case-study-8a45f9b1474e)
+  * [구글 콜래보래토리 소개 [revised]](https://colab.research.google.com/drive/1UvCUf0V0BYiMArtOJOUjt_Pgy4aHd8o9)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -998,6 +1002,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Rl from scratch part5](https://www.slideshare.net/ShinwooPark3/rl-from-scratch-part5)
 * [Rl from scratch part6](https://www.slideshare.net/ShinwooPark3/rl-from-scratch-part6)
 * [Rl from scratch part7](https://www.slideshare.net/ShinwooPark3/rl-from-scratch-part7)
+* [From REINFORCE to PPO](https://www.slideshare.net/WoongwonLee/from-reinforce-to-ppo)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -1207,6 +1212,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [A Feature Selection Tool for Machine Learning in Python](https://towardsdatascience.com/a-feature-selection-tool-for-machine-learning-in-python-b64dd23710f0)
 * [A Conceptual Explanation of Bayesian Model-Based Hyperparameter Optimization for Machine Learning](https://towardsdatascience.com/a-conceptual-explanation-of-bayesian-model-based-hyperparameter-optimization-for-machine-learning-b8172278050f)
 * [An Introductory Example of Bayesian Optimization in Python with Hyperopt](https://towardsdatascience.com/an-introductory-example-of-bayesian-optimization-in-python-with-hyperopt-aae40fff4ff0)
+* [Automated Machine Learning Hyperparameter Tuning in Python](https://towardsdatascience.com/automated-machine-learning-hyperparameter-tuning-in-python-dfda59b72f8a)
 * [Time Series - Machine Learning Mastery](https://machinelearningmastery.com/category/time-series/)
 * [Comprehensive Guide to Time Series Analytics, Visualization and Prediction with Python](http://dacatay.com/data-science/comprehensive-guide-time-series-analytics-visualization-prediction-python/)
 * [푸른생선의 신바람 금융바다 - 통계, Time Series 데이터 분석](https://blog.naver.com/PostList.nhn?blogId=bluefish850&categoryNo=17)
@@ -1251,6 +1257,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Chapter-2 Data and It’s Different Types](https://medium.com/@ashishpatel.ce.2011/chapter-2-data-and-its-different-types-d322e4048b61)
 * [Chapter-3 Bias and Variance Trade-off in Machine Learning](https://medium.com/ml-research-lab/chapter-3-bias-and-variance-trade-off-in-machine-learning-a449fa1e2729)
 * [Learn How to Code and Deploy Machine Learning Models on Structured Streaming](https://towardsdatascience.com/learn-how-to-code-and-deploy-machine-learning-models-on-structured-streaming-564749840516)
+* [광고 클릭 예측을 통해 페이스북이 얻은 실용적인 교훈](https://aldente0630.github.io/data-science/2018/05/10/practical_lessons_from_predicting_clicks_on_ads_at_FB.html)
+* [K-Means Clustering in Python with scikit-learn](https://www.datacamp.com/community/tutorials/k-means-clustering-python)
+* [Effective Outlier Detection Techniques in Machine Learning](https://medium.com/@mehulved1503/effective-outlier-detection-techniques-in-machine-learning-ef609b6ade72)
+* [Topic Modeling and Latent Dirichlet Allocation [LDA] in Python](https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
