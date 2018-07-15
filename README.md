@@ -642,6 +642,18 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Applied ML on Structured Data: Deep Learning vs Tree Methods [Part 1]](https://medium.com/@mikeliao/applied-ml-on-structured-data-deep-learning-vs-regression-methods-part-1-1b13510b4f6d)
   * [Train a model in tf.keras with Colab, and run it in the browser with TensorFlow.js](https://medium.com/tensorflow/train-on-google-colab-and-run-on-the-browser-a-case-study-8a45f9b1474e)
   * [구글 콜래보래토리 소개 [revised]](https://colab.research.google.com/drive/1UvCUf0V0BYiMArtOJOUjt_Pgy4aHd8o9)
+  * [Logo Detection Using PyTorch](https://medium.com/diving-in-deep/logo-detection-using-pytorch-7897d4898211)
+  * [How to deploy TensorFlow models to production using TF Serving](https://medium.freecodecamp.org/how-to-deploy-tensorflow-models-to-production-using-tf-serving-4b4b78d41700)
+  * [NLP's ImageNet moment has arrived](https://thegradient.pub/nlp-imagenet/)
+  * [How To Create Natural Language Semantic Search For Arbitrary Objects With Deep Learning](https://towardsdatascience.com/semantic-code-search-3cd6d244a39c)
+  * [A Project Based Introduction to TensorFlow.js](http://kexp.io/intro_tensorflowjs/)
+  * [FAST.AI - PART 1 - LESSON 1 - ANNOTATED NOTES](https://www.zerotosingularity.com/blog/fast-ai-part-1-course-1-annotated-notes/)
+  * [Universal Language Model to Boost Your NLP Models](https://towardsdatascience.com/universal-language-model-to-boost-your-nlp-models-d59469dcbd64)
+  * [Building a Question-Answering System from Scratch— Part 1](https://towardsdatascience.com/building-a-question-answering-system-part-1-9388aadff507)
+  * [How to Use MLflow, TensorFlow, and Keras with PyCharm](https://databricks.com/blog/2018/07/10/how-to-use-mlflow-tensorflow-and-keras-with-pycharm.html)
+  * [xkcd.com + Artificial Intelligence](https://towardsdatascience.com/xkcd-com-artificial-intelligence-a4cbf6303b1e) : [[Code]](https://github.com/dcshapiro/xkcd)
+  * [ENAS[Efficient Neural Architecture Search via Parameter Sharing]](https://jayhey.github.io/deep%20learning/2018/03/15/ENAS/)
+  * [Learning From Noisy Large-Scale Datasets With Minimal Supervision Review](https://hoya012.github.io/blog/Learning-From-Noisy-Large-Scale-Datasets-With-minimal-Supervision-Review/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -786,6 +798,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [How To Pull Data into S3 using AWS Sagemaker](https://www.youtube.com/watch?v=-YiHPIGyFGo)
   * [An overview of Amazon SageMaker](https://www.youtube.com/watch?v=ym7NEYEx9x4)
   * [Image classification with Amazon SageMaker](https://www.youtube.com/watch?v=weYHuyyEtyU)
+  * [Deep Learning Practitioner의 캐글 2회 참가기](https://www.youtube.com/watch?v=zNzAAStE66o)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -863,6 +876,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [GAN in Numpy](https://github.com/shinseung428/gan_numpy)
   * [Deep Learning Study with Gluon](https://github.com/ski-net/dl_study_with_gluon)
   * [Deploy Keras Model with Flask as Web App in 10 Minutes](https://github.com/mtobeiyf/keras-flask-deploy-webapp)
+  * [NLP Tutorial with Deep Learning using tensorflow](https://github.com/Bricoler/nlp-tensorflow)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -1261,6 +1275,16 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [K-Means Clustering in Python with scikit-learn](https://www.datacamp.com/community/tutorials/k-means-clustering-python)
 * [Effective Outlier Detection Techniques in Machine Learning](https://medium.com/@mehulved1503/effective-outlier-detection-techniques-in-machine-learning-ef609b6ade72)
 * [Topic Modeling and Latent Dirichlet Allocation [LDA] in Python](https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24)
+* [데이터로부터 정보 추출해내기 [Feature Engineering]](http://sherry-data.tistory.com/21)
+* [불균형 데이터셋의 처리를 위한 training data의 처리](http://sherry-data.tistory.com/22)
+* [Introduction to Clinical Natural Language Processing: Predicting Hospital Readmission with Discharge Summaries](https://towardsdatascience.com/introduction-to-clinical-natural-language-processing-predicting-hospital-readmission-with-1736d52bc709)
+* [Using XGBoost in Python](https://www.datacamp.com/community/tutorials/xgboost-in-python)
+* [Support Vector Machines with Scikit-learn](https://www.datacamp.com/community/tutorials/svm-classification-scikit-learn-python)
+* [Understanding Model Predictions with LIME](https://www.datacamp.com/community/tutorials/understanding-model-predictions-lime)
+* [Machine Learning Rules in a Nutshell](https://towardsdatascience.com/machine-learning-rules-in-a-nutshell-dfc3e6839163)
+* [Winning solutions of kaggle competitions](https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions/)
+* ['Machine Learning Yearning' 책의 한국어 번역](https://github.com/deep-diver/Machine-Learning-Yearning-Korean-Translation)
+* [Elbow Clustering for Artificial Intelligence](https://towardsdatascience.com/elbow-clustering-for-artificial-intelligence-be9c641d9cf8)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1427,6 +1451,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [How to Generate FiveThirtyEight Graphs in Python](https://www.dataquest.io/blog/making-538-plots/)
 * [Variability Methods in Statistics](https://medium.com/@diana.culincu/variability-methods-in-statistics-9e68bc83da6)
 * [Understanding Descriptive Statistics](https://towardsdatascience.com/understanding-descriptive-statistics-c9c2b0641291)
+* [Exploring and Visualizing Chicago Transit data using pandas and Bokeh — Part I [intro to pandas]](https://towardsdatascience.com/exploring-and-visualizing-chicago-transit-data-using-pandas-and-bokeh-part-i-intro-to-pandas-5d6caa8813ef)
+* [Exploring and Visualizing Chicago Transit data using pandas and Bokeh — Part II [intro to Bokeh]](https://towardsdatascience.com/exploring-and-visualizing-chicago-transit-data-using-pandas-and-bokeh-part-ii-intro-to-bokeh-5dca6c5ced10)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
