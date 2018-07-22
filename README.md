@@ -657,6 +657,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [What do machine learning practitioners actually do?](http://www.fast.ai/2018/07/12/auto-ml-1/)
   * [An Opinionated Introduction to AutoML and Neural Architecture Search](http://www.fast.ai/2018/07/16/auto-ml2/)
   * [딥러닝 프레임워크로 임베딩 제대로 학습해보기](http://freesearch.pe.kr/archives/4828)
+  * [Getting Started with SageMaker](https://medium.com/apache-mxnet/getting-started-with-sagemaker-ebe1277484c9)
+  * [94% accuracy on CIFAR-10 in 10 minutes with Amazon SageMaker](https://medium.com/apache-mxnet/94-accuracy-on-cifar-10-in-10-minutes-with-amazon-sagemaker-754e441d01d7)
+  * [Leveling up on SageMaker](https://medium.com/apache-mxnet/leveling-up-on-sagemaker-c7a5a438f0f6)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1303,6 +1306,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [A Gentle Introduction to Data Science for Credit Risk Modeling — Part 1](https://towardsdatascience.com/an-intro-to-data-science-for-credit-risk-modelling-57935805a911)
 * [A Gentle Introduction to Credit Risk Modeling with Data Science — Part 2](https://towardsdatascience.com/a-gentle-introduction-to-credit-risk-modeling-with-data-science-part-2-d7b87806c9df)
 * [Detecting True and Deceptive Hotel Reviews using Machine Learning](https://www.datacamp.com/community/tutorials/machine-learning-hotel-reviews)
+* [An End-to-End Project on Time Series Analysis and Forecasting with Python](https://towardsdatascience.com/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python-4835e6bf050b)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
