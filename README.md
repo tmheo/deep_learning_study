@@ -654,6 +654,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [xkcd.com + Artificial Intelligence](https://towardsdatascience.com/xkcd-com-artificial-intelligence-a4cbf6303b1e) : [[Code]](https://github.com/dcshapiro/xkcd)
   * [ENAS[Efficient Neural Architecture Search via Parameter Sharing]](https://jayhey.github.io/deep%20learning/2018/03/15/ENAS/)
   * [Learning From Noisy Large-Scale Datasets With Minimal Supervision Review](https://hoya012.github.io/blog/Learning-From-Noisy-Large-Scale-Datasets-With-minimal-Supervision-Review/)
+  * [What do machine learning practitioners actually do?](http://www.fast.ai/2018/07/12/auto-ml-1/)
+  * [An Opinionated Introduction to AutoML and Neural Architecture Search](http://www.fast.ai/2018/07/16/auto-ml2/)
+  * [딥러닝 프레임워크로 임베딩 제대로 학습해보기](http://freesearch.pe.kr/archives/4828)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -766,6 +769,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Introduction to GAN](https://www.slideshare.net/JiminLee36/introduction-to-gan)
   * [소프트웨어 2.0을 활용한 게임 어뷰징 검출](https://www.slideshare.net/ssuser163469/20-95081863)
   * [빠르게 구현하는 RNN](https://www.slideshare.net/BoSeopKim/to-quickly-implementing-rnn)
+  * [Deep learning [Machine learning] tutorial for beginners](https://www.slideshare.net/TerryTaewoongUm/deep-learning-machine-learning-tutorial-for-beginners)
+  * [여러 컨볼루션 레이어 테크닉과 경량화 기법들](https://www.slideshare.net/ssuser6135a1/ss-106656779)
+  * [Deep Learning for AI [1]](https://www.slideshare.net/ssuser421e61/deep-learning-for-ai-1)
+  * [Deep Learning for AI [2]](https://www.slideshare.net/ssuser421e61/deep-learning-for-ai-2)
+  * [Deep Learning for AI [3]](https://www.slideshare.net/ssuser421e61/deep-learning-for-ai-3)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -799,6 +807,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [An overview of Amazon SageMaker](https://www.youtube.com/watch?v=ym7NEYEx9x4)
   * [Image classification with Amazon SageMaker](https://www.youtube.com/watch?v=weYHuyyEtyU)
   * [Deep Learning Practitioner의 캐글 2회 참가기](https://www.youtube.com/watch?v=zNzAAStE66o)
+  * [PR-099: MRNet-Product2Vec](https://www.youtube.com/watch?v=cpCS7LBRkRU)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -1227,6 +1236,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [A Conceptual Explanation of Bayesian Model-Based Hyperparameter Optimization for Machine Learning](https://towardsdatascience.com/a-conceptual-explanation-of-bayesian-model-based-hyperparameter-optimization-for-machine-learning-b8172278050f)
 * [An Introductory Example of Bayesian Optimization in Python with Hyperopt](https://towardsdatascience.com/an-introductory-example-of-bayesian-optimization-in-python-with-hyperopt-aae40fff4ff0)
 * [Automated Machine Learning Hyperparameter Tuning in Python](https://towardsdatascience.com/automated-machine-learning-hyperparameter-tuning-in-python-dfda59b72f8a)
+* [Machine Learning Kaggle Competition: Part Three Optimization](https://towardsdatascience.com/machine-learning-kaggle-competition-part-three-optimization-db04ea415507)
 * [Time Series - Machine Learning Mastery](https://machinelearningmastery.com/category/time-series/)
 * [Comprehensive Guide to Time Series Analytics, Visualization and Prediction with Python](http://dacatay.com/data-science/comprehensive-guide-time-series-analytics-visualization-prediction-python/)
 * [푸른생선의 신바람 금융바다 - 통계, Time Series 데이터 분석](https://blog.naver.com/PostList.nhn?blogId=bluefish850&categoryNo=17)
@@ -1284,7 +1294,15 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Machine Learning Rules in a Nutshell](https://towardsdatascience.com/machine-learning-rules-in-a-nutshell-dfc3e6839163)
 * [Winning solutions of kaggle competitions](https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions/)
 * ['Machine Learning Yearning' 책의 한국어 번역](https://github.com/deep-diver/Machine-Learning-Yearning-Korean-Translation)
+* [Machine Learning Yearning 번역문서 목록](http://taewan.kim/docs/t_mly_00/)
 * [Elbow Clustering for Artificial Intelligence](https://towardsdatascience.com/elbow-clustering-for-artificial-intelligence-be9c641d9cf8)
+* [Kaggle 튜토리얼](http://kaggle-kr.tistory.com/category/Kaggle%20%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC)
+* [Serve Machine Learning Models with Clipper](https://shuaiw.github.io/2018/01/21/serve-ml-model-with-clipper.html)
+* [Optimal Coupon Targeting for Grocery Items: an Instacart Case Study](https://towardsdatascience.com/optimal-coupon-targeting-for-grocery-items-an-instacart-case-study-128e8d169c7c)
+* [Detecting Financial Fraud Using Machine Learning: Winning the War Against Imbalanced Data](https://towardsdatascience.com/detecting-financial-fraud-using-machine-learning-three-ways-of-winning-the-war-against-imbalanced-a03f8815cce9)
+* [A Gentle Introduction to Data Science for Credit Risk Modeling — Part 1](https://towardsdatascience.com/an-intro-to-data-science-for-credit-risk-modelling-57935805a911)
+* [A Gentle Introduction to Credit Risk Modeling with Data Science — Part 2](https://towardsdatascience.com/a-gentle-introduction-to-credit-risk-modeling-with-data-science-part-2-d7b87806c9df)
+* [Detecting True and Deceptive Hotel Reviews using Machine Learning](https://www.datacamp.com/community/tutorials/machine-learning-hotel-reviews)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1453,6 +1471,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Understanding Descriptive Statistics](https://towardsdatascience.com/understanding-descriptive-statistics-c9c2b0641291)
 * [Exploring and Visualizing Chicago Transit data using pandas and Bokeh — Part I [intro to pandas]](https://towardsdatascience.com/exploring-and-visualizing-chicago-transit-data-using-pandas-and-bokeh-part-i-intro-to-pandas-5d6caa8813ef)
 * [Exploring and Visualizing Chicago Transit data using pandas and Bokeh — Part II [intro to Bokeh]](https://towardsdatascience.com/exploring-and-visualizing-chicago-transit-data-using-pandas-and-bokeh-part-ii-intro-to-bokeh-5dca6c5ced10)
+* [Common data science pitfalls & how to avoid them!](https://www.datacamp.com/community/tutorials/data-science-pitfalls)
+* [A Summary of Udacity A/B Testing Course](https://towardsdatascience.com/a-summary-of-udacity-a-b-testing-course-9ecc32dedbb1)
+* [Data science you need to know! A/B testing](https://towardsdatascience.com/data-science-you-need-to-know-a-b-testing-f2f12aff619a)
+* [Linear algebra cheat sheet for deep learning](https://towardsdatascience.com/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -1681,6 +1703,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [페이스북에서 '싫어요'를 누를 수 없는 이유](https://ita9naiwa.github.io/recommender%20systems/2018/06/03/rating-set-distributions.html)
 * [Recommender systems behind the scenes](https://medium.com/parrot-prediction/recommender-systems-behind-the-scenes-a39c831a0ae2)
 * [Implicit Negative Feedback In Factor Based Recommendation Algorithms](https://ita9naiwa.github.io/recommender%20systems/2018/06/15/implicit-negative-feedback.html)
+* [How to use time order in machine learning recommendations for education](https://medium.com/@jujukala/how-to-use-time-order-in-machine-learning-recommendations-for-education-97091d2ab138)
+* [Simplify Advertising Analytics Click Prediction with Databricks Unified Analytics Platform](https://databricks.com/blog/2018/07/19/simplify-advertising-analytics-click-prediction-with-databricks-unified-analytics-platform.html)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
