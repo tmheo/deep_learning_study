@@ -674,6 +674,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [YOLOv2 to detect your own objects using Darkflow](https://towardsdatascience.com/yolov2-to-detect-your-own-objects-soccer-ball-using-darkflow-a4f98d5ce5bf)
   * [Running fast.ai notebooks with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/running-fast-ai-notebooks-with-amazon-sagemaker/)
   * [GluonNLP — Deep Learning Toolkit for Natural Language Processing](https://medium.com/apache-mxnet/gluonnlp-deep-learning-toolkit-for-natural-language-processing-98e684131c8a)
+  * [Google AI Chief Jeff Dean’s ML System Architecture Blueprint](https://medium.com/syncedreview/google-ai-chief-jeff-deans-ml-system-architecture-blueprint-a358e53c68a5)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
