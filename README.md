@@ -82,6 +82,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Open Machine Learning Course](https://medium.com/open-machine-learning-course)
   * [텐서플로 강의 - 이찬우님](https://www.youtube.com/playlist?list=PL1H8jIvbSo1piZJRnp9bIww8Fp2ddIpeR)
   * [Machine learning in Python with scikit-learn](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A) : [[Code]](https://github.com/justmarkham/scikit-learn-videos)
+  * [Natural Language Processing with PyTorch](https://kh-kim.gitbook.io/natural-language-processing-with-pytorch/)
+  * [PyTorch-Deep-Learning-Minicourse](https://github.com/Atcold/PyTorch-Deep-Learning-Minicourse) : [[Video]](https://github.com/Atcold/pytorch-Video-Tutorials)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -656,10 +658,22 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Learning From Noisy Large-Scale Datasets With Minimal Supervision Review](https://hoya012.github.io/blog/Learning-From-Noisy-Large-Scale-Datasets-With-minimal-Supervision-Review/)
   * [What do machine learning practitioners actually do?](http://www.fast.ai/2018/07/12/auto-ml-1/)
   * [An Opinionated Introduction to AutoML and Neural Architecture Search](http://www.fast.ai/2018/07/16/auto-ml2/)
+  * [Google's AutoML: Cutting Through the Hype](http://www.fast.ai/2018/07/23/auto-ml-3/)
   * [딥러닝 프레임워크로 임베딩 제대로 학습해보기](http://freesearch.pe.kr/archives/4828)
   * [Getting Started with SageMaker](https://medium.com/apache-mxnet/getting-started-with-sagemaker-ebe1277484c9)
   * [94% accuracy on CIFAR-10 in 10 minutes with Amazon SageMaker](https://medium.com/apache-mxnet/94-accuracy-on-cifar-10-in-10-minutes-with-amazon-sagemaker-754e441d01d7)
   * [Leveling up on SageMaker](https://medium.com/apache-mxnet/leveling-up-on-sagemaker-c7a5a438f0f6)
+  * [Autoencoder as a Classifier using Fashion-MNIST Dataset](https://www.datacamp.com/community/tutorials/autoencoder-classifier-python)
+  * [쌩초보자의 Python 케라스[Keras] GAN 코드 분석 [draft]](http://leestation.tistory.com/776)
+  * [[번역+약간해설] 케라스[Keras] 모델 만들기: Sequential vs. Functional](http://leestation.tistory.com/777)
+  * [TF Jam — Shooting Hoops with Machine Learning](https://medium.com/tensorflow/tf-jam-shooting-hoops-with-machine-learning-7a96e1236c32)
+  * [Artificial Neural Networks Explained](https://blog.goodaudience.com/artificial-neural-networks-explained-436fcf36e75)
+  * [CNN의 stationarity와 locality](https://medium.com/@seoilgun/cnn%EC%9D%98-stationarity%EC%99%80-locality-610166700979)
+  * [Mario vs. Wario: Image Classification in Python](https://towardsdatascience.com/mario-vs-wario-image-classification-in-python-ae8d10ac6d63)
+  * [A tutorial on using Google Cloud TPUs](https://blog.goodaudience.com/how-to-use-google-cloud-tpus-177c3a025067)
+  * [YOLOv2 to detect your own objects using Darkflow](https://towardsdatascience.com/yolov2-to-detect-your-own-objects-soccer-ball-using-darkflow-a4f98d5ce5bf)
+  * [Running fast.ai notebooks with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/running-fast-ai-notebooks-with-amazon-sagemaker/)
+  * [GluonNLP — Deep Learning Toolkit for Natural Language Processing](https://medium.com/apache-mxnet/gluonnlp-deep-learning-toolkit-for-natural-language-processing-98e684131c8a)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -811,6 +825,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Image classification with Amazon SageMaker](https://www.youtube.com/watch?v=weYHuyyEtyU)
   * [Deep Learning Practitioner의 캐글 2회 참가기](https://www.youtube.com/watch?v=zNzAAStE66o)
   * [PR-099: MRNet-Product2Vec](https://www.youtube.com/watch?v=cpCS7LBRkRU)
+  * [주재걸 교수님의 머신러닝/딥러닝/선형대수 강의영상](https://www.youtube.com/channel/UCsEQc1-iFbu_yHvMd1vqwFQ/playlists)
+  * [최성철 교수님의 머신러닝/데이터과학 강의영상](https://www.youtube.com/channel/UC_kvhNYJtP1-Ap67byTbfuw/playlists)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -889,6 +905,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deep Learning Study with Gluon](https://github.com/ski-net/dl_study_with_gluon)
   * [Deploy Keras Model with Flask as Web App in 10 Minutes](https://github.com/mtobeiyf/keras-flask-deploy-webapp)
   * [NLP Tutorial with Deep Learning using tensorflow](https://github.com/Bricoler/nlp-tensorflow)
+  * [ensorFlow Advanced Tutorials](https://github.com/JONGGON/Tensorflow_Advanced_Tutorials)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -1018,6 +1035,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [How I built an AI to play Dino Run](https://medium.com/acing-ai/how-i-build-an-ai-to-play-dino-run-e37f37bdf153)
 * [Build an AI to play Dino Run](https://blog.paperspace.com/dino-run/)
 * [RL Basics: 1. Markov Process](https://brunch.co.kr/@chris-song/77)
+* [RL: 2. Markov Decision Process](https://brunch.co.kr/@chris-song/80)
 * [강화학습에 대한 기본적인 알고리즘 구현](https://github.com/jcwleo/Reinforcement_Learning)
 * [안.전.제.일. 강화학습!](https://www.slideshare.net/DongMinLee32/ss-103395612)
 * [강화학습 기초부터 DQN까지 [Reinforcement Learning from Basics to DQN]](https://www.slideshare.net/CurtPark1/dqn-reinforcement-learning-from-basics-to-dqn)
@@ -1029,6 +1047,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Rl from scratch part6](https://www.slideshare.net/ShinwooPark3/rl-from-scratch-part6)
 * [Rl from scratch part7](https://www.slideshare.net/ShinwooPark3/rl-from-scratch-part7)
 * [From REINFORCE to PPO](https://www.slideshare.net/WoongwonLee/from-reinforce-to-ppo)
+* [AI in Video Games: Improving Decision Making in League of Legends using Markov Chains, Real Match Statistics and Personal Preferences](https://towardsdatascience.com/ai-in-video-games-improving-decision-making-in-league-of-legends-using-real-match-statistics-and-29ebc149b0d0)
+* [Python Implementation of Reinforcement Learning: An Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -1307,6 +1327,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [A Gentle Introduction to Credit Risk Modeling with Data Science — Part 2](https://towardsdatascience.com/a-gentle-introduction-to-credit-risk-modeling-with-data-science-part-2-d7b87806c9df)
 * [Detecting True and Deceptive Hotel Reviews using Machine Learning](https://www.datacamp.com/community/tutorials/machine-learning-hotel-reviews)
 * [An End-to-End Project on Time Series Analysis and Forecasting with Python](https://towardsdatascience.com/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python-4835e6bf050b)
+* [Google - ML Universal Guides](https://developers.google.com/machine-learning/guides/)
+* [Kaggle Solutions](https://github.com/neptune-ml)
+* [Probability for Machine Learning](https://www.slideshare.net/MingukKang/probability-for-machine-learning)
+* [파이썬으로 머신러닝 배우기](https://www.youtube.com/channel/UCIsJh9SRlhsqy62ZzYwzZ8g)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1479,6 +1503,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [A Summary of Udacity A/B Testing Course](https://towardsdatascience.com/a-summary-of-udacity-a-b-testing-course-9ecc32dedbb1)
 * [Data science you need to know! A/B testing](https://towardsdatascience.com/data-science-you-need-to-know-a-b-testing-f2f12aff619a)
 * [Linear algebra cheat sheet for deep learning](https://towardsdatascience.com/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c)
+* [존이님의 확률과 통계 블로그](https://blog.naver.com/PostList.nhn?blogId=mykepzzang&from=postList&categoryNo=38)
+* [존이님의 선형대수학 블로그](https://blog.naver.com/PostList.nhn?blogId=mykepzzang&from=postList&categoryNo=44)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -1709,6 +1735,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Implicit Negative Feedback In Factor Based Recommendation Algorithms](https://ita9naiwa.github.io/recommender%20systems/2018/06/15/implicit-negative-feedback.html)
 * [How to use time order in machine learning recommendations for education](https://medium.com/@jujukala/how-to-use-time-order-in-machine-learning-recommendations-for-education-97091d2ab138)
 * [Simplify Advertising Analytics Click Prediction with Databricks Unified Analytics Platform](https://databricks.com/blog/2018/07/19/simplify-advertising-analytics-click-prediction-with-databricks-unified-analytics-platform.html)
+* [추천 시스템에서의 다양성](https://ita9naiwa.github.io/recommender%20systems/2018/07/22/Recys-Diversity-and-Metrics.html)
+* [Machine Learning for Retail Price Recommendation with Python](https://towardsdatascience.com/machine-learning-for-retail-price-suggestion-with-python-64531e64186d)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
