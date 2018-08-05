@@ -675,6 +675,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Running fast.ai notebooks with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/running-fast-ai-notebooks-with-amazon-sagemaker/)
   * [GluonNLP — Deep Learning Toolkit for Natural Language Processing](https://medium.com/apache-mxnet/gluonnlp-deep-learning-toolkit-for-natural-language-processing-98e684131c8a)
   * [Google AI Chief Jeff Dean’s ML System Architecture Blueprint](https://medium.com/syncedreview/google-ai-chief-jeff-deans-ml-system-architecture-blueprint-a358e53c68a5)
+  * [WaveNet Review](https://seujung.github.io/2018/06/03/wavenet/)
+  * [Kaggle Tensorflow Speech Recognition Challenge](https://towardsdatascience.com/kaggle-tensorflow-speech-recognition-challenge-b46a3bca2501)
+  * [Deploying Keras Deep Learning Models with Flask](https://towardsdatascience.com/deploying-keras-deep-learning-models-with-flask-5da4181436a2)
+  * [Building an image search service from scratch](https://blog.insightdatascience.com/the-unreasonable-effectiveness-of-deep-learning-representations-4ce83fc663cf)
+  * [AutoKeras: The Killer of Google’s AutoML](https://towardsdatascience.com/autokeras-the-killer-of-googles-automl-9e84c552a319)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -944,6 +949,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Darkon: Toolkit to Hack Your Deep Learning Models](http://darkon.io/)
   * [Detectron - FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet](https://github.com/facebookresearch/Detectron)
   * [Visual Search with MXNet Gluon](https://thomasdelteil.github.io/VisualSearch_MXNet/)
+  * [AutoKeras - open source software library for automated machine learning [AutoML]](http://autokeras.com/)
 * Dataset
   * [Fueling the Gold Rush: The Greatest Public Datasets for AI](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2)
   * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
@@ -1050,6 +1056,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [From REINFORCE to PPO](https://www.slideshare.net/WoongwonLee/from-reinforce-to-ppo)
 * [AI in Video Games: Improving Decision Making in League of Legends using Markov Chains, Real Match Statistics and Personal Preferences](https://towardsdatascience.com/ai-in-video-games-improving-decision-making-in-league-of-legends-using-real-match-statistics-and-29ebc149b0d0)
 * [Python Implementation of Reinforcement Learning: An Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
+* [](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -1332,6 +1339,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Kaggle Solutions](https://github.com/neptune-ml)
 * [Probability for Machine Learning](https://www.slideshare.net/MingukKang/probability-for-machine-learning)
 * [파이썬으로 머신러닝 배우기](https://www.youtube.com/channel/UCIsJh9SRlhsqy62ZzYwzZ8g)
+* [Brewing up custom ML models on AWS SageMaker](https://towardsdatascience.com/brewing-up-custom-ml-models-on-aws-sagemaker-e09b64627722)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1506,6 +1514,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Linear algebra cheat sheet for deep learning](https://towardsdatascience.com/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c)
 * [존이님의 확률과 통계 블로그](https://blog.naver.com/PostList.nhn?blogId=mykepzzang&from=postList&categoryNo=38)
 * [존이님의 선형대수학 블로그](https://blog.naver.com/PostList.nhn?blogId=mykepzzang&from=postList&categoryNo=44)
+* [BigQuery와 Datalab을 사용해 데이터 분석하기](https://zzsza.github.io/gcp/2018/08/02/bigquery-and-datalab/)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
