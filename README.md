@@ -911,7 +911,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deep Learning Study with Gluon](https://github.com/ski-net/dl_study_with_gluon)
   * [Deploy Keras Model with Flask as Web App in 10 Minutes](https://github.com/mtobeiyf/keras-flask-deploy-webapp)
   * [NLP Tutorial with Deep Learning using tensorflow](https://github.com/Bricoler/nlp-tensorflow)
-  * [ensorFlow Advanced Tutorials](https://github.com/JONGGON/Tensorflow_Advanced_Tutorials)
+  * [TensorFlow Advanced Tutorials](https://github.com/JONGGON/Tensorflow_Advanced_Tutorials)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
