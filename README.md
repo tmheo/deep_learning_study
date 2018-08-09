@@ -1056,7 +1056,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [From REINFORCE to PPO](https://www.slideshare.net/WoongwonLee/from-reinforce-to-ppo)
 * [AI in Video Games: Improving Decision Making in League of Legends using Markov Chains, Real Match Statistics and Personal Preferences](https://towardsdatascience.com/ai-in-video-games-improving-decision-making-in-league-of-legends-using-real-match-statistics-and-29ebc149b0d0)
 * [Python Implementation of Reinforcement Learning: An Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
-* [](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/)
+* [Deep Reinforcement Learning Course](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
