@@ -680,6 +680,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deploying Keras Deep Learning Models with Flask](https://towardsdatascience.com/deploying-keras-deep-learning-models-with-flask-5da4181436a2)
   * [Building an image search service from scratch](https://blog.insightdatascience.com/the-unreasonable-effectiveness-of-deep-learning-representations-4ce83fc663cf)
   * [AutoKeras: The Killer of Google’s AutoML](https://towardsdatascience.com/autokeras-the-killer-of-googles-automl-9e84c552a319)
+  * [Image Super-Resolution using Multi-Decoder Framework](https://www.datacamp.com/community/tutorials/learning-decode-reconstruction-3t-mr)
+  * [How I implemented iPhone X’s FaceID using Deep Learning in Python](https://towardsdatascience.com/how-i-implemented-iphone-xs-faceid-using-deep-learning-in-python-d5dbaa128e1d)
+  * [Intuitively Understanding Convolutions for Deep Learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
+  * [Neural Style Transfer: Creating Art with Deep Learning using tf.keras and eager execution](https://medium.com/tensorflow/neural-style-transfer-creating-art-with-deep-learning-using-tf-keras-and-eager-execution-7d541ac31398)
+  * [Train a model with Keras and Prediction using TensorFlow.js](https://colab.research.google.com/drive/1XeEGFONcw7f7Tc_2y1fvgeUm4qI9WYvs)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -797,6 +802,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deep Learning for AI [1]](https://www.slideshare.net/ssuser421e61/deep-learning-for-ai-1)
   * [Deep Learning for AI [2]](https://www.slideshare.net/ssuser421e61/deep-learning-for-ai-2)
   * [Deep Learning for AI [3]](https://www.slideshare.net/ssuser421e61/deep-learning-for-ai-3)
+  * [[GAN by Hung-yi Lee]Part 1: General introduction of GAN](https://www.slideshare.net/NaverEngineering/gan-by-hungyi-leepart-1-general-introduction-of-gan) : [[Video]](https://www.youtube.com/watch?v=CG1XNHRRbQI)
+  * [[GAN by Hung-yi Lee]Part 2: The application of GAN to speech and text processing](https://www.slideshare.net/NaverEngineering/gan-by-hungyi-leepart-2-the-application-of-gan-to-speech-and-text-processing) : [[Video]](https://www.youtube.com/watch?v=Ikr2a0xgwY0)
+  * [[GAN by Hung-yi Lee]Part 3: The recent research of my group](https://www.slideshare.net/NaverEngineering/gan-by-hungyi-leepart-3-the-recent-research-of-my-group) : [[Video]](https://www.youtube.com/watch?v=ge04NjEnrCs)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -912,6 +920,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deploy Keras Model with Flask as Web App in 10 Minutes](https://github.com/mtobeiyf/keras-flask-deploy-webapp)
   * [NLP Tutorial with Deep Learning using tensorflow](https://github.com/Bricoler/nlp-tensorflow)
   * [TensorFlow Advanced Tutorials](https://github.com/JONGGON/Tensorflow_Advanced_Tutorials)
+  * [Repo for the Deep Learning Nanodegree Foundations program](https://github.com/udacity/deep-learning)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -1057,6 +1066,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [AI in Video Games: Improving Decision Making in League of Legends using Markov Chains, Real Match Statistics and Personal Preferences](https://towardsdatascience.com/ai-in-video-games-improving-decision-making-in-league-of-legends-using-real-match-statistics-and-29ebc149b0d0)
 * [Python Implementation of Reinforcement Learning: An Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
 * [Deep Reinforcement Learning Course](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/)
+* [Safe Reinforcement Learning](https://www.slideshare.net/DongMinLee32/safe-reinforcement-learning)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -1268,6 +1278,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [An Introductory Example of Bayesian Optimization in Python with Hyperopt](https://towardsdatascience.com/an-introductory-example-of-bayesian-optimization-in-python-with-hyperopt-aae40fff4ff0)
 * [Automated Machine Learning Hyperparameter Tuning in Python](https://towardsdatascience.com/automated-machine-learning-hyperparameter-tuning-in-python-dfda59b72f8a)
 * [Machine Learning Kaggle Competition: Part Three Optimization](https://towardsdatascience.com/machine-learning-kaggle-competition-part-three-optimization-db04ea415507)
+* [Why Automated Feature Engineering Will Change the Way You Do Machine Learning](https://towardsdatascience.com/why-automated-feature-engineering-will-change-the-way-you-do-machine-learning-5c15bf188b96)
 * [Time Series - Machine Learning Mastery](https://machinelearningmastery.com/category/time-series/)
 * [Comprehensive Guide to Time Series Analytics, Visualization and Prediction with Python](http://dacatay.com/data-science/comprehensive-guide-time-series-analytics-visualization-prediction-python/)
 * [푸른생선의 신바람 금융바다 - 통계, Time Series 데이터 분석](https://blog.naver.com/PostList.nhn?blogId=bluefish850&categoryNo=17)
@@ -1340,6 +1351,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Probability for Machine Learning](https://www.slideshare.net/MingukKang/probability-for-machine-learning)
 * [파이썬으로 머신러닝 배우기](https://www.youtube.com/channel/UCIsJh9SRlhsqy62ZzYwzZ8g)
 * [Brewing up custom ML models on AWS SageMaker](https://towardsdatascience.com/brewing-up-custom-ml-models-on-aws-sagemaker-e09b64627722)
+* [Comparing Multi-Armed Bandit Algorithms on Marketing Use Cases](https://towardsdatascience.com/comparing-multi-armed-bandit-algorithms-on-marketing-use-cases-8de62a851831)
+* [DBSCAN: A Macroscopic Investigation in Python](https://www.datacamp.com/community/tutorials/dbscan-macroscopic-investigation-python)
+* [Improve Your Model Performance using Cross Validation [in Python and R]](https://www.analyticsvidhya.com/blog/2018/05/improve-model-performance-cross-validation-in-python-r/)
+* [Gradient Descent — Demystified](https://towardsdatascience.com/gradient-descent-demystified-bc30b26e432a)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1515,6 +1530,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [존이님의 확률과 통계 블로그](https://blog.naver.com/PostList.nhn?blogId=mykepzzang&from=postList&categoryNo=38)
 * [존이님의 선형대수학 블로그](https://blog.naver.com/PostList.nhn?blogId=mykepzzang&from=postList&categoryNo=44)
 * [BigQuery와 Datalab을 사용해 데이터 분석하기](https://zzsza.github.io/gcp/2018/08/02/bigquery-and-datalab/)
+* [Generating WordClouds in Python](https://www.datacamp.com/community/tutorials/wordcloud-python)
+* [What App Descriptions Tell Us: Text Data Preprocessing in Python](https://towardsdatascience.com/what-app-descriptions-tell-us-text-data-preprocessing-in-python-afc7ed88360d)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
