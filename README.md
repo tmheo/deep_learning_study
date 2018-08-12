@@ -685,6 +685,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Intuitively Understanding Convolutions for Deep Learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
   * [Neural Style Transfer: Creating Art with Deep Learning using tf.keras and eager execution](https://medium.com/tensorflow/neural-style-transfer-creating-art-with-deep-learning-using-tf-keras-and-eager-execution-7d541ac31398)
   * [Train a model with Keras and Prediction using TensorFlow.js](https://colab.research.google.com/drive/1XeEGFONcw7f7Tc_2y1fvgeUm4qI9WYvs)
+  * [Auto-Keras, or How You can Create a Deep Learning Model in 4 Lines of Code](https://towardsdatascience.com/auto-keras-or-how-you-can-create-a-deep-learning-model-in-4-lines-of-code-b2ba448ccf5e)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1355,6 +1356,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [DBSCAN: A Macroscopic Investigation in Python](https://www.datacamp.com/community/tutorials/dbscan-macroscopic-investigation-python)
 * [Improve Your Model Performance using Cross Validation [in Python and R]](https://www.analyticsvidhya.com/blog/2018/05/improve-model-performance-cross-validation-in-python-r/)
 * [Gradient Descent — Demystified](https://towardsdatascience.com/gradient-descent-demystified-bc30b26e432a)
+* [Introduction to Automated Feature Engineering Using Deep Feature Synthesis [DFS]](https://heartbeat.fritz.ai/introduction-to-automated-feature-engineering-using-deep-feature-synthesis-dfs-3feb69a7c00b)
+* [Application of Machine Learning Techniques to Trading](https://medium.com/auquan/https-medium-com-auquan-machine-learning-techniques-trading-b7120cee4f05)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
