@@ -686,6 +686,16 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Neural Style Transfer: Creating Art with Deep Learning using tf.keras and eager execution](https://medium.com/tensorflow/neural-style-transfer-creating-art-with-deep-learning-using-tf-keras-and-eager-execution-7d541ac31398)
   * [Train a model with Keras and Prediction using TensorFlow.js](https://colab.research.google.com/drive/1XeEGFONcw7f7Tc_2y1fvgeUm4qI9WYvs)
   * [Auto-Keras, or How You can Create a Deep Learning Model in 4 Lines of Code](https://towardsdatascience.com/auto-keras-or-how-you-can-create-a-deep-learning-model-in-4-lines-of-code-b2ba448ccf5e)
+  * [How to serve an embedding trained with Estimators](https://medium.com/tensorflow/how-to-serve-an-embedding-trained-with-estimators-681d5fa2fbe2)
+  * [A comprehensive guide on how to fine-tune deep neural networks using Keras on Google Colab [Free GPU]](https://towardsdatascience.com/a-comprehensive-guide-on-how-to-fine-tune-deep-neural-networks-using-keras-on-google-colab-free-daaaa0aced8f)
+  * [Eye in the Sky — Image Classification using Transfer Learning and Data Augmentation](https://towardsdatascience.com/fast-ai-deep-learnings-part-i-eye-in-the-sky-417e97c3e6bb)
+  * [Building a text classification model with TensorFlow Hub and Estimators](https://medium.com/tensorflow/building-a-text-classification-model-with-tensorflow-hub-and-estimators-3169e7aa568)
+  * [Neural Networks from Scratch. Easy vs hard](https://towardsdatascience.com/neural-networks-from-scratch-easy-vs-hard-b26ddc2e89c7)
+  * [Deep Dive into Math Behind Deep Networks](https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba)
+  * [Training and Serving ML models with tf.keras](https://medium.com/tensorflow/training-and-serving-ml-models-with-tf-keras-fd975cc0fa27)
+  * [Introduction to Object Detection](https://www.hackerearth.com/blog/machine-learning/introduction-to-object-detection/)
+  * [What is a Generative Adversarial Network?](https://towardsdatascience.com/what-is-a-generative-adversarial-network-76898dd7ea65)
+  * [Introduction to Word Embeddings](https://towardsdatascience.com/introduction-to-word-embeddings-4cf857b12edc)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -806,6 +816,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [[GAN by Hung-yi Lee]Part 1: General introduction of GAN](https://www.slideshare.net/NaverEngineering/gan-by-hungyi-leepart-1-general-introduction-of-gan) : [[Video]](https://www.youtube.com/watch?v=CG1XNHRRbQI)
   * [[GAN by Hung-yi Lee]Part 2: The application of GAN to speech and text processing](https://www.slideshare.net/NaverEngineering/gan-by-hungyi-leepart-2-the-application-of-gan-to-speech-and-text-processing) : [[Video]](https://www.youtube.com/watch?v=Ikr2a0xgwY0)
   * [[GAN by Hung-yi Lee]Part 3: The recent research of my group](https://www.slideshare.net/NaverEngineering/gan-by-hungyi-leepart-3-the-recent-research-of-my-group) : [[Video]](https://www.youtube.com/watch?v=ge04NjEnrCs)
+  * [Various seminars on ML/DL](https://github.com/kmkolasinski/deep-learning-notes/tree/master/seminars)
+  * [조희철님의 딥러닝 자료](https://github.com/hccho2/hccho2.github.io)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -922,6 +934,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [NLP Tutorial with Deep Learning using tensorflow](https://github.com/Bricoler/nlp-tensorflow)
   * [TensorFlow Advanced Tutorials](https://github.com/JONGGON/Tensorflow_Advanced_Tutorials)
   * [Repo for the Deep Learning Nanodegree Foundations program](https://github.com/udacity/deep-learning)
+  * [Experiments with Deep Learning](https://github.com/kmkolasinski/deep-learning-notes)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -1068,6 +1081,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Python Implementation of Reinforcement Learning: An Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
 * [Deep Reinforcement Learning Course](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/)
 * [Safe Reinforcement Learning](https://www.slideshare.net/DongMinLee32/safe-reinforcement-learning)
+* [웅이님의 강화학습 블로그](http://passi0n.tistory.com/category/IT/Reinforcement%20Learning)
+* [인공지능 슈퍼마리오의 거의 모든 것[Pycon 2018 정원석]](https://www.slideshare.net/wonseokjung2/pycon-2018-110420140)
+* [The Future with Reinforcement Learning — Part 1](https://towardsdatascience.com/the-future-with-reinforcement-learning-part-1-26e09e9be901)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -1358,6 +1374,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Gradient Descent — Demystified](https://towardsdatascience.com/gradient-descent-demystified-bc30b26e432a)
 * [Introduction to Automated Feature Engineering Using Deep Feature Synthesis [DFS]](https://heartbeat.fritz.ai/introduction-to-automated-feature-engineering-using-deep-feature-synthesis-dfs-3feb69a7c00b)
 * [Application of Machine Learning Techniques to Trading](https://medium.com/auquan/https-medium-com-auquan-machine-learning-techniques-trading-b7120cee4f05)
+* [Predicting Employee Churn in Python](https://www.datacamp.com/community/tutorials/predicting-employee-churn-python)
+* [Hyperparameter Optimization in Machine Learning Models](https://www.datacamp.com/community/tutorials/parameter-optimization-machine-learning-models)
+* [Unsupervised Text Summarization using Sentence Embeddings](https://medium.com/jatana/unsupervised-text-summarization-using-sentence-embeddings-adb15ce83db1)
+* [Parallelizing Feature Engineering with Dask](https://towardsdatascience.com/parallelizing-feature-engineering-with-dask-3db88aec33b7)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1535,6 +1555,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [BigQuery와 Datalab을 사용해 데이터 분석하기](https://zzsza.github.io/gcp/2018/08/02/bigquery-and-datalab/)
 * [Generating WordClouds in Python](https://www.datacamp.com/community/tutorials/wordcloud-python)
 * [What App Descriptions Tell Us: Text Data Preprocessing in Python](https://towardsdatascience.com/what-app-descriptions-tell-us-text-data-preprocessing-in-python-afc7ed88360d)
+* [Dash for Beginners](https://www.datacamp.com/community/tutorials/learn-build-dash-python)
+* [Beyond Interactive: Notebook Innovation at Netflix](https://medium.com/netflix-techblog/notebook-innovation-591ee3221233)
+* [Python Plotting Basics — Simple Charts with Matplotlib, Seaborn, and Plotly](https://towardsdatascience.com/python-plotting-basics-simple-charts-with-matplotlib-seaborn-and-plotly-e36346952a3a)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -1767,6 +1790,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Simplify Advertising Analytics Click Prediction with Databricks Unified Analytics Platform](https://databricks.com/blog/2018/07/19/simplify-advertising-analytics-click-prediction-with-databricks-unified-analytics-platform.html)
 * [추천 시스템에서의 다양성](https://ita9naiwa.github.io/recommender%20systems/2018/07/22/Recys-Diversity-and-Metrics.html)
 * [Machine Learning for Retail Price Recommendation with Python](https://towardsdatascience.com/machine-learning-for-retail-price-suggestion-with-python-64531e64186d)
+* [Recommender Systems: Exploring the Unknown Using Uncertainty](https://towardsdatascience.com/recommender-systems-exploring-the-unknown-using-uncertainty-d3177a68143a)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
