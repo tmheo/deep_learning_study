@@ -1378,6 +1378,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Hyperparameter Optimization in Machine Learning Models](https://www.datacamp.com/community/tutorials/parameter-optimization-machine-learning-models)
 * [Unsupervised Text Summarization using Sentence Embeddings](https://medium.com/jatana/unsupervised-text-summarization-using-sentence-embeddings-adb15ce83db1)
 * [Parallelizing Feature Engineering with Dask](https://towardsdatascience.com/parallelizing-feature-engineering-with-dask-3db88aec33b7)
+* [Introducing mlflow-apps: A Repository of Sample Applications for MLflow](https://databricks.com/blog/2018/08/16/introducing-mlflow-apps-a-repository-of-sample-applications-for-mlflow.html)
+* [Build a model to predict the impact of weather on urban air quality using Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/build-a-model-to-predict-the-impact-of-weather-on-urban-air-quality-using-amazon-sagemaker/)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
