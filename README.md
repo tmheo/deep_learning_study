@@ -84,6 +84,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Machine learning in Python with scikit-learn](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A) : [[Code]](https://github.com/justmarkham/scikit-learn-videos)
   * [Natural Language Processing with PyTorch](https://kh-kim.gitbook.io/natural-language-processing-with-pytorch/)
   * [PyTorch-Deep-Learning-Minicourse](https://github.com/Atcold/PyTorch-Deep-Learning-Minicourse) : [[Video]](https://github.com/Atcold/pytorch-Video-Tutorials)
+  * [Joint course of Megvii Inc. and Peking University on Deep Learning](https://zsc.github.io/megvii-pku-dl-course/)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -696,6 +697,14 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Introduction to Object Detection](https://www.hackerearth.com/blog/machine-learning/introduction-to-object-detection/)
   * [What is a Generative Adversarial Network?](https://towardsdatascience.com/what-is-a-generative-adversarial-network-76898dd7ea65)
   * [Introduction to Word Embeddings](https://towardsdatascience.com/introduction-to-word-embeddings-4cf857b12edc)
+  * [From GAN to WGAN](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
+  * [Attention? Attention!](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
+  * [From Autoencoder to Beta-VAE](https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html)
+  * [Tensorpack 구조 이해하기](https://modulabs-biomedical.github.io/TensorPack)
+  * [Everything you need to know about AutoML and Neural Architecture Search](https://towardsdatascience.com/everything-you-need-to-know-about-automl-and-neural-architecture-search-8db1863682bf)
+  * [Relation Networks for Visual Question Answering using MXNet Gluon](https://medium.com/apache-mxnet/relation-networks-for-visual-question-answering-using-mxnet-gluon-f029fde8f863)
+  * [다차원 텐서 Transpose와 Reshape](http://taewan.kim/post/transpose_reshape/)
+  * [How to implement data augmentation](https://aisolab.github.io/deep%20learning/2018/08/22/Tensorflow_How-to-implement-data-augmentation/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -818,6 +827,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [[GAN by Hung-yi Lee]Part 3: The recent research of my group](https://www.slideshare.net/NaverEngineering/gan-by-hungyi-leepart-3-the-recent-research-of-my-group) : [[Video]](https://www.youtube.com/watch?v=ge04NjEnrCs)
   * [Various seminars on ML/DL](https://github.com/kmkolasinski/deep-learning-notes/tree/master/seminars)
   * [조희철님의 딥러닝 자료](https://github.com/hccho2/hccho2.github.io)
+  * [어머! TPU! 이건 꼭 써야해!](https://www.slideshare.net/JaewookKang1/cloud-tpu-jae180814)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -973,6 +983,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Detectron - FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet](https://github.com/facebookresearch/Detectron)
   * [Visual Search with MXNet Gluon](https://thomasdelteil.github.io/VisualSearch_MXNet/)
   * [AutoKeras - open source software library for automated machine learning [AutoML]](http://autokeras.com/)
+  * [Lucid - A collection of infrastructure and tools for research in neural network interpretability](https://github.com/tensorflow/lucid)
 * Dataset
   * [Fueling the Gold Rush: The Greatest Public Datasets for AI](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2)
   * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
@@ -1084,6 +1095,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [웅이님의 강화학습 블로그](http://passi0n.tistory.com/category/IT/Reinforcement%20Learning)
 * [인공지능 슈퍼마리오의 거의 모든 것[Pycon 2018 정원석]](https://www.slideshare.net/wonseokjung2/pycon-2018-110420140)
 * [The Future with Reinforcement Learning — Part 1](https://towardsdatascience.com/the-future-with-reinforcement-learning-part-1-26e09e9be901)
+* [모두를 위한 PG여행 가이드](https://www.slideshare.net/DongMinLee32/pg-111449775)
+* [DQN Break](https://www.slideshare.net/ssuserd20cab/dqn-break)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -1380,6 +1393,19 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Parallelizing Feature Engineering with Dask](https://towardsdatascience.com/parallelizing-feature-engineering-with-dask-3db88aec33b7)
 * [Introducing mlflow-apps: A Repository of Sample Applications for MLflow](https://databricks.com/blog/2018/08/16/introducing-mlflow-apps-a-repository-of-sample-applications-for-mlflow.html)
 * [Build a model to predict the impact of weather on urban air quality using Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/build-a-model-to-predict-the-impact-of-weather-on-urban-air-quality-using-amazon-sagemaker/)
+* [Interactive Machine Learning, Deep Learning and Statistics websites](https://p.migdal.pl/interactive-machine-learning-list/)
+* [Resources for CS 229[Stanford] - Machine Learning](https://stanford.edu/~shervine/teaching/cs-229.html)
+* [A "Data Science for Good" Machine Learning Project Walk-Through in Python: Part One](https://towardsdatascience.com/a-data-science-for-good-machine-learning-project-walk-through-in-python-part-one-1977dd701dbc)
+* [A "Data Science for Good" Machine Learning Project Walk-Through in Python: Part Two](https://towardsdatascience.com/a-data-science-for-good-machine-learning-project-walk-through-in-python-part-two-2773bd52daf0)
+* [How to Visualize a Decision Tree from a Random Forest in Python using Scikit-Learn](https://towardsdatascience.com/how-to-visualize-a-decision-tree-from-a-random-forest-in-python-using-scikit-learn-38ad2d75f21c)
+* [From Big Data to micro-services: how to serve Spark-trained models through AWS lambdas](https://towardsdatascience.com/from-big-data-to-micro-services-how-to-serve-spark-trained-models-through-aws-lambdas-ebe129f4849c)
+* [The Beginner's Guide to Dimensionality Reduction](https://idyll.pub/post/dimensionality-reduction-293e465c2a3443e8941b016d/)
+* [Use Kaggle to start [and guide] your ML/ Data Science journey — Why and How](https://towardsdatascience.com/use-kaggle-to-start-and-guide-your-ml-data-science-journey-f09154baba35)
+* [A Hands-On Guide to Automated Feature Engineering using Featuretools in Python](https://www.analyticsvidhya.com/blog/2018/08/guide-automated-feature-engineering-featuretools-python/)
+* [Public repository made for Automated Feature Engineering workshop](https://github.com/fred-navruzov/featuretools-workshop)
+* [Complete Your First Kaggle Competition [a.k.a Titanic: Machine Learning from Disaster] In Less Than 20 Lines of Code](https://towardsdatascience.com/complete-your-first-kaggle-competition-a-k-a-d5ca937a6451)
+* [Improving Our Code to Obtain a Better Model for Kaggle’s Titanic Competition](https://towardsdatascience.com/improving-our-code-to-obtain-a-better-model-for-kaggles-titanic-competition-c5ba66aed16b)
+* [Using Natural Language Processing [NLP], Deep Learning, and GridSearchCV in Kaggle’s Titanic Competition](https://towardsdatascience.com/improving-our-model-for-kaggles-titanic-competition-with-natural-language-processing-nlp-deep-8fa8d3e1fa83)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1560,6 +1586,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Dash for Beginners](https://www.datacamp.com/community/tutorials/learn-build-dash-python)
 * [Beyond Interactive: Notebook Innovation at Netflix](https://medium.com/netflix-techblog/notebook-innovation-591ee3221233)
 * [Python Plotting Basics — Simple Charts with Matplotlib, Seaborn, and Plotly](https://towardsdatascience.com/python-plotting-basics-simple-charts-with-matplotlib-seaborn-and-plotly-e36346952a3a)
+* [[PyCon KR 2018] 땀내를 줄이는 Data와 Feature 다루기](https://www.slideshare.net/zzonee/2018-pycon-kr-data-feature)
+* [Transforming Skewed Data](https://towardsdatascience.com/transforming-skewed-data-73da4c2d0d16)
+* [Pandas 10분 완성](https://dataitgirls2.github.io/10minutes2pandas/)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
