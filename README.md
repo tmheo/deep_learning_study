@@ -72,6 +72,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Google - SuperComputing 2017 Deep Learning Tutorial](https://github.com/google-aai/sc17)
   * [Google - Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/)
   * [Google - Machine Learning Practica](https://developers.google.com/machine-learning/practica/)
+  * [Google - Machine Learning Tech Dev Guide](https://techdevguide.withgoogle.com/paths/machine-learning/)
   * [Lecture Slides for Deeplearning book](https://github.com/InfolabAI/DeepLearning)
   * [Microsoft Professional Program for Data Science track](https://academy.microsoft.com/en-us/tracks/data-science/)
   * [Microsoft Professional Program for Artificial Intelligence track](https://academy.microsoft.com/en-us/tracks/artificial-intelligence/)
@@ -705,6 +706,14 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Relation Networks for Visual Question Answering using MXNet Gluon](https://medium.com/apache-mxnet/relation-networks-for-visual-question-answering-using-mxnet-gluon-f029fde8f863)
   * [다차원 텐서 Transpose와 Reshape](http://taewan.kim/post/transpose_reshape/)
   * [How to implement data augmentation](https://aisolab.github.io/deep%20learning/2018/08/22/Tensorflow_How-to-implement-data-augmentation/)
+  * [Automatic Speech Recognition Data Collection with Youtube V3 API, Mask-RCNN and Google Vision API](https://towardsdatascience.com/automatic-speech-recognition-data-collection-with-youtube-v3-api-mask-rcnn-and-google-vision-api-2370d6776109)
+  * [Word embeddings for sentiment analysis](https://towardsdatascience.com/word-embeddings-for-sentiment-analysis-65f42ea5d26e)
+  * [Sentiment Analysis via Self-Attention with MXNet Gluon](https://medium.com/apache-mxnet/sentiment-analysis-via-self-attention-with-mxnet-gluon-dc774d38ba69)
+  * [How I used Deep Learning to Optimize an Ecommerce Business Process with Keras](https://towardsdatascience.com/how-i-used-deep-learning-to-optimize-an-ecommerce-business-process-with-keras-8ba328e12d9c)
+  * [Kaggle Avito Demand Challenge: 18th Place Solution — Neural Network](https://towardsdatascience.com/kaggle-avito-demand-challenge-18th-place-solution-neural-network-ac19efd6e183)
+  * [Kaggle Avito Demand Challenge: "Dance with Ensemble" Sharing Thread](https://www.kaggle.com/c/avito-demand-prediction/discussion/59880)
+  * [Announcing fast.ai part 1 now available as Kaggle Kernels](https://medium.com/@hortonhearsafoo/announcing-fast-ai-part-1-now-available-as-kaggle-kernels-8ef4ca3b9ce6)
+  * [박규병님의 Deep Learning Career FAQ](https://github.com/kyubyong/dl_career_faq)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -864,6 +873,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [PR-099: MRNet-Product2Vec](https://www.youtube.com/watch?v=cpCS7LBRkRU)
   * [주재걸 교수님의 머신러닝/딥러닝/선형대수 강의영상](https://www.youtube.com/channel/UCsEQc1-iFbu_yHvMd1vqwFQ/playlists)
   * [최성철 교수님의 머신러닝/데이터과학 강의영상](https://www.youtube.com/channel/UC_kvhNYJtP1-Ap67byTbfuw/playlists)
+  * [TensorFlow, Deep Learning, and Modern Convolutional Neural Nets, Without a PhD [Cloud Next '18]](https://www.youtube.com/watch?v=KC4201o83W0)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -1097,6 +1107,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [The Future with Reinforcement Learning — Part 1](https://towardsdatascience.com/the-future-with-reinforcement-learning-part-1-26e09e9be901)
 * [모두를 위한 PG여행 가이드](https://www.slideshare.net/DongMinLee32/pg-111449775)
 * [DQN Break](https://www.slideshare.net/ssuserd20cab/dqn-break)
+* [Tutorial: Double Deep Q-Learning with Dueling Network Architecture](https://towardsdatascience.com/tutorial-double-deep-q-learning-with-dueling-network-architectures-4c1b3fb7f756)
+* [강화학습의 이론과 실제](https://www.slideshare.net/wonseokjung2/rl-112055345)
+* [한국인공지능연구소 1기 강화학습랩 결과보고서](https://www.ai-lab.kr/labs/amerikano10jan-raebjang-jeongyijin/amerikano-1gi-gyeolgwabogoseo)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -1260,7 +1273,6 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Automatic feature extraction with t-SNE](https://medium.com/jungle-book/automatic-feature-extraction-with-t-sne-62826ce09268)
 * [How to Use Machine Learning to Predict the Quality of Wines](https://medium.freecodecamp.org/using-machine-learning-to-predict-the-quality-of-wines-9e2e13d7480d) : [[Code]](https://github.com/booleanhunter/ML-supervised-learning/tree/master/game-of-wines)
 * [구글 ML 엔진 - scikit-learn, XGBoost 지원](https://blog.naver.com/PostView.nhn?blogId=rpgcpstory&logNo=221261741565)
-* [Machine Learning - Ensemble, Bagging, Boosting](https://github.com/modulabs/DeepNLP/blob/master/Kaggle/Machine%20Learning%20Boosting_20180424.pdf)
 * [PCA using Python [scikit-learn]](https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60)
 * [Use the built-in Amazon SageMaker Random Cut Forest algorithm for anomaly detection](https://aws.amazon.com/blogs/machine-learning/use-the-built-in-amazon-sagemaker-random-cut-forest-algorithm-for-anomaly-detection/)
 * [Using Word2Vec for Better Embeddings of Categorical Features](https://towardsdatascience.com/using-word2vec-for-better-embeddings-of-categorical-features-de75020e1233)
@@ -1406,6 +1418,18 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Complete Your First Kaggle Competition [a.k.a Titanic: Machine Learning from Disaster] In Less Than 20 Lines of Code](https://towardsdatascience.com/complete-your-first-kaggle-competition-a-k-a-d5ca937a6451)
 * [Improving Our Code to Obtain a Better Model for Kaggle’s Titanic Competition](https://towardsdatascience.com/improving-our-code-to-obtain-a-better-model-for-kaggles-titanic-competition-c5ba66aed16b)
 * [Using Natural Language Processing [NLP], Deep Learning, and GridSearchCV in Kaggle’s Titanic Competition](https://towardsdatascience.com/improving-our-model-for-kaggles-titanic-competition-with-natural-language-processing-nlp-deep-8fa8d3e1fa83)
+* [The Ultimate Guide to 12 Dimensionality Reduction Techniques [with Python codes]](https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/)
+* [Linear Regression Simplified - Ordinary Least Square vs Gradient Descent](https://towardsdatascience.com/linear-regression-simplified-ordinary-least-square-vs-gradient-descent-48145de2cf76)
+* [Decision Trees — A Bird's eye view and an Implementation](https://towardsdatascience.com/decision-trees-a-birds-eye-view-and-an-implementation-c91754f0dcd0)
+* [Over 200 of the Best Machine Learning, NLP, and Python Tutorials — 2018 Edition](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc)
+* [How to Rank 10% in Your First Kaggle Competition](https://dnc1994.com/2016/05/rank-10-percent-in-first-kaggle-competition-en/index.html)
+* [Towards Preventing Overfitting: Regularization](https://www.datacamp.com/community/tutorials/towards-preventing-overfitting-regularization)
+* [A curated list of awesome anomaly detection resources](https://github.com/hoya012/awesome-anomaly-detection)
+* [A Kaggler's Guide to Model Stacking in Practice](http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/)
+* [A Comprehensive Guide to Ensemble Learning [with Python codes]](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/)
+* [Stacking — A Super Learning Technique](https://medium.com/@gurucharan_33981/stacking-a-super-learning-technique-dbed06b1156d)
+* [An Implementation and Explanation of the Random Forest in Python](https://towardsdatascience.com/an-implementation-and-explanation-of-the-random-forest-in-python-77bf308a9b76)
+* [Interactive Visualization of Decision Trees with Jupyter Widgets](https://towardsdatascience.com/interactive-visualization-of-decision-trees-with-jupyter-widgets-ca15dd312084)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1589,6 +1613,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [[PyCon KR 2018] 땀내를 줄이는 Data와 Feature 다루기](https://www.slideshare.net/zzonee/2018-pycon-kr-data-feature)
 * [Transforming Skewed Data](https://towardsdatascience.com/transforming-skewed-data-73da4c2d0d16)
 * [Pandas 10분 완성](https://dataitgirls2.github.io/10minutes2pandas/)
+* [Python에서 데이터 시각화하는 다양한 방법](https://zzsza.github.io/development/2018/08/24/data-visualization-in-python/)
+* [Google Colab 사용하기](https://zzsza.github.io/data/2018/08/30/google-colab/)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
