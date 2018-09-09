@@ -714,6 +714,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Kaggle Avito Demand Challenge: "Dance with Ensemble" Sharing Thread](https://www.kaggle.com/c/avito-demand-prediction/discussion/59880)
   * [Announcing fast.ai part 1 now available as Kaggle Kernels](https://medium.com/@hortonhearsafoo/announcing-fast-ai-part-1-now-available-as-kaggle-kernels-8ef4ca3b9ce6)
   * [박규병님의 Deep Learning Career FAQ](https://github.com/kyubyong/dl_career_faq)
+  * [GAN Lab - Play with Generative Adversarial Networks in your browser!](https://poloclub.github.io/ganlab/)
+  * [GAN을 이용한 Image to Image Translation: Pix2Pix, CycleGAN, DiscoGAN](https://taeoh-kim.github.io/blog/gan%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-image-to-image-translation-pix2pix-cyclegan-discogan/)
+  * [Word Embeddings using Deep Neural Network IMAGE Classifier](https://towardsdatascience.com/creating-words-embedding-using-deep-neural-network-image-classifier-ae2594d3862d)
+  * [조윤주님의 Deep Learning Papers Review](https://github.com/yjucho1/articles)
+  * [Training a Model with Amazon SageMaker : AWSKRUG Data Analysis hands-on #2](https://github.com/awskrug/handson-labs-2018/tree/master/DataAnalysis/2_ModelTraining)
+  * [GluonNLP - Attention API로 간단히 어텐션 사용하기](http://freesearch.pe.kr/archives/4876)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -874,6 +880,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [주재걸 교수님의 머신러닝/딥러닝/선형대수 강의영상](https://www.youtube.com/channel/UCsEQc1-iFbu_yHvMd1vqwFQ/playlists)
   * [최성철 교수님의 머신러닝/데이터과학 강의영상](https://www.youtube.com/channel/UC_kvhNYJtP1-Ap67byTbfuw/playlists)
   * [TensorFlow, Deep Learning, and Modern Convolutional Neural Nets, Without a PhD [Cloud Next '18]](https://www.youtube.com/watch?v=KC4201o83W0)
+  * [Artificial Intelligence Lecture Series](https://www.youtube.com/playlist?list=PLdPz9_rcdD97b3iExKYmla8vjlsc_k1ee)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -955,6 +962,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [TensorFlow Advanced Tutorials](https://github.com/JONGGON/Tensorflow_Advanced_Tutorials)
   * [Repo for the Deep Learning Nanodegree Foundations program](https://github.com/udacity/deep-learning)
   * [Experiments with Deep Learning](https://github.com/kmkolasinski/deep-learning-notes)
+  * [2018 TF Pattern Design Study in MoT](https://github.com/motlabs/mot-tf-codepattern-study)
+  * [KEKOxTutorial - 전 세계의 멋진 케라스 문서 및 튜토리얼을 한글화하여 케라스x코리아를 널리널리 이롭게합니다](https://github.com/KerasKorea/KEKOxTutorial)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -998,6 +1007,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Fueling the Gold Rush: The Greatest Public Datasets for AI](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2)
   * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
   * [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)
+  * [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 
 ## Reinforcement Learning
 * [Fundamental of Reinforcement Learning](https://www.gitbook.com/book/dnddnjs/rl/)
@@ -1110,6 +1120,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Tutorial: Double Deep Q-Learning with Dueling Network Architecture](https://towardsdatascience.com/tutorial-double-deep-q-learning-with-dueling-network-architectures-4c1b3fb7f756)
 * [강화학습의 이론과 실제](https://www.slideshare.net/wonseokjung2/rl-112055345)
 * [한국인공지능연구소 1기 강화학습랩 결과보고서](https://www.ai-lab.kr/labs/amerikano10jan-raebjang-jeongyijin/amerikano-1gi-gyeolgwabogoseo)
+* [강화학습으로 인공지능 슈퍼마리오 만들기 강의 1편](https://wonseokjung.github.io/reinforcementlearning/update/Supermario1/)
+* [Reinforcement Learning: a comprehensive introduction [Part 0]](https://www.lpalmieri.com/posts/rl-introduction-00/)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -1430,6 +1442,13 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Stacking — A Super Learning Technique](https://medium.com/@gurucharan_33981/stacking-a-super-learning-technique-dbed06b1156d)
 * [An Implementation and Explanation of the Random Forest in Python](https://towardsdatascience.com/an-implementation-and-explanation-of-the-random-forest-in-python-77bf308a9b76)
 * [Interactive Visualization of Decision Trees with Jupyter Widgets](https://towardsdatascience.com/interactive-visualization-of-decision-trees-with-jupyter-widgets-ca15dd312084)
+* [What’s WRONG with Metrics?](https://towardsdatascience.com/choosing-the-right-metric-is-a-huge-issue-99ccbe73de61)
+* [Pycon korea 2018 kaggle tutorial[kaggle break]](https://www.slideshare.net/yeonminkim/pycon-korea-2018-kaggle-tutorialkaggle-break)
+* [Ensemble Learning in Python](https://www.datacamp.com/community/tutorials/ensemble-learning-python)
+* [Fine tuning a classifier in scikit-learn](https://towardsdatascience.com/fine-tuning-a-classifier-in-scikit-learn-66e048c21e65)
+* [Understanding Logistic Regression in Python](https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python)
+* [How to Make Your Machine Learning Models Robust to Outliers](https://heartbeat.fritz.ai/how-to-make-your-machine-learning-models-robust-to-outliers-44d404067d07)
+* [Trash or treasure — how to tell if a classification algorithm is any good](https://towardsdatascience.com/trash-or-treasure-how-to-tell-if-a-classification-algorithm-is-any-good-cb491180b7a6)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1615,6 +1634,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Pandas 10분 완성](https://dataitgirls2.github.io/10minutes2pandas/)
 * [Python에서 데이터 시각화하는 다양한 방법](https://zzsza.github.io/development/2018/08/24/data-visualization-in-python/)
 * [Google Colab 사용하기](https://zzsza.github.io/data/2018/08/30/google-colab/)
+* [The 10 Mining Techniques Data Scientists Need for Their Toolbox](https://towardsdatascience.com/the-10-mining-techniques-data-scientists-need-for-their-toolbox-ae15a5733b02)
+* [Pre-Modeling: Data Preprocessing and Feature Exploration in Python](https://www.youtube.com/watch?v=V0u6bxQOUJ8)
+* [Julie Michelman - Pandas, Pipelines, and Custom Transformers](https://www.youtube.com/watch?v=BFaadIqWlAg)
+* [Essential Math for Data Science — ‘Why’ and ‘How’](https://towardsdatascience.com/essential-math-for-data-science-why-and-how-e88271367fbd)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -1848,6 +1871,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [추천 시스템에서의 다양성](https://ita9naiwa.github.io/recommender%20systems/2018/07/22/Recys-Diversity-and-Metrics.html)
 * [Machine Learning for Retail Price Recommendation with Python](https://towardsdatascience.com/machine-learning-for-retail-price-suggestion-with-python-64531e64186d)
 * [Recommender Systems: Exploring the Unknown Using Uncertainty](https://towardsdatascience.com/recommender-systems-exploring-the-unknown-using-uncertainty-d3177a68143a)
+* [눈으로 듣는 음악 추천 시스템 + a](https://brunch.co.kr/@goodvc78/20)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
