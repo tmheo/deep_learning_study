@@ -1132,6 +1132,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [한국인공지능연구소 1기 강화학습랩 결과보고서](https://www.ai-lab.kr/labs/amerikano10jan-raebjang-jeongyijin/amerikano-1gi-gyeolgwabogoseo)
 * [강화학습으로 인공지능 슈퍼마리오 만들기 강의 1편](https://wonseokjung.github.io/reinforcementlearning/update/Supermario1/)
 * [Reinforcement Learning: a comprehensive introduction [Part 0]](https://www.lpalmieri.com/posts/rl-introduction-00/)
+* [Advantage Actor Critic Review](https://chris-chris.gitbook.io/sc2-korean-level/untitled)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -1903,6 +1904,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Recommender Systems: Exploring the Unknown Using Uncertainty](https://towardsdatascience.com/recommender-systems-exploring-the-unknown-using-uncertainty-d3177a68143a)
 * [눈으로 듣는 음악 추천 시스템 + a](https://brunch.co.kr/@goodvc78/20)
 * [Creating a Hybrid Content-Collaborative Movie Recommender Using Deep Learning](https://towardsdatascience.com/creating-a-hybrid-content-collaborative-movie-recommender-using-deep-learning-cc8b431618af)
+* [Recall and Precision at k for Recommender Systems](https://medium.com/@m_n_malaeb/recall-and-precision-at-k-for-recommender-systems-618483226c54)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
