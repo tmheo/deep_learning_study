@@ -1539,7 +1539,6 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [gimmesilver님의 데이터 분석 브런치](https://brunch.co.kr/@gimmesilver/)
 * [datageek님의 데이터 분석 블로그](http://blog.naver.com/datageeks)
 * [PinkWink님의 데이터 분석 블로그](http://pinkwink.kr/category/Theory/DataScience)
-* [LEARNING PYTHON FOR DATA SCIENCE: CHEAT SHEETS](https://www.continuum.io/blog/developer-blog/learning-python-data-science-cheat-sheets)
 * [NumPy Tutorial: Data analysis with Python](http://www.dataquest.io/blog/numpy-tutorial-python/)
 * [K-MOOC Operation Research : Numpy Part #1](https://www.youtube.com/watch?v=Fm1sWcdL_ak)
 * [K-MOOC Operation Research : Numpy Part #2](https://www.youtube.com/watch?v=Sbywpatl-BA)
@@ -1721,6 +1720,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Data Science Topics](https://www.jeremyjordan.me/data-science/)
 * [Introduction to Customer Segmentation in Python](https://www.datacamp.com/community/tutorials/introduction-customer-segmentation-python)
 * [Demystifying crucial statistics in Python](https://www.datacamp.com/community/tutorials/demystifying-crucial-statistics-python)
+* [DataViz Cheatsheet](https://policyviz.com/2018/08/07/dataviz-cheatsheet/)
+* [Data Science Cheatsheet](https://github.com/ml874/Data-Science-Cheatsheet)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
