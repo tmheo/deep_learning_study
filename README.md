@@ -129,7 +129,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [The Black Magic of Deep Learning - Tips and Tricks for the practitioner](https://nmarkou.blogspot.kr/2017/02/the-black-magic-of-deep-learning-tips.html)
   * [How a Japanese cucumber farmer is using deep learning and TensorFlow](http://besimondata.com/2017/02/23/how-a-japanese-cucumber-farmer-is-using-deep-learning-and-tensorflow/﻿)
   * [[개앞맵시] 스카이넷도 딥러닝부터](https://www.mindmeister.com/812276967/_)
-  * [Keras 강좌](https://tykimos.github.io/Keras/index.html)
+  * [Keras 블로그](https://tykimos.github.io/Keras/index.html)
   * [Coding a Deep Neural Network to Steer a Car: Step By Step](https://medium.com/udacity/coding-a-deep-neural-network-to-steer-a-car-step-by-step-c075a12108e2)
   * [Torch와 OpenCV를 활용한 실시간 이미지 분류 데모](http://www.popit.kr/torch%EC%99%80-opencv%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B6%84%EB%A5%98-%EB%8D%B0%EB%AA%A8/)
   * [Variational Autoencoders Explained](http://kvfrans.com/variational-autoencoders-explained/)
@@ -749,6 +749,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [6 Steps To Write Any Machine Learning Algorithm From Scratch: Perceptron Case Study](https://towardsdatascience.com/6-steps-to-write-any-machine-learning-algorithm-from-scratch-perceptron-case-study-335f638a70f3)
   * [Attention is all you need paper 뽀개기](https://pozalabs.github.io/transformer/)
   * [Learning Transferable Architectures for Scalable Image Recognition 리뷰](http://research.sualab.com/machine-learning/computer-vision/2018/09/28/nasnet-review.html)
+  * [케라스 LSTM 모델로 작곡하기](https://tykimos.github.io/2018/09/14/How_to_Generate_Music_using_a_LSTM_Neural_Network_in_Keras/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
