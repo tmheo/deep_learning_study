@@ -12,7 +12,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Stanford - CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) : [[Video]](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv), [[Korean]](http://aikorea.org/cs231n/), [[Video - Korean]](https://www.youtube.com/playlist?list=PL1Kb3QTCLIVtyOuMgyVgT-OeW0PYXl3j5), [[Korean - KNU]](https://github.com/insurgent92/CS231N_17_KOR_SUB)
   * [Stanford - CS224n: Deep Learning for Natural Language Processing](http://web.stanford.edu/class/cs224n/) : [[Video]](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
   * [Stanford - Unsupervised Feature Learning and Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
-  * [Stanford - Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/)
+  * [Stanford - Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/) : [[CS20[TensorFlow] Lecture Note]](https://reniew.github.io/32/)
   * [Stanford - Theories of Deep Learning [STATS 385]](https://stats385.github.io/)
   * [MIT - 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
   * [MIT - 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
@@ -88,6 +88,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Joint course of Megvii Inc. and Peking University on Deep Learning](https://zsc.github.io/megvii-pku-dl-course/)
   * [Statistics 110 : Probability](https://www.edwith.org/harvardprobability/)
   * [선형대수 with Khan Academy](https://www.edwith.org/linear-algebra)
+  * [https://tf.wiki/](TensorFlow | A Concise Handbook of TensorFlow Eager Execution)
+  * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -741,6 +743,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [How to Use ELMo Word Vectors for Spam Classification](https://towardsdatascience.com/how-to-use-elmo-word-vectors-for-spam-classification-1891c0da8f1d)
   * [Introduction to Image Caption Generation using the Avenger’s Infinity War Characters](https://medium.com/analytics-vidhya/introduction-to-image-caption-generation-using-the-avengers-infinity-war-characters-6f14df09dbe5)
   * [Transferring Machine Learning Models from PyTorch to Caffe2 and Mobile Using ONNX](https://heartbeat.fritz.ai/transferring-machine-learning-models-from-pytorch-to-caffe2-and-mobile-using-onnx-10eb266eaacb)
+  * [Pytorch: how and when to use Module, Sequential, ModuleList and ModuleDict](https://towardsdatascience.com/pytorch-how-and-when-to-use-module-sequential-modulelist-and-moduledict-7a54597b5f17)
+  * [Illustrated Guide to LSTM’s and GRU’s: A step by step explanation](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
+  * [TIME SERIES PREDICTION USING LSTM DEEP NEURAL NETWORKS](https://www.altumintelligence.com/articles/a/Time-Series-Prediction-Using-LSTM-Deep-Neural-Networks)
+  * [6 Steps To Write Any Machine Learning Algorithm From Scratch: Perceptron Case Study](https://towardsdatascience.com/6-steps-to-write-any-machine-learning-algorithm-from-scratch-perceptron-case-study-335f638a70f3)
+  * [Attention is all you need paper 뽀개기](https://pozalabs.github.io/transformer/)
+  * [Learning Transferable Architectures for Scalable Image Recognition 리뷰](http://research.sualab.com/machine-learning/computer-vision/2018/09/28/nasnet-review.html)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -986,6 +994,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Experiments with Deep Learning](https://github.com/kmkolasinski/deep-learning-notes)
   * [2018 TF Pattern Design Study in MoT](https://github.com/motlabs/mot-tf-codepattern-study)
   * [KEKOxTutorial - 전 세계의 멋진 케라스 문서 및 튜토리얼을 한글화하여 케라스x코리아를 널리널리 이롭게합니다](https://github.com/KerasKorea/KEKOxTutorial)
+  * [tf.data examples for keras and estimator models](https://github.com/terryum/tf.data-for-keras-and-tensorflow-estimator)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -1030,6 +1039,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
   * [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)
   * [Google Dataset Search](https://toolbox.google.com/datasetsearch)
+  * [가장 큰 오픈소스 자율주행차량 데이터셋 공개 - UC Berkeley BDD100K](https://sites.google.com/site/bimprinciple/in-the-news/gajangkeunopeunsoseujayuljuhaengchalyangdeiteosesgong-gae-ucberkeleybdd100k)
 
 ## Reinforcement Learning
 * [Fundamental of Reinforcement Learning](https://www.gitbook.com/book/dnddnjs/rl/)
@@ -1147,6 +1157,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Advantage Actor Critic Review](https://chris-chris.gitbook.io/sc2-korean-level/untitled)
 * [From Scratch: AI Balancing Act in 50 Lines of Python](https://towardsdatascience.com/from-scratch-ai-balancing-act-in-50-lines-of-python-7ea67ef717)
 * [Introduction: Reinforcement Learning with OpenAI Gym](https://towardsdatascience.com/reinforcement-learning-with-openai-d445c2c687d2)
+* [Google Dopamine: New Reinforcement Learning framework](https://medium.com/the-21st-century/google-dopamine-new-rl-framework-f84a35b7fb3f)
+* [CS 294-112 at UC Berkeley - Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
+* [An intro to Advantage Actor Critic methods: let’s play Sonic the Hedgehog!](https://medium.freecodecamp.org/an-intro-to-advantage-actor-critic-methods-lets-play-sonic-the-hedgehog-86d6240171d)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -1499,6 +1512,16 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [데이터 분석 패턴, 모형 쌓기[Model Stacking]](http://www.2e.co.kr/hp/pages/share/ShareView.php?modsrl=5913&docsrl=184259&datatype=)
 * [Mlxtend [machine learning extensions] is a Python library of useful tools for the day-to-day data science tasks](http://rasbt.github.io/mlxtend/)
 * [TPOT in Python](https://www.datacamp.com/community/tutorials/tpot-machine-learning-python)
+* [Google Colab과 Kaggle 연동하기](http://kaggle-kr.tistory.com/21)
+* [Amazon SageMaker Workshop](https://sagemaker-workshop.com/)
+* [Beginner's Guide to Feature Selection in Python](https://www.datacamp.com/community/tutorials/feature-selection-python)
+* [A machine learning survival kit for doctors](https://medium.com/owkin/a-machine-learning-survival-kit-for-doctors-97982d69a375)
+* [Which encoding is good for time-validation?-1.4417](https://www.kaggle.com/youhanlee/which-encoding-is-good-for-time-validation-1-4417)
+* [Boosting, Bagging, and Stacking — Ensemble Methods with sklearn and mlens](https://medium.com/@rrfd/boosting-bagging-and-stacking-ensemble-methods-with-sklearn-and-mlens-a455c0c982de)
+* [Python Implementation of Andrew Ng’s Machine Learning Course [Part 1]](https://medium.com/analytics-vidhya/python-implementation-of-andrew-ngs-machine-learning-course-part-1-6b8dd1c73d80)
+* [Python Implementation of Andrew Ng’s Machine Learning Course [Part 2.1]](https://medium.com/analytics-vidhya/python-implementation-of-andrew-ngs-machine-learning-course-part-2-1-1a666f049ad6)
+* [Python Implementation of Andrew Ng’s Machine Learning Course [Part 2.2]](https://medium.com/analytics-vidhya/python-implementation-of-andrew-ngs-machine-learning-course-part-2-2-dceff1a12a12)
+* [A Guide to using Logistic Regression for Digit Recognition [with Python codes]](https://medium.com/analytics-vidhya/a-guide-to-using-logistic-regression-for-digit-recognition-with-python-codes-86aae6da10fe)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1692,6 +1715,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [MIT 18.06 Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 * [MIT - Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/)
 * [Harvard - Statistics 110: Probability](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+* [A new plot theme for Matplotlib — Gadfly](https://towardsdatascience.com/a-new-plot-theme-for-matplotlib-gadfly-2cffc745ff84)
+* [The ambiguity of p-value; What is it?](https://towardsdatascience.com/the-ambiguity-of-p-value-what-is-it-3a8d552e6632)
+* [Data Science Topics](https://www.jeremyjordan.me/data-science/)
+* [Introduction to Customer Segmentation in Python](https://www.datacamp.com/community/tutorials/introduction-customer-segmentation-python)
+* [Demystifying crucial statistics in Python](https://www.datacamp.com/community/tutorials/demystifying-crucial-statistics-python)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
