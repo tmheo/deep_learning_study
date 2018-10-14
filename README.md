@@ -762,6 +762,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Google Colaboratory에서 Keras의 백엔드로서 MXNet을 설정하는 방법](https://gist.github.com/serithemage/ee86d2d9db762e522287cebfb540e35d)
   * [How to Develop Convolutional Neural Networks for Multi-Step Time Series Forecasting](https://machinelearningmastery.com/how-to-develop-convolutional-neural-networks-for-multi-step-time-series-forecasting/)
   * [How to Develop LSTM Models for Multi-Step Time Series Forecasting of Household Power Consumption](https://machinelearningmastery.com/how-to-develop-lstm-models-for-multi-step-time-series-forecasting-of-household-power-consumption/)
+  * [How to Train Your Model [Dramatically Faster] - Learn to use transfer learning, with a working Python-coded example.](https://towardsdatascience.com/how-to-train-your-model-dramatically-faster-9ad063f0f718)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
