@@ -92,6 +92,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [선형대수 with Khan Academy](https://www.edwith.org/linear-algebra)
   * [https://tf.wiki/](TensorFlow | A Concise Handbook of TensorFlow Eager Execution)
   * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+  * [Bloomberg ML EDU - FOUNDATIONS OF MACHINE LEARNING](https://bloomberg.github.io/foml/)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -736,7 +737,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deduce the Number of Layers and Neurons for ANN](https://www.datacamp.com/community/tutorials/layers-neurons-artificial-neural-networks)
   * [Investigating Tensors with PyTorch](https://www.datacamp.com/community/tutorials/investigating-tensors-pytorch)
   * [Introducing TFServe: Simple and easy HTTP server for tensorflow model inference](https://towardsdatascience.com/introducing-tfserve-simple-and-easy-http-server-for-tensorflow-model-inference-582ea1b07da8)
-  * [From Exploration to Production — Bridging the Deployment Gap for Deep Learning](https://towardsdatascience.com/from-exploration-to-production-bridging-the-deployment-gap-for-deep-learning-8b59a5e1c819)
+  * [From Exploration to Production — Bridging the Deployment Gap for Deep Learning [Part 1]](https://towardsdatascience.com/from-exploration-to-production-bridging-the-deployment-gap-for-deep-learning-8b59a5e1c819)
+  * [From Exploration to Production — Bridging the Deployment Gap for Deep Learning [Part 2]](https://towardsdatascience.com/from-exploration-to-production-bridging-the-deployment-gap-for-deep-learning-part-2-9e33cc8dfe5e)
   * [Hands on Tensorflow Data Validation](https://towardsdatascience.com/hands-on-tensorflow-data-validation-61e552f123d7)
   * [FAQ: Build a Handwritten Text Recognition System using TensorFlow](https://towardsdatascience.com/faq-build-a-handwritten-text-recognition-system-using-tensorflow-27648fb18519)
   * [A Simple Example with HyperparametersJS](https://medium.com/@martin_stoyanov/a-simple-example-with-hyperparametersjs-3b36edbe838f)
@@ -763,6 +765,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [How to Develop Convolutional Neural Networks for Multi-Step Time Series Forecasting](https://machinelearningmastery.com/how-to-develop-convolutional-neural-networks-for-multi-step-time-series-forecasting/)
   * [How to Develop LSTM Models for Multi-Step Time Series Forecasting of Household Power Consumption](https://machinelearningmastery.com/how-to-develop-lstm-models-for-multi-step-time-series-forecasting-of-household-power-consumption/)
   * [How to Train Your Model [Dramatically Faster] - Learn to use transfer learning, with a working Python-coded example.](https://towardsdatascience.com/how-to-train-your-model-dramatically-faster-9ad063f0f718)
+  * [Siamese Networks and Stuart Weitzman Boots](https://towardsdatascience.com/siamese-networks-and-stuart-weitzman-boots-c414be7eff78)
+  * [Generative Adversarial Networks — Explained](https://towardsdatascience.com/generative-adversarial-networks-explained-34472718707a)
+  * [Stacked Neural Networks for Prediction](https://towardsdatascience.com/stacked-neural-networks-for-prediction-415ef3b04826)
+  * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://rosinality.github.io/2018/10/bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding/)
+  * [유튜브 8M 챌린지 도전기[aka.삽질기]](http://www.kakaobrain.com/blog/38)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -891,6 +898,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [딥러닝을 이용한 얼굴 인식](https://www.slideshare.net/ifkakao/ss-115328045)
   * [개발자가 알아두면 좋을 5가지 AWS 인공 지능 깨알 지식 - 윤석찬 [AWS 테크 에반젤리스트]](https://www.slideshare.net/awskorea/5-things-to-know-about-aws-aiml-for-developers)
   * [Video-to-Video Synthesis](https://www.slideshare.net/seopkim1/vid2vid)
+  * [Deep learning application_to_manufacturing](https://www.slideshare.net/dhrim/deep-learning-applicationtomanufacturing-119362951)
+  * [딥러닝계의 블루오션, Apache MXNet 공헌하기 - 윤석찬 [AWS 테크에반젤리스트] 오규삼 [삼성 SDS]](https://www.slideshare.net/awskorea/apache-mxnet-soscon-2018)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -1058,6 +1067,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)
   * [Google Dataset Search](https://toolbox.google.com/datasetsearch)
   * [가장 큰 오픈소스 자율주행차량 데이터셋 공개 - UC Berkeley BDD100K](https://sites.google.com/site/bimprinciple/in-the-news/gajangkeunopeunsoseujayuljuhaengchalyangdeiteosesgong-gae-ucberkeleybdd100k)
+  * [Handwritten Hangul Datasets: PE92, SERI95, and HanDB](https://github.com/callee2006/HangulDB)
 
 ## Reinforcement Learning
 * [Fundamental of Reinforcement Learning](https://www.gitbook.com/book/dnddnjs/rl/)
@@ -1180,6 +1190,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [An intro to Advantage Actor Critic methods: let’s play Sonic the Hedgehog!](https://medium.freecodecamp.org/an-intro-to-advantage-actor-critic-methods-lets-play-sonic-the-hedgehog-86d6240171d)
 * [Paper Reading: [Learning to Drive in a day]](https://jueun-park.github.io/2018-09-30/review-1807-00412)
 * [강화학습[Reinforcement Learning]으로 접근하는 E-commerce Dynamic Pricing 논문리뷰](https://hoondongkim.blogspot.com/2018/10/reinforcement-learning-e-commerce.html)
+* [Introduction to Reinforcement Learning](https://drive.google.com/file/d/1nlpUSMid6pNiwTKfYaD_psWDFcjLjLhD/view)
+* [Open sourcing TRFL: a library of reinforcement learning building blocks](https://deepmind.com/blog/trfl/)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -1557,6 +1569,15 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Why Use K-Means for Time Series Data? [Part Two]](https://www.influxdata.com/blog/why-use-k-means-for-time-series-data-part-two/)
 * [Kaggle Study - 커널 커리큘럼](https://drive.google.com/file/d/1sZySC0sBgG1vz6w5XV3Hhm_0d4wYnf86/view)
 * [Machine Learning Black Friday Dataset](https://www.datacamp.com/community/tutorials/ml-black-friday-dataset)
+* [Why you should try Mean Encoding](https://towardsdatascience.com/why-you-should-try-mean-encoding-17057262cd0)
+* [Detect Anomalies in Your Data with Amazon SageMaker](https://www.youtube.com/watch?v=yx1vf3uapX8)
+* [[FDS] Fraud Detection System with AutoEncoder](http://hugrypiggykim.com/2018/01/16/fds-fraud-detection-system-with-autoencoder/)
+* [Automated Hyper-parameter Optimization in SageMaker](https://blog.zakjost.com/post/sagemaker-hpo/)
+* [Featuretools on Spark](https://medium.com/feature-labs-engineering/featuretools-on-spark-e5aa67eaf807)
+* [Mastering The New Generation of Gradient Boosting - CatBoost](https://towardsdatascience.com/https-medium-com-talperetz24-mastering-the-new-generation-of-gradient-boosting-db04062a7ea2)
+* [아파트 시세, 어쩌다 머신러닝까지](https://www.slideshare.net/seokjoonyun9/ss-119941642)
+* [CatBoost vs. Light GBM vs. XGBoost](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
+* [Amazon SageMaker를 이용한 예측 분석-남궁영환 솔루션즈 아키텍트, AWS](https://www.slideshare.net/awskorea/predictive-analytics-with-amazon-sage-maker-ng) : [[Video]](https://www.youtube.com/watch?v=ADxvxaj6JpM)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1762,6 +1783,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [How to Work with BIG Datasets on 16G RAM [+Dask]](https://www.kaggle.com/yuliagm/how-to-work-with-big-datasets-on-16g-ram-dask)
 * [Your Ultimate Guide to Matplotlib](https://towardsdatascience.com/all-your-matplotlib-questions-answered-420dd95cb4ff)
 * [Simpson’s Paradox: How to Prove Opposite Arguments with the Same Data](https://towardsdatascience.com/simpsons-paradox-how-to-prove-two-opposite-arguments-using-one-dataset-1c9c917f5ff9)
+* [How to use common workflows on Amazon SageMaker notebook instances](https://aws.amazon.com/blogs/machine-learning/how-to-use-common-workflows-on-amazon-sagemaker-notebook-instances/)
+* [The art of A/B testing](https://towardsdatascience.com/the-art-of-a-b-testing-5a10c9bb70a4)
+* [Cookiecutter Data Science — Organize your Projects — Atom and Jupyter](https://medium.com/@rrfd/cookiecutter-data-science-organize-your-projects-atom-and-jupyter-2be7862f487e)
+* [How to become a Data Scientist ?](https://speakerdeck.com/wonseokjung/how-to-become-a-datascientist)
+* [How to Setup Your JupyterLab Project Environment](https://towardsdatascience.com/how-to-setup-your-jupyterlab-project-environment-74909dade29b)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -2001,6 +2027,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [눈으로 듣는 음악 추천 시스템](https://www.slideshare.net/ifkakao/ss-113740836)
 * [Building a Recommendation System Using Neural Network Embeddings](https://towardsdatascience.com/building-a-recommendation-system-using-neural-network-embeddings-1ef92e5c80c9)
 * [Collaborative Embeddings for Lipstick Recommendations](https://towardsdatascience.com/collaborative-embeddings-for-lipstick-recommendations-98eccfa816bd)
+* [Machine Learning for Recommender systems — Part 1 [algorithms, evaluation and cold start]](https://medium.com/recombee-blog/machine-learning-for-recommender-systems-part-1-algorithms-evaluation-and-cold-start-6f696683d0ed)
+* [Machine Learning for Recommender systems — Part 2 [Deep Recommendation, Sequence Prediction, AutoML and Reinforcement Learning in Recommendation]](https://medium.com/recombee-blog/machine-learning-for-recommender-systems-part-2-deep-recommendation-sequence-prediction-automl-f134bc79d66b)
+* [Deep Learning for Recommendation with Keras and TensorRec](https://hackernoon.com/deep-learning-for-recommendation-with-keras-and-tensorrec-2b8935c795d0)
+* [Recommender Systems](https://yjucho1.github.io/recommender%20systems/recommendation/)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
