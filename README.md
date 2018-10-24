@@ -90,7 +90,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Joint course of Megvii Inc. and Peking University on Deep Learning](https://zsc.github.io/megvii-pku-dl-course/)
   * [Statistics 110 : Probability](https://www.edwith.org/harvardprobability/)
   * [선형대수 with Khan Academy](https://www.edwith.org/linear-algebra)
-  * [https://tf.wiki/](TensorFlow - A Concise Handbook of TensorFlow Eager Execution)
+  * [TensorFlow | A Concise Handbook of TensorFlow Eager Execution](https://tf.wiki/)
   * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
   * [Bloomberg ML EDU - FOUNDATIONS OF MACHINE LEARNING](https://bloomberg.github.io/foml/)
 * Community
