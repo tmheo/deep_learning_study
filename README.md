@@ -777,6 +777,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Colab에서 TensorBoard 및 MXBoard를 사용하여 데이터 시각화 하는 방법](https://gist.github.com/serithemage/7cf3937d1532ed94e982353c9349eebc)
   * [Nearest Neighbors with Keras and CoreML](https://hackernoon.com/nearest-neighbors-with-keras-and-coreml-755e76fedf36)
   * [Practical Text Classification With Python and Keras](https://realpython.com/python-keras-text-classification/)
+  * [Training Cutting-Edge Neural Networks with Tensor2Tensor and 10 lines of code](https://medium.com/data-from-the-trenches/training-cutting-edge-neural-networks-with-tensor2tensor-and-10-lines-of-code-10973c030b8)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1201,6 +1202,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Introduction to Reinforcement Learning](https://drive.google.com/file/d/1nlpUSMid6pNiwTKfYaD_psWDFcjLjLhD/view)
 * [Open sourcing TRFL: a library of reinforcement learning building blocks](https://deepmind.com/blog/trfl/)
 * [Simple Beginner’s guide to Reinforcement Learning & its implementation](https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/)
+* [RL - Introduction to Deep Reinforcement Learning](https://medium.com/@jonathan_hui/rl-introduction-to-deep-reinforcement-learning-35c25e04c199)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -2049,6 +2051,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Machine Learning for Recommender systems — Part 2 [Deep Recommendation, Sequence Prediction, AutoML and Reinforcement Learning in Recommendation]](https://medium.com/recombee-blog/machine-learning-for-recommender-systems-part-2-deep-recommendation-sequence-prediction-automl-f134bc79d66b)
 * [Deep Learning for Recommendation with Keras and TensorRec](https://hackernoon.com/deep-learning-for-recommendation-with-keras-and-tensorrec-2b8935c795d0)
 * [Recommender Systems](https://yjucho1.github.io/recommender%20systems/recommendation/)
+* [How to Build a Recommendation System for Purchase Data [Step-by-Step]](https://medium.com/datadriveninvestor/how-to-build-a-recommendation-system-for-purchase-data-step-by-step-d6d7a78800b6)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
