@@ -19,7 +19,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Oxford - Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
   * [Deep learning courses at UC Berkeley](https://berkeley-deep-learning.github.io/)
   * [T81-558:Applications of Deep Neural Networks](https://sites.wustl.edu/jeffheaton/t81-558/)
-  * [MILA - DEEP LEARNING AND REINFORCEMENT LEARNING SUMMER SCHOOL 2017](https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/slides/) : [[Video]](http://videolectures.net/deeplearning2017_montreal/)
+  * [MILA - DEEP LEARNING AND REINFORCEMENT LEARNING SUMMER SCHOOL 2017](https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/) : [[Video]](http://videolectures.net/deeplearning2017_montreal/)
+  * [Deep Learning and Reinforcement Learning Summer School 2018](https://dlrlsummerschool.ca/) : [[Video]](http://videolectures.net/DLRLsummerschool2018_toronto/)
   * [CS 598 LAZ: Cutting-Edge Trends in Deep Learning and Recognition](http://slazebni.cs.illinois.edu/spring17/)
   * [KAIST Machine Learning Lecture](http://seslab.kaist.ac.kr/xe2/page_GBex27)
     * [[기계학습, 인공지능, 머신러닝] 한국어 기계 학습 강좌](https://www.youtube.com/playlist?list=PLbhbGI_ppZISMV4tAWHlytBqNq1-lb8bz)
@@ -93,6 +94,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [TensorFlow | A Concise Handbook of TensorFlow Eager Execution](https://tf.wiki/)
   * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
   * [Bloomberg ML EDU - FOUNDATIONS OF MACHINE LEARNING](https://bloomberg.github.io/foml/)
+  * [[2018] 데이터과학 산책](https://www.edwith.org/walkingds)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -770,6 +772,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Stacked Neural Networks for Prediction](https://towardsdatascience.com/stacked-neural-networks-for-prediction-415ef3b04826)
   * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://rosinality.github.io/2018/10/bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding/)
   * [유튜브 8M 챌린지 도전기[aka.삽질기]](http://www.kakaobrain.com/blog/38)
+  * [Deploying Keras models using TensorFlow Serving and Flask](https://towardsdatascience.com/deploying-keras-models-using-tensorflow-serving-and-flask-508ba00f1037)
+  * [Hyper-parameters in Action! Introducing DeepReplay](https://towardsdatascience.com/hyper-parameters-in-action-introducing-deepreplay-31132a7b9631)
+  * [Colab에서 TensorBoard 및 MXBoard를 사용하여 데이터 시각화 하는 방법](https://gist.github.com/serithemage/7cf3937d1532ed94e982353c9349eebc)
+  * [Nearest Neighbors with Keras and CoreML](https://hackernoon.com/nearest-neighbors-with-keras-and-coreml-755e76fedf36)
+  * [Practical Text Classification With Python and Keras](https://realpython.com/python-keras-text-classification/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -938,6 +945,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [최성철 교수님의 머신러닝/데이터과학 강의영상](https://www.youtube.com/channel/UC_kvhNYJtP1-Ap67byTbfuw/playlists)
   * [TensorFlow, Deep Learning, and Modern Convolutional Neural Nets, Without a PhD [Cloud Next '18]](https://www.youtube.com/watch?v=KC4201o83W0)
   * [Artificial Intelligence Lecture Series](https://www.youtube.com/playlist?list=PLdPz9_rcdD97b3iExKYmla8vjlsc_k1ee)
+  * [Graph neural networks: Variations and applications](https://www.youtube.com/watch?v=cWIeTMklzNg)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -1124,7 +1132,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [게임과 AI #1 심층강화학습과 AI](http://blog.ncsoft.com/?p=29996)
 * [게임과 AI #2 블레이드 & 소울과 게임 AI Part. 1](http://blog.ncsoft.com/?p=30747)
 * [Reinforcement learning on stock trading](https://rightx2.github.io/)
-* [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+* [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/)
 * [스타크래프트2 강화학습](https://www.slideshare.net/sjhshy/2-starcraft-ii-reinforcement-learning-80779324)
 * [슈퍼마리오에 모두를 위한 RL 수업의 딥러닝 코드 붙이기](http://jinman190.blogspot.kr/2017/10/rl.html)
 * [알파고는 스스로 신의 경지에 올랐다](https://brunch.co.kr/@madlymissyou/18)
@@ -1192,6 +1200,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [강화학습[Reinforcement Learning]으로 접근하는 E-commerce Dynamic Pricing 논문리뷰](https://hoondongkim.blogspot.com/2018/10/reinforcement-learning-e-commerce.html)
 * [Introduction to Reinforcement Learning](https://drive.google.com/file/d/1nlpUSMid6pNiwTKfYaD_psWDFcjLjLhD/view)
 * [Open sourcing TRFL: a library of reinforcement learning building blocks](https://deepmind.com/blog/trfl/)
+* [Simple Beginner’s guide to Reinforcement Learning & its implementation](https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -1578,6 +1587,13 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [아파트 시세, 어쩌다 머신러닝까지](https://www.slideshare.net/seokjoonyun9/ss-119941642)
 * [CatBoost vs. Light GBM vs. XGBoost](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
 * [Amazon SageMaker를 이용한 예측 분석-남궁영환 솔루션즈 아키텍트, AWS](https://www.slideshare.net/awskorea/predictive-analytics-with-amazon-sage-maker-ng) : [[Video]](https://www.youtube.com/watch?v=ADxvxaj6JpM)
+* [Predicting Hospital Readmission for Patients with Diabetes Using Scikit-Learn](https://towardsdatascience.com/predicting-hospital-readmission-for-patients-with-diabetes-using-scikit-learn-a2e359b15f0)
+* [머신러닝[Machine Learning]과 확률[Probability]](https://devkihyun.github.io/study/Machine-learining-and-Probability/)
+* [Scikit-Learn: A silver bullet for basic machine learning](https://medium.com/analytics-vidhya/scikit-learn-a-silver-bullet-for-basic-machine-learning-13c7d8b248ee)
+* [CHOPT : Automated Hyperparameter Optimization Framework for Cloud-Based Machine Learning Platforms](http://openresearch.ai/t/chopt-automated-hyperparameter-optimization-framework-for-cloud-based-machine-learning-platforms/379)
+* [Uber Introduces PyML: Their Secret Weapon for Rapid Machine Learning Development](https://towardsdatascience.com/uber-introduces-pyml-their-secret-weapon-for-rapid-machine-learning-development-c0f40009a617)
+* [Ensemble Learning: When everybody takes a guess…I guess!](https://medium.com/diogo-menezes-borges/ensemble-learning-when-everybody-takes-a-guess-i-guess-ec35f6cb4600)
+* [The Data Science of K-Pop: Understanding BTS through data and A.I.](https://towardsdatascience.com/the-data-science-of-k-pop-understanding-bts-through-data-and-a-i-part-1-50783b198ac2)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1788,6 +1804,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Cookiecutter Data Science — Organize your Projects — Atom and Jupyter](https://medium.com/@rrfd/cookiecutter-data-science-organize-your-projects-atom-and-jupyter-2be7862f487e)
 * [How to become a Data Scientist ?](https://speakerdeck.com/wonseokjung/how-to-become-a-datascientist)
 * [How to Setup Your JupyterLab Project Environment](https://towardsdatascience.com/how-to-setup-your-jupyterlab-project-environment-74909dade29b)
+* [Creating Presentations with Jupyter Notebook](http://www.blog.pythonlibrary.org/2018/09/25/creating-presentations-with-jupyter-notebook/)
+* [Introducing Jupytext](https://towardsdatascience.com/introducing-jupytext-9234fdff6c57)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -1917,7 +1935,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Binary Representations in Recommendations](https://github.com/maciejkula/binge)
 * [Music Recommendations with Collaborative Filtering and Cosine Distance](https://beckernick.github.io/music_recommender/)
 * [Matrix Factorization for Movie Recommendations in Python](https://beckernick.github.io/matrix-factorization-recommender/)
-* Naver 추쳔 관련 블로그
+* Naver 추천 관련 블로그
   * [취향저격 잇템 찾아주는 딥러닝 기반 개인화 상품 추천 시스템 ‘에이아이템즈 [AiTEMS]’](https://blog.naver.com/naver_search/221085553045)
   * [쇼핑을 자주 하지 않는 이용자도, 신규 판매자도 만족스러운 쇼핑 플랫폼을 만드는 에이아이템즈[AiTEMS]의 기술](https://blog.naver.com/naver_search/221086300708)
   * [CF기술•RNN기술의 장점이 융합된 ‘AiRS[에어스]’가 모바일 뉴스판에 시범 적용됩니다](https://blog.naver.com/naver_search/221105431207)
