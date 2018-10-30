@@ -778,6 +778,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Nearest Neighbors with Keras and CoreML](https://hackernoon.com/nearest-neighbors-with-keras-and-coreml-755e76fedf36)
   * [Practical Text Classification With Python and Keras](https://realpython.com/python-keras-text-classification/)
   * [Training Cutting-Edge Neural Networks with Tensor2Tensor and 10 lines of code](https://medium.com/data-from-the-trenches/training-cutting-edge-neural-networks-with-tensor2tensor-and-10-lines-of-code-10973c030b8)
+  * [Keras or PyTorch as your first deep learning framework](https://deepsense.ai/keras-or-pytorch/)
+  * [Keras vs PyTorch: how to distinguish Aliens vs Predators with transfer learning](https://medium.freecodecamp.org/keras-vs-pytorch-avp-transfer-learning-c8b852c31f02)
+  * [Building your First Neural Network on a Structured Dataset [using Keras]](https://medium.com/analytics-vidhya/build-your-first-neural-network-model-on-a-structured-dataset-using-keras-d9e7de5c6724)
+  * [Image classification from scratch in keras. Beginner friendly, intermediate exciting and expert refreshing](https://towardsdatascience.com/image-detection-from-scratch-in-keras-f314872006c9)
+  * [OpenCV Face Recognition](https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1203,6 +1208,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Open sourcing TRFL: a library of reinforcement learning building blocks](https://deepmind.com/blog/trfl/)
 * [Simple Beginner’s guide to Reinforcement Learning & its implementation](https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/)
 * [RL - Introduction to Deep Reinforcement Learning](https://medium.com/@jonathan_hui/rl-introduction-to-deep-reinforcement-learning-35c25e04c199)
+* [On "solving" Montezuma’s Revenge](https://medium.com/@awjuliani/on-solving-montezumas-revenge-2146d83f0bc3)
+* [팡요랩 Pang-Yo Lab](https://www.youtube.com/channel/UCwkGvF7xKz2E0Lv-fZ9wv2g)
+* [About Deep Reinforcement Learning based on CS294](https://github.com/wonseokjung/RLXDL)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -1596,6 +1604,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Uber Introduces PyML: Their Secret Weapon for Rapid Machine Learning Development](https://towardsdatascience.com/uber-introduces-pyml-their-secret-weapon-for-rapid-machine-learning-development-c0f40009a617)
 * [Ensemble Learning: When everybody takes a guess…I guess!](https://medium.com/diogo-menezes-borges/ensemble-learning-when-everybody-takes-a-guess-i-guess-ec35f6cb4600)
 * [The Data Science of K-Pop: Understanding BTS through data and A.I.](https://towardsdatascience.com/the-data-science-of-k-pop-understanding-bts-through-data-and-a-i-part-1-50783b198ac2)
+* [Automatic Feature Engineering: An Event-Driven Approach](https://medium.com/data-from-the-trenches/automatic-feature-engineering-an-event-driven-approach-b2ca09d166f)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1808,6 +1817,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [How to Setup Your JupyterLab Project Environment](https://towardsdatascience.com/how-to-setup-your-jupyterlab-project-environment-74909dade29b)
 * [Creating Presentations with Jupyter Notebook](http://www.blog.pythonlibrary.org/2018/09/25/creating-presentations-with-jupyter-notebook/)
 * [Introducing Jupytext](https://towardsdatascience.com/introducing-jupytext-9234fdff6c57)
+* [Learn Data Science in 3 Months by Siraj Raval](https://github.com/llSourcell/Learn_Data_Science_in_3_Months)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
