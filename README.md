@@ -95,6 +95,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
   * [Bloomberg ML EDU - FOUNDATIONS OF MACHINE LEARNING](https://bloomberg.github.io/foml/)
   * [[2018] 데이터과학 산책](https://www.edwith.org/walkingds)
+  * [YSDA Natural Language Processing Course](https://github.com/yandexdataschool/nlp_course)
+  * [Edwith - 신경망과 딥러닝](https://www.edwith.org/deeplearningai1)
+  * [Edwith - 심층 신경망 성능 향상시키기](https://www.edwith.org/deeplearningai2)
+  * [Edwith - 머신러닝 프로젝트 구조화하기](https://www.edwith.org/deeplearningai3)
+  * [Edwith - 합성곱 신경망 네트워크 [CNN]](https://www.edwith.org/deeplearningai4)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -783,6 +788,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Building your First Neural Network on a Structured Dataset [using Keras]](https://medium.com/analytics-vidhya/build-your-first-neural-network-model-on-a-structured-dataset-using-keras-d9e7de5c6724)
   * [Image classification from scratch in keras. Beginner friendly, intermediate exciting and expert refreshing](https://towardsdatascience.com/image-detection-from-scratch-in-keras-f314872006c9)
   * [OpenCV Face Recognition](https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/)
+  * [Back-Propagation is very simple. Who made it Complicated ?](https://medium.com/@14prakash/back-propagation-is-very-simple-who-made-it-complicated-97b794c97e5c)
+  * [The 4 Convolutional Neural Network Models That Can Classify Your Fashion Images](https://towardsdatascience.com/the-4-convolutional-neural-network-models-that-can-classify-your-fashion-images-9fe7f3e5399d)
+  * [Understanding Neural Networks: What, How and Why?](https://towardsdatascience.com/understanding-neural-networks-what-how-and-why-18ec703ebd31)
+  * [Introducing AdaNet: Fast and Flexible AutoML with Learning Guarantees](https://ai.googleblog.com/2018/10/introducing-adanet-fast-and-flexible.html)
+  * [QNNPACK: Open source library for optimized mobile deep learning](https://code.fb.com/ml-applications/qnnpack/)
+  * [Serving ML Quickly with TensorFlow Serving and Docker](https://medium.com/tensorflow/serving-ml-quickly-with-tensorflow-serving-and-docker-7df7094aa008)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1211,6 +1222,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [On "solving" Montezuma’s Revenge](https://medium.com/@awjuliani/on-solving-montezumas-revenge-2146d83f0bc3)
 * [팡요랩 Pang-Yo Lab](https://www.youtube.com/channel/UCwkGvF7xKz2E0Lv-fZ9wv2g)
 * [About Deep Reinforcement Learning based on CS294](https://github.com/wonseokjung/RLXDL)
+* [강화학습을 이용한 슈퍼마리오 만들기 튜토리얼](https://github.com/wonseokjung/ai_supermario)
+* [퐁 DQN](https://colab.research.google.com/github/wonseokjung/ai_supermario/blob/master/4_pong_dqn%20(1).ipynb)
+* [슈퍼마리오 DQN](https://colab.research.google.com/github/wonseokjung/ai_supermario/blob/master/2_supermario_dqn.ipynb)
+* [Horizon: The first open source reinforcement learning platform for large-scale products and services](https://code.fb.com/ml-applications/horizon/)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -1605,6 +1620,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Ensemble Learning: When everybody takes a guess…I guess!](https://medium.com/diogo-menezes-borges/ensemble-learning-when-everybody-takes-a-guess-i-guess-ec35f6cb4600)
 * [The Data Science of K-Pop: Understanding BTS through data and A.I.](https://towardsdatascience.com/the-data-science-of-k-pop-understanding-bts-through-data-and-a-i-part-1-50783b198ac2)
 * [Automatic Feature Engineering: An Event-Driven Approach](https://medium.com/data-from-the-trenches/automatic-feature-engineering-an-event-driven-approach-b2ca09d166f)
+* [Fundamentals of Anomaly Detection](https://dzone.com/articles/fundamentals-of-anomaly-detection)
+* [Explainable Artificial Intelligence [Part 1] — The Importance of Human Interpretable Machine Learning](https://towardsdatascience.com/human-interpretable-machine-learning-part-1-the-need-and-importance-of-model-interpretation-2ed758f5f476)
+* [Explainable Artificial Intelligence [Part 2] — Model Interpretation Strategies](https://towardsdatascience.com/explainable-artificial-intelligence-part-2-model-interpretation-strategies-75d4afa6b739)
+* [Finding Similar Quora Questions with Word2Vec and Xgboost](https://towardsdatascience.com/finding-similar-quora-questions-with-word2vec-and-xgboost-1a19ad272c0d)
+* [Automating interpretable feature engineering for predicting CLV](https://towardsdatascience.com/automating-interpretable-feature-engineering-for-predicting-clv-87ece7da9b36)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1818,6 +1838,15 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Creating Presentations with Jupyter Notebook](http://www.blog.pythonlibrary.org/2018/09/25/creating-presentations-with-jupyter-notebook/)
 * [Introducing Jupytext](https://towardsdatascience.com/introducing-jupytext-9234fdff6c57)
 * [Learn Data Science in 3 Months by Siraj Raval](https://github.com/llSourcell/Learn_Data_Science_in_3_Months)
+* [Jupyter Notebook Cheat Sheet](https://www.edureka.co/blog/cheatsheets/Jupyter-Notebook-Cheat-Sheet)
+* [Awesome seaborn for Data Visualisation – Part 1](https://www.tech-quantum.com/awesome-seaborn-for-data-visualisation/)
+* [Awesome seaborn for Data Visualization – Part 2](https://www.tech-quantum.com/awesome-seaborn-for-data-visualization-part-2/)
+* [Logging in Tensorboard with PyTorch [or any other library]](https://becominghuman.ai/logging-in-tensorboard-with-pytorch-or-any-other-library-c549163dee9e)
+* [5 Key Factors to keep in mind while Optimizing Apache Spark in AWS[Part 1]](https://medium.com/@brajendragouda/5-key-factors-to-keep-in-mind-while-optimizing-apache-spark-in-aws-part-1-4b113425bdcf)
+* [5 Key Factors to keep in mind while Optimising Apache Spark in AWS[Part 2]](https://medium.com/@brajendragouda/5-key-factors-to-keep-in-mind-while-optimising-apache-spark-in-aws-part-2-c0197276623c)
+* [What’s new in Apache Spark 2.3 and Spark 2.4](https://www.slideshare.net/Hadoop_Summit/whats-new-in-apache-spark-23-and-spark-24)
+* [GeoPandas 101: Plot any data with a latitude and longitude on a map](https://towardsdatascience.com/geopandas-101-plot-any-data-with-a-latitude-and-longitude-on-a-map-98e01944b972)
+* [Kaggle Competition on Google Colab — how to easily import datasets and local files and access remote terminal](https://towardsdatascience.com/kaggle-on-google-colab-easiest-way-to-transfer-datasets-and-remote-bash-e54c64054faa)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -2062,6 +2091,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Deep Learning for Recommendation with Keras and TensorRec](https://hackernoon.com/deep-learning-for-recommendation-with-keras-and-tensorrec-2b8935c795d0)
 * [Recommender Systems](https://yjucho1.github.io/recommender%20systems/recommendation/)
 * [How to Build a Recommendation System for Purchase Data [Step-by-Step]](https://medium.com/datadriveninvestor/how-to-build-a-recommendation-system-for-purchase-data-step-by-step-d6d7a78800b6)
+* [Recommender systems with deep learning architectures](https://towardsdatascience.com/recommender-systems-with-deep-learning-architectures-1adf4eb0f7a6)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
