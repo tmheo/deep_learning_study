@@ -794,6 +794,14 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Introducing AdaNet: Fast and Flexible AutoML with Learning Guarantees](https://ai.googleblog.com/2018/10/introducing-adanet-fast-and-flexible.html)
   * [QNNPACK: Open source library for optimized mobile deep learning](https://code.fb.com/ml-applications/qnnpack/)
   * [Serving ML Quickly with TensorFlow Serving and Docker](https://medium.com/tensorflow/serving-ml-quickly-with-tensorflow-serving-and-docker-7df7094aa008)
+  * [Image Captioning with Keras — “Teaching Computers to describe pictures”](https://towardsdatascience.com/image-captioning-with-keras-teaching-computers-to-describe-pictures-c88a46a311b8)
+  * [Introduction to 1D Convolutional Neural Networks in Keras for Time Sequences](https://blog.goodaudience.com/introduction-to-1d-convolutional-neural-networks-in-keras-for-time-sequences-3a7ff801a2cf)
+  * [Recurrent Neural Networks by Example in Python](https://towardsdatascience.com/recurrent-neural-networks-by-example-in-python-ffd204f99470)
+  * [Transfer Learning using Mobilenet and Keras](https://towardsdatascience.com/transfer-learning-using-mobilenet-and-keras-c75daf7ff299)
+  * [How to train Keras model x20 times faster with TPU for free](https://medium.com/swlh/how-to-train-keras-model-x20-times-faster-with-tpu-for-free-cac6cf5089cb)
+  * [Dogs vs Cats is too easy](https://medium.com/predict/dogs-vs-cats-is-too-easy-40ec607fc0b0)
+  * [Introduction to Amazon SageMaker Object2Vec](https://aws.amazon.com/blogs/machine-learning/introduction-to-amazon-sagemaker-object2vec/)
+  * [Kaggle Competition — Image Classification](https://towardsdatascience.com/kaggle-competition-image-classification-676dee6c0f23)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -924,6 +932,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Video-to-Video Synthesis](https://www.slideshare.net/seopkim1/vid2vid)
   * [Deep learning application_to_manufacturing](https://www.slideshare.net/dhrim/deep-learning-applicationtomanufacturing-119362951)
   * [딥러닝계의 블루오션, Apache MXNet 공헌하기 - 윤석찬 [AWS 테크에반젤리스트] 오규삼 [삼성 SDS]](https://www.slideshare.net/awskorea/apache-mxnet-soscon-2018)
+  * [Unsupervised Anomaly Detection with Generative Adversarial Networks for Guide Marker Discovery](https://www.slideshare.net/MingukKang/anomaly-detection-121788059)
+  * [Image-to-Image Translation](https://www.slideshare.net/ssuser34f9fc/imagetoimage-translation-122354566)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -1047,6 +1057,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [2018 TF Pattern Design Study in MoT](https://github.com/motlabs/mot-tf-codepattern-study)
   * [KEKOxTutorial - 전 세계의 멋진 케라스 문서 및 튜토리얼을 한글화하여 케라스x코리아를 널리널리 이롭게합니다](https://github.com/KerasKorea/KEKOxTutorial)
   * [tf.data examples for keras and estimator models](https://github.com/terryum/tf.data-for-keras-and-tensorflow-estimator)
+  * [How to run Object Detection and Segmentation on a Video Fast for Free](https://github.com/Tony607/colab-mask-rcnn)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -1086,6 +1097,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Visual Search with MXNet Gluon](https://thomasdelteil.github.io/VisualSearch_MXNet/)
   * [AutoKeras - open source software library for automated machine learning [AutoML]](http://autokeras.com/)
   * [Lucid - A collection of infrastructure and tools for research in neural network interpretability](https://github.com/tensorflow/lucid)
+  * [HiddenLayer - Neural network graphs and training metrics for PyTorch and Tensorflow](https://github.com/waleedka/hiddenlayer)
 * Dataset
   * [Fueling the Gold Rush: The Greatest Public Datasets for AI](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2)
   * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
@@ -1226,6 +1238,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [퐁 DQN](https://colab.research.google.com/github/wonseokjung/ai_supermario/blob/master/4_pong_dqn%20(1).ipynb)
 * [슈퍼마리오 DQN](https://colab.research.google.com/github/wonseokjung/ai_supermario/blob/master/2_supermario_dqn.ipynb)
 * [Horizon: The first open source reinforcement learning platform for large-scale products and services](https://code.fb.com/ml-applications/horizon/)
+* [Schooling Flappy Bird: A Reinforcement Learning Tutorial](https://www.toptal.com/deep-learning/pytorch-reinforcement-learning-tutorial)
+* [Deep [Double] Q-Learning](https://towardsdatascience.com/deep-double-q-learning-7fca410b193a)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -1625,6 +1639,17 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Explainable Artificial Intelligence [Part 2] — Model Interpretation Strategies](https://towardsdatascience.com/explainable-artificial-intelligence-part-2-model-interpretation-strategies-75d4afa6b739)
 * [Finding Similar Quora Questions with Word2Vec and Xgboost](https://towardsdatascience.com/finding-similar-quora-questions-with-word2vec-and-xgboost-1a19ad272c0d)
 * [Automating interpretable feature engineering for predicting CLV](https://towardsdatascience.com/automating-interpretable-feature-engineering-for-predicting-clv-87ece7da9b36)
+* [Decrypting your Machine Learning model using LIME](https://towardsdatascience.com/decrypting-your-machine-learning-model-using-lime-5adc035109b5)
+* [My secret sauce to be in top 2% of a kaggle competition](https://towardsdatascience.com/my-secret-sauce-to-be-in-top-2-of-a-kaggle-competition-57cff0677d3c)
+* [Summary for Practical Tips from fast.ai Machine Learning Course — Part 1](https://medium.com/@lengmei/summary-for-practical-tips-from-machine-learning-course-part-1-b79fdd7f1ce1)
+* [Summary for Practical Tips from fast.ai Machine Learning Course — Part 2](https://medium.com/@lengmei/summary-for-practical-tips-from-machine-learning-course-part-2-b4f44d28a0ce)
+* [Summary for Practical Tips from fast.ai Machine Learning Course — Part 3](https://medium.com/@lengmei/summary-for-practical-tips-from-fast-ai-machine-learning-course-part-3-a3381eafa375)
+* [Cutting the Cord: Predicting Customer Churn for a Telecom Company](https://towardsdatascience.com/cutting-the-cord-predicting-customer-churn-for-a-telecom-company-268e65f177a5)
+* [How to Create Value with Machine Learning](https://towardsdatascience.com/how-to-create-value-with-machine-learning-eb09585b332e)
+* [Prediction Engineering: How to Set Up Your Machine Learning Problem](https://towardsdatascience.com/prediction-engineering-how-to-set-up-your-machine-learning-problem-b3b8f622683b)
+* [Coloring With Random Forests](http://structuringtheunstructured.blogspot.com/2017/11/coloring-with-random-forests.html)
+* [Intuitive Interpretation of Random Forest](https://medium.com/usf-msds/intuitive-interpretation-of-random-forest-2238687cae45)
+* [Using 3D visualizations to tune hyperparameters in ML models](https://towardsdatascience.com/using-3d-visualizations-to-tune-hyperparameters-of-ml-models-with-python-ba2885eab2e9)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1847,6 +1872,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [What’s new in Apache Spark 2.3 and Spark 2.4](https://www.slideshare.net/Hadoop_Summit/whats-new-in-apache-spark-23-and-spark-24)
 * [GeoPandas 101: Plot any data with a latitude and longitude on a map](https://towardsdatascience.com/geopandas-101-plot-any-data-with-a-latitude-and-longitude-on-a-map-98e01944b972)
 * [Kaggle Competition on Google Colab — how to easily import datasets and local files and access remote terminal](https://towardsdatascience.com/kaggle-on-google-colab-easiest-way-to-transfer-datasets-and-remote-bash-e54c64054faa)
+* [Data Engineering 101](https://www.slideshare.net/charsyam2/data-engineering-101)
+* [5 Critical Steps to Predictive Business Analytics](https://towardsdatascience.com/5-critical-steps-to-predictive-business-analysis-110b0dedbc9b)
+* [Vectorized UDF: Scalable Analysis with Python and PySpark with Li Jin](https://www.slideshare.net/databricks/vectorized-udf-scalable-analysis-with-python-and-pyspark-with-li-jin)
+* [Colaboratory 사용하기](https://docs.google.com/presentation/d/145XR44Ag6GW2xV1r2bOrnOgqtJYh59ZnsnYtmFZioTo/)
+* [Advanced sports visualization with Python, Matplotlib and Seaborn](https://towardsdatascience.com/advanced-sports-visualization-with-pandas-matplotlib-and-seaborn-9c16df80a81b)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -2092,6 +2122,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Recommender Systems](https://yjucho1.github.io/recommender%20systems/recommendation/)
 * [How to Build a Recommendation System for Purchase Data [Step-by-Step]](https://medium.com/datadriveninvestor/how-to-build-a-recommendation-system-for-purchase-data-step-by-step-d6d7a78800b6)
 * [Recommender systems with deep learning architectures](https://towardsdatascience.com/recommender-systems-with-deep-learning-architectures-1adf4eb0f7a6)
+* [Collaborative Filtering and Embeddings — Part 1](https://towardsdatascience.com/collaborative-filtering-and-embeddings-part-1-63b00b9739ce)
+* [Collaborative Filtering and Embeddings — Part 2](https://towardsdatascience.com/collaborative-filtering-and-embeddings-part-2-919da17ecefb)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
