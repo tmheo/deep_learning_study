@@ -843,6 +843,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Audio Classification using FastAI and On-the-Fly Frequency Transforms](https://towardsdatascience.com/audio-classification-using-fastai-and-on-the-fly-frequency-transforms-4dbe1b540f89)
   * [Solving NLP task using Sequence2Sequence model: from Zero to Hero](https://towardsdatascience.com/solving-nlp-task-using-sequence2sequence-model-from-zero-to-hero-c193c1bd03d1)
   * [Tutorial on Text Classification [NLP] using ULMFiT and fastai Library in Python](https://www.analyticsvidhya.com/blog/2018/11/tutorial-text-classification-ulmfit-fastai-library/)
+  * [카카오 형태소 분석기[khaiii] 설치와 은전한닢[mecab] 형태소 분석기 비교](https://lsjsj92.tistory.com/408)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
