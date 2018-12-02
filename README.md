@@ -1730,6 +1730,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [With These New Additions, AWS SageMaker is Starting to Look More Real for Data Scientists](https://towardsdatascience.com/with-these-new-additions-aws-sagemaker-is-starting-to-look-more-real-b60f95bcbc38)
 * [De[Coding] Random Forests](https://medium.com/@sonalidasgupta95.2011/de-coding-random-forests-82d4dcbb91a1)
 * [Tool Review: Lessons learned from using FeatureTools to simplify the process of Feature Engineering](https://medium.com/dataexplorations/tool-review-can-featuretools-simplify-the-process-of-feature-engineering-5d165100b0c3)
+* [Simple Automatic Feature Engineering — Using featuretools in Python for Classification](https://medium.com/@rrfd/simple-automatic-feature-engineering-using-featuretools-in-python-for-classification-b1308040e183)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
