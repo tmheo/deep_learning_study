@@ -90,12 +90,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Natural Language Processing with PyTorch](https://kh-kim.gitbook.io/natural-language-processing-with-pytorch/)
   * [PyTorch-Deep-Learning-Minicourse](https://github.com/Atcold/PyTorch-Deep-Learning-Minicourse) : [[Video]](https://github.com/Atcold/pytorch-Video-Tutorials)
   * [Joint course of Megvii Inc. and Peking University on Deep Learning](https://zsc.github.io/megvii-pku-dl-course/)
-  * [Statistics 110 : Probability](https://www.edwith.org/harvardprobability/)
-  * [선형대수 with Khan Academy](https://www.edwith.org/linear-algebra)
+  * [Edwith - Statistics 110 : Probability](https://www.edwith.org/harvardprobability/)
+  * [Edwith - 선형대수 with Khan Academy](https://www.edwith.org/linear-algebra)
   * [TensorFlow | A Concise Handbook of TensorFlow Eager Execution](https://tf.wiki/)
   * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
   * [Bloomberg ML EDU - FOUNDATIONS OF MACHINE LEARNING](https://bloomberg.github.io/foml/)
-  * [[2018] 데이터과학 산책](https://www.edwith.org/walkingds)
+  * [Edwith - [2018] 데이터과학 산책](https://www.edwith.org/walkingds)
   * [YSDA Natural Language Processing Course](https://github.com/yandexdataschool/nlp_course)
   * [Edwith - 신경망과 딥러닝](https://www.edwith.org/deeplearningai1)
   * [Edwith - 심층 신경망 성능 향상시키기](https://www.edwith.org/deeplearningai2)
@@ -104,6 +104,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [DataScience-for-Beginner - 데이터 과학 기초다지기 교재](https://github.com/Eunhui-Kim/DataScience-for-Beginner)
   * [Machine Learning with AWS](https://aws.amazon.com/training/learning-paths/machine-learning/)
   * [Dive into Deep Learning](http://en.diveintodeeplearning.org/)
+  * [Edwith - Data Science from MIT](https://www.edwith.org/datascience/)
+  * [3분 딥러닝 파이토치맛](https://github.com/keon/3-min-pytorch)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -844,6 +846,13 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Solving NLP task using Sequence2Sequence model: from Zero to Hero](https://towardsdatascience.com/solving-nlp-task-using-sequence2sequence-model-from-zero-to-hero-c193c1bd03d1)
   * [Tutorial on Text Classification [NLP] using ULMFiT and fastai Library in Python](https://www.analyticsvidhya.com/blog/2018/11/tutorial-text-classification-ulmfit-fastai-library/)
   * [카카오 형태소 분석기[khaiii] 설치와 은전한닢[mecab] 형태소 분석기 비교](https://lsjsj92.tistory.com/408)
+  * [Deep Transfer Learning for Natural Language Processing — Text Classification with Universal Embeddings](https://towardsdatascience.com/deep-transfer-learning-for-natural-language-processing-text-classification-with-universal-1a2c69e5baa9)
+  * [Faster R-CNN [object detection] implemented by Keras for custom data from Google’s Open Images Dataset V4](https://towardsdatascience.com/faster-r-cnn-object-detection-implemented-by-keras-for-custom-data-from-googles-open-images-125f62b9141a)
+  * [Neural Translation Model with Attention](https://medium.com/datadriveninvestor/neural-translation-model-95277838d17d)
+  * [[TGNet] 1.택시 수요 예측 모델 연구 동향을 소개합니다](http://www.kakaobrain.com/blog/42)
+  * [[TGNet] 2.택시 수요 예측 모델을 소개합니다](http://www.kakaobrain.com/blog/43)
+  * [Standardizing on Keras: Guidance on High-level APIs in TensorFlow 2.0](https://medium.com/tensorflow/standardizing-on-keras-guidance-on-high-level-apis-in-tensorflow-2-0-bad2b04c819a)
+  * [Keras Hyperparameter Tuning in Google Colab using Hyperas](https://towardsdatascience.com/keras-hyperparameter-tuning-in-google-colab-using-hyperas-624fa4bbf673)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -978,6 +987,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Image-to-Image Translation](https://www.slideshare.net/ssuser34f9fc/imagetoimage-translation-122354566)
   * [Bring Your Own Apache MXNet and TensorFlow Scripts to Amazon SageMaker [AIM350] - AWS re:Invent 2018](https://www.slideshare.net/AmazonWebServices/bring-your-own-apache-mxnet-and-tensorflow-scripts-to-amazon-sagemaker-aim350-aws-reinvent-2018)
   * [Building, Training, and Deploying fast.ai Models Using Amazon SageMaker [AIM428] - AWS re:Invent 2018](https://www.slideshare.net/AmazonWebServices/building-training-and-deploying-fastai-models-using-amazon-sagemaker-aim428-aws-reinvent-2018)
+  * [181123 poseest101 devfest_pangyo_jwkang](https://www.slideshare.net/JaewookKang1/181123-poseest101-devfestpangyojwkang)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -1104,6 +1114,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [How to run Object Detection and Segmentation on a Video Fast for Free](https://github.com/Tony607/colab-mask-rcnn)
   * [3i4K - Intonation-aided intention identification for Korean](https://github.com/warnikchow/3i4k)
   * [DLK2NLP: Day-by-day Line-by-line Keras-based Korean NLP](https://github.com/warnikchow/dlk2nlp)
+  * [Material used for Deep Learning related workshops for Machine Learning Tokyo [MLT]](https://github.com/Machine-Learning-Tokyo/DL-workshop-series)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -1296,6 +1307,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [How to study Reinforcement Learning](https://github.com/reinforcement-learning-kr/how_to_study_rl)
 * [Explained: Curiosity-Driven Learning in RL— Exploration By Random Network Distillation](https://towardsdatascience.com/explained-curiosity-driven-learning-in-rl-exploration-by-random-network-distillation-72b18e69eb1b)
 * [Reinforcement Learning with Python](https://towardsdatascience.com/reinforcement-learning-with-python-8ef0242a2fa2)
+* [Facebook’s Open-Source Reinforcement Learning Platform — A Deep Dive](https://towardsdatascience.com/facebooks-open-source-reinforcement-learning-platform-a-deep-dive-313a3d9d528)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -1732,6 +1744,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [De[Coding] Random Forests](https://medium.com/@sonalidasgupta95.2011/de-coding-random-forests-82d4dcbb91a1)
 * [Tool Review: Lessons learned from using FeatureTools to simplify the process of Feature Engineering](https://medium.com/dataexplorations/tool-review-can-featuretools-simplify-the-process-of-feature-engineering-5d165100b0c3)
 * [Simple Automatic Feature Engineering — Using featuretools in Python for Classification](https://medium.com/@rrfd/simple-automatic-feature-engineering-using-featuretools-in-python-for-classification-b1308040e183)
+* [What to do when your training and testing data come from different distributions](https://medium.freecodecamp.org/what-to-do-when-your-training-and-testing-data-come-from-different-distributions-d89674c6ecd8)
+* [The 50 Best Public Datasets for Machine Learning](https://medium.com/datadriveninvestor/the-50-best-public-datasets-for-machine-learning-d80e9f030279)
+* [An Introduction to Random Forest](https://towardsdatascience.com/random-forest-3a55c3aca46d)
+* [Avoiding Parking Tickets in San Francisco Using Data Analytics](https://towardsdatascience.com/avoiding-parking-tickets-in-san-francisco-using-data-analytics-33ff5fbe2153)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1979,6 +1995,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Exploratory Data Analysis [EDA] techniques for kaggle competition beginners](https://medium.com/@nikkisharma536/exploratory-data-analysis-eda-techniques-for-kaggle-competition-beginners-be4237c3c3a9)
 * [A Beginner’s Guide to Plotting ‘FiveThirtyEight Like’ Visualizations](https://towardsdatascience.com/a-beginners-guide-to-plotting-fivethrityeight-like-visualizations-5b63d3f3ddd0)
 * [Hypothesis Testing: how to determine significance](https://towardsdatascience.com/hypothesis-testing-how-to-determine-significance-ce3991c5db53)
+* [Financial Times Visual Vocabulary](https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary)
+* [Shareable Data Science with Kyso](https://www.datacamp.com/community/tutorials/shareable-data-science-kyso)
+* [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
+* [A short guide to using Docker for your data science environment](https://towardsdatascience.com/a-short-guide-to-using-docker-for-your-data-science-environment-912617b3603e)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -2236,6 +2256,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [How to build a Movie Recommender System in Python using LightFm](https://towardsdatascience.com/how-to-build-a-movie-recommender-system-in-python-using-lightfm-8fa49d7cbe3b)
 * [AiTEMS가 추천하는 ‘함께 볼만한 영화 추천 서비스’가 오픈됩니다](https://blog.naver.com/PostView.nhn?blogId=naver_search&logNo=221392818931)
 * [Learning to make Recommendations](https://towardsdatascience.com/learning-to-make-recommendations-745d13883951)
+* [Recommender Systems using Deep Learning in PyTorch from scratch](https://towardsdatascience.com/recommender-systems-using-deep-learning-in-pytorch-from-scratch-f661b8f391d7)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
