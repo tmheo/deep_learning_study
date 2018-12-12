@@ -1581,7 +1581,6 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Kaggle 튜토리얼](http://kaggle-kr.tistory.com/category/Kaggle%20%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC)
 * [Serve Machine Learning Models with Clipper](https://shuaiw.github.io/2018/01/21/serve-ml-model-with-clipper.html)
 * [Optimal Coupon Targeting for Grocery Items: an Instacart Case Study](https://towardsdatascience.com/optimal-coupon-targeting-for-grocery-items-an-instacart-case-study-128e8d169c7c)
-* [Detecting Financial Fraud Using Machine Learning: Winning the War Against Imbalanced Data](https://towardsdatascience.com/detecting-financial-fraud-using-machine-learning-three-ways-of-winning-the-war-against-imbalanced-a03f8815cce9)
 * [A Gentle Introduction to Data Science for Credit Risk Modeling — Part 1](https://towardsdatascience.com/an-intro-to-data-science-for-credit-risk-modelling-57935805a911)
 * [A Gentle Introduction to Credit Risk Modeling with Data Science — Part 2](https://towardsdatascience.com/a-gentle-introduction-to-credit-risk-modeling-with-data-science-part-2-d7b87806c9df)
 * [Detecting True and Deceptive Hotel Reviews using Machine Learning](https://www.datacamp.com/community/tutorials/machine-learning-hotel-reviews)
