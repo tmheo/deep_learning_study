@@ -106,6 +106,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Dive into Deep Learning](http://en.diveintodeeplearning.org/)
   * [Edwith - Data Science from MIT](https://www.edwith.org/datascience/)
   * [3분 딥러닝 파이토치맛](https://github.com/keon/3-min-pytorch)
+  * [AI Transformation Playbook](https://landing.ai/ai-transformation-playbook/)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -853,6 +854,16 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [[TGNet] 2.택시 수요 예측 모델을 소개합니다](http://www.kakaobrain.com/blog/43)
   * [Standardizing on Keras: Guidance on High-level APIs in TensorFlow 2.0](https://medium.com/tensorflow/standardizing-on-keras-guidance-on-high-level-apis-in-tensorflow-2-0-bad2b04c819a)
   * [Keras Hyperparameter Tuning in Google Colab using Hyperas](https://towardsdatascience.com/keras-hyperparameter-tuning-in-google-colab-using-hyperas-624fa4bbf673)
+  * [Object detection and tracking in PyTorch](https://towardsdatascience.com/object-detection-and-tracking-in-pytorch-b3cf1a696a98)
+  * [Introducing TF-Ranking](https://towardsdatascience.com/introducing-tf-ranking-f94433c33ff)
+  * [Setting up fastai on Google Cloud Platform](https://medium.com/predict/using-fastai-on-google-cloud-platform-46d3decd0da8)
+  * [Experiments with Deep Learning](https://github.com/kmkolasinski/deep-learning-notes)
+  * [Music Genre Classification with Python](https://towardsdatascience.com/music-genre-classification-with-python-c714d032f0d8)
+  * [Open-sourcing PyText for faster NLP development](https://code.fb.com/ai-research/pytext-open-source-nlp-framework/)
+  * [GANs Demystified — What the hell do they learn?](https://towardsdatascience.com/gans-demystified-what-the-hell-do-they-learn-142575c878db)
+  * [Google Landmark Recognition using Transfer Learning](https://towardsdatascience.com/google-landmark-recognition-using-transfer-learning-dde35cc760e1)
+  * [Object Detection using Google AI Open Images](https://towardsdatascience.com/object-detection-using-google-ai-open-images-4c908cad4a54)
+  * [Doodling with Deep Learning!](https://towardsdatascience.com/doodling-with-deep-learning-1b0e11b858aa)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1308,6 +1319,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Explained: Curiosity-Driven Learning in RL— Exploration By Random Network Distillation](https://towardsdatascience.com/explained-curiosity-driven-learning-in-rl-exploration-by-random-network-distillation-72b18e69eb1b)
 * [Reinforcement Learning with Python](https://towardsdatascience.com/reinforcement-learning-with-python-8ef0242a2fa2)
 * [Facebook’s Open-Source Reinforcement Learning Platform — A Deep Dive](https://towardsdatascience.com/facebooks-open-source-reinforcement-learning-platform-a-deep-dive-313a3d9d528)
+* [12월 19일. 대전에서 강화학습 강의를 위한 자료](https://github.com/wonseokjung/daejeon_rl_1219)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -1747,6 +1759,16 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [The 50 Best Public Datasets for Machine Learning](https://medium.com/datadriveninvestor/the-50-best-public-datasets-for-machine-learning-d80e9f030279)
 * [An Introduction to Random Forest](https://towardsdatascience.com/random-forest-3a55c3aca46d)
 * [Avoiding Parking Tickets in San Francisco Using Data Analytics](https://towardsdatascience.com/avoiding-parking-tickets-in-san-francisco-using-data-analytics-33ff5fbe2153)
+* [Stacking understanding. Python package for stacking](https://www.kaggle.com/c/allstate-claims-severity/discussion/25743)
+* [XGBoost is not black magic](https://towardsdatascience.com/xgboost-is-not-black-magic-56ca013144b4)
+* [Hands-on Machine Learning Model Interpretation](https://towardsdatascience.com/explainable-artificial-intelligence-part-3-hands-on-machine-learning-model-interpretation-e8ebe5afc608)
+* [Using Under-Sampling Techniques for Extremely Imbalanced Data](https://medium.com/anomaly-detection-with-python-and-r/sampling-techniques-for-extremely-imbalanced-data-part-i-under-sampling-a8dbc3d8d6d8)
+* [Exploratory Data Analysis, Feature Engineering and Modelling using Supermarket Sales Data. Part 1.](https://towardsdatascience.com/exploratory-data-analysis-feature-engineering-and-modelling-using-supermarket-sales-data-part-1-228140f89298)
+* [7 Techniques to Handle Imbalanced Data](https://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html)
+* [How to handle Imbalanced Classification Problems in machine learning?](https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/)
+* [How To handle Imbalance Data : Study in Detail](https://www.kaggle.com/gargmanish/how-to-handle-imbalance-data-study-in-detail)
+* [Interpreting predictive models with Skater: Unboxing model opacity](https://www.oreilly.com/ideas/interpreting-predictive-models-with-skater-unboxing-model-opacity)
+* [Dealing With Class Imbalanced Datasets For Classification.](https://towardsdatascience.com/dealing-with-class-imbalanced-datasets-for-classification-2cc6fad99fd9)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -1998,6 +2020,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Shareable Data Science with Kyso](https://www.datacamp.com/community/tutorials/shareable-data-science-kyso)
 * [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
 * [A short guide to using Docker for your data science environment](https://towardsdatascience.com/a-short-guide-to-using-docker-for-your-data-science-environment-912617b3603e)
+* [Preprocessing with sklearn: a complete and comprehensive guide](https://towardsdatascience.com/preprocessing-with-sklearn-a-complete-and-comprehensive-guide-670cb98fcfb9)
+* [Effective Visualization of Multi-Dimensional Data — A Hands-on Approach](https://medium.com/swlh/effective-visualization-of-multi-dimensional-data-a-hands-on-approach-b48f36a56ee8)
+* [An easy to use waterfall chart function for Python](https://github.com/chrispaulca/waterfall)
+* [ntroduction to Interactive Time Series Visualizations with Plotly in Python](https://towardsdatascience.com/introduction-to-interactive-time-series-visualizations-with-plotly-in-python-d3219eb7a7af)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -2256,6 +2282,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [AiTEMS가 추천하는 ‘함께 볼만한 영화 추천 서비스’가 오픈됩니다](https://blog.naver.com/PostView.nhn?blogId=naver_search&logNo=221392818931)
 * [Learning to make Recommendations](https://towardsdatascience.com/learning-to-make-recommendations-745d13883951)
 * [Recommender Systems using Deep Learning in PyTorch from scratch](https://towardsdatascience.com/recommender-systems-using-deep-learning-in-pytorch-from-scratch-f661b8f391d7)
+* [Anime Recommendation engine: From Matrix Factorization to Learning-to-rank](https://towardsdatascience.com/anime-recommendation-engine-from-matrix-factorization-to-learning-to-rank-845d4a9af335)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
