@@ -1692,8 +1692,6 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Analyzing time series data in Pandas](https://towardsdatascience.com/analyzing-time-series-data-in-pandas-be3887fdd621)
 * [Large-scale Graph Mining with Spark: Part 1](https://towardsdatascience.com/large-scale-graph-mining-with-spark-750995050656)
 * [Large-scale Graph Mining with Spark: Part 2](https://towardsdatascience.com/large-scale-graph-mining-with-spark-part-2-2c3d9ed15bb5)
-* [Why Use K-Means for Time Series Data? [Part One]](https://www.influxdata.com/blog/why-use-k-means-for-time-series-data-part-one/)
-* [Why Use K-Means for Time Series Data? [Part Two]](https://www.influxdata.com/blog/why-use-k-means-for-time-series-data-part-two/)
 * [Kaggle Study - 커널 커리큘럼](https://drive.google.com/file/d/1sZySC0sBgG1vz6w5XV3Hhm_0d4wYnf86/view)
 * [Machine Learning Black Friday Dataset](https://www.datacamp.com/community/tutorials/ml-black-friday-dataset)
 * [Why you should try Mean Encoding](https://towardsdatascience.com/why-you-should-try-mean-encoding-17057262cd0)
