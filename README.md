@@ -864,6 +864,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Google Landmark Recognition using Transfer Learning](https://towardsdatascience.com/google-landmark-recognition-using-transfer-learning-dde35cc760e1)
   * [Object Detection using Google AI Open Images](https://towardsdatascience.com/object-detection-using-google-ai-open-images-4c908cad4a54)
   * [Doodling with Deep Learning!](https://towardsdatascience.com/doodling-with-deep-learning-1b0e11b858aa)
+  * [BERT 톺아보기](http://docs.likejazz.com/bert/)
+  * [The Illustrated BERT, ELMo, and co. [How NLP Cracked Transfer Learning]](https://jalammar.github.io/illustrated-bert/)
+  * [Distributed TensorFlow using Horovod](https://towardsdatascience.com/distributed-tensorflow-using-horovod-6d572f8790c4)
+  * [Deconstructing BERT: Distilling 6 Patterns from 100 Million Parameters](https://towardsdatascience.com/deconstructing-bert-distilling-6-patterns-from-100-million-parameters-b49113672f77)
+  * [10 Lessons Learned From Participating in Google AI Challenge](https://towardsdatascience.com/10-lessons-learned-from-participating-to-google-ai-challenge-268b4aa87efa)
+  * [Multi-class classification with focal loss for imbalanced datasets](https://medium.com/swlh/multi-class-classification-with-focal-loss-for-imbalanced-datasets-c478700e65f5)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -941,7 +947,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deep learning framework 제작](https://www.slideshare.net/taeyounglee1447/deep-learning-framework)
   * [1시간만에 GAN[Generative Adversarial Network] 완전 정복하기](https://www.slideshare.net/NaverEngineering/1-gangenerative-adversarial-network) : [[Video]](https://youtu.be/odpjk7_tGY0)
   * [Build, Scale, and Deploy Deep Learning Pipelines with Ease Using Apache Spark](https://www.slideshare.net/databricks/build-scale-and-deploy-deep-learning-pipelines-with-ease-using-apache-spark)
-  * [Deep learning text NLP and Spark Collaboration. 역 딥러닝 Text NLP & Spark](https://www.slidesha글re.net/ssusere94328/deep-learning-text-nlp-and-spark-collaboration-text-nlp-spark)
+  * [Deep learning text NLP and Spark Collaboration. 역 딥러닝 Text NLP & Spark](https://www.slideshare.net/ssusere94328/deep-learning-text-nlp-and-spark-collaboration-text-nlp-spark)
   * [Understanding RCNN Family](https://www.slideshare.net/ssuser73ec8f/understanding-rcnn-family)
   * [자습해도 모르겠던 딥러닝, 머리속에 인스톨 시켜드립니다.](https://www.slideshare.net/yongho/ss-79607172)
   * [Applying deep learning to medical data](https://www.slideshare.net/hyunseokmin/applying-deep-learning-to-medical-data)
@@ -1126,6 +1132,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [3i4K - Intonation-aided intention identification for Korean](https://github.com/warnikchow/3i4k)
   * [DLK2NLP: Day-by-day Line-by-line Keras-based Korean NLP](https://github.com/warnikchow/dlk2nlp)
   * [Material used for Deep Learning related workshops for Machine Learning Tokyo [MLT]](https://github.com/Machine-Learning-Tokyo/DL-workshop-series)
+  * [A list of NLP[Natural Language Processing] tutorials](https://github.com/lyeoni/nlp-tutorial)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -1177,6 +1184,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [가장 큰 오픈소스 자율주행차량 데이터셋 공개 - UC Berkeley BDD100K](https://sites.google.com/site/bimprinciple/in-the-news/gajangkeunopeunsoseujayuljuhaengchalyangdeiteosesgong-gae-ucberkeleybdd100k)
   * [Handwritten Hangul Datasets: PE92, SERI95, and HanDB](https://github.com/callee2006/HangulDB)
   * [Tencent ML-Images](https://github.com/Tencent/tencent-ml-images)
+  * [KorQuAD - The Korean Question Answering Dataset](https://korquad.github.io/)
 
 ## Reinforcement Learning
 * [Fundamental of Reinforcement Learning](https://www.gitbook.com/book/dnddnjs/rl/)
@@ -1320,6 +1328,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Reinforcement Learning with Python](https://towardsdatascience.com/reinforcement-learning-with-python-8ef0242a2fa2)
 * [Facebook’s Open-Source Reinforcement Learning Platform — A Deep Dive](https://towardsdatascience.com/facebooks-open-source-reinforcement-learning-platform-a-deep-dive-313a3d9d528)
 * [12월 19일. 대전에서 강화학습 강의를 위한 자료](https://github.com/wonseokjung/daejeon_rl_1219)
+* [강화학습 이론 및 실습](https://speakerdeck.com/wonseokjung/reinforcement-learning-a2711ce7-83db-4c31-8ea3-ad5db0e1a9a9)
+* [Reinforcement Learning from Scratch: Designing and Solving a Task All Within a Python Notebook](https://towardsdatascience.com/reinforcement-learning-from-scratch-designing-and-solving-a-task-all-within-a-python-notebook-48c40021da4)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -1767,6 +1777,19 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [How To handle Imbalance Data : Study in Detail](https://www.kaggle.com/gargmanish/how-to-handle-imbalance-data-study-in-detail)
 * [Interpreting predictive models with Skater: Unboxing model opacity](https://www.oreilly.com/ideas/interpreting-predictive-models-with-skater-unboxing-model-opacity)
 * [Dealing With Class Imbalanced Datasets For Classification.](https://towardsdatascience.com/dealing-with-class-imbalanced-datasets-for-classification-2cc6fad99fd9)
+* [Three techniques to improve machine learning model performance with imbalance datasets](https://towardsdatascience.com/working-with-highly-imbalanced-datasets-in-machine-learning-projects-c70c5f2a7b16)
+* [Mean [likelihood] encodings: a comprehensive study](https://www.kaggle.com/vprokopev/mean-likelihood-encodings-a-comprehensive-study)
+* [6 Ways for Feature Selection](https://www.kaggle.com/sz8416/6-ways-for-feature-selection)
+* [Introduction to Feature Selection methods with an example [or how to select the right variables?]](https://www.analyticsvidhya.com/blog/2016/12/introduction-to-feature-selection-methods-with-an-example-or-how-to-select-the-right-variables/)
+* [Feature importance and dependence plot with shap](https://www.kaggle.com/cast42/feature-importance-and-dependence-plot-with-shap)
+* [Boruta feature elimination](https://www.kaggle.com/tilii7/boruta-feature-elimination)
+* [ML-Powered Product categorization for smart shopping options](https://towardsdatascience.com/ml-powered-product-categorization-for-smart-shopping-options-8f10d78e3294)
+* [Hidden Technical Debt in Machine Learning Systems 리뷰](https://zzsza.github.io/data/2018/01/28/hidden-technical-debt-in-maching-learning-systems/)
+* [Kaggle Past Solutions](https://ndres.me/kaggle-past-solutions/)
+* [Machine Learning and Music Classification: A Content-Based Filtering Approach](https://towardsdatascience.com/machine-learning-and-music-classification-a-content-based-filtering-approach-f2c4eb13bade)
+* [Automated Keyword Extraction from Articles using NLP](https://medium.com/analytics-vidhya/automated-keyword-extraction-from-articles-using-nlp-bfd864f41b34)
+* [Synthetic data generation — a must-have skill for new data scientists](https://towardsdatascience.com/synthetic-data-generation-a-must-have-skill-for-new-data-scientists-915896c0c1ae)
+* [Amazon SageMaker adds Scikit-Learn support](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-adds-scikit-learn-support/)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2021,7 +2044,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Preprocessing with sklearn: a complete and comprehensive guide](https://towardsdatascience.com/preprocessing-with-sklearn-a-complete-and-comprehensive-guide-670cb98fcfb9)
 * [Effective Visualization of Multi-Dimensional Data — A Hands-on Approach](https://medium.com/swlh/effective-visualization-of-multi-dimensional-data-a-hands-on-approach-b48f36a56ee8)
 * [An easy to use waterfall chart function for Python](https://github.com/chrispaulca/waterfall)
-* [ntroduction to Interactive Time Series Visualizations with Plotly in Python](https://towardsdatascience.com/introduction-to-interactive-time-series-visualizations-with-plotly-in-python-d3219eb7a7af)
+* [Introduction to Interactive Time Series Visualizations with Plotly in Python](https://towardsdatascience.com/introduction-to-interactive-time-series-visualizations-with-plotly-in-python-d3219eb7a7af)
+* [Docker for Data Science Without the Hassle](https://towardsdatascience.com/docker-without-the-hassle-b98447caedd8)
+* [Top 50 matplotlib Visualizations](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)
+* [Tidying Up Pandas](https://towardsdatascience.com/tidying-up-pandas-4572bfa38776)
+* [Bringing the best out of Jupyter Notebooks for Data Science](https://towardsdatascience.com/bringing-the-best-out-of-jupyter-notebooks-for-data-science-f0871519ca29)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -2281,6 +2308,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Learning to make Recommendations](https://towardsdatascience.com/learning-to-make-recommendations-745d13883951)
 * [Recommender Systems using Deep Learning in PyTorch from scratch](https://towardsdatascience.com/recommender-systems-using-deep-learning-in-pytorch-from-scratch-f661b8f391d7)
 * [Anime Recommendation engine: From Matrix Factorization to Learning-to-rank](https://towardsdatascience.com/anime-recommendation-engine-from-matrix-factorization-to-learning-to-rank-845d4a9af335)
+* [How to Implement a Recommendation System with Deep Learning and PyTorch](https://medium.com/@iliazaitsev/how-to-implement-a-recommendation-system-with-deep-learning-and-pytorch-2d40476590f9)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
