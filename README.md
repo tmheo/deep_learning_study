@@ -107,6 +107,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Edwith - Data Science from MIT](https://www.edwith.org/datascience/)
   * [3분 딥러닝 파이토치맛](https://github.com/keon/3-min-pytorch)
   * [AI Transformation Playbook](https://landing.ai/ai-transformation-playbook/)
+  * [딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155)
+  * [딥 러닝을 이용한 자연어 처리 심화](https://wikidocs.net/book/2159)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -871,6 +873,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [10 Lessons Learned From Participating in Google AI Challenge](https://towardsdatascience.com/10-lessons-learned-from-participating-to-google-ai-challenge-268b4aa87efa)
   * [Multi-class classification with focal loss for imbalanced datasets](https://medium.com/swlh/multi-class-classification-with-focal-loss-for-imbalanced-datasets-c478700e65f5)
   * [Machine Learning — Multiclass Classification with Imbalanced Dataset](https://towardsdatascience.com/machine-learning-multiclass-classification-with-imbalanced-data-set-29f6a177c1a)
+  * [Word2Vec For Phrases — Learning Embeddings For More Than One Word](https://towardsdatascience.com/word2vec-for-phrases-learning-embeddings-for-more-than-one-word-727b6cf723cf)
+  * [Text Classification with State of the Art NLP Library — Flair](https://towardsdatascience.com/text-classification-with-state-of-the-art-nlp-library-flair-b541d7add21f
+  * [Introducing Wav2letter++](https://towardsdatascience.com/introducing-wav2latter-9e94ae13246)
+  * [SlowFast Explained: Dual-mode CNN for Video Understanding](https://towardsdatascience.com/slowfast-explained-dual-mode-cnn-for-video-understanding-8bf639960256)
+  * [[번역]Deploying Keras models using TensorFlow Serving and Flask](https://yjucho1.github.io/tensorflow/tensorflow-serving/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1134,6 +1141,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [DLK2NLP: Day-by-day Line-by-line Keras-based Korean NLP](https://github.com/warnikchow/dlk2nlp)
   * [Material used for Deep Learning related workshops for Machine Learning Tokyo [MLT]](https://github.com/Machine-Learning-Tokyo/DL-workshop-series)
   * [A list of NLP[Natural Language Processing] tutorials](https://github.com/lyeoni/nlp-tutorial)
+  * [PyTorch tutorial for learners](https://github.com/buomsoo-kim/PyTorch-learners-tutorial)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -1791,6 +1799,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Automated Keyword Extraction from Articles using NLP](https://medium.com/analytics-vidhya/automated-keyword-extraction-from-articles-using-nlp-bfd864f41b34)
 * [Synthetic data generation — a must-have skill for new data scientists](https://towardsdatascience.com/synthetic-data-generation-a-must-have-skill-for-new-data-scientists-915896c0c1ae)
 * [Amazon SageMaker adds Scikit-Learn support](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-adds-scikit-learn-support/)
+* [Customer Segmentation Report for Arvato Financial Solutions](https://towardsdatascience.com/customer-segmentation-report-for-arvato-financial-solutions-b08a01ac7bc0)
+* [Let’s Try t-SNE!](https://beta.observablehq.com/@mbostock/lets-try-t-sne)
+* [Using Machine Learning Models for Breast Cancer Detection](https://medium.com/@hannah.lgbhan/using-machine-learning-models-for-breast-cancer-detection-f95cf5414764)
+* [How to avoid the Machine Learning blackbox with SHAP](https://towardsdatascience.com/how-to-avoid-the-machine-learning-blackbox-with-shap-da567fc64a8b)
+* [Understanding how LIME explains predictions](https://towardsdatascience.com/understanding-how-lime-explains-predictions-d404e5d1829c)
+* [머신러닝 오퍼레이션 자동화, MLOps](https://zzsza.github.io/mlops/2018/12/28/mlops/)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2050,6 +2064,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Top 50 matplotlib Visualizations](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)
 * [Tidying Up Pandas](https://towardsdatascience.com/tidying-up-pandas-4572bfa38776)
 * [Bringing the best out of Jupyter Notebooks for Data Science](https://towardsdatascience.com/bringing-the-best-out-of-jupyter-notebooks-for-data-science-f0871519ca29)
+* [How to Version Control Jupyter Notebooks](https://nextjournal.com/schmudde/how-to-version-control-jupyter)
+* [PyParis 2018 - Jupytext: Edit Jupyter notebooks represented as Python scripts](https://www.youtube.com/watch?v=y-VEZenk824)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -2310,6 +2326,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Recommender Systems using Deep Learning in PyTorch from scratch](https://towardsdatascience.com/recommender-systems-using-deep-learning-in-pytorch-from-scratch-f661b8f391d7)
 * [Anime Recommendation engine: From Matrix Factorization to Learning-to-rank](https://towardsdatascience.com/anime-recommendation-engine-from-matrix-factorization-to-learning-to-rank-845d4a9af335)
 * [How to Implement a Recommendation System with Deep Learning and PyTorch](https://medium.com/@iliazaitsev/how-to-implement-a-recommendation-system-with-deep-learning-and-pytorch-2d40476590f9)
+* [Building and Testing Recommender Systems With Surprise, Step-By-Step](https://towardsdatascience.com/building-and-testing-recommender-systems-with-surprise-step-by-step-d4ba702ef80b)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
