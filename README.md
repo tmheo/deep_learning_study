@@ -109,6 +109,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [AI Transformation Playbook](https://landing.ai/ai-transformation-playbook/)
   * [딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155)
   * [딥 러닝을 이용한 자연어 처리 심화](https://wikidocs.net/book/2159)
+  * [Berkeley - CS 188 | Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/fa18/)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -878,6 +879,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Introducing Wav2letter++](https://towardsdatascience.com/introducing-wav2latter-9e94ae13246)
   * [SlowFast Explained: Dual-mode CNN for Video Understanding](https://towardsdatascience.com/slowfast-explained-dual-mode-cnn-for-video-understanding-8bf639960256)
   * [[번역]Deploying Keras models using TensorFlow Serving and Flask](https://yjucho1.github.io/tensorflow/tensorflow-serving/)
+  * [The General Ideas of Word Embeddings](https://towardsdatascience.com/the-three-main-branches-of-word-embeddings-7b90fa36dfb9)
+  * [Malaria Detection with FastAI V1](https://www.kaggle.com/ingbiodanielh/malaria-detection-with-fastai-v1)
+  * [내 중고물품을 분류 해주는 모델 서빙하기[feat. Keras & Flask]](https://medium.com/daangn/%EB%82%B4-%EC%A4%91%EA%B3%A0%EB%AC%BC%ED%92%88%EC%9D%84-%EB%B6%84%EB%A5%98-%ED%95%B4%EC%A3%BC%EB%8A%94-%EB%AA%A8%EB%8D%B8-%EC%84%9C%EB%B9%99%ED%95%98%EA%B8%B0-feat-keras-flask-210f8a30b8f6)
+  * [MNIST on TPU [Tensor Processing Unit] or GPU using tf.Keras and tf.data.Dataset](https://colab.research.google.com/github/GoogleCloudPlatform/training-data-analyst/blob/master/courses/fast-and-lean-data-science/01_MNIST_TPU_Keras.ipynb)
+  * [Understanding and Coding a ResNet in Keras](https://towardsdatascience.com/understanding-and-coding-a-resnet-in-keras-446d7ff84d33)
+  * [NLP 2018 Highlights](https://medium.com/dair-ai/nlp-2018-highlights-5a65cbd96671)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1805,6 +1812,16 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [How to avoid the Machine Learning blackbox with SHAP](https://towardsdatascience.com/how-to-avoid-the-machine-learning-blackbox-with-shap-da567fc64a8b)
 * [Understanding how LIME explains predictions](https://towardsdatascience.com/understanding-how-lime-explains-predictions-d404e5d1829c)
 * [머신러닝 오퍼레이션 자동화, MLOps](https://zzsza.github.io/mlops/2018/12/28/mlops/)
+* [Use Unsupervised Machine Learning To Find Potential Buyers of Your Products](https://towardsdatascience.com/use-unsupervised-machine-learning-to-find-potential-buyers-of-your-products-cd75edaeefc7)
+* [Introduction to AI 강좌](https://www.youtube.com/watch?v=4fdDq-v27eE)
+* [End To End Guide For Machine Learning Project](https://medium.com/fintechexplained/end-to-end-guide-for-machine-learning-project-146c288186dc)
+* [Hyperparameters tunning with Hyperopt](https://www.kaggle.com/ilialar/hyperparameters-tunning-with-hyperopt)
+* [Review Rating Prediction: A Combined Approach](https://towardsdatascience.com/review-rating-prediction-a-combined-approach-538c617c495c)
+* [How to Select Your Final Models in a Kaggle Competition](http://www.chioka.in/how-to-select-your-final-models-in-a-kaggle-competitio/)
+* [Distributed Data Pre-processing using Dask, Amazon ECS and Python [Part 1]](https://towardsdatascience.com/serverless-distributed-data-pre-processing-using-dask-amazon-ecs-and-python-part-1-a6108c728cc4)
+* [Distributed Data Pre-processing using Dask, Amazon ECS and Python [Part 2]](https://towardsdatascience.com/serverless-distributed-data-pre-processing-using-dask-amazon-ecs-and-python-part-2-af14a1ac1b25)
+* [Classify Songs Genres From Audio Data](https://towardsdatascience.com/classify-songs-genres-from-audio-data-554546280817)
+* [Improving Data Quality with Product Similarity Search](https://techblog.commercetools.com/improving-data-quality-with-product-similarity-search-d037c7212071)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2066,6 +2083,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Bringing the best out of Jupyter Notebooks for Data Science](https://towardsdatascience.com/bringing-the-best-out-of-jupyter-notebooks-for-data-science-f0871519ca29)
 * [How to Version Control Jupyter Notebooks](https://nextjournal.com/schmudde/how-to-version-control-jupyter)
 * [PyParis 2018 - Jupytext: Edit Jupyter notebooks represented as Python scripts](https://www.youtube.com/watch?v=y-VEZenk824)
+* [Optimizing Jupyter Notebooks - A Comprehensive Guide](https://towardsdatascience.com/speed-up-jupyter-notebooks-20716cbe2025)
+* [Advanced Jupyter Notebooks: A Tutorial](https://towardsdatascience.com/advanced-jupyter-notebooks-a-tutorial-3569d8153057)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
