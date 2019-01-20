@@ -110,6 +110,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155)
   * [딥 러닝을 이용한 자연어 처리 심화](https://wikidocs.net/book/2159)
   * [Berkeley - CS 188 | Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/fa18/)
+  * [코더들을 위한 실전 딥러닝 강의](http://alina.ai/courses/practical_dl_for_coders/)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -894,6 +895,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Predicting review scores using neural networks — Kaggle University Club Winter’18 Hackathon](https://medium.com/@rexhaif/predicting-review-scores-using-neural-networks-kaggle-university-club-winter18-hackathon-80bc0e4a1688)
   * [헙! 쉽고 간단한 TensorFlow Hub!?](http://moducon.kr/2018/leejunho-session/)
   * [How to use TensorFlow Hub with code examples](https://medium.com/ymedialabs-innovation/how-to-use-tensorflow-hub-with-code-examples-9100edec29af)
+  * [What’s coming in TensorFlow 2.0](https://medium.com/tensorflow/whats-coming-in-tensorflow-2-0-d3663832e9b8)
+  * [Introduction to Video Classification](https://towardsdatascience.com/introduction-to-video-classification-6c6acbc57356)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1160,6 +1163,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [A list of NLP[Natural Language Processing] tutorials](https://github.com/lyeoni/nlp-tutorial)
   * [PyTorch tutorial for learners](https://github.com/buomsoo-kim/PyTorch-learners-tutorial)
   * [CS 20 : TensorFlow for Deep Learning Research](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec05_Variable%20sharing%20and%20managing%20experiments/Lec05_Applied%20example%20with%20tf.data_kde.ipynb)
+  * [NLP Classification Tutorial with PyTorch](https://github.com/DonghyungKo/naver_movie_review_sentiment_classification)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -1359,6 +1363,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Reinforcement Learning from Scratch: Designing and Solving a Task All Within a Python Notebook](https://towardsdatascience.com/reinforcement-learning-from-scratch-designing-and-solving-a-task-all-within-a-python-notebook-48c40021da4)
 * [Playing Super Mario Bros with Proximal Policy Optimization](https://brandinho.github.io/mario-ppo/)
 * [Qrash Course: Reinforcement Learning 101 & Deep Q Networks in 10 Minutes](https://towardsdatascience.com/qrash-course-deep-q-networks-from-the-ground-up-1bbda41d3677)
+* [Playing Pong using Reinforcement Learning](https://towardsdatascience.com/intro-to-reinforcement-learning-pong-92a94aa0f84d)
+* [A Beginner’s Guide To Reinforcement Learning With A Mario Bros Example](https://towardsdatascience.com/a-beginners-guide-to-reinforcement-learning-with-a-mario-bros-example-fa0e0563aeb7)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -1849,6 +1855,14 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Kaggle - Basic end-to-end training of a LightGBM model](https://www.kaggle.com/rtatman/lightgbm-hyperparameter-optimisation-lb-0-761)
 * [[카카오AI리포트]머신러닝 적용의 실제](https://brunch.co.kr/@kakao-it/104)
 * [Kaggle - Updated Bayesian + LGBM_XGB_CAT+ FE + Kfold + CV](https://www.kaggle.com/ashishpatel26/updated-bayesian-lgbm-xgb-cat-fe-kfold-cv/notebook)
+* [Kaggle - Stacking Test-Sklearn, XGBoost, CatBoost, LightGBM](https://www.kaggle.com/eliotbarr/stacking-test-sklearn-xgboost-catboost-lightgbm)
+* [Tips and tricks to win kaggle data science competitions](https://www.slideshare.net/DariusBaruauskas/tips-and-tricks-to-win-kaggle-data-science-competitions)
+* [Automate Stacking In Python](https://towardsdatascience.com/automate-stacking-in-python-fc3e7834772e)
+* [Feature Engineering](https://www.slideshare.net/HJvanVeen/feature-engineering-72376750)
+* [Winning Kaggle Competitions](https://www.slideshare.net/HJvanVeen/kaggle-presentation)
+* [Hands-on: Predict Customer Churn](https://towardsdatascience.com/hands-on-predict-customer-churn-5c2a42806266)
+* [Detecting Credit Card Fraud Using Machine Learning](https://towardsdatascience.com/detecting-credit-card-fraud-using-machine-learning-a3d83423d3b8)
+* [Improve your workflow by managing your machine learning experiments using Sacred](https://towardsdatascience.com/improve-your-workflow-by-managing-your-machine-learning-experiments-using-sacred-d51dd2b0047e)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2120,6 +2134,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Visual Studio Code로 편리한 Pylife!](http://blog.ncsoft.com/?p=40977)
 * [베이지안 A/B 테스트](https://brunch.co.kr/@gimmesilver/15)
 * [Unleash the power of Jupyter Notebooks](https://towardsdatascience.com/unleash-the-power-of-jupyter-notebooks-4ed452a47895)
+* [Bayesian A/B Testing with Python: the easy guide](https://towardsdatascience.com/bayesian-a-b-testing-with-python-the-easy-guide-d638f89e0b8a)
+* [데이터 사이언스를 공부하고 싶은 분들을 위한 글](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science)
+* [조금 더 생각해보는 p-value](http://alphahackerhan.tistory.com/4)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -2381,6 +2398,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Anime Recommendation engine: From Matrix Factorization to Learning-to-rank](https://towardsdatascience.com/anime-recommendation-engine-from-matrix-factorization-to-learning-to-rank-845d4a9af335)
 * [How to Implement a Recommendation System with Deep Learning and PyTorch](https://medium.com/@iliazaitsev/how-to-implement-a-recommendation-system-with-deep-learning-and-pytorch-2d40476590f9)
 * [Building and Testing Recommender Systems With Surprise, Step-By-Step](https://towardsdatascience.com/building-and-testing-recommender-systems-with-surprise-step-by-step-d4ba702ef80b)
+* [How Shopify Uses Recommender Systems to Empower Entrepreneurs](https://medium.com/data-shopify/how-shopify-uses-recommender-systems-to-empower-entrepreneurs-99553b407944)
+* [[애드테크] 전환율 (CVR) 예측은 왜 어려운가?](https://bahnsville.tistory.com/1166)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
