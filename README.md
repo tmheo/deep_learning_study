@@ -897,6 +897,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [How to use TensorFlow Hub with code examples](https://medium.com/ymedialabs-innovation/how-to-use-tensorflow-hub-with-code-examples-9100edec29af)
   * [What’s coming in TensorFlow 2.0](https://medium.com/tensorflow/whats-coming-in-tensorflow-2-0-d3663832e9b8)
   * [Introduction to Video Classification](https://towardsdatascience.com/introduction-to-video-classification-6c6acbc57356)
+  * [Mask R-CNN for Ship Detection & Segmentation](https://towardsdatascience.com/mask-r-cnn-for-ship-detection-segmentation-a1108b5a083)
+  * [Sentiment Classification with Natural Language Processing on LSTM](https://medium.com/@aniruddha.choudhury94/sentiment-classification-with-natural-language-processing-on-lstm-4dc0497c1f19)
+  * [A CNN classifier and a Metric Learning model,1st Place Solution](https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/78109)
+  * [How to Develop a Stacking Ensemble for Deep Learning Neural Networks in Python With Keras](https://machinelearningmastery.com/stacking-ensemble-for-deep-learning-neural-networks/)
+  * [Lessons Learned from Kaggle’s Airbus Challenge.](https://medium.com/@YassineAlouini/lessons-learned-from-kaggles-airbus-challenge-252e25c5efac)
+  * [An Overview of Categorical Input Handling for Neural Networks](https://towardsdatascience.com/an-overview-of-categorical-input-handling-for-neural-networks-c172ba552dee)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1033,6 +1039,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Building, Training, and Deploying fast.ai Models Using Amazon SageMaker [AIM428] - AWS re:Invent 2018](https://www.slideshare.net/AmazonWebServices/building-training-and-deploying-fastai-models-using-amazon-sagemaker-aim428-aws-reinvent-2018)
   * [181123 poseest101 devfest_pangyo_jwkang](https://www.slideshare.net/JaewookKang1/181123-poseest101-devfestpangyojwkang)
   * [딥러닝 자연어처리 - RNN에서 BERT까지](https://www.slideshare.net/deepseaswjh/rnn-bert)
+  * [Tacotron & Wavenet](https://drive.google.com/file/d/1gLwmkiZhA4Wj7769gwj_Y0RP5NByPfpo/view)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -1164,6 +1171,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [PyTorch tutorial for learners](https://github.com/buomsoo-kim/PyTorch-learners-tutorial)
   * [CS 20 : TensorFlow for Deep Learning Research](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec05_Variable%20sharing%20and%20managing%20experiments/Lec05_Applied%20example%20with%20tf.data_kde.ipynb)
   * [NLP Classification Tutorial with PyTorch](https://github.com/DonghyungKo/naver_movie_review_sentiment_classification)
+  * [Classification models trained on ImageNet. Keras.](https://github.com/qubvel/classification_models)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -1863,6 +1871,16 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Hands-on: Predict Customer Churn](https://towardsdatascience.com/hands-on-predict-customer-churn-5c2a42806266)
 * [Detecting Credit Card Fraud Using Machine Learning](https://towardsdatascience.com/detecting-credit-card-fraud-using-machine-learning-a3d83423d3b8)
 * [Improve your workflow by managing your machine learning experiments using Sacred](https://towardsdatascience.com/improve-your-workflow-by-managing-your-machine-learning-experiments-using-sacred-d51dd2b0047e)
+* [Why Feature Correlation Matters …. A Lot!](https://towardsdatascience.com/why-feature-correlation-matters-a-lot-847e8ba439c4)
+* [What We Learned by Serving Machine Learning Models at Scale Using Amazon SageMaker](https://medium.freecodecamp.org/what-we-learned-by-serving-machine-learning-models-at-scale-using-amazon-sagemaker-ad1d974d8dca)
+* [TentionFlow](https://www.slideshare.net/seongmookim/tentionflow)
+* [Introduction to Machine Learning on Apache Spark](https://www.youtube.com/playlist?list=PLroeQp1c-t3pT3_d6JmjVnBdOKpyeQtQr)
+* [Anomaly Detection: Part 1](https://medium.com/eliiza-ai/anomaly-detection-part-1-92f45bdc5729)
+* [Anomaly Detection: Part 2](https://medium.com/eliiza-ai/anomaly-detection-part-2-62b994ff6018)
+* [조윤주님의 Time Series 시계열 분석 블로그](https://yjucho1.github.io/category/#time-sereis)
+* [Time-step wise feature importance in deep learning using SHAP](https://medium.com/datadriveninvestor/time-step-wise-feature-importance-in-deep-learning-using-shap-e1c46a655455)
+* [Time Series of Price Anomaly Detection](https://towardsdatascience.com/time-series-of-price-anomaly-detection-13586cd5ff46)
+* [AutoML - Automatic Machine Learning Challenge & Lessons](http://slides.com/streguer/automl/#/)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2137,6 +2155,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Bayesian A/B Testing with Python: the easy guide](https://towardsdatascience.com/bayesian-a-b-testing-with-python-the-easy-guide-d638f89e0b8a)
 * [데이터 사이언스를 공부하고 싶은 분들을 위한 글](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science)
 * [조금 더 생각해보는 p-value](http://alphahackerhan.tistory.com/4)
+* [The Poisson Distribution and Poisson Process Explained](https://towardsdatascience.com/the-poisson-distribution-and-poisson-process-explained-4e2cb17d459)
+* [3 Methods for Parallelization in Spark](https://towardsdatascience.com/3-methods-for-parallelization-in-spark-6a1a4333b473)
+* [The Apache Spark™ Cost-Based Optimizer](https://www.youtube.com/watch?v=W8rDdl-d5UY)
+* [장바구니를 든 데이터 사이언티스트](https://www.slideshare.net/DennisLee8/ss-128940838)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -2400,6 +2422,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Building and Testing Recommender Systems With Surprise, Step-By-Step](https://towardsdatascience.com/building-and-testing-recommender-systems-with-surprise-step-by-step-d4ba702ef80b)
 * [How Shopify Uses Recommender Systems to Empower Entrepreneurs](https://medium.com/data-shopify/how-shopify-uses-recommender-systems-to-empower-entrepreneurs-99553b407944)
 * [[애드테크] 전환율 (CVR) 예측은 왜 어려운가?](https://bahnsville.tistory.com/1166)
+* [Getting Started with Recommender Systems and TensorRec](https://towardsdatascience.com/getting-started-with-recommender-systems-and-tensorrec-8f50a9943eef)
+* [Y.LAB님의 Recommender System 블로그](https://yamalab.tistory.com/category/Recommender%20System)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
