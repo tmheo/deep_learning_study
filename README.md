@@ -111,6 +111,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [딥 러닝을 이용한 자연어 처리 심화](https://wikidocs.net/book/2159)
   * [Berkeley - CS 188 | Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/fa18/)
   * [코더들을 위한 실전 딥러닝 강의](http://alina.ai/courses/practical_dl_for_coders/)
+  * [2019년 겨울 한동머신러닝캠프 강의 동영상](https://github.com/callee2006/2019-Winter-HGU-Machine-Learing-Camp)
+  * [텐서플로우와 머신러닝으로 시작하는 자연어처리[로지스틱회귀부터 트랜스포머 챗봇까지]](https://github.com/NLP-kr/tensorflow-ml-nlp)
+  * [Natural Language Processing Tutorial for Deep Learning Researchers](https://github.com/graykode/nlp-tutorial)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -140,6 +143,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [explained.ai - Deep explanations of machine learning and related topics](http://explained.ai/)
   * [Weekly Machine Learning Opensource Roundup](https://blog.pocketcluster.io/)
   * [Keras for Everyone](https://keraskorea.github.io/)
+  * [Browse state-of-the-art](https://paperswithcode.com/sota)
 * Article
   * [Andrej Karpathy's Deep Learning Blog](http://karpathy.github.io/)
   * [머신러닝 딥러닝 입문 시 도움 되는 강좌](https://www.facebook.com/groups/TensorFlowKR/permalink/485458151795248/)
@@ -903,6 +907,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [How to Develop a Stacking Ensemble for Deep Learning Neural Networks in Python With Keras](https://machinelearningmastery.com/stacking-ensemble-for-deep-learning-neural-networks/)
   * [Lessons Learned from Kaggle’s Airbus Challenge.](https://medium.com/@YassineAlouini/lessons-learned-from-kaggles-airbus-challenge-252e25c5efac)
   * [An Overview of Categorical Input Handling for Neural Networks](https://towardsdatascience.com/an-overview-of-categorical-input-handling-for-neural-networks-c172ba552dee)
+  * [Understanding Entity Embeddings and It’s Application](https://towardsdatascience.com/understanding-entity-embeddings-and-its-application-69e37ae1501d)
+  * [Hands on Machine Learning demo: Real time object detection with YOLO V2](https://towardsdatascience.com/hands-on-machine-learning-example-real-time-object-detection-with-yolo-v2-ebdd8441c12a)
+  * [Reverse Tabular Module of Fast.ai v1](https://www.kaggle.com/dienhoa/reverse-tabular-module-of-fast-ai-v1)
+  * [“ TIME SERIES ANALYSIS USING NEURAL NETWORK ”](https://towardsdatascience.com/fast-ai-season-1-episode-4-1-time-series-analysis-a23217418bf1)
+  * [Deep Learning Part 1 — fast.ai - Rossman Notebook](https://medium.com/@chunduri11/deep-learning-part-1-fast-ai-rossman-notebook-7787bfbc309f)
+  * [Sales Prediction: A Deep Learning Approach](https://jeremyaguilon.me/blog/sales_prediction_a_deep_learning_approach)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1172,6 +1182,13 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [CS 20 : TensorFlow for Deep Learning Research](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec05_Variable%20sharing%20and%20managing%20experiments/Lec05_Applied%20example%20with%20tf.data_kde.ipynb)
   * [NLP Classification Tutorial with PyTorch](https://github.com/DonghyungKo/naver_movie_review_sentiment_classification)
   * [Classification models trained on ImageNet. Keras.](https://github.com/qubvel/classification_models)
+  * 이찬우님의 패스트캠퍼스 강의용 코드
+    * [2. tf.keras API basic](https://colab.research.google.com/drive/1CHj8uEgJJRxmOUJ4pXXoa9LNcHDT45eH?fbclid=IwAR05VrtMZefOzxYBrZrrCGTCgwzkKsijv8u5YaGQgjkXgrWwDq1sA8mx5x0)
+    * [3. Regression modeling](https://colab.research.google.com/drive/1HvW7t_AbfLzPdw8xjPj9KY9XdhjkFGz_?fbclid=IwAR0WQWZem6Cztq8krTn16R68w9aQaRUvkE6kNVmWvsHNc-gP-VVq6x4BheE)
+    * [4. FFNN modeling](https://colab.research.google.com/drive/1STSHOnNaxx4N6mtX8GlD2CM-XWYUXk8y?fbclid=IwAR0a93Wq2Ci94OFURILcinbJRlR9WqgYq8xXM1esvoBIP82JxjkMEHmn76w)
+    * [5. FFNN modeling [MNIST]](https://colab.research.google.com/drive/1uj8cXDfKrcGpvBv__XwfUAIkWjfoDJec?fbclid=IwAR0NxRYSRwkcv_0C0mmCV4WMUOPFpTwS2OJGScQ87WNV0SX1kFOBdFJSgWA)
+    * [6. CNN modeling](https://colab.research.google.com/drive/1jcp6IEFqfsaWSyAnoujiSfbHupcZPb9O?fbclid=IwAR3E1Qu7dNWah6wn_3JwjCXEqV-qUUT5ADQmlipvFVCZ345zIDWGxRfh5rc)
+    * [7. RNN modeling](https://colab.research.google.com/drive/14emI2vPTuZr4sL5Z60-jsCTsuswp2-uU?fbclid=IwAR1I1G4qXEVQtyFLgdRtEgbmFfKtlUeitMNJl11hXoXM2djKMuf49_tJ9F8)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -1215,6 +1232,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [TensorSpace - Neural network 3D visualization framework](https://tensorspace.org/)
   * [Weights & Biases - Experiment Tracking for Deep Learning](https://www.wandb.com/)
   * [khaiii - Kakao Hangul Analyzer III](https://github.com/kakao/khaiii)
+  * [Xfer - Transfer Learning framework written in Python](https://xfer.readthedocs.io/en/master/)
 * Dataset
   * [Fueling the Gold Rush: The Greatest Public Datasets for AI](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2)
   * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
@@ -1373,6 +1391,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Qrash Course: Reinforcement Learning 101 & Deep Q Networks in 10 Minutes](https://towardsdatascience.com/qrash-course-deep-q-networks-from-the-ground-up-1bbda41d3677)
 * [Playing Pong using Reinforcement Learning](https://towardsdatascience.com/intro-to-reinforcement-learning-pong-92a94aa0f84d)
 * [A Beginner’s Guide To Reinforcement Learning With A Mario Bros Example](https://towardsdatascience.com/a-beginners-guide-to-reinforcement-learning-with-a-mario-bros-example-fa0e0563aeb7)
+* [What follows AlphaStar for Academic AI Researchers?](https://towardsdatascience.com/what-follows-alphastar-for-academic-ai-researchers-befe0fc66d39)
+* [AlphaStar: Mastering the Real-Time Strategy Game StarCraft II](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/) : [[번역]](https://korchris.github.io/2019/01/25/Alphastar/index.html)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -1881,6 +1901,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Time-step wise feature importance in deep learning using SHAP](https://medium.com/datadriveninvestor/time-step-wise-feature-importance-in-deep-learning-using-shap-e1c46a655455)
 * [Time Series of Price Anomaly Detection](https://towardsdatascience.com/time-series-of-price-anomaly-detection-13586cd5ff46)
 * [AutoML - Automatic Machine Learning Challenge & Lessons](http://slides.com/streguer/automl/#/)
+* [Handling imbalanced datasets in machine learning](https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28)
+* [A Kaggle Master Explains Gradient Boosting](http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/)
+* [Introducing Snorkel](https://towardsdatascience.com/introducing-snorkel-27e4b0e6ecff)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2159,6 +2182,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [3 Methods for Parallelization in Spark](https://towardsdatascience.com/3-methods-for-parallelization-in-spark-6a1a4333b473)
 * [The Apache Spark™ Cost-Based Optimizer](https://www.youtube.com/watch?v=W8rDdl-d5UY)
 * [장바구니를 든 데이터 사이언티스트](https://www.slideshare.net/DennisLee8/ss-128940838)
+* [Interactive Controls in Jupyter Notebooks](https://towardsdatascience.com/interactive-controls-for-jupyter-notebooks-f5c94829aee6)
+* [Visualising Machine Learning Datasets with Google’s FACETS](https://towardsdatascience.com/visualising-machine-learning-datasets-with-googles-facets-462d923251b3)
+* [PyViz: Simplifying the Data Visualisation process in Python](https://towardsdatascience.com/pyviz-simplifying-the-data-visualisation-process-in-python-1b6d2cb728f1)
+* [Minimally Sufficient Pandas](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -2424,6 +2451,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [[애드테크] 전환율 (CVR) 예측은 왜 어려운가?](https://bahnsville.tistory.com/1166)
 * [Getting Started with Recommender Systems and TensorRec](https://towardsdatascience.com/getting-started-with-recommender-systems-and-tensorrec-8f50a9943eef)
 * [Y.LAB님의 Recommender System 블로그](https://yamalab.tistory.com/category/Recommender%20System)
+* [From Content-Based Recommendations to Personalization: A Tutorial](https://engineering.upside.com/from-content-based-recommendations-to-personalization-a-tutorial-773c9903b521)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
