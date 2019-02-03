@@ -114,6 +114,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [2019년 겨울 한동머신러닝캠프 강의 동영상](https://github.com/callee2006/2019-Winter-HGU-Machine-Learing-Camp)
   * [텐서플로우와 머신러닝으로 시작하는 자연어처리[로지스틱회귀부터 트랜스포머 챗봇까지]](https://github.com/NLP-kr/tensorflow-ml-nlp)
   * [Natural Language Processing Tutorial for Deep Learning Researchers](https://github.com/graykode/nlp-tutorial)
+  * [Master Datascience Paris Saclay - Deep Learning course](https://github.com/m2dsupsdlclass/lectures-labs)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -2249,7 +2250,6 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Keras Implementation of Recommender Systems](https://github.com/sonyisme/keras-recommendation)
 * [Recommending movies with deep learning](http://blog.richardweiss.org/2016/09/25/movie-embeddings.html)
 * [Building a Music Recommender with Deep Learning](http://mattmurray.net/building-a-music-recommender-with-deep-learning/)
-* [Recommender Systems & Embeddings](https://m2dsupsdlclass.github.io/lectures-labs/slides/02_recommender_systems/index.html) : [[Code]](https://github.com/m2dsupsdlclass/lectures-labs/tree/master/labs/02_neural_recsys)
 * [Movix.ai — movie recommendations with Deep Learning](https://medium.com/deep-systems/movix-ai-movie-recommendations-using-deep-learning-5903d6a31607)
 * Data Piques's Recommendation Article
   * [Intro to Recommender Systems: Collaborative Filtering](http://blog.ethanrosenthal.com/2015/11/02/intro-to-collaborative-filtering/)
