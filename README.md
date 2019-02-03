@@ -115,6 +115,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [텐서플로우와 머신러닝으로 시작하는 자연어처리[로지스틱회귀부터 트랜스포머 챗봇까지]](https://github.com/NLP-kr/tensorflow-ml-nlp)
   * [Natural Language Processing Tutorial for Deep Learning Researchers](https://github.com/graykode/nlp-tutorial)
   * [Master Datascience Paris Saclay - Deep Learning course](https://github.com/m2dsupsdlclass/lectures-labs)
+  * [모두의연구소 - NLP bootcamp](https://github.com/modulabs/NLP-bootcamp)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
