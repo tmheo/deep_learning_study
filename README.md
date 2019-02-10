@@ -1398,6 +1398,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [A Beginner’s Guide To Reinforcement Learning With A Mario Bros Example](https://towardsdatascience.com/a-beginners-guide-to-reinforcement-learning-with-a-mario-bros-example-fa0e0563aeb7)
 * [What follows AlphaStar for Academic AI Researchers?](https://towardsdatascience.com/what-follows-alphastar-for-academic-ai-researchers-befe0fc66d39)
 * [AlphaStar: Mastering the Real-Time Strategy Game StarCraft II](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/) : [[번역]](https://korchris.github.io/2019/01/25/Alphastar/index.html)
+* [Talk: An Introduction to Reinforcement Learning](https://medium.com/@julsimon/talk-an-introduction-to-reinforcement-learning-e26177338787)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -1915,6 +1916,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Manifold: A Model-Agnostic Visual Debugging Tool for Machine Learning at Uber](https://eng.uber.com/manifold/)
 * [Natural Language Processing Using Stanford’s CoreNLP](https://towardsdatascience.com/natural-language-processing-using-stanfords-corenlp-d9e64c1e1024)
 * [PySpark in Google Colab](https://towardsdatascience.com/pyspark-in-google-colab-6821c2faf41c)
+* [A map for Machine Learning on AWS](https://towardsdatascience.com/a-map-for-machine-learning-on-aws-a285fcd8d932)
+* [Talk: From Notebook to Production with Amazon SageMaker](https://medium.com/@julsimon/talk-from-notebook-to-production-with-amazon-sagemaker-ee2a2036c0fe)
+* [Scaling Machine Learning from 0 to millions of users — part 1](https://towardsdatascience.com/scaling-machine-learning-from-0-to-millions-of-users-part-1-a2d36a5e849)
+* [Scaling Machine Learning from 0 to millions of users — part 2](https://medium.com/@julsimon/scaling-machine-learning-from-0-to-millions-of-users-part-2-80b0d1d7fc61)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2468,6 +2473,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Y.LAB님의 Recommender System 블로그](https://yamalab.tistory.com/category/Recommender%20System)
 * [From Content-Based Recommendations to Personalization: A Tutorial](https://engineering.upside.com/from-content-based-recommendations-to-personalization-a-tutorial-773c9903b521)
 * [Perfume Recommendations using Natural Language Processing](https://towardsdatascience.com/perfume-recommendations-using-natural-language-processing-ad3e6736074c)
+* [Content-Based Recommendation Systems with Apache MXNet](https://medium.com/apache-mxnet/content-based-recommendation-systems-with-apache-mxnet-e71b559dcbc4)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
