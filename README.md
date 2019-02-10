@@ -915,6 +915,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [“ TIME SERIES ANALYSIS USING NEURAL NETWORK ”](https://towardsdatascience.com/fast-ai-season-1-episode-4-1-time-series-analysis-a23217418bf1)
   * [Deep Learning Part 1 — fast.ai - Rossman Notebook](https://medium.com/@chunduri11/deep-learning-part-1-fast-ai-rossman-notebook-7787bfbc309f)
   * [Sales Prediction: A Deep Learning Approach](https://jeremyaguilon.me/blog/sales_prediction_a_deep_learning_approach)
+  * [Deeplearning with Tabular Data: Visualization, Data Processing, Categorical Embeddings](https://towardsdatascience.com/deeplearning-with-tabular-data-data-processing-cd2e73908257)
+  * [Machine Learning — Text Classification, Language Modelling using fast.ai](https://towardsdatascience.com/machine-learning-text-classification-language-modelling-using-fast-ai-b1b334f2872d)
+  * [BERT Technology introduced in 3-minutes](https://medium.com/@suleiman.khan/bert-technology-introduced-in-3-minutes-2c2f9968268c)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1907,6 +1910,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [A Kaggle Master Explains Gradient Boosting](http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/)
 * [Introducing Snorkel](https://towardsdatascience.com/introducing-snorkel-27e4b0e6ecff)
 * [From Pandas to Scikit-Learn — A new exciting workflow](https://medium.com/dunder-data/from-pandas-to-scikit-learn-a-new-exciting-workflow-e88e2271ef62)
+* [NLP Kaggle Competition](https://towardsdatascience.com/nlp-kaggle-competition-a3f22ecbbe6f)
+* [Unsupervised learning for anomaly detection in stock options pricing](https://towardsdatascience.com/unsupervised-learning-for-anomaly-detection-in-stock-options-pricing-e599728958c7)
+* [Manifold: A Model-Agnostic Visual Debugging Tool for Machine Learning at Uber](https://eng.uber.com/manifold/)
+* [Natural Language Processing Using Stanford’s CoreNLP](https://towardsdatascience.com/natural-language-processing-using-stanfords-corenlp-d9e64c1e1024)
+* [PySpark in Google Colab](https://towardsdatascience.com/pyspark-in-google-colab-6821c2faf41c)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2191,6 +2199,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Minimally Sufficient Pandas](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428)
 * [Dunder Data - Pandas Tutorials](https://medium.com/dunder-data/pandas-tutorials/home)
 * [Animating NBA Games with Matplotlib and Pandas](https://medium.com/dunder-data/animating-nba-games-with-matplotlib-and-pandas-c558361234da)
+* [Blazer - Explore your data with SQL. Easily create charts and dashboards, and share them with your team.](https://github.com/ankane/blazer)
+* [과학적 방법과 실험 설계](https://bahnsville.tistory.com/1169)
+* [Power-Ups for Jupyter Notebooks](https://towardsdatascience.com/power-ups-for-jupyter-notebooks-ebfa6e5e57a)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -2456,6 +2467,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Getting Started with Recommender Systems and TensorRec](https://towardsdatascience.com/getting-started-with-recommender-systems-and-tensorrec-8f50a9943eef)
 * [Y.LAB님의 Recommender System 블로그](https://yamalab.tistory.com/category/Recommender%20System)
 * [From Content-Based Recommendations to Personalization: A Tutorial](https://engineering.upside.com/from-content-based-recommendations-to-personalization-a-tutorial-773c9903b521)
+* [Perfume Recommendations using Natural Language Processing](https://towardsdatascience.com/perfume-recommendations-using-natural-language-processing-ad3e6736074c)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
