@@ -918,6 +918,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deeplearning with Tabular Data: Visualization, Data Processing, Categorical Embeddings](https://towardsdatascience.com/deeplearning-with-tabular-data-data-processing-cd2e73908257)
   * [Machine Learning — Text Classification, Language Modelling using fast.ai](https://towardsdatascience.com/machine-learning-text-classification-language-modelling-using-fast-ai-b1b334f2872d)
   * [BERT Technology introduced in 3-minutes](https://medium.com/@suleiman.khan/bert-technology-introduced-in-3-minutes-2c2f9968268c)
+  * [A Must-Read NLP Tutorial on Neural Machine Translation — The Technique Powering Google Translate](https://medium.com/analytics-vidhya/a-must-read-nlp-tutorial-on-neural-machine-translation-the-technique-powering-google-translate-c5c8d97d7587)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1920,6 +1921,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Talk: From Notebook to Production with Amazon SageMaker](https://medium.com/@julsimon/talk-from-notebook-to-production-with-amazon-sagemaker-ee2a2036c0fe)
 * [Scaling Machine Learning from 0 to millions of users — part 1](https://towardsdatascience.com/scaling-machine-learning-from-0-to-millions-of-users-part-1-a2d36a5e849)
 * [Scaling Machine Learning from 0 to millions of users — part 2](https://medium.com/@julsimon/scaling-machine-learning-from-0-to-millions-of-users-part-2-80b0d1d7fc61)
+* [Introduction to StanfordNLP: An NLP Library for 53 Languages [with Python code]](https://medium.com/analytics-vidhya/introduction-to-stanfordnlp-an-nlp-library-for-53-languages-with-python-code-d7c3efdca118)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
