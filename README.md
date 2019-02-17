@@ -116,6 +116,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Natural Language Processing Tutorial for Deep Learning Researchers](https://github.com/graykode/nlp-tutorial)
   * [Master Datascience Paris Saclay - Deep Learning course](https://github.com/m2dsupsdlclass/lectures-labs)
   * [모두의연구소 - NLP bootcamp](https://github.com/modulabs/NLP-bootcamp)
+  * [Harvard - CS109 Data Science](http://cs109.github.io/2015/index.html)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -919,6 +920,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Machine Learning — Text Classification, Language Modelling using fast.ai](https://towardsdatascience.com/machine-learning-text-classification-language-modelling-using-fast-ai-b1b334f2872d)
   * [BERT Technology introduced in 3-minutes](https://medium.com/@suleiman.khan/bert-technology-introduced-in-3-minutes-2c2f9968268c)
   * [A Must-Read NLP Tutorial on Neural Machine Translation — The Technique Powering Google Translate](https://medium.com/analytics-vidhya/a-must-read-nlp-tutorial-on-neural-machine-translation-the-technique-powering-google-translate-c5c8d97d7587)
+  * [Introducing Ludwig, a Code-Free Deep Learning Toolbox](https://eng.uber.com/introducing-ludwig/)
+  * [Debugging your tensorflow code right [without so many painful mistakes]](https://towardsdatascience.com/debugging-your-tensorflow-code-right-without-so-many-painful-mistakes-b48bd9145d5c)
+  * [FastAI Image Classification](https://towardsdatascience.com/fastai-image-classification-32d626da20)
+  * [Effective TensorFlow 2.0: Best Practices and What’s Changed](https://medium.com/tensorflow/effective-tensorflow-2-0-best-practices-and-whats-changed-a0ca48767aff)
+  * [Building NLP Classifiers Cheaply With Transfer Learning and Weak Supervision](https://towardsdatascience.com/a-technique-for-building-nlp-classifiers-efficiently-with-transfer-learning-and-weak-supervision-a8e2f21ca9c8)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1095,6 +1101,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [TensorFlow, Deep Learning, and Modern Convolutional Neural Nets, Without a PhD [Cloud Next '18]](https://www.youtube.com/watch?v=KC4201o83W0)
   * [Artificial Intelligence Lecture Series](https://www.youtube.com/playlist?list=PLdPz9_rcdD97b3iExKYmla8vjlsc_k1ee)
   * [Graph neural networks: Variations and applications](https://www.youtube.com/watch?v=cWIeTMklzNg)
+  * [빵형의 개발도상국](https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg/videos)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -1195,6 +1202,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
     * [5. FFNN modeling [MNIST]](https://colab.research.google.com/drive/1uj8cXDfKrcGpvBv__XwfUAIkWjfoDJec?fbclid=IwAR0NxRYSRwkcv_0C0mmCV4WMUOPFpTwS2OJGScQ87WNV0SX1kFOBdFJSgWA)
     * [6. CNN modeling](https://colab.research.google.com/drive/1jcp6IEFqfsaWSyAnoujiSfbHupcZPb9O?fbclid=IwAR3E1Qu7dNWah6wn_3JwjCXEqV-qUUT5ADQmlipvFVCZ345zIDWGxRfh5rc)
     * [7. RNN modeling](https://colab.research.google.com/drive/14emI2vPTuZr4sL5Z60-jsCTsuswp2-uU?fbclid=IwAR1I1G4qXEVQtyFLgdRtEgbmFfKtlUeitMNJl11hXoXM2djKMuf49_tJ9F8)
+  * [Tensorflow RNN Tutorial](https://github.com/hccho2/Tensorflow-RNN-Tutorial)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -1922,6 +1930,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Scaling Machine Learning from 0 to millions of users — part 1](https://towardsdatascience.com/scaling-machine-learning-from-0-to-millions-of-users-part-1-a2d36a5e849)
 * [Scaling Machine Learning from 0 to millions of users — part 2](https://medium.com/@julsimon/scaling-machine-learning-from-0-to-millions-of-users-part-2-80b0d1d7fc61)
 * [Introduction to StanfordNLP: An NLP Library for 53 Languages [with Python code]](https://medium.com/analytics-vidhya/introduction-to-stanfordnlp-an-nlp-library-for-53-languages-with-python-code-d7c3efdca118)
+* [Explaining Feature Importance by example of a Random Forest](https://towardsdatascience.com/explaining-feature-importance-by-example-of-a-random-forest-d9166011959e)
+* [Predicting Wine Quality using Text Reviews](https://towardsdatascience.com/predicting-wine-quality-using-text-reviews-8bddaeb5285d)
+* [Building fully custom machine learning models on AWS SageMaker: a practical guide](https://towardsdatascience.com/building-fully-custom-machine-learning-models-on-aws-sagemaker-a-practical-guide-c30df3895ef7)
+* [Introduction to gradient boosting on decision trees with Catboost](https://towardsdatascience.com/introduction-to-gradient-boosting-on-decision-trees-with-catboost-d511a9ccbd14)
+* [7 Amazing Open Source NLP Tools to Try With Notebooks in 2019](https://medium.com/microsoftazure/7-amazing-open-source-nlp-tools-to-try-with-notebooks-in-2019-c9eec058d9f1)
+* [Feature Selection with sklearn and Pandas](https://towardsdatascience.com/feature-selection-with-pandas-e3690ad8504b)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2209,6 +2223,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Blazer - Explore your data with SQL. Easily create charts and dashboards, and share them with your team.](https://github.com/ankane/blazer)
 * [과학적 방법과 실험 설계](https://bahnsville.tistory.com/1169)
 * [Power-Ups for Jupyter Notebooks](https://towardsdatascience.com/power-ups-for-jupyter-notebooks-ebfa6e5e57a)
+* [공공데이터 분석](https://github.com/corazzon/OpenDataWrangling)
+* [How to Automatically Import Your Favorite Libraries into IPython or a Jupyter Notebook](https://towardsdatascience.com/how-to-automatically-import-your-favorite-libraries-into-ipython-or-a-jupyter-notebook-9c69d89aa343)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
