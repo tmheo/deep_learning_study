@@ -1203,6 +1203,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
     * [6. CNN modeling](https://colab.research.google.com/drive/1jcp6IEFqfsaWSyAnoujiSfbHupcZPb9O?fbclid=IwAR3E1Qu7dNWah6wn_3JwjCXEqV-qUUT5ADQmlipvFVCZ345zIDWGxRfh5rc)
     * [7. RNN modeling](https://colab.research.google.com/drive/14emI2vPTuZr4sL5Z60-jsCTsuswp2-uU?fbclid=IwAR1I1G4qXEVQtyFLgdRtEgbmFfKtlUeitMNJl11hXoXM2djKMuf49_tJ9F8)
   * [Tensorflow RNN Tutorial](https://github.com/hccho2/Tensorflow-RNN-Tutorial)
+  * [Simple Tensorflow Cookbook for easy-to-use](https://github.com/taki0112/Tensorflow-Cookbook)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
