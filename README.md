@@ -2226,6 +2226,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Power-Ups for Jupyter Notebooks](https://towardsdatascience.com/power-ups-for-jupyter-notebooks-ebfa6e5e57a)
 * [공공데이터 분석](https://github.com/corazzon/OpenDataWrangling)
 * [How to Automatically Import Your Favorite Libraries into IPython or a Jupyter Notebook](https://towardsdatascience.com/how-to-automatically-import-your-favorite-libraries-into-ipython-or-a-jupyter-notebook-9c69d89aa343)
+* [상관계수 총정리 끝판왕](https://mansoostat.tistory.com/115)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
