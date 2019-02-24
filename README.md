@@ -925,6 +925,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [FastAI Image Classification](https://towardsdatascience.com/fastai-image-classification-32d626da20)
   * [Effective TensorFlow 2.0: Best Practices and What’s Changed](https://medium.com/tensorflow/effective-tensorflow-2-0-best-practices-and-whats-changed-a0ca48767aff)
   * [Building NLP Classifiers Cheaply With Transfer Learning and Weak Supervision](https://towardsdatascience.com/a-technique-for-building-nlp-classifiers-efficiently-with-transfer-learning-and-weak-supervision-a8e2f21ca9c8)
+  * [Sentiment Analysis using LSTM [Step-by-Step Tutorial]](https://towardsdatascience.com/sentiment-analysis-using-lstm-step-by-step-50d074f09948)
+  * [TensorFlow + SageMaker = ❤](https://medium.com/radix-ai-blog/tensorflow-sagemaker-d17774417f08)
+  * [FastAI Multi-label image classification](https://towardsdatascience.com/fastai-multi-label-image-classification-8034be646e95)
+  * [Building a Malaria Classifier with Keras: Background & Implementation](https://medium.com/gradientcrescent/building-a-malaria-classifier-with-keras-background-implementation-d55c32773afa)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1204,6 +1208,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
     * [7. RNN modeling](https://colab.research.google.com/drive/14emI2vPTuZr4sL5Z60-jsCTsuswp2-uU?fbclid=IwAR1I1G4qXEVQtyFLgdRtEgbmFfKtlUeitMNJl11hXoXM2djKMuf49_tJ9F8)
   * [Tensorflow RNN Tutorial](https://github.com/hccho2/Tensorflow-RNN-Tutorial)
   * [Simple Tensorflow Cookbook for easy-to-use](https://github.com/taki0112/Tensorflow-Cookbook)
+  * [A list of NLP[Natural Language Processing] tutorials](https://github.com/lyeoni/nlp-tutorial)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -1937,6 +1942,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Introduction to gradient boosting on decision trees with Catboost](https://towardsdatascience.com/introduction-to-gradient-boosting-on-decision-trees-with-catboost-d511a9ccbd14)
 * [7 Amazing Open Source NLP Tools to Try With Notebooks in 2019](https://medium.com/microsoftazure/7-amazing-open-source-nlp-tools-to-try-with-notebooks-in-2019-c9eec058d9f1)
 * [Feature Selection with sklearn and Pandas](https://towardsdatascience.com/feature-selection-with-pandas-e3690ad8504b)
+* [What my first Silver Medal taught me about Text Classification and Kaggle in general?](https://towardsdatascience.com/what-my-first-silver-medal-taught-me-about-text-classification-and-kaggle-in-general-ebae0df16278)
+* [Machine Learning Explainability](https://towardsdatascience.com/machine-learning-explainability-d6a3d198fd95)
+* [Adversarial Validation example for VSB Power Line Fault Detection](https://www.kaggle.com/c/vsb-power-line-fault-detection/discussion/81317)
+* [Anomaly Detection Strategies for IoT Sensors](https://medium.com/analytics-vidhya/anomaly-detection-strategies-for-iot-sensors-6281e84263df)
+* [How to Win a Data Science Competition: Learn from Top Kagglers | Advanced Machine Learning Specialization](https://www.youtube.com/playlist?list=PLpQWTe-45nxL3bhyAJMEs90KF_gZmuqtm)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2227,6 +2237,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [공공데이터 분석](https://github.com/corazzon/OpenDataWrangling)
 * [How to Automatically Import Your Favorite Libraries into IPython or a Jupyter Notebook](https://towardsdatascience.com/how-to-automatically-import-your-favorite-libraries-into-ipython-or-a-jupyter-notebook-9c69d89aa343)
 * [상관계수 총정리 끝판왕](https://mansoostat.tistory.com/115)
+* [Plotly's Jupyterlab Chart Editor](http://kyso.io/KyleOS/plotly-chart-editor)
+* [Jupytext 1.0 highlights](https://towardsdatascience.com/jupytext-1-0-highlights-a49dca9baa7b)
+* [A gentle introduction to Dash development and deployment](https://towardsdatascience.com/a-gentle-introduction-to-dash-development-and-deployment-f8b91990d3bd)
+* [Jupyter notebook 디버깅 그리고 qtconsole연결하기](https://www.slideshare.net/ssuser029f98/jupyter-notebook-qtconsole)
+* [Jupyter Lab: Evolution of the Jupyter Notebook](https://towardsdatascience.com/jupyter-lab-evolution-of-the-jupyter-notebook-5297cacde6b)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -2494,6 +2509,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [From Content-Based Recommendations to Personalization: A Tutorial](https://engineering.upside.com/from-content-based-recommendations-to-personalization-a-tutorial-773c9903b521)
 * [Perfume Recommendations using Natural Language Processing](https://towardsdatascience.com/perfume-recommendations-using-natural-language-processing-ad3e6736074c)
 * [Content-Based Recommendation Systems with Apache MXNet](https://medium.com/apache-mxnet/content-based-recommendation-systems-with-apache-mxnet-e71b559dcbc4)
+* [How companies use collaborative filtering to learn exactly what you want](https://medium.freecodecamp.org/how-companies-use-collaborative-filtering-to-learn-exactly-what-you-want-a3fc58e22ad9)
+* [Large Scale Jobs Recommendation Engine using Implicit Data in pySpark](https://towardsdatascience.com/large-scale-jobs-recommendation-engine-using-implicit-data-in-pyspark-ccf8df5d910e)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
