@@ -117,6 +117,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Master Datascience Paris Saclay - Deep Learning course](https://github.com/m2dsupsdlclass/lectures-labs)
   * [모두의연구소 - NLP bootcamp](https://github.com/modulabs/NLP-bootcamp)
   * [Harvard - CS109 Data Science](http://cs109.github.io/2015/index.html)
+  * [케라스 창시자에게 배우는 딥러닝](https://subinium.github.io/Keras/)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -147,6 +148,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Weekly Machine Learning Opensource Roundup](https://blog.pocketcluster.io/)
   * [Keras for Everyone](https://keraskorea.github.io/)
   * [Browse state-of-the-art](https://paperswithcode.com/sota)
+  * [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle)
+  * [The Learning Machine](https://www.thelearningmachine.ai/)
 * Article
   * [Andrej Karpathy's Deep Learning Blog](http://karpathy.github.io/)
   * [머신러닝 딥러닝 입문 시 도움 되는 강좌](https://www.facebook.com/groups/TensorFlowKR/permalink/485458151795248/)
@@ -929,6 +932,16 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [TensorFlow + SageMaker = ❤](https://medium.com/radix-ai-blog/tensorflow-sagemaker-d17774417f08)
   * [FastAI Multi-label image classification](https://towardsdatascience.com/fastai-multi-label-image-classification-8034be646e95)
   * [Building a Malaria Classifier with Keras: Background & Implementation](https://medium.com/gradientcrescent/building-a-malaria-classifier-with-keras-background-implementation-d55c32773afa)
+  * [Transfer-Learning: Classification of 4 different types of Arctic Dogs using Fast.AI Library](https://medium.com/@diazagasatya/transfer-learning-classification-of-4-different-types-of-arctic-dog-using-fast-ai-library-665cb424af5e)
+  * [Transfer Learning with PyTorch](https://heartbeat.fritz.ai/transfer-learning-with-pytorch-cfcb69016c72)
+  * [딥러닝을 활용한 거래량 예측 기능 개선](https://d2.naver.com/helloworld/0065813)
+  * [Keras Wafer Classification CNN2D with Augmetation](https://www.kaggle.com/kcs93023/keras-wafer-classification-cnn2d-with-augmentation)
+  * [Introducing TensorFlow Datasets](https://medium.com/tensorflow/introducing-tensorflow-datasets-c7f01f7e19f3)
+  * [Understand how your TensorFlow Model is Making Predictions](https://towardsdatascience.com/understand-how-your-tensorflow-model-is-making-predictions-d0b3c7e88500)
+  * [An Introduction to Image Augmentation using fastai Library](https://www.kaggle.com/init27/introduction-to-image-augmentation-using-fastai/)
+  * [MIT Introduction to Deep Learning](https://medium.com/tensorflow/mit-introduction-to-deep-learning-4a6f8dde1f0c)
+  * [One neural network, many uses](https://towardsdatascience.com/one-neural-network-many-uses-image-captioning-image-search-similar-image-and-words-in-one-model-1e22080ce73d)
+  * [Learning to LSTM](https://swenotes.wordpress.com/2019/02/22/learning-to-lstm/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1253,6 +1266,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Weights & Biases - Experiment Tracking for Deep Learning](https://www.wandb.com/)
   * [khaiii - Kakao Hangul Analyzer III](https://github.com/kakao/khaiii)
   * [Xfer - Transfer Learning framework written in Python](https://xfer.readthedocs.io/en/master/)
+  * [CLaF: Clova Language Framework](https://naver.github.io/claf/docs/_build/html/index.html)
 * Dataset
   * [Fueling the Gold Rush: The Greatest Public Datasets for AI](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2)
   * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
@@ -1947,6 +1961,13 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Adversarial Validation example for VSB Power Line Fault Detection](https://www.kaggle.com/c/vsb-power-line-fault-detection/discussion/81317)
 * [Anomaly Detection Strategies for IoT Sensors](https://medium.com/analytics-vidhya/anomaly-detection-strategies-for-iot-sensors-6281e84263df)
 * [How to Win a Data Science Competition: Learn from Top Kagglers | Advanced Machine Learning Specialization](https://www.youtube.com/playlist?list=PLpQWTe-45nxL3bhyAJMEs90KF_gZmuqtm)
+* [9 General Kaggle Tips](https://www.kaggle.com/c/petfinder-adoption-prediction/discussion/80747)
+* [Real-Time Streaming and Anomaly detection Pipeline on AWS](https://towardsdatascience.com/real-time-streaming-and-anomaly-detection-pipeline-on-aws-cbd0bef6f20e)
+* [이유한님의 Kaggle Study](https://www.youtube.com/channel/UC--LgKcZVgffjsxudoXg5pQ/playlists)
+* [실전 이탈 예측 모델링을 위한 세 가지 고려 사항 #1](https://danbi-ncsoft.github.io/works/2019/02/07/churn_prediction_in_practice-1.html)
+* [실전 이탈 예측 모델링을 위한 세 가지 고려 사항 #2](https://danbi-ncsoft.github.io/works/2019/02/07/churn_prediction_in_practice-2.html)
+* [Preprocess input data before making predictions using Amazon SageMaker inference pipelines and Scikit-learn](https://aws.amazon.com/blogs/machine-learning/preprocess-input-data-before-making-predictions-using-amazon-sagemaker-inference-pipelines-and-scikit-learn/)
+* [Category Encoders](http://contrib.scikit-learn.org/categorical-encoding/)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2242,6 +2263,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [A gentle introduction to Dash development and deployment](https://towardsdatascience.com/a-gentle-introduction-to-dash-development-and-deployment-f8b91990d3bd)
 * [Jupyter notebook 디버깅 그리고 qtconsole연결하기](https://www.slideshare.net/ssuser029f98/jupyter-notebook-qtconsole)
 * [Jupyter Lab: Evolution of the Jupyter Notebook](https://towardsdatascience.com/jupyter-lab-evolution-of-the-jupyter-notebook-5297cacde6b)
+* [A General Guidance of Hypothesis Testing](https://towardsdatascience.com/a-general-guidance-of-hypothesis-testing-7cab119ca999)
+* [Data Visualization: An Intro to Plotly's Cufflinks](https://kyso.io/KyleOS/cufflinks-intro)
+* [네트워크 분석기법을 활용한 게임 데이터 분석 #1](http://blog.ncsoft.com/?p=41515)
+* [R, Python 분석과 프로그래밍 [by R Friend]](https://rfriend.tistory.com/)
+* [Set Your Jupyter Notebook up Right with this Extension](https://towardsdatascience.com/set-your-jupyter-notebook-up-right-with-this-extension-24921838a332)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -2511,6 +2537,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Content-Based Recommendation Systems with Apache MXNet](https://medium.com/apache-mxnet/content-based-recommendation-systems-with-apache-mxnet-e71b559dcbc4)
 * [How companies use collaborative filtering to learn exactly what you want](https://medium.freecodecamp.org/how-companies-use-collaborative-filtering-to-learn-exactly-what-you-want-a3fc58e22ad9)
 * [Large Scale Jobs Recommendation Engine using Implicit Data in pySpark](https://towardsdatascience.com/large-scale-jobs-recommendation-engine-using-implicit-data-in-pyspark-ccf8df5d910e)
+* [Microsoft - Recommender Systems](https://github.com/Microsoft/Recommenders)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
