@@ -942,6 +942,13 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [MIT Introduction to Deep Learning](https://medium.com/tensorflow/mit-introduction-to-deep-learning-4a6f8dde1f0c)
   * [One neural network, many uses](https://towardsdatascience.com/one-neural-network-many-uses-image-captioning-image-search-similar-image-and-words-in-one-model-1e22080ce73d)
   * [Learning to LSTM](https://swenotes.wordpress.com/2019/02/22/learning-to-lstm/)
+  * [Understanding BERT Transformer: Attention isn’t all you need](https://medium.com/synapse-dev/understanding-bert-transformer-attention-isnt-all-you-need-5839ebd396db)
+  * [Build your own Robust Deep Learning Environment in Minutes](https://towardsdatascience.com/build-your-own-robust-deep-learning-environment-in-minutes-354cf140a5a6)
+  * [A Gold-Winning Solution Review of Kaggle Humpback Whale Identification Challenge](https://towardsdatascience.com/a-gold-winning-solution-review-of-kaggle-humpback-whale-identification-challenge-53b0e3ba1e84)
+  * [How We Created a Visual Search Engine for Hayneedle.com](https://medium.com/jettech/https-medium-com-jettech-visual-search-hayneedle-f248aa05f2f2)
+  * [Ranking Tweets with TensorFlow](https://medium.com/tensorflow/ranking-tweets-with-tensorflow-932d449b7c4)
+  * [Introducing TensorFlow Federated](https://medium.com/tensorflow/introducing-tensorflow-federated-a4147aa20041)
+  * [Recap of the 2019 TensorFlow Dev Summit](https://medium.com/tensorflow/recap-of-the-2019-tensorflow-dev-summit-1b5ede42da8d)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1079,6 +1086,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [181123 poseest101 devfest_pangyo_jwkang](https://www.slideshare.net/JaewookKang1/181123-poseest101-devfestpangyojwkang)
   * [딥러닝 자연어처리 - RNN에서 BERT까지](https://www.slideshare.net/deepseaswjh/rnn-bert)
   * [Tacotron & Wavenet](https://drive.google.com/file/d/1gLwmkiZhA4Wj7769gwj_Y0RP5NByPfpo/view)
+  * [TensorFlow 2: New Era of Developing Deep Learning Models](https://www.slideshare.net/inureyes/tensorflow-2-new-era-of-developing-deep-learning-models)
+  * [OS 모바일에서 한글 손글씨 인식하기[with Keras]](https://www.slideshare.net/MijeongJeon1/ios-with-keras)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -1428,6 +1437,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [What follows AlphaStar for Academic AI Researchers?](https://towardsdatascience.com/what-follows-alphastar-for-academic-ai-researchers-befe0fc66d39)
 * [AlphaStar: Mastering the Real-Time Strategy Game StarCraft II](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/) : [[번역]](https://korchris.github.io/2019/01/25/Alphastar/index.html)
 * [Talk: An Introduction to Reinforcement Learning](https://medium.com/@julsimon/talk-an-introduction-to-reinforcement-learning-e26177338787)
+* [AI가 스타크래프트2를 정복한 원리[알파스타]](https://www.youtube.com/watch?v=GciYOMIJ2Eo)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -1968,6 +1978,16 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [실전 이탈 예측 모델링을 위한 세 가지 고려 사항 #2](https://danbi-ncsoft.github.io/works/2019/02/07/churn_prediction_in_practice-2.html)
 * [Preprocess input data before making predictions using Amazon SageMaker inference pipelines and Scikit-learn](https://aws.amazon.com/blogs/machine-learning/preprocess-input-data-before-making-predictions-using-amazon-sagemaker-inference-pipelines-and-scikit-learn/)
 * [Category Encoders](http://contrib.scikit-learn.org/categorical-encoding/)
+* [[번역] 머신러닝을 활용한 제품 카테고리 분류하기](https://medium.com/mighty-data-science-bootcamp/%EB%B2%88%EC%97%AD-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%A0%9C%ED%92%88-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC-%EB%B6%84%EB%A5%98%ED%95%98%EA%B8%B0-cd75f11d588a)
+* [What Causes Heart Disease? Explaining the Model](https://www.kaggle.com/tentotheminus9/what-causes-heart-disease-explaining-the-model)
+* [Using word2vec to Analyze News Headlines and Predict Article Success](https://towardsdatascience.com/using-word2vec-to-analyze-news-headlines-and-predict-article-success-cdeda5f14751)
+* [What is a Hypothesis in Machine Learning?](https://machinelearningmastery.com/what-is-a-hypothesis-in-machine-learning/)
+* [How to train Boosted Trees models in TensorFlow](https://medium.com/tensorflow/how-to-train-boosted-trees-models-in-tensorflow-ca8466a53127)
+* [5 Ways to Detect Outliers/Anomalies That Every Data Scientist Should Know [Python Code]](https://towardsdatascience.com/5-ways-to-detect-outliers-that-every-data-scientist-should-know-python-code-70a54335a623)
+* [How to explain any machine learning model prediction](https://towardsdatascience.com/how-to-explain-any-machine-learning-model-prediction-30654b0c1c8)
+* [Why Model Explainability is The Next Data Science Superpower](https://towardsdatascience.com/why-model-explainability-is-the-next-data-science-superpower-b11b6102a5e0)
+* [My First Kaggle Competition](https://towardsdatascience.com/my-first-kaggle-competition-using-random-forests-to-predict-housing-prices-76efee28d42f)
+* [EDA, 데이터 설명서에서 시작하기](https://medium.com/mighty-data-science-bootcamp/eda-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%84%A4%EB%AA%85%EC%84%9C%EC%97%90%EC%84%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-230060b9fc17)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2268,6 +2288,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [네트워크 분석기법을 활용한 게임 데이터 분석 #1](http://blog.ncsoft.com/?p=41515)
 * [R, Python 분석과 프로그래밍 [by R Friend]](https://rfriend.tistory.com/)
 * [Set Your Jupyter Notebook up Right with this Extension](https://towardsdatascience.com/set-your-jupyter-notebook-up-right-with-this-extension-24921838a332)
+* [Data Visualization - A practical introduction](https://socviz.co/)
+* [데이터 프로덕트 매니저의 등장](https://brunch.co.kr/@youngwungkim/75)
+* [시각화 만들기, 이것만 알면 누구나 할 수 있다!](http://newsjel.ly/archives/newsjelly-report/visualization-report/8370)
+* [Lesser Known Python Libraries for Data Science](https://medium.com/analytics-vidhya/python-libraries-for-data-science-other-than-pandas-and-numpy-95da30568fad)
+* [Interactive spreadsheets in Jupyter](https://towardsdatascience.com/interactive-spreadsheets-in-jupyter-32ab6ec0f4ff)
+* [멋지게 데이터 분석을 하려고 했는데 이론이 딸린다](https://humbledude.github.io/blog/2019/02/27/basic-data-analysis/index.html)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
