@@ -118,6 +118,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [모두의연구소 - NLP bootcamp](https://github.com/modulabs/NLP-bootcamp)
   * [Harvard - CS109 Data Science](http://cs109.github.io/2015/index.html)
   * [케라스 창시자에게 배우는 딥러닝](https://subinium.github.io/Keras/)
+  * [딥러닝 홀로서기 [Ideafactory KAIST]](https://www.youtube.com/playlist?list=PLSAJwo7mw8jn8iaXwT4MqLbZnS-LJwnBd)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -954,6 +955,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [2019 TF dev summit(1) - Keynote](https://2sang.github.io/journal/tf-devsummit-1.html)
   * [2019 TF dev summit(2) - Introducing Tensorflow 2.0 and its high-level APIs](https://2sang.github.io/journal/tf-devsummit-2.html)
   * [2019 TensorFlow Dev Summit 요약](https://developers-kr.googleblog.com/2019/03/recap-of-the-2019-tensorflow-dev-summit.html)
+  * [Chapter 3 : 단어 임베딩을 사용하여 텍스트 유사성 계산하기](https://eda-ai-lab.tistory.com/118)
+  * [“Microsoft Malware Prediction” and its 9 million machines](https://towardsdatascience.com/microsoft-malware-prediction-and-its-9-million-machines-22e0fe8c80c8)
+  * [NLP: Contextualized word embeddings from BERT](https://towardsdatascience.com/nlp-extract-contextualized-word-embeddings-from-bert-keras-tf-67ef29f60a7b)
+  * [Structural Time Series modeling in TensorFlow Probability](https://medium.com/tensorflow/structural-time-series-modeling-in-tensorflow-probability-344edac24083)
+  * [How I won the Flipkart ML challenge](https://towardsdatascience.com/how-i-won-the-flipkart-ml-challenge-fcf1fcc9e06a)
+  * [On learning embeddings for categorical data using Keras](https://medium.com/@satnalikamayank12/on-learning-embeddings-for-categorical-data-using-keras-165ff2773fc9)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -2001,6 +2008,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Cross-Validation for Imbalanced Datasets](https://medium.com/lumiata/cross-validation-for-imbalanced-datasets-9d203ba47e8)
 * [How to not overfit?](https://www.kaggle.com/artgor/how-to-not-overfit)
 * [[Kaggle Beginner] 캐글 초보자를 위한 10가지 팁](https://subinium.github.io/kaggle-tips/)
+* [Towards DataScience - Project Kaggle](https://www.youtube.com/playlist?list=PLC0PzjY99Q_V3b7GBh3gjmcCfe0l-408K)
+* [FastText sentiment analysis for tweets: A straightforward guide.](https://medium.com/@media_73863/fasttext-sentiment-analysis-for-tweets-a-straightforward-guide-9a8c070449a2)
+* [Machine Learning-Powered Search Ranking of Airbnb Experiences](https://medium.com/airbnb-engineering/machine-learning-powered-search-ranking-of-airbnb-experiences-110b4b1a0789)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2315,6 +2325,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [How to Build a Reporting Dashboard using Dash and Plotly](https://towardsdatascience.com/how-to-build-a-complex-reporting-dashboard-using-dash-and-plotl-4f4257c18a7f)
 * [Spatial Visualizations and Analysis in Python with Folium](https://towardsdatascience.com/data-101s-spatial-visualizations-and-analysis-in-python-with-folium-39730da2adf)
 * [인자분석[Factor analysis]과 주성분분석[Principal component analysis]의 차이와 비슷한 점 비교 [SPSS 사용설명서 25]](https://dogmas.tistory.com/entry/%EC%9D%B8%EC%9E%90%EB%B6%84%EC%84%9DFactor-analysis%EA%B3%BC-%EC%A3%BC%EC%84%B1%EB%B6%84%EB%B6%84%EC%84%9DPrincipal-component-analysis%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%99%80-%EB%B9%84%EC%8A%B7%ED%95%9C-%EC%A0%90-%EB%B9%84%EA%B5%90-SPSS-%EC%82%AC%EC%9A%A9%EC%84%A4%EB%AA%85%EC%84%9C-25)
+* [A Complete Exploratory Data Analysis and Visualization for Text Data](https://towardsdatascience.com/a-complete-exploratory-data-analysis-and-visualization-for-text-data-29fb1b96fb6a)
+* [Productivity tips for Jupyter [Python]](https://towardsdatascience.com/productivity-tips-for-jupyter-python-a3614d70c770)
+* [Introducing Plotly Express](https://medium.com/@plotlygraphs/introducing-plotly-express-808df010143d)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -2585,6 +2598,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [How companies use collaborative filtering to learn exactly what you want](https://medium.freecodecamp.org/how-companies-use-collaborative-filtering-to-learn-exactly-what-you-want-a3fc58e22ad9)
 * [Large Scale Jobs Recommendation Engine using Implicit Data in pySpark](https://towardsdatascience.com/large-scale-jobs-recommendation-engine-using-implicit-data-in-pyspark-ccf8df5d910e)
 * [Microsoft - Recommender Systems](https://github.com/Microsoft/Recommenders)
+* [Unsupervised Classification Project: Building a Movie Recommender with Clustering Analysis and](https://towardsdatascience.com/unsupervised-classification-project-building-a-movie-recommender-with-clustering-analysis-and-4bab0738efe6)
+* [Building a Music Recommendation Engine with Probabilistic Matrix Factorization in PyTorch](https://towardsdatascience.com/building-a-music-recommendation-engine-with-probabilistic-matrix-factorization-in-pytorch-7d2934067d4a)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
