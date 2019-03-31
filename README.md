@@ -2337,6 +2337,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Introducing Plotly Express](https://medium.com/@plotlygraphs/introducing-plotly-express-808df010143d)
 * [Introducing Dash Cytoscape](https://medium.com/@plotlygraphs/introducing-dash-cytoscape-ce96cac824e4)
 * [A step-by-step guide for creating advanced Python data visualizations with Seaborn / Matplotlib](https://towardsdatascience.com/a-step-by-step-guide-for-creating-advanced-python-data-visualizations-with-seaborn-matplotlib-1579d6a1a7d0)
+* [Apache Arrow and Pandas UDF on Apache Spark](https://www.slideshare.net/ueshin/apache-arrow-and-pandas-udf-on-apache-spark)
+* [Prediction at Scale with scikit-learn and PySpark Pandas UDFs](https://medium.com/civis-analytics/prediction-at-scale-with-scikit-learn-and-pyspark-pandas-udfs-51d5ebfb2cd8)
+* [A Brief Introduction to PySpark](https://towardsdatascience.com/a-brief-introduction-to-pyspark-ff4284701873)
+* [Lightning Fast ML Predictions with PySpark](https://medium.com/homeaway-tech-blog/lightning-fast-ml-predictions-with-pyspark-354c8c5abe83)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
