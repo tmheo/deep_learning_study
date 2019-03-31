@@ -119,6 +119,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Harvard - CS109 Data Science](http://cs109.github.io/2015/index.html)
   * [케라스 창시자에게 배우는 딥러닝](https://subinium.github.io/Keras/)
   * [딥러닝 홀로서기 [Ideafactory KAIST]](https://www.youtube.com/playlist?list=PLSAJwo7mw8jn8iaXwT4MqLbZnS-LJwnBd)
+  * [Edwith - School of AI : AI for Business](https://www.edwith.org/schoolofai)
+  * [모두를 위한 딥러닝 시즌 2](https://deeplearningzerotoall.github.io/season2/)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -961,6 +963,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Structural Time Series modeling in TensorFlow Probability](https://medium.com/tensorflow/structural-time-series-modeling-in-tensorflow-probability-344edac24083)
   * [How I won the Flipkart ML challenge](https://towardsdatascience.com/how-i-won-the-flipkart-ml-challenge-fcf1fcc9e06a)
   * [On learning embeddings for categorical data using Keras](https://medium.com/@satnalikamayank12/on-learning-embeddings-for-categorical-data-using-keras-165ff2773fc9)
+  * [Categorizing Airbnb listing descriptions](https://towardsdatascience.com/categorizing-airbnb-listing-descriptions-c4bb0b45d118)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1243,6 +1246,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Tensorflow RNN Tutorial](https://github.com/hccho2/Tensorflow-RNN-Tutorial)
   * [Simple Tensorflow Cookbook for easy-to-use](https://github.com/taki0112/Tensorflow-Cookbook)
   * [A list of NLP[Natural Language Processing] tutorials](https://github.com/lyeoni/nlp-tutorial)
+  * [cs231n강좌의 백프로파게이션 부분 Numpy구현](https://github.com/eunsoo/backprop_cs231n)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -2011,6 +2015,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Towards DataScience - Project Kaggle](https://www.youtube.com/playlist?list=PLC0PzjY99Q_V3b7GBh3gjmcCfe0l-408K)
 * [FastText sentiment analysis for tweets: A straightforward guide.](https://medium.com/@media_73863/fasttext-sentiment-analysis-for-tweets-a-straightforward-guide-9a8c070449a2)
 * [Machine Learning-Powered Search Ranking of Airbnb Experiences](https://medium.com/airbnb-engineering/machine-learning-powered-search-ranking-of-airbnb-experiences-110b4b1a0789)
+* [Do you know how to choose the right machine learning algorithm among 7 different types?[KR]](https://databreak.netlify.com/2019-03-25-machine_learning_algorithm/)
+* [Augmenting categorical datasets with synthetic data for machine learning.](https://towardsdatascience.com/augmenting-categorical-datasets-with-synthetic-data-for-machine-learning-a25095d6d7c8)
+* [Feature Engineering & Importance Testing](https://www.kaggle.com/nanomathias/feature-engineering-importance-testing)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2328,6 +2335,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [A Complete Exploratory Data Analysis and Visualization for Text Data](https://towardsdatascience.com/a-complete-exploratory-data-analysis-and-visualization-for-text-data-29fb1b96fb6a)
 * [Productivity tips for Jupyter [Python]](https://towardsdatascience.com/productivity-tips-for-jupyter-python-a3614d70c770)
 * [Introducing Plotly Express](https://medium.com/@plotlygraphs/introducing-plotly-express-808df010143d)
+* [Introducing Dash Cytoscape](https://medium.com/@plotlygraphs/introducing-dash-cytoscape-ce96cac824e4)
+* [A step-by-step guide for creating advanced Python data visualizations with Seaborn / Matplotlib](https://towardsdatascience.com/a-step-by-step-guide-for-creating-advanced-python-data-visualizations-with-seaborn-matplotlib-1579d6a1a7d0)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
