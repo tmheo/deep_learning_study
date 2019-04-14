@@ -103,7 +103,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Edwith - 합성곱 신경망 네트워크 [CNN]](https://www.edwith.org/deeplearningai4)
   * [DataScience-for-Beginner - 데이터 과학 기초다지기 교재](https://github.com/Eunhui-Kim/DataScience-for-Beginner)
   * [Machine Learning with AWS](https://aws.amazon.com/training/learning-paths/machine-learning/)
-  * [Dive into Deep Learning](http://d2l.ai/)
+  * [Dive into Deep Learning](http://d2l.ai/) : [[번역]](http://ko.d2l.ai/)
   * [Edwith - Data Science from MIT](https://www.edwith.org/datascience/)
   * [3분 딥러닝 파이토치맛](https://github.com/keon/3-min-pytorch)
   * [AI Transformation Playbook](https://landing.ai/ai-transformation-playbook/)
@@ -121,6 +121,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [딥러닝 홀로서기 [Ideafactory KAIST]](https://www.youtube.com/playlist?list=PLSAJwo7mw8jn8iaXwT4MqLbZnS-LJwnBd)
   * [Edwith - School of AI : AI for Business](https://www.edwith.org/schoolofai)
   * [모두를 위한 딥러닝 시즌 2](https://deeplearningzerotoall.github.io/season2/)
+  * [Edwith - School of AI : Deep Learning Live Coding](https://www.edwith.org/introdeep)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -964,6 +965,20 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [How I won the Flipkart ML challenge](https://towardsdatascience.com/how-i-won-the-flipkart-ml-challenge-fcf1fcc9e06a)
   * [On learning embeddings for categorical data using Keras](https://medium.com/@satnalikamayank12/on-learning-embeddings-for-categorical-data-using-keras-165ff2773fc9)
   * [Categorizing Airbnb listing descriptions](https://towardsdatascience.com/categorizing-airbnb-listing-descriptions-c4bb0b45d118)
+  * [FastAI Image Segmentation](https://towardsdatascience.com/fastai-image-segmentation-eacad8543f6f)
+  * [Building efficient data pipelines using TensorFlow](https://towardsdatascience.com/building-efficient-data-pipelines-using-tensorflow-8f647f03b4ce)
+  * [Illustrated: Efficient Neural Architecture Search](https://towardsdatascience.com/illustrated-efficient-neural-architecture-search-5f7387f9fb6)
+  * [Training Deep Neural Networks on a GPU with PyTorch](https://medium.com/jovian-io/training-deep-neural-networks-on-a-gpu-with-pytorch-11079d89805)
+  * [Easy Image Classification with TensorFlow 2.0](https://towardsdatascience.com/easy-image-classification-with-tensorflow-2-0-f734fee52d13)
+  * [Evaluating Keras neural network performance using Yellowbrick visualizations](https://towardsdatascience.com/evaluating-keras-neural-network-performance-using-yellowbrick-visualizations-ad65543f3174)
+  * [The Illustrated Word2vec](https://jalammar.github.io/illustrated-word2vec/)
+  * [Graduating in GANs: Going from understanding generative adversarial networks to running your own](https://towardsdatascience.com/graduating-in-gans-going-from-understanding-generative-adversarial-networks-to-running-your-own-39804c283399)
+  * [NLP Keras model in browser with TensorFlow.js](https://towardsdatascience.com/nlp-keras-model-in-browser-with-tensorflow-js-f4d5035466a2)
+  * [Using FastAI to Analyze Yelp Reviews and Predict User Ratings [Polarity]](https://medium.com/datadriveninvestor/using-fastai-to-analyze-yelp-reviews-and-predict-user-ratings-polarity-4e4e89df358e)
+  * [Neural Machine Translation With Attention Mechanism](https://machinetalk.org/2019/03/29/neural-machine-translation-with-attention-mechanism/)
+  * [Deep learning to identify Malaria cells using CNN on Kaggle](https://towardsdatascience.com/deep-learning-to-identify-malaria-cells-using-cnn-on-kaggle-b9a987f55ea5)
+  * [How to Automate Tasks on GitHub With Machine Learning for Fun and Profit](https://towardsdatascience.com/mlapp-419f90e8f007)
+  * [How to build your first Neural Network to predict house prices with Keras](https://medium.freecodecamp.org/how-to-build-your-first-neural-network-to-predict-house-prices-with-keras-f8db83049159)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1247,6 +1262,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Simple Tensorflow Cookbook for easy-to-use](https://github.com/taki0112/Tensorflow-Cookbook)
   * [A list of NLP[Natural Language Processing] tutorials](https://github.com/lyeoni/nlp-tutorial)
   * [cs231n강좌의 백프로파게이션 부분 Numpy구현](https://github.com/eunsoo/backprop_cs231n)
+  * [NLP paper implementation with PyTorch](https://github.com/aisolab/nlp_implementation)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -2018,6 +2034,13 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Do you know how to choose the right machine learning algorithm among 7 different types?[KR]](https://databreak.netlify.com/2019-03-25-machine_learning_algorithm/)
 * [Augmenting categorical datasets with synthetic data for machine learning.](https://towardsdatascience.com/augmenting-categorical-datasets-with-synthetic-data-for-machine-learning-a25095d6d7c8)
 * [Feature Engineering & Importance Testing](https://www.kaggle.com/nanomathias/feature-engineering-importance-testing)
+* [Build XGBoost / LightGBM models on large datasets — what are the possible solutions?](https://towardsdatascience.com/build-xgboost-lightgbm-models-on-large-datasets-what-are-the-possible-solutions-bf882da2c27d)
+* [A “full-stack” data science project](https://towardsdatascience.com/a-full-stack-data-science-project-part-1-9f73a997dc4d)
+* [Model Stacking을 통한 Ensemble 방법](https://inspiringpeople.github.io/data%20analysis/Ensemble_Stacking/)
+* [An interesting and intuitive view of AUC and ROC curve](https://towardsdatascience.com/an-interesting-and-intuitive-view-of-auc-5f6498d87328)
+* [Time Series Machine Learning Regression Framework](https://towardsdatascience.com/time-series-machine-learning-regression-framework-9ea33929009a)
+* [Introduction to Anomaly Detection in Python](https://blog.floydhub.com/introduction-to-anomaly-detection-in-python/)
+* [Kaggle Credit Scoring data science competition](https://medium.com/data-science-and-analytics/kaggle-credit-scoring-data-science-competition-85ce6f96ef0a)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2341,6 +2364,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Prediction at Scale with scikit-learn and PySpark Pandas UDFs](https://medium.com/civis-analytics/prediction-at-scale-with-scikit-learn-and-pyspark-pandas-udfs-51d5ebfb2cd8)
 * [A Brief Introduction to PySpark](https://towardsdatascience.com/a-brief-introduction-to-pyspark-ff4284701873)
 * [Lightning Fast ML Predictions with PySpark](https://medium.com/homeaway-tech-blog/lightning-fast-ml-predictions-with-pyspark-354c8c5abe83)
+* [Understanding Confidence Interval](https://towardsdatascience.com/understanding-confidence-interval-d7b5aa68e3b)
+* [How to correctly select a sample from a huge dataset in machine learning](https://medium.com/data-science-journal/how-to-correctly-select-a-sample-from-a-huge-dataset-in-machine-learning-24327650372c)
+* [Normalization vs Standardization — Quantitative analysis](https://towardsdatascience.com/normalization-vs-standardization-quantitative-analysis-a91e8a79cebf)
+* [Beyond A/B Testing: Multi-armed Bandit Experiments](https://towardsdatascience.com/beyond-a-b-testing-multi-armed-bandit-experiments-1493f709f804)
+* [Step-by-Step Guide to Creating R and Python Libraries [in JupyterLab]](https://towardsdatascience.com/step-by-step-guide-to-creating-r-and-python-libraries-e81bbea87911)
+* [5 Ways to Detect Outliers That Every Data Scientist Should Know [Python Code]](https://towardsdatascience.com/5-ways-to-detect-outliers-that-every-data-scientist-should-know-python-code-70a54335a623)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -2613,6 +2642,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Microsoft - Recommender Systems](https://github.com/Microsoft/Recommenders)
 * [Unsupervised Classification Project: Building a Movie Recommender with Clustering Analysis and](https://towardsdatascience.com/unsupervised-classification-project-building-a-movie-recommender-with-clustering-analysis-and-4bab0738efe6)
 * [Building a Music Recommendation Engine with Probabilistic Matrix Factorization in PyTorch](https://towardsdatascience.com/building-a-music-recommendation-engine-with-probabilistic-matrix-factorization-in-pytorch-7d2934067d4a)
+* [Building a Content Based Recommender System for Hotels in Seattle](https://towardsdatascience.com/building-a-content-based-recommender-system-for-hotels-in-seattle-d724f0a32070)
+* [How to build a Recommendation Engine quick and simple](https://towardsdatascience.com/how-to-build-a-recommendation-engine-quick-and-simple-aec8c71a823e)
+* [Collaborative filtering with FastAI](https://towardsdatascience.com/collaborative-filtering-with-fastai-3dbdd4ef4f00)
+* [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction [KR]](https://dos-tacos.github.io/paper%20review/DeepFM/)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
