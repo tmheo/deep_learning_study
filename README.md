@@ -122,6 +122,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Edwith - School of AI : AI for Business](https://www.edwith.org/schoolofai)
   * [모두를 위한 딥러닝 시즌 2](https://deeplearningzerotoall.github.io/season2/)
   * [Edwith - School of AI : Deep Learning Live Coding](https://www.edwith.org/introdeep)
+  * [한권으로 끝내는 파이썬 & 딥러닝](https://sdc-james.gitbook.io/onebook/)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -979,6 +980,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deep learning to identify Malaria cells using CNN on Kaggle](https://towardsdatascience.com/deep-learning-to-identify-malaria-cells-using-cnn-on-kaggle-b9a987f55ea5)
   * [How to Automate Tasks on GitHub With Machine Learning for Fun and Profit](https://towardsdatascience.com/mlapp-419f90e8f007)
   * [How to build your first Neural Network to predict house prices with Keras](https://medium.freecodecamp.org/how-to-build-your-first-neural-network-to-predict-house-prices-with-keras-f8db83049159)
+  * [Generating Images with Autoencoders](https://towardsdatascience.com/generating-images-with-autoencoders-77fd3a8dd368)
+  * [How to Use Test-Time Augmentation to Improve Model Performance for Image Classification](https://machinelearningmastery.com/how-to-use-test-time-augmentation-to-improve-model-performance-for-image-classification/)
+  * [Using BERT and CNNs for Russian Troll Detection on Reddit](https://towardsdatascience.com/using-bert-and-cnns-for-russian-troll-detection-on-reddit-8ae59066b1c)
+  * [How a team of deep learning newbies came 3rd place in a kaggle contest](https://towardsdatascience.com/how-a-team-of-deep-learning-newbies-came-3rd-place-in-a-kaggle-contest-644adcc143c8)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -2041,6 +2046,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Time Series Machine Learning Regression Framework](https://towardsdatascience.com/time-series-machine-learning-regression-framework-9ea33929009a)
 * [Introduction to Anomaly Detection in Python](https://blog.floydhub.com/introduction-to-anomaly-detection-in-python/)
 * [Kaggle Credit Scoring data science competition](https://medium.com/data-science-and-analytics/kaggle-credit-scoring-data-science-competition-85ce6f96ef0a)
+* [Meet Michelangelo - Uber’s Machine Learning Platform [Korean]](https://databreak.netlify.com/2019-04-02-michelangelo/)
+* [Bias and Variance [편향과 분산]](https://www.opentutorials.org/module/3653/22071)
+* [Time Series Feature Extraction for industrial big data [IIoT] applications](https://towardsdatascience.com/time-series-feature-extraction-for-industrial-big-data-iiot-applications-5243c84aaf0e)
+* [Automating interpretable feature engineering for predicting CLV](https://medium.com/inside-bux/automating-interpretable-feature-engineering-for-predicting-clv-f02d3af2a722)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2370,6 +2379,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Beyond A/B Testing: Multi-armed Bandit Experiments](https://towardsdatascience.com/beyond-a-b-testing-multi-armed-bandit-experiments-1493f709f804)
 * [Step-by-Step Guide to Creating R and Python Libraries [in JupyterLab]](https://towardsdatascience.com/step-by-step-guide-to-creating-r-and-python-libraries-e81bbea87911)
 * [5 Ways to Detect Outliers That Every Data Scientist Should Know [Python Code]](https://towardsdatascience.com/5-ways-to-detect-outliers-that-every-data-scientist-should-know-python-code-70a54335a623)
+* [Explaining probability plots](https://towardsdatascience.com/explaining-probability-plots-9e5c5d304703)
+* [Interactive Data Visualization with Vega](https://towardsdatascience.com/interactive-data-visualization-with-vega-ab09e2843d54)
+* [Better Heatmaps and Correlation Matrix Plots in Python](https://towardsdatascience.com/better-heatmaps-and-correlation-matrix-plots-in-python-41445d0f2bec)
+* [3 Awesome Visualization Techniques for every dataset](https://towardsdatascience.com/3-awesome-visualization-techniques-for-every-dataset-9737eecacbe8)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
