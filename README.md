@@ -984,6 +984,13 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [How to Use Test-Time Augmentation to Improve Model Performance for Image Classification](https://machinelearningmastery.com/how-to-use-test-time-augmentation-to-improve-model-performance-for-image-classification/)
   * [Using BERT and CNNs for Russian Troll Detection on Reddit](https://towardsdatascience.com/using-bert-and-cnns-for-russian-troll-detection-on-reddit-8ae59066b1c)
   * [How a team of deep learning newbies came 3rd place in a kaggle contest](https://towardsdatascience.com/how-a-team-of-deep-learning-newbies-came-3rd-place-in-a-kaggle-contest-644adcc143c8)
+  * [A Step-by-Step NLP Guide to Learn ELMo for Extracting Features from Text](https://www.analyticsvidhya.com/blog/2019/03/learn-to-use-elmo-to-extract-features-from-text/)
+  * [GENERALIZED LANGUAGE MODELS: COVE, ELMO & CROSS-VIEW TRAINING](https://www.topbots.com/generalized-language-models-cove-elmo/)
+  * [GENERALIZED LANGUAGE MODELS: ULMFIT & OPENAI GPT](https://www.topbots.com/generalized-language-models-ulmfit-openai-gpt/)
+  * [GENERALIZED LANGUAGE MODELS: BERT & OPENAI GPT-2](https://www.topbots.com/generalized-language-models-bert-openai-gpt2/)
+  * [GENERALIZED LANGUAGE MODELS: COMMON TASKS & DATASETS](https://www.topbots.com/generalized-language-models-tasks-datasets/)
+  * [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/) : [[번역]](https://medium.com/@bntejn/%EC%9D%B8%EA%B3%B5%EC%8B%A0%EA%B2%BD%EB%A7%9D-%ED%95%99%EC%8A%B5-%EB%A0%88%EC%8B%9C%ED%94%BC-%EB%B2%88%EC%97%AD-70c5e58341ec)
+  * [Automatically Generate Hotel Descriptions with LSTM](https://towardsdatascience.com/automatically-generate-hotel-descriptions-with-lstm-afa37002d4fc)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -2050,6 +2057,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Bias and Variance [편향과 분산]](https://www.opentutorials.org/module/3653/22071)
 * [Time Series Feature Extraction for industrial big data [IIoT] applications](https://towardsdatascience.com/time-series-feature-extraction-for-industrial-big-data-iiot-applications-5243c84aaf0e)
 * [Automating interpretable feature engineering for predicting CLV](https://medium.com/inside-bux/automating-interpretable-feature-engineering-for-predicting-clv-f02d3af2a722)
+* [Build an end-to-end Machine Learning Model with MLlib in pySpark.](https://towardsdatascience.com/build-an-end-to-end-machine-learning-model-with-mllib-in-pyspark-4917bdf289c5)
+* [Pruned Cross Validation for faster hyperparameter optimization](https://towardsdatascience.com/pruned-cross-validation-for-hyperparameter-optimization-1c4e0588191a)
+* [Ensemble methods: bagging, boosting and stacking](https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205)
+* [Simplify machine learning with XGBoost and Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/simplify-machine-learning-with-xgboost-and-amazon-sagemaker/)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2383,6 +2394,13 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Interactive Data Visualization with Vega](https://towardsdatascience.com/interactive-data-visualization-with-vega-ab09e2843d54)
 * [Better Heatmaps and Correlation Matrix Plots in Python](https://towardsdatascience.com/better-heatmaps-and-correlation-matrix-plots-in-python-41445d0f2bec)
 * [3 Awesome Visualization Techniques for every dataset](https://towardsdatascience.com/3-awesome-visualization-techniques-for-every-dataset-9737eecacbe8)
+* [파이썬으로 스팀잇 형태소 분석하기 #1](https://anpigon.github.io/blog/busy/@anpigon/5s1aam/)
+* [Jupytext — Diff your Jupyter notebook as you want](https://towardsdatascience.com/diff-your-notebook-as-you-want-jupytext-e5df4db682f7)
+* [Koalas: Easy Transition from pandas to Apache Spark](https://databricks.com/blog/2019/04/24/koalas-easy-transition-from-pandas-to-apache-spark.html)
+* [The Jungle of Koalas, Pandas, Optimus and Spark](https://towardsdatascience.com/the-jungle-of-koalas-pandas-optimus-and-spark-dd486f873aa4)
+* [Data Science with Optimus. Part 1: Intro.](https://towardsdatascience.com/data-science-with-optimus-part-1-intro-1f3e2392b02a)
+* [Data Science with Optimus. Part 2: Setting your DataOps Environment.](https://towardsdatascience.com/data-science-with-optimus-part-2-setting-your-dataops-environment-248b0bd3bce3)
+* [A walkthrough of DVC](https://blog.codecentric.de/en/2019/03/walkthrough-dvc/)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -2659,6 +2677,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [How to build a Recommendation Engine quick and simple](https://towardsdatascience.com/how-to-build-a-recommendation-engine-quick-and-simple-aec8c71a823e)
 * [Collaborative filtering with FastAI](https://towardsdatascience.com/collaborative-filtering-with-fastai-3dbdd4ef4f00)
 * [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction [KR]](https://dos-tacos.github.io/paper%20review/DeepFM/)
+* [Building a Collaborative Filtering Recommender System with ClickStream Data](https://towardsdatascience.com/building-a-collaborative-filtering-recommender-system-with-clickstream-data-dffc86c8c65)
+* [Inside the Machine Learning Powering LinkedIn Recruiter Recommendation Systems](https://towardsdatascience.com/inside-the-machine-learning-powering-linkedin-recruiter-recommendation-systems-7da503ad55c0)
+* [Mobile Ads Click-Through Rate [CTR] Prediction](https://towardsdatascience.com/mobile-ads-click-through-rate-ctr-prediction-44fdac40c6ff)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
