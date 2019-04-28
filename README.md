@@ -2402,6 +2402,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Data Science with Optimus. Part 2: Setting your DataOps Environment.](https://towardsdatascience.com/data-science-with-optimus-part-2-setting-your-dataops-environment-248b0bd3bce3)
 * [A walkthrough of DVC](https://blog.codecentric.de/en/2019/03/walkthrough-dvc/)
 * [Stat Quest - Video List](https://statquest.org/video-index/)
+* [The Power of Bayesian A/B Testing](https://medium.com/convoy-tech/the-power-of-bayesian-a-b-testing-f859d2219d5) : [[번역]](https://databreak.netlify.com/2019-04-13-BayesianAB/)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
