@@ -2401,6 +2401,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Data Science with Optimus. Part 1: Intro.](https://towardsdatascience.com/data-science-with-optimus-part-1-intro-1f3e2392b02a)
 * [Data Science with Optimus. Part 2: Setting your DataOps Environment.](https://towardsdatascience.com/data-science-with-optimus-part-2-setting-your-dataops-environment-248b0bd3bce3)
 * [A walkthrough of DVC](https://blog.codecentric.de/en/2019/03/walkthrough-dvc/)
+* [Stat Quest - Video List](https://statquest.org/video-index/)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
