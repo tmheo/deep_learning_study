@@ -972,7 +972,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Training Deep Neural Networks on a GPU with PyTorch](https://medium.com/jovian-io/training-deep-neural-networks-on-a-gpu-with-pytorch-11079d89805)
   * [Easy Image Classification with TensorFlow 2.0](https://towardsdatascience.com/easy-image-classification-with-tensorflow-2-0-f734fee52d13)
   * [Evaluating Keras neural network performance using Yellowbrick visualizations](https://towardsdatascience.com/evaluating-keras-neural-network-performance-using-yellowbrick-visualizations-ad65543f3174)
-  * [The Illustrated Word2vec](https://jalammar.github.io/illustrated-word2vec/)
+  * [The Illustrated Word2vec](https://jalammar.github.io/illustrated-word2vec/) : [[번역]](https://databreak.netlify.com/2019-04-25-Illustrated_word2vec/)
   * [Graduating in GANs: Going from understanding generative adversarial networks to running your own](https://towardsdatascience.com/graduating-in-gans-going-from-understanding-generative-adversarial-networks-to-running-your-own-39804c283399)
   * [NLP Keras model in browser with TensorFlow.js](https://towardsdatascience.com/nlp-keras-model-in-browser-with-tensorflow-js-f4d5035466a2)
   * [Using FastAI to Analyze Yelp Reviews and Predict User Ratings [Polarity]](https://medium.com/datadriveninvestor/using-fastai-to-analyze-yelp-reviews-and-predict-user-ratings-polarity-4e4e89df358e)
@@ -991,6 +991,15 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [GENERALIZED LANGUAGE MODELS: COMMON TASKS & DATASETS](https://www.topbots.com/generalized-language-models-tasks-datasets/)
   * [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/) : [[번역]](https://medium.com/@bntejn/%EC%9D%B8%EA%B3%B5%EC%8B%A0%EA%B2%BD%EB%A7%9D-%ED%95%99%EC%8A%B5-%EB%A0%88%EC%8B%9C%ED%94%BC-%EB%B2%88%EC%97%AD-70c5e58341ec)
   * [Automatically Generate Hotel Descriptions with LSTM](https://towardsdatascience.com/automatically-generate-hotel-descriptions-with-lstm-afa37002d4fc)
+  * [Attention mechanism in NLP. From seq2seq + attention to BERT](https://lovit.github.io/machine%20learning/2019/03/17/attention_in_nlp/)
+  * [Attention is all you need paper 뽀개기](https://pozalabs.github.io/transformer/)
+  * [Annotated Transformer KR - Attention Is All You Need](https://www.notion.so/5944fbf370ab46b091eeb64453ac3af5)
+  * [With MorphNet, Google Helps You Build Faster and Smaller Neural Networks](https://towardsdatascience.com/with-morphnet-google-helps-you-build-faster-and-smaller-neural-networks-586e0baf7c36)
+  * [Visualizing intermediate activation in Convolutional Neural Networks with Keras](https://towardsdatascience.com/visualizing-intermediate-activation-in-convolutional-neural-networks-with-keras-260b36d60d0)
+  * [TensorFlow를 활용한 네이버쇼핑의 상품 카테고리 자동 분류](https://d2.naver.com/helloworld/1264836)
+  * [Boost your CNN image classifier performance with progressive resizing in Keras](https://towardsdatascience.com/boost-your-cnn-image-classifier-performance-with-progressive-resizing-in-keras-a7d96da06e20)
+  * [Extreme Rare Event Classification using Autoencoders in Keras](https://towardsdatascience.com/extreme-rare-event-classification-using-autoencoders-in-keras-a565b386f098)
+  * [Deep learning for specific information extraction from unstructured texts](https://towardsdatascience.com/deep-learning-for-specific-information-extraction-from-unstructured-texts-12c5b9dceada) : [[번역]](https://databreak.netlify.com/2019-04-24-Deep_learning_for_specific_information_extraction_from_unstructured_texts/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1130,6 +1139,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Tacotron & Wavenet](https://drive.google.com/file/d/1gLwmkiZhA4Wj7769gwj_Y0RP5NByPfpo/view)
   * [TensorFlow 2: New Era of Developing Deep Learning Models](https://www.slideshare.net/inureyes/tensorflow-2-new-era-of-developing-deep-learning-models)
   * [OS 모바일에서 한글 손글씨 인식하기[with Keras]](https://www.slideshare.net/MijeongJeon1/ios-with-keras)
+  * [Designing more efficient convolution neural network](https://www.slideshare.net/ssuser6135a1/designing-more-efficient-convolution-neural-network)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -1170,6 +1180,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Artificial Intelligence Lecture Series](https://www.youtube.com/playlist?list=PLdPz9_rcdD97b3iExKYmla8vjlsc_k1ee)
   * [Graph neural networks: Variations and applications](https://www.youtube.com/watch?v=cWIeTMklzNg)
   * [빵형의 개발도상국](https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg/videos)
+  * [트랜스포머 [어텐션 이즈 올 유 니드]](https://www.youtube.com/watch?v=mxGCEWOxfe8)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -1275,6 +1286,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [A list of NLP[Natural Language Processing] tutorials](https://github.com/lyeoni/nlp-tutorial)
   * [cs231n강좌의 백프로파게이션 부분 Numpy구현](https://github.com/eunsoo/backprop_cs231n)
   * [NLP paper implementation with PyTorch](https://github.com/aisolab/nlp_implementation)
+  * [Transformer Encoder with Char information for text classification](https://github.com/MSWon/Transformer-Encoder-with-Char)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -2061,6 +2073,13 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Pruned Cross Validation for faster hyperparameter optimization](https://towardsdatascience.com/pruned-cross-validation-for-hyperparameter-optimization-1c4e0588191a)
 * [Ensemble methods: bagging, boosting and stacking](https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205)
 * [Simplify machine learning with XGBoost and Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/simplify-machine-learning-with-xgboost-and-amazon-sagemaker/)
+* [Feature Selection with Null Importances](https://www.kaggle.com/ogrellier/feature-selection-with-null-importances) : [[번역]](https://databreak.netlify.com/2019-04-21-Null_importance/)
+* [AWS re:Invent 2018: Integrate Amazon SageMaker with Apache Spark, ft. Moody's [AIM403-R1]](https://www.slideshare.net/AmazonWebServices/integrate-amazon-sagemaker-with-apache-spark-ft-moodys-aim403r1-aws-reinvent-2018) : [[Video]](https://www.youtube.com/watch?v=3tHUGmlclI4)
+* [Achieving a top 5% position in an ML competition with AutoML](https://towardsdatascience.com/achieving-a-top-5-position-in-an-ml-competition-with-automl-89a5a6fb8060)
+* [Using the ‘What-If Tool’ to investigate Machine Learning models.](https://towardsdatascience.com/using-what-if-tool-to-investigate-machine-learning-models-913c7d4118f)
+* [Being a Data Scientist does not make you a Software Engineer!](https://towardsdatascience.com/being-a-data-scientist-does-not-make-you-a-software-engineer-c64081526372)
+* [Architecting a Machine Learning Pipeline](https://towardsdatascience.com/architecting-a-machine-learning-pipeline-a847f094d1c7)
+* [Cross-Validation Strategies for Time Series Forecasting](https://medium.com/sci-net/cross-validation-strategies-for-time-series-forecasting-9e6cfab91f60)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2403,6 +2422,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [A walkthrough of DVC](https://blog.codecentric.de/en/2019/03/walkthrough-dvc/)
 * [Stat Quest - Video List](https://statquest.org/video-index/)
 * [The Power of Bayesian A/B Testing](https://medium.com/convoy-tech/the-power-of-bayesian-a-b-testing-f859d2219d5) : [[번역]](https://databreak.netlify.com/2019-04-13-BayesianAB/)
+* [How to make a gif map using Python, Geopandas and Matplotlib](https://towardsdatascience.com/how-to-make-a-gif-map-using-python-geopandas-and-matplotlib-cd8827cefbc8)
+* [Data Engineers Will Hate You - One Weird Trick to Fix Your Pyspark Schemas](http://nadbordrozd.github.io/blog/2016/05/22/one-weird-trick-that-will-fix-your-pyspark-schemas/)
+* [Implicit schema for pandas_udf in PySpark?](https://stackoverflow.com/questions/54770485/implicit-schema-for-pandas-udf-in-pyspark)
+* [Bring your Jupyter Notebook to life with interactive widgets](https://towardsdatascience.com/bring-your-jupyter-notebook-to-life-with-interactive-widgets-bc12e03f0916)
+* [3 Awesome Visualization Techniques for every dataset](https://mlwhiz.com/blog/2019/04/19/awesome_seaborn_visuals/)
+* [Databricks Koalas-Python Pandas for Spark](https://medium.com/future-vision/databricks-koalas-python-pandas-for-spark-ce20fc8a7d08)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -2682,6 +2707,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Building a Collaborative Filtering Recommender System with ClickStream Data](https://towardsdatascience.com/building-a-collaborative-filtering-recommender-system-with-clickstream-data-dffc86c8c65)
 * [Inside the Machine Learning Powering LinkedIn Recruiter Recommendation Systems](https://towardsdatascience.com/inside-the-machine-learning-powering-linkedin-recruiter-recommendation-systems-7da503ad55c0)
 * [Mobile Ads Click-Through Rate [CTR] Prediction](https://towardsdatascience.com/mobile-ads-click-through-rate-ctr-prediction-44fdac40c6ff)
+* [Evaluating A Real-Life Recommender System, Error-Based and Ranking-Based](https://towardsdatascience.com/evaluating-a-real-life-recommender-system-error-based-and-ranking-based-84708e3285b)
+* [Zalando Dress Recommendation and Tagging](https://towardsdatascience.com/zalando-dress-recomendation-and-tagging-f38e1cbfc4a9)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
