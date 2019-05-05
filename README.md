@@ -2428,6 +2428,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Bring your Jupyter Notebook to life with interactive widgets](https://towardsdatascience.com/bring-your-jupyter-notebook-to-life-with-interactive-widgets-bc12e03f0916)
 * [3 Awesome Visualization Techniques for every dataset](https://mlwhiz.com/blog/2019/04/19/awesome_seaborn_visuals/)
 * [Databricks Koalas-Python Pandas for Spark](https://medium.com/future-vision/databricks-koalas-python-pandas-for-spark-ce20fc8a7d08)
+* [[Python pandas] 데이터 재구조화 \(reshaping\) : data.pivot\(\), pd.pivot_table\(data\)](https://rfriend.tistory.com/275)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
