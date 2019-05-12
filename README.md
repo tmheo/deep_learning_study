@@ -1000,6 +1000,17 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Boost your CNN image classifier performance with progressive resizing in Keras](https://towardsdatascience.com/boost-your-cnn-image-classifier-performance-with-progressive-resizing-in-keras-a7d96da06e20)
   * [Extreme Rare Event Classification using Autoencoders in Keras](https://towardsdatascience.com/extreme-rare-event-classification-using-autoencoders-in-keras-a565b386f098)
   * [Deep learning for specific information extraction from unstructured texts](https://towardsdatascience.com/deep-learning-for-specific-information-extraction-from-unstructured-texts-12c5b9dceada) : [[번역]](https://databreak.netlify.com/2019-04-24-Deep_learning_for_specific_information_extraction_from_unstructured_texts/)
+  * [딥러닝으로 동네생활 게시글 필터링하기](https://medium.com/daangn/%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9C%BC%EB%A1%9C-%EB%8F%99%EB%84%A4%EC%83%9D%ED%99%9C-%EA%B2%8C%EC%8B%9C%EA%B8%80-%ED%95%84%ED%84%B0%EB%A7%81%ED%95%98%EA%B8%B0-263cfe4bc58d)
+  * [Understanding PyTorch with an example: a step-by-step tutorial](https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e)
+  * [Getting started with TensorFlow 2.0](https://medium.com/@himanshurawlani/getting-started-with-tensorflow-2-0-faf5428febae)
+  * [Transfer Learning : Why train when you can finetune?](https://towardsdatascience.com/transfer-learning-picking-the-right-pre-trained-model-for-your-problem-bac69b488d16)
+  * [Generative Adversarial Network : DCGAN을 이용한 이미지 생성](http://research.sualab.com/introduction/practice/2019/05/08/generative-adversarial-network.html)
+  * [TCAV: Interpretability Beyond Feature Attribution](https://towardsdatascience.com/tcav-interpretability-beyond-feature-attribution-79b4d3610b4d)
+  * [Introducing TensorFlow Graphics: Computer Graphics Meets Deep Learning](https://medium.com/tensorflow/introducing-tensorflow-graphics-computer-graphics-meets-deep-learning-c8e3877b7668)
+  * [Visualizing A Neural Machine Translation Model \(Mechanics of Seq2seq Models With Attention\)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/) : [[번역]](https://nlpinkorean.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
+  * [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) : [[번역]](https://nlpinkorean.github.io/illustrated-transformer/)
+  * [하이퍼튜닝을 손쉽게 - 케라스 튜너](https://tykimos.github.io/2019/05/10/KerasTuner/)
+  * [Building a Multi-label Text Classifier using BERT and TensorFlow](https://towardsdatascience.com/building-a-multi-label-text-classifier-using-bert-and-tensorflow-f188e0ecdc5d)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1181,6 +1192,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Graph neural networks: Variations and applications](https://www.youtube.com/watch?v=cWIeTMklzNg)
   * [빵형의 개발도상국](https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg/videos)
   * [트랜스포머 [어텐션 이즈 올 유 니드]](https://www.youtube.com/watch?v=mxGCEWOxfe8)
+  * [Attention \(1\): What is Attention?](https://www.youtube.com/watch?v=CIQ354Y_gOc)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -1341,6 +1353,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Handwritten Hangul Datasets: PE92, SERI95, and HanDB](https://github.com/callee2006/HangulDB)
   * [Tencent ML-Images](https://github.com/Tencent/tencent-ml-images)
   * [KorQuAD - The Korean Question Answering Dataset](https://korquad.github.io/)
+  * [VisualData - Discover Computer Vision Datasets](https://www.visualdata.io/)
 
 ## Reinforcement Learning
 * [Fundamental of Reinforcement Learning](https://www.gitbook.com/book/dnddnjs/rl/)
@@ -2081,6 +2094,13 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Architecting a Machine Learning Pipeline](https://towardsdatascience.com/architecting-a-machine-learning-pipeline-a847f094d1c7)
 * [Cross-Validation Strategies for Time Series Forecasting](https://medium.com/sci-net/cross-validation-strategies-for-time-series-forecasting-9e6cfab91f60)
 * [Portfolio-Scale Machine Learning at Zynga](https://medium.com/zynga-engineering/portfolio-scale-machine-learning-at-zynga-bda8e29ee561)
+* [Overview of the different approaches to putting Machine Learning \(ML\) models in production](https://medium.com/analytics-and-data/overview-of-the-different-approaches-to-putting-machinelearning-ml-models-in-production-c699b34abf86)
+* [Analyzing Tweets with NLP in minutes with Spark, Optimus and Twint](https://towardsdatascience.com/analyzing-tweets-with-nlp-in-minutes-with-spark-optimus-and-twint-a0c96084995f)
+* [Using Apache Spark to Predict Installer Retention from Messy Clickstream Data](https://databricks.com/session/using-spark-to-predict-installer-retention-from-messy-clickstream-data)
+* [Outlier Detection and Treatment: A Beginner's Guide](https://towardsdatascience.com/outlier-detection-and-treatment-a-beginners-guide-c44af0699754)
+* [How to Generate Prediction Intervals with Scikit-Learn and Python](https://towardsdatascience.com/how-to-generate-prediction-intervals-with-scikit-learn-and-python-ab3899f992ed)
+* [Build end-to-end machine learning workflows with Amazon SageMaker and Apache Airflow](https://aws.amazon.com/blogs/machine-learning/build-end-to-end-machine-learning-workflows-with-amazon-sagemaker-and-apache-airflow/)
+* [Need for Feature Engineering in Machine Learning](https://towardsdatascience.com/need-for-feature-engineering-in-machine-learning-897df2ed00e6)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2430,6 +2450,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [3 Awesome Visualization Techniques for every dataset](https://mlwhiz.com/blog/2019/04/19/awesome_seaborn_visuals/)
 * [Databricks Koalas-Python Pandas for Spark](https://medium.com/future-vision/databricks-koalas-python-pandas-for-spark-ce20fc8a7d08)
 * [[Python pandas] 데이터 재구조화 \(reshaping\) : data.pivot\(\), pd.pivot_table\(data\)](https://rfriend.tistory.com/275)
+* [Pandas 기초 - cheat sheet 따라하기](https://www.youtube.com/playlist?list=PLaTc2c6yEwmry4B78IJwD47gE8b_ZEsVR)
+* [Introducing Spark-Select for MinIO Data Lakes](https://blog.minio.io/introducing-spark-select-for-minio-data-lakes-c26986b42ff)
+* [How to create buttons in Jupyter](https://medium.com/@jdchipox/how-to-interact-with-jupyter-33a98686f24e)
+* [It’s 2019 — Make Your Data Visualizations Interactive with Plotly](https://towardsdatascience.com/its-2019-make-your-data-visualizations-interactive-with-plotly-b361e7d45dc6)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -2711,6 +2735,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Mobile Ads Click-Through Rate [CTR] Prediction](https://towardsdatascience.com/mobile-ads-click-through-rate-ctr-prediction-44fdac40c6ff)
 * [Evaluating A Real-Life Recommender System, Error-Based and Ranking-Based](https://towardsdatascience.com/evaluating-a-real-life-recommender-system-error-based-and-ranking-based-84708e3285b)
 * [Zalando Dress Recommendation and Tagging](https://towardsdatascience.com/zalando-dress-recomendation-and-tagging-f38e1cbfc4a9)
+* [딥러닝 개인화 추천](https://medium.com/daangn/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EA%B0%9C%EC%9D%B8%ED%99%94-%EC%B6%94%EC%B2%9C-1eda682c2e8c)
+* [딥러닝 추천 시스템 in production](https://medium.com/daangn/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-in-production-fa623877e56a)
+* [How does Netflix recommend movies? Matrix Factorization](https://www.youtube.com/watch?v=ZspR5PZemcs)
+* [Recommender Systems in Practice](https://towardsdatascience.com/recommender-systems-in-practice-cef9033bb23a)
+* [갈아먹는 추천 알고리즘](https://yeomko.tistory.com/)
+* [The Remarkable world of Recommender Systems](https://towardsdatascience.com/the-remarkable-world-of-recommender-systems-bff4b9cbe6a7)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
