@@ -2741,6 +2741,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Recommender Systems in Practice](https://towardsdatascience.com/recommender-systems-in-practice-cef9033bb23a)
 * [갈아먹는 추천 알고리즘](https://yeomko.tistory.com/)
 * [The Remarkable world of Recommender Systems](https://towardsdatascience.com/the-remarkable-world-of-recommender-systems-bff4b9cbe6a7)
+* [Evolution of a Real World Recommender System](https://www.youtube.com/watch?v=hN995d7g4us)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
