@@ -1011,6 +1011,14 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) : [[번역]](https://nlpinkorean.github.io/illustrated-transformer/)
   * [하이퍼튜닝을 손쉽게 - 케라스 튜너](https://tykimos.github.io/2019/05/10/KerasTuner/)
   * [Building a Multi-label Text Classifier using BERT and TensorFlow](https://towardsdatascience.com/building-a-multi-label-text-classifier-using-bert-and-tensorflow-f188e0ecdc5d)
+  * [ARIMA/SARIMA vs LSTM with Ensemble learning Insights for Time Series Data](https://towardsdatascience.com/arima-sarima-vs-lstm-with-ensemble-learning-insights-for-time-series-data-509a5d87f20a)
+  * [INTUITIVELY UNDERSTANDING VARIATIONAL AUTOENCODERS](https://www.topbots.com/intuitively-understanding-variational-autoencoders/)
+  * [Using Transfer Learning for NLP with Small Data](https://blog.insightdatascience.com/using-transfer-learning-for-nlp-with-small-data-71e10baf99a6)
+  * [Building Efficient Custom Datasets in PyTorch](https://towardsdatascience.com/building-efficient-custom-datasets-in-pytorch-2563b946fd9f)
+  * [Comparison of Activation Functions for Deep Neural Networks](https://towardsdatascience.com/comparison-of-activation-functions-for-deep-neural-networks-706ac4284c8a)
+  * [How to build a State-of-the-Art Conversational AI with Transfer Learning](https://medium.com/huggingface/how-to-build-a-state-of-the-art-conversational-ai-with-transfer-learning-2d818ac26313)
+  * [LSTM Autoencoder for Extreme Rare Event Classification in Keras](https://towardsdatascience.com/lstm-autoencoder-for-extreme-rare-event-classification-in-keras-ce209a224cfb)
+  * [Predicting future medical diagnoses with RNNs using Fast AI API from scratch](https://towardsdatascience.com/predicting-future-medical-diagnoses-with-rnns-using-fast-ai-api-from-scratch-ecf78aaf56a2)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1507,6 +1515,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [AlphaStar: Mastering the Real-Time Strategy Game StarCraft II](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/) : [[번역]](https://korchris.github.io/2019/01/25/Alphastar/index.html)
 * [Talk: An Introduction to Reinforcement Learning](https://medium.com/@julsimon/talk-an-introduction-to-reinforcement-learning-e26177338787)
 * [AI가 스타크래프트2를 정복한 원리[알파스타]](https://www.youtube.com/watch?v=GciYOMIJ2Eo)
+* [[쉽게구현하는 강화학습 1화] Policy Gradient - REINFORCE와 Actor-Critic 구현하기!](https://www.youtube.com/watch?v=12pXaP8KPbE)
+* [[쉽게구현하는 강화학습 2화] DQN 알고리즘 구현!](https://www.youtube.com/watch?v=__NYgfkUr-M)
+* [On Choosing a Deep Reinforcement Learning Library](https://medium.com/data-from-the-trenches/choosing-a-deep-reinforcement-learning-library-890fb0307092)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -2102,6 +2113,13 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Build end-to-end machine learning workflows with Amazon SageMaker and Apache Airflow](https://aws.amazon.com/blogs/machine-learning/build-end-to-end-machine-learning-workflows-with-amazon-sagemaker-and-apache-airflow/)
 * [Need for Feature Engineering in Machine Learning](https://towardsdatascience.com/need-for-feature-engineering-in-machine-learning-897df2ed00e6)
 * [MLFlow: Platform for Complete Machine Learning Lifecycle](https://www.slideshare.net/databricks/mlflow-platform-for-complete-machine-learning-lifecycle)
+* [Detecting Patterns with Unsupervised Learning](https://medium.com/code-gin/detecting-patterns-with-unsupervised-learning-88ba737d4f34)
+* [Machine Learning Deployment using AWS SageMaker](https://github.com/udacity/sagemaker-deployment)
+* [적당한 ‘정확도’가 보장되는 모델을 ‘자동으로’ 만들 수는 없을까?](https://medium.com/dlift/%EC%A0%81%EB%8B%B9%ED%95%9C-%EC%A0%95%ED%99%95%EB%8F%84-%EA%B0%80-%EB%B3%B4%EC%9E%A5%EB%90%98%EB%8A%94-%EB%AA%A8%EB%8D%B8%EC%9D%84-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4-%EC%88%98%EB%8A%94-%EC%97%86%EC%9D%84%EA%B9%8C-f0da4a6a9607)
+* [Scikit Learn predictions on Apache Spark](https://medium.com/@smoothml/scikit-learn-predictions-on-apache-spark-3987feff44a2)
+* [Machine Learning Algorithm Visualization](https://csinva.github.io/pres/189/#/)
+* [Kaggle - Youtube](https://www.youtube.com/user/kaggledotcom)
+* [The Hitchhiker’s Guide to Feature Extraction](https://towardsdatascience.com/the-hitchhikers-guide-to-feature-extraction-b4c157e96631)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2455,6 +2473,15 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Introducing Spark-Select for MinIO Data Lakes](https://blog.minio.io/introducing-spark-select-for-minio-data-lakes-c26986b42ff)
 * [How to create buttons in Jupyter](https://medium.com/@jdchipox/how-to-interact-with-jupyter-33a98686f24e)
 * [It’s 2019 — Make Your Data Visualizations Interactive with Plotly](https://towardsdatascience.com/its-2019-make-your-data-visualizations-interactive-with-plotly-b361e7d45dc6)
+* [tfx-tutorial - data validation](https://nbviewer.jupyter.org/github/zzsza/tfx-tutorial/blob/master/data-validation/All-Features-Example.ipynb)
+* [Plotly Express Yourself](https://towardsdatascience.com/plotly-express-yourself-98366e35ad0f)
+* [Become a Pro at Pandas, Python’s data manipulation Library](https://medium.com/analytics-and-data/become-a-pro-at-pandas-pythons-data-manipulation-library-264351b586b1?sk=cfcd8713cbdae2e48277acf8084c5e13)
+* [Amazon SageMaker notebooks now support Git integration for increased persistence, collaboration, and reproducibility](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-notebooks-now-support-git-integration-for-increased-persistence-collaboration-and-reproducibility/)
+* [Scalable Python Code with Pandas UDFs: A Data Science Application](https://towardsdatascience.com/scalable-python-code-with-pandas-udfs-a-data-science-application-dd515a628896)
+* [How To Find Probability From Probability Density Plots](https://towardsdatascience.com/how-to-find-probability-from-probability-density-plots-7c392b218bab)
+* [Confidence Intervals in One Picture](https://www.datasciencecentral.com/profiles/blogs/confidence-intervals-in-one-picture)
+* [Giving Your Algorithm a Spark](https://medium.com/bcggamma/giving-your-algorithm-a-spark-3c3aa71aa2f7)
+* [Python을 이용한 콴다 리뷰 분석](https://medium.com/qandastudy/python%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%BD%B4%EB%8B%A4-%EB%A6%AC%EB%B7%B0-%EB%B6%84%EC%84%9D-73b3f26e967c)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -2743,6 +2770,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [갈아먹는 추천 알고리즘](https://yeomko.tistory.com/)
 * [The Remarkable world of Recommender Systems](https://towardsdatascience.com/the-remarkable-world-of-recommender-systems-bff4b9cbe6a7)
 * [Evolution of a Real World Recommender System](https://www.youtube.com/watch?v=hN995d7g4us)
+* [Machine Learning: Building Recommender Systems](https://medium.com/code-gin/machine-learning-building-recommender-systems-4ea6e464977b)
+* [How to Build a Recommender System\(RS\)](https://medium.com/datadriveninvestor/how-to-built-a-recommender-system-rs-616c988d64b2)
+* [How to implement deep generative models for recommender systems?](https://medium.com/snipfeed/how-to-implement-deep-generative-models-for-recommender-systems-29110be8971f)
+* [Recommendation Systems in the Real world](https://towardsdatascience.com/recommendation-systems-in-the-real-world-51e3948772f3)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
