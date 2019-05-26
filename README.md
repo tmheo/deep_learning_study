@@ -123,6 +123,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [모두를 위한 딥러닝 시즌 2](https://deeplearningzerotoall.github.io/season2/)
   * [Edwith - School of AI : Deep Learning Live Coding](https://www.edwith.org/introdeep)
   * [한권으로 끝내는 파이썬 & 딥러닝](https://sdc-james.gitbook.io/onebook/)
+  * [2019 딥러닝 홀로서기 세미나](https://github.com/heartcored98/Standalone-DeepLearning)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -1019,6 +1020,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [How to build a State-of-the-Art Conversational AI with Transfer Learning](https://medium.com/huggingface/how-to-build-a-state-of-the-art-conversational-ai-with-transfer-learning-2d818ac26313)
   * [LSTM Autoencoder for Extreme Rare Event Classification in Keras](https://towardsdatascience.com/lstm-autoencoder-for-extreme-rare-event-classification-in-keras-ce209a224cfb)
   * [Predicting future medical diagnoses with RNNs using Fast AI API from scratch](https://towardsdatascience.com/predicting-future-medical-diagnoses-with-rnns-using-fast-ai-api-from-scratch-ecf78aaf56a2)
+  * [Introducing FastBert — A simple Deep Learning library for BERT Models](https://medium.com/huggingface/introducing-fastbert-a-simple-deep-learning-library-for-bert-models-89ff763ad384)
+  * [Visualising Filters and Feature Maps for Deep Learning](https://towardsdatascience.com/visualising-filters-and-feature-maps-for-deep-learning-d814e13bd671)
+  * [Speedup your CNN using Fast Dense Feature Extraction and PyTorch](https://towardsdatascience.com/speedup-your-cnn-using-fast-dense-feature-extraction-and-pytorch-dc32acbf12ef)
+  * [Applying Deep-Learning for fashion e-commerce](https://towardsdatascience.com/applying-deep-learning-for-fashion-e-commerce-7e9e28692172)
+  * [Pre-training BERT from scratch with cloud TPU](https://towardsdatascience.com/pre-training-bert-from-scratch-with-cloud-tpu-6e2f71028379?sk=51c46354668b0fc4255fe8bb7e1e3035)
+  * [[MT-DNN 논문 Review] Multi-Task Deep Neural Networks for Natural Language Understanding](https://y-rok.github.io/nlp/2019/05/20/mt-dnn.html)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1307,6 +1314,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [cs231n강좌의 백프로파게이션 부분 Numpy구현](https://github.com/eunsoo/backprop_cs231n)
   * [NLP paper implementation with PyTorch](https://github.com/aisolab/nlp_implementation)
   * [Transformer Encoder with Char information for text classification](https://github.com/MSWon/Transformer-Encoder-with-Char)
+  * [Natural_language_Processing_self_study](https://github.com/hskimim/nlp_tutorial)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -1518,6 +1526,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [[쉽게구현하는 강화학습 1화] Policy Gradient - REINFORCE와 Actor-Critic 구현하기!](https://www.youtube.com/watch?v=12pXaP8KPbE)
 * [[쉽게구현하는 강화학습 2화] DQN 알고리즘 구현!](https://www.youtube.com/watch?v=__NYgfkUr-M)
 * [On Choosing a Deep Reinforcement Learning Library](https://medium.com/data-from-the-trenches/choosing-a-deep-reinforcement-learning-library-890fb0307092)
+* [Learning to play snake at 1 million FPS](https://towardsdatascience.com/learning-to-play-snake-at-1-million-fps-4aae8d36d2f1)
+* [Implementations of basic RL algorithms with minimal lines of codes! \(pytorch based\)](https://github.com/seungeunrho/minimalRL)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -2120,6 +2130,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Machine Learning Algorithm Visualization](https://csinva.github.io/pres/189/#/)
 * [Kaggle - Youtube](https://www.youtube.com/user/kaggledotcom)
 * [The Hitchhiker’s Guide to Feature Extraction](https://towardsdatascience.com/the-hitchhikers-guide-to-feature-extraction-b4c157e96631)
+* [ML Approaches for Time Series](https://towardsdatascience.com/ml-approaches-for-time-series-4d44722e48fe)
+* [Everything you can do with a time series](https://www.kaggle.com/thebrownviking20/everything-you-can-do-with-a-time-series) : [[번역]](https://nbviewer.jupyter.org/gist/subinium/26d22a786b0b7d088da63a97bf8e1d44)
+* [Normalization vs Standardization — Quantitative analysis](https://towardsdatascience.com/normalization-vs-standardization-quantitative-analysis-a91e8a79cebf) : [[번역]](https://databreak.netlify.com/2019-05-02-Normalization_vs_Standardization-Quantitative%20analysis/)
+* [Building Production Machine Learning Systems](https://heartbeat.fritz.ai/building-production-machine-learning-systems-7eda2fda0cdf)
+* [Fraud Detection: Give me reasons](https://medium.com/@jd.bermeo251/fraud-detection-give-me-reasons-5aab08580211)
+* [Reaching the depths of \(power/geometric\) ensembling when targeting the AUC metric](https://medium.com/data-design/reaching-the-depths-of-power-geometric-ensembling-when-targeting-the-auc-metric-2f356ea3250e)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2445,7 +2461,6 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Lightning Fast ML Predictions with PySpark](https://medium.com/homeaway-tech-blog/lightning-fast-ml-predictions-with-pyspark-354c8c5abe83)
 * [Understanding Confidence Interval](https://towardsdatascience.com/understanding-confidence-interval-d7b5aa68e3b)
 * [How to correctly select a sample from a huge dataset in machine learning](https://medium.com/data-science-journal/how-to-correctly-select-a-sample-from-a-huge-dataset-in-machine-learning-24327650372c)
-* [Normalization vs Standardization — Quantitative analysis](https://towardsdatascience.com/normalization-vs-standardization-quantitative-analysis-a91e8a79cebf)
 * [Beyond A/B Testing: Multi-armed Bandit Experiments](https://towardsdatascience.com/beyond-a-b-testing-multi-armed-bandit-experiments-1493f709f804)
 * [Step-by-Step Guide to Creating R and Python Libraries [in JupyterLab]](https://towardsdatascience.com/step-by-step-guide-to-creating-r-and-python-libraries-e81bbea87911)
 * [5 Ways to Detect Outliers That Every Data Scientist Should Know [Python Code]](https://towardsdatascience.com/5-ways-to-detect-outliers-that-every-data-scientist-should-know-python-code-70a54335a623)
@@ -2482,6 +2497,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Confidence Intervals in One Picture](https://www.datasciencecentral.com/profiles/blogs/confidence-intervals-in-one-picture)
 * [Giving Your Algorithm a Spark](https://medium.com/bcggamma/giving-your-algorithm-a-spark-3c3aa71aa2f7)
 * [Python을 이용한 콴다 리뷰 분석](https://medium.com/qandastudy/python%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%BD%B4%EB%8B%A4-%EB%A6%AC%EB%B7%B0-%EB%B6%84%EC%84%9D-73b3f26e967c)
+* [DeepNOL! - 빅데이터, 인공지능, 데이터과학 이야기](https://www.youtube.com/channel/UCdLZ0MsYS4hmqFgOYCB6C9w)
+* [An easy introduction to 3D plotting with Matplotlib](https://towardsdatascience.com/an-easy-introduction-to-3d-plotting-with-matplotlib-801561999725)
+* [How to handle large datasets in Python with Pandas and Dask](https://towardsdatascience.com/how-to-handle-large-datasets-in-python-with-pandas-and-dask-34f43a897d55)
+* [Sapientia a Dei - 통알못을 위한 통계 튜브](https://www.youtube.com/channel/UCnN2E8RCEuKi-WLBrd0Nu1A)
+* [BigQuery의 모든 것\(기획자, 마케터, 신입 데이터 분석가를 위한\) 입문편](https://www.slideshare.net/zzsza/bigquery-147073606)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -2774,6 +2794,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [How to Build a Recommender System\(RS\)](https://medium.com/datadriveninvestor/how-to-built-a-recommender-system-rs-616c988d64b2)
 * [How to implement deep generative models for recommender systems?](https://medium.com/snipfeed/how-to-implement-deep-generative-models-for-recommender-systems-29110be8971f)
 * [Recommendation Systems in the Real world](https://towardsdatascience.com/recommendation-systems-in-the-real-world-51e3948772f3)
+* [RBM Deep Dive with Tensorflow \(KR\)](https://dos-tacos.github.io/code%20review/RBM/)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
