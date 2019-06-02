@@ -1026,6 +1026,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Applying Deep-Learning for fashion e-commerce](https://towardsdatascience.com/applying-deep-learning-for-fashion-e-commerce-7e9e28692172)
   * [Pre-training BERT from scratch with cloud TPU](https://towardsdatascience.com/pre-training-bert-from-scratch-with-cloud-tpu-6e2f71028379?sk=51c46354668b0fc4255fe8bb7e1e3035)
   * [[MT-DNN 논문 Review] Multi-Task Deep Neural Networks for Natural Language Understanding](https://y-rok.github.io/nlp/2019/05/20/mt-dnn.html)
+  * [To understand LSTM architecture, code a forward pass with just NumPy](https://towardsdatascience.com/the-lstm-reference-card-6163ca98ae87)
+  * [Entity Embeddings of Categorical Variables](https://bluediary8.tistory.com/21)
+  * [“EfficientNet; Improving Accuracy and Efficiency through AutoML and Model Scaling 리뷰”](https://hoya012.github.io/blog/EfficientNet-review/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1166,6 +1169,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [TensorFlow 2: New Era of Developing Deep Learning Models](https://www.slideshare.net/inureyes/tensorflow-2-new-era-of-developing-deep-learning-models)
   * [OS 모바일에서 한글 손글씨 인식하기[with Keras]](https://www.slideshare.net/MijeongJeon1/ios-with-keras)
   * [Designing more efficient convolution neural network](https://www.slideshare.net/ssuser6135a1/designing-more-efficient-convolution-neural-network)
+  * [Sequence to Sequence Learning with Neural Networks](https://www.slideshare.net/HoonHeo5/sequence-to-sequence-learning-with-neural-networks-148127767)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -2136,6 +2140,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Building Production Machine Learning Systems](https://heartbeat.fritz.ai/building-production-machine-learning-systems-7eda2fda0cdf)
 * [Fraud Detection: Give me reasons](https://medium.com/@jd.bermeo251/fraud-detection-give-me-reasons-5aab08580211)
 * [Reaching the depths of \(power/geometric\) ensembling when targeting the AUC metric](https://medium.com/data-design/reaching-the-depths-of-power-geometric-ensembling-when-targeting-the-auc-metric-2f356ea3250e)
+* [An introduction to model ensembling](https://medium.com/weightsandbiases/an-introduction-to-model-ensembling-63effc2ca4b3)
+* [Brute force techniques of variable selection for classification problems](https://towardsdatascience.com/brute-force-variable-selection-techniques-for-classification-problems-5bca328977e5)
+* [What I Learned from \(Two-time\) Kaggle Grandmaster Abhishek Thakur](https://towardsdatascience.com/what-i-learned-from-abhishek-thakur-4b905ac0fd55)
+* [Multi-Class Text Classification Using PySpark, MLlib & Doc2Vec](https://medium.com/towards-artificial-intelligence/multi-class-text-classification-using-pyspark-mllib-doc2vec-dbfcee5b39f2)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2502,6 +2510,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [How to handle large datasets in Python with Pandas and Dask](https://towardsdatascience.com/how-to-handle-large-datasets-in-python-with-pandas-and-dask-34f43a897d55)
 * [Sapientia a Dei - 통알못을 위한 통계 튜브](https://www.youtube.com/channel/UCnN2E8RCEuKi-WLBrd0Nu1A)
 * [BigQuery의 모든 것\(기획자, 마케터, 신입 데이터 분석가를 위한\) 입문편](https://www.slideshare.net/zzsza/bigquery-147073606)
+* [Intake: Discovering and Exploring Data in a Graphical Interface](https://www.anaconda.com/intake-discovering-and-exploring-data-in-a-graphical-interface/)
+* [Hypothesis testing visualized](https://towardsdatascience.com/hypothesis-testing-visualized-6f30b18fc78f?gi=6a0f118a0469)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -2795,6 +2805,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [How to implement deep generative models for recommender systems?](https://medium.com/snipfeed/how-to-implement-deep-generative-models-for-recommender-systems-29110be8971f)
 * [Recommendation Systems in the Real world](https://towardsdatascience.com/recommendation-systems-in-the-real-world-51e3948772f3)
 * [RBM Deep Dive with Tensorflow \(KR\)](https://dos-tacos.github.io/code%20review/RBM/)
+* [Solving Cold User problem for Recommendation system using Multi-Armed Bandit](https://towardsdatascience.com/solving-cold-user-problem-for-recommendation-system-using-multi-armed-bandit-d36e42fe8d44)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
