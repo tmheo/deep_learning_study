@@ -1327,6 +1327,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [NLP paper implementation with PyTorch](https://github.com/aisolab/nlp_implementation)
   * [Transformer Encoder with Char information for text classification](https://github.com/MSWon/Transformer-Encoder-with-Char)
   * [Natural_language_Processing_self_study](https://github.com/hskimim/nlp_tutorial)
+  * [Deep Learning Models](https://github.com/rasbt/deeplearning-models)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
