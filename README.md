@@ -124,6 +124,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Edwith - School of AI : Deep Learning Live Coding](https://www.edwith.org/introdeep)
   * [한권으로 끝내는 파이썬 & 딥러닝](https://sdc-james.gitbook.io/onebook/)
   * [2019 딥러닝 홀로서기 세미나](https://github.com/heartcored98/Standalone-DeepLearning)
+  * [Handbooks and Code Samples for Software Engineers wanting to learn the Keras Machine Learning framework](https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -1029,6 +1030,13 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [To understand LSTM architecture, code a forward pass with just NumPy](https://towardsdatascience.com/the-lstm-reference-card-6163ca98ae87)
   * [Entity Embeddings of Categorical Variables](https://bluediary8.tistory.com/21)
   * [“EfficientNet; Improving Accuracy and Efficiency through AutoML and Model Scaling 리뷰”](https://hoya012.github.io/blog/EfficientNet-review/)
+  * [BERT to the rescue!](https://towardsdatascience.com/bert-to-the-rescue-17671379687f)
+  * [Visualizing Bias in Data using Embedding Projector](https://towardsdatascience.com/visualizing-bias-in-data-using-embedding-projector-649bc65e7487)
+  * [KorQuAD \(Korean Question Answering Dataset\) submission guide using PyTorch pretrained BERT](https://github.com/lyeoni/KorQuAD)
+  * [Backpropagation And Batch Normalization In FeedForward Neural Networks Explained](https://towardsdatascience.com/backpropagation-and-batch-normalization-in-feedforward-neural-networks-explained-901fd6e5393e)
+  * [Pre-trained Word Embeddings or Embedding Layer? — A Dilemma](https://towardsdatascience.com/pre-trained-word-embeddings-or-embedding-layer-a-dilemma-8406959fd76c)
+  * [Implementing a Simple Auto-Encoder in Tensorflow](https://towardsdatascience.com/implementing-a-simple-auto-encoder-in-tensorflow-1181751f202)
+  * [Attn: Illustrated Attention](https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3) : [[번역]](https://databreak.netlify.com/2019-05-31-illustrated_Attention/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -2144,6 +2152,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Brute force techniques of variable selection for classification problems](https://towardsdatascience.com/brute-force-variable-selection-techniques-for-classification-problems-5bca328977e5)
 * [What I Learned from \(Two-time\) Kaggle Grandmaster Abhishek Thakur](https://towardsdatascience.com/what-i-learned-from-abhishek-thakur-4b905ac0fd55)
 * [Multi-Class Text Classification Using PySpark, MLlib & Doc2Vec](https://medium.com/towards-artificial-intelligence/multi-class-text-classification-using-pyspark-mllib-doc2vec-dbfcee5b39f2)
+* [[이유한님] 캐글 코리아 캐글 스터디 커널 커리큘럼](https://kaggle-kr.tistory.com/32)
+* [Gaussian Mixture Models Explained](https://towardsdatascience.com/gaussian-mixture-models-explained-6986aaf5a95)
+* [Intro to Feature Selection Methods for Data Science](https://towardsdatascience.com/intro-to-feature-selection-methods-for-data-science-4cae2178a00a)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2512,6 +2523,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [BigQuery의 모든 것\(기획자, 마케터, 신입 데이터 분석가를 위한\) 입문편](https://www.slideshare.net/zzsza/bigquery-147073606)
 * [Intake: Discovering and Exploring Data in a Graphical Interface](https://www.anaconda.com/intake-discovering-and-exploring-data-in-a-graphical-interface/)
 * [Hypothesis testing visualized](https://towardsdatascience.com/hypothesis-testing-visualized-6f30b18fc78f?gi=6a0f118a0469)
+* [A guideline for basic use and installation of kubeflow in AWS](https://github.com/graykode/aws-kubeflow)
+* [Plotnine replication of Financial Times Visual Vocabulary; Inspired by Vega](https://github.com/cstorm125/viztech)
+* [Panel: A high-level app and dashboarding solution for the PyData ecosystem.](https://medium.com/@philipp.jfr/panel-announcement-2107c2b15f52)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -2806,6 +2820,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Recommendation Systems in the Real world](https://towardsdatascience.com/recommendation-systems-in-the-real-world-51e3948772f3)
 * [RBM Deep Dive with Tensorflow \(KR\)](https://dos-tacos.github.io/code%20review/RBM/)
 * [Solving Cold User problem for Recommendation system using Multi-Armed Bandit](https://towardsdatascience.com/solving-cold-user-problem-for-recommendation-system-using-multi-armed-bandit-d36e42fe8d44)
+* [Interpretable Recommender System 개발 사례연구, NDC 2019](https://www.slideshare.net/ssuser593481/ndc19interpretable-recommender-system-ndc2019)
+* [Introduction to recommender systems](https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
