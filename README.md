@@ -2526,6 +2526,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [A guideline for basic use and installation of kubeflow in AWS](https://github.com/graykode/aws-kubeflow)
 * [Plotnine replication of Financial Times Visual Vocabulary; Inspired by Vega](https://github.com/cstorm125/viztech)
 * [Panel: A high-level app and dashboarding solution for the PyData ecosystem.](https://medium.com/@philipp.jfr/panel-announcement-2107c2b15f52)
+* [그들이 AWS 위에서 데이터 파이프 라인을 운영하는 법](https://docs.google.com/presentation/d/11C_BKio0DZIop_ZjJk7ogxQtWV5qHIr-hHjw277z64k/)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
