@@ -1037,6 +1037,22 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Pre-trained Word Embeddings or Embedding Layer? — A Dilemma](https://towardsdatascience.com/pre-trained-word-embeddings-or-embedding-layer-a-dilemma-8406959fd76c)
   * [Implementing a Simple Auto-Encoder in Tensorflow](https://towardsdatascience.com/implementing-a-simple-auto-encoder-in-tensorflow-1181751f202)
   * [Attn: Illustrated Attention](https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3) : [[번역]](https://databreak.netlify.com/2019-05-31-illustrated_Attention/)
+  * [Predicting Sales - Forecasting the monthly sales with LSTM](https://towardsdatascience.com/predicting-sales-611cb5a252de)
+  * [A Basic NLP Tutorial for News Multiclass Categorization](https://medium.com/@armandj.olivares/a-basic-nlp-tutorial-for-news-multiclass-categorization-82afa6d46aa5)
+  * [Diving into Google’s Landmark Recognition Kaggle Competition](https://towardsdatascience.com/diving-into-googles-landmark-recognition-kaggle-competition-6975dbe11072)
+  * [A Gentle Guide to Starting Your NLP Project with AllenNLP](https://towardsdatascience.com/allennlp-startup-guide-24ffd773cd5b)
+  * [Machine learning for anomaly detection and condition monitoring](https://towardsdatascience.com/machine-learning-for-anomaly-detection-and-condition-monitoring-d4614e7de770)
+  * [Introducing TF.Text](https://medium.com/tensorflow/introducing-tf-text-438c8552bd5e)
+  * [BERT Classifier: Just Another Pytorch Model](https://towardsdatascience.com/bert-classifier-just-another-pytorch-model-881b3cf05784)
+  * [ktrain: A Lightweight Wrapper for Keras to Help Train Neural Networks](https://towardsdatascience.com/ktrain-a-lightweight-wrapper-for-keras-to-help-train-neural-networks-82851ba889c)
+  * [Creating neural time series models with Gluon Time Series](https://aws.amazon.com/blogs/machine-learning/creating-neural-time-series-models-with-gluon-time-series/)
+  * [How to detect anomalies in Audio Signal Processing of the heart with sound coming from mobile phone](https://medium.com/@luigi.bungaro/how-to-detect-anomalies-in-audio-signal-processing-of-the-heart-with-sound-coming-from-mobile-e034e8fd709b)
+  * [Categorizing Listing Photos at Airbnb](https://medium.com/airbnb-engineering/categorizing-listing-photos-at-airbnb-f9483f3ab7e3)
+  * [Train TensorFlow models on YARN in just a few lines of code!](https://medium.com/criteo-labs/train-tensorflow-models-on-yarn-in-just-a-few-lines-of-code-ba0f354f38e3)
+  * [Finding similar images using Deep learning and Locality Sensitive Hashing](https://towardsdatascience.com/finding-similar-images-using-deep-learning-and-locality-sensitive-hashing-9528afee02f5)
+  * [A glance into competitive data science: the best practices for computer vision](https://towardsdatascience.com/a-glance-into-competitive-data-science-the-best-practices-for-computer-vision-2c77c5d98d19)
+  * [Using Fastai for Image Classification](https://towardsdatascience.com/using-fastai-for-image-classification-54d2b39511ce)
+  * [A Simple Guide On Using BERT for Binary Text Classification.](https://medium.com/swlh/a-simple-guide-on-using-bert-for-text-classification-bbf041ac8d04)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1178,6 +1194,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [OS 모바일에서 한글 손글씨 인식하기[with Keras]](https://www.slideshare.net/MijeongJeon1/ios-with-keras)
   * [Designing more efficient convolution neural network](https://www.slideshare.net/ssuser6135a1/designing-more-efficient-convolution-neural-network)
   * [Sequence to Sequence Learning with Neural Networks](https://www.slideshare.net/HoonHeo5/sequence-to-sequence-learning-with-neural-networks-148127767)
+  * [Attention is all you need](https://www.slideshare.net/HoonHeo5/attention-is-all-you-need-149821223)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -1328,6 +1345,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Transformer Encoder with Char information for text classification](https://github.com/MSWon/Transformer-Encoder-with-Char)
   * [Natural_language_Processing_self_study](https://github.com/hskimim/nlp_tutorial)
   * [Deep Learning Models](https://github.com/rasbt/deeplearning-models)
+  * [Repo with all Project types including: "Stanford Cars, road to 90%+"](https://github.com/morganmcg1/Projects)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -2156,6 +2174,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [[이유한님] 캐글 코리아 캐글 스터디 커널 커리큘럼](https://kaggle-kr.tistory.com/32)
 * [Gaussian Mixture Models Explained](https://towardsdatascience.com/gaussian-mixture-models-explained-6986aaf5a95)
 * [Intro to Feature Selection Methods for Data Science](https://towardsdatascience.com/intro-to-feature-selection-methods-for-data-science-4cae2178a00a)
+* [Normalization vs Standardization — Quantitative analysis](https://towardsdatascience.com/normalization-vs-standardization-quantitative-analysis-a91e8a79cebf)
+* [머신러닝 - 수식 없이 이해하는 Gaussian Mixture Model \(GMM\)](https://3months.tistory.com/154)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2528,6 +2548,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Plotnine replication of Financial Times Visual Vocabulary; Inspired by Vega](https://github.com/cstorm125/viztech)
 * [Panel: A high-level app and dashboarding solution for the PyData ecosystem.](https://medium.com/@philipp.jfr/panel-announcement-2107c2b15f52)
 * [그들이 AWS 위에서 데이터 파이프 라인을 운영하는 법](https://docs.google.com/presentation/d/11C_BKio0DZIop_ZjJk7ogxQtWV5qHIr-hHjw277z64k/)
+* [판다스 코드 속도 최적화를 위한 초보자 안내서](https://aldente0630.github.io/data-science/2018/08/05/a-beginners-guide-to-optimizing-pandas-code-for-speed.html)
+* [확률 분포 튜토리얼](https://brunch.co.kr/@chris-song/90)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -2824,6 +2846,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Solving Cold User problem for Recommendation system using Multi-Armed Bandit](https://towardsdatascience.com/solving-cold-user-problem-for-recommendation-system-using-multi-armed-bandit-d36e42fe8d44)
 * [Interpretable Recommender System 개발 사례연구, NDC 2019](https://www.slideshare.net/ssuser593481/ndc19interpretable-recommender-system-ndc2019)
 * [Introduction to recommender systems](https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada)
+* [Make your own Recommendation System](https://towardsdatascience.com/make-your-own-recommendation-system-b596d847296d)
+* [Build Your Own Clustering Based Recommendation Engine in 15 minutes !!](https://towardsdatascience.com/build-your-own-clustering-based-recommendation-engine-in-15-minutes-bdddd591d394)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
