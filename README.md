@@ -1053,6 +1053,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [A glance into competitive data science: the best practices for computer vision](https://towardsdatascience.com/a-glance-into-competitive-data-science-the-best-practices-for-computer-vision-2c77c5d98d19)
   * [Using Fastai for Image Classification](https://towardsdatascience.com/using-fastai-for-image-classification-54d2b39511ce)
   * [A Simple Guide On Using BERT for Binary Text Classification.](https://medium.com/swlh/a-simple-guide-on-using-bert-for-text-classification-bbf041ac8d04)
+  * [Test Time Augmentation \(TTA\) and how to perform it with Keras](https://towardsdatascience.com/test-time-augmentation-tta-and-how-to-perform-it-with-keras-4ac19b67fb4d)
+  * [A fastai/Pytorch implementation of MixMatch](https://towardsdatascience.com/a-fastai-pytorch-implementation-of-mixmatch-314bb30d0f99)
+  * [PyTorch Hub 톺아보기](https://jybaek.tistory.com/813)
+  * [Data Augmentation by fastai v1](https://medium.com/@pierre_guillou/data-augmentation-by-fastai-v1-84ca04bea302)
+  * [How do Transformers Work in NLP? A Guide to the Latest State-of-the-Art Models](https://medium.com/analytics-vidhya/how-do-transformers-work-in-nlp-a-guide-to-the-latest-state-of-the-art-models-52424082c132)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1195,6 +1200,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Designing more efficient convolution neural network](https://www.slideshare.net/ssuser6135a1/designing-more-efficient-convolution-neural-network)
   * [Sequence to Sequence Learning with Neural Networks](https://www.slideshare.net/HoonHeo5/sequence-to-sequence-learning-with-neural-networks-148127767)
   * [Attention is all you need](https://www.slideshare.net/HoonHeo5/attention-is-all-you-need-149821223)
+  * [Efficient Training of Bert by Progressively Stacking](https://www.slideshare.net/HoonHeo5/efficient-training-of-bert-by-progressively-stacking)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -1346,6 +1352,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Natural_language_Processing_self_study](https://github.com/hskimim/nlp_tutorial)
   * [Deep Learning Models](https://github.com/rasbt/deeplearning-models)
   * [Repo with all Project types including: "Stanford Cars, road to 90%+"](https://github.com/morganmcg1/Projects)
+  * [Source code for "Efficient Training of BERT by Progressively Stacking"](https://github.com/gonglinyuan/StackingBERT)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -2176,6 +2183,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Intro to Feature Selection Methods for Data Science](https://towardsdatascience.com/intro-to-feature-selection-methods-for-data-science-4cae2178a00a)
 * [Normalization vs Standardization — Quantitative analysis](https://towardsdatascience.com/normalization-vs-standardization-quantitative-analysis-a91e8a79cebf)
 * [머신러닝 - 수식 없이 이해하는 Gaussian Mixture Model \(GMM\)](https://3months.tistory.com/154)
+* [Kaggle script build system template](https://github.com/lopuhin/kaggle-script-template)
+* [A curated list of applied machine learning and data science notebooks and libraries across different industries.](https://github.com/firmai/industry-machine-learning)
+* [Fast auc roc computation](https://www.kaggle.com/c/microsoft-malware-prediction/discussion/76013)
+* [End-to-End Time Series Interpolation in PySpark — Filling the Gap](https://towardsdatascience.com/end-to-end-time-series-interpolation-in-pyspark-filling-the-gap-5ccefc6b7fc9)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
