@@ -1354,6 +1354,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deep Learning Models](https://github.com/rasbt/deeplearning-models)
   * [Repo with all Project types including: "Stanford Cars, road to 90%+"](https://github.com/morganmcg1/Projects)
   * [Source code for "Efficient Training of BERT by Progressively Stacking"](https://github.com/gonglinyuan/StackingBERT)
+  * [Stanford Cars Classification using keras and fastai](https://github.com/sidml/Stanford-Cars-Classification)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
