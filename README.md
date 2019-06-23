@@ -1058,6 +1058,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [PyTorch Hub 톺아보기](https://jybaek.tistory.com/813)
   * [Data Augmentation by fastai v1](https://medium.com/@pierre_guillou/data-augmentation-by-fastai-v1-84ca04bea302)
   * [How do Transformers Work in NLP? A Guide to the Latest State-of-the-Art Models](https://medium.com/analytics-vidhya/how-do-transformers-work-in-nlp-a-guide-to-the-latest-state-of-the-art-models-52424082c132)
+  * [Simple Multiclass Image Classification with Keras](https://mlai.iptek.web.id/2018/07/01/simple-multiclass-image-classification-with-keras/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
