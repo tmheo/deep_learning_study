@@ -1059,6 +1059,17 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Data Augmentation by fastai v1](https://medium.com/@pierre_guillou/data-augmentation-by-fastai-v1-84ca04bea302)
   * [How do Transformers Work in NLP? A Guide to the Latest State-of-the-Art Models](https://medium.com/analytics-vidhya/how-do-transformers-work-in-nlp-a-guide-to-the-latest-state-of-the-art-models-52424082c132)
   * [Simple Multiclass Image Classification with Keras](https://mlai.iptek.web.id/2018/07/01/simple-multiclass-image-classification-with-keras/)
+  * [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context\(19.06.23\)](https://www.notion.so/62ecd6bfb61b47d1aa3e3a3c91fe2bae)
+  * [XLNet: Generalized Autoregressive Pretraining for Language Understanding\(19.06.25\)](https://www.notion.so/f4b608f11dfc4c8c8eb4c504f867d4aa)
+  * [1st Place Solution for Intel Scene Classification Challenge](https://towardsdatascience.com/1st-place-solution-for-intel-scene-classification-challenge-c95cf941f8ed)
+  * [A Keras Pipeline for Image Segmentation](https://towardsdatascience.com/a-keras-pipeline-for-image-segmentation-part-1-6515a421157d)
+  * [XLNet outperforms BERT on several NLP Tasks](https://medium.com/dair-ai/xlnet-outperforms-bert-on-several-nlp-tasks-9ec867bb563b)
+  * [How to Use Test-Time Augmentation to Improve Model Performance for Image Classification](https://machinelearningmastery.com/how-to-use-test-time-augmentation-to-improve-model-performance-for-image-classification/)
+  * [https://nbviewer.jupyter.org/github/metamath1/ml-simple-works/blob/master/BP/bp.ipynb](https://nbviewer.jupyter.org/github/metamath1/ml-simple-works/blob/master/BP/bp.ipynb)
+  * [Building State-of-the-Art Language Models with BERT](https://medium.com/saarthi-ai/bert-how-to-build-state-of-the-art-language-models-59dddfa9ac5d)
+  * [Adapters: A Compact and Extensible Transfer Learning Method for NLP](https://medium.com/dair-ai/adapters-a-compact-and-extensible-transfer-learning-method-for-nlp-6d18c2399f62)
+  * [1000x Faster Data Augmentation](https://towardsdatascience.com/1000x-faster-data-augmentation-b91bafee896c)
+  * [Dress Segmentation with Autoencoder in Keras](https://towardsdatascience.com/dress-segmentation-with-autoencoder-in-keras-497cf1fd169a)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1202,6 +1213,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Sequence to Sequence Learning with Neural Networks](https://www.slideshare.net/HoonHeo5/sequence-to-sequence-learning-with-neural-networks-148127767)
   * [Attention is all you need](https://www.slideshare.net/HoonHeo5/attention-is-all-you-need-149821223)
   * [Efficient Training of Bert by Progressively Stacking](https://www.slideshare.net/HoonHeo5/efficient-training-of-bert-by-progressively-stacking)
+  * [사이킷런 해부학](https://drive.google.com/file/d/1NKZVDHVYdBCaGrY-Uf5J812p9M-R_Z1y/view)
+  * [Getting Started with TensorFlow 2.0](https://docs.google.com/presentation/d/1SC1kPpcn1fb2UzeBraXrGewloeDNMjScgdiH_bYK5a8/)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -1355,6 +1368,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Repo with all Project types including: "Stanford Cars, road to 90%+"](https://github.com/morganmcg1/Projects)
   * [Source code for "Efficient Training of BERT by Progressively Stacking"](https://github.com/gonglinyuan/StackingBERT)
   * [Stanford Cars Classification using keras and fastai](https://github.com/sidml/Stanford-Cars-Classification)
+  * [How to serve pretrained models using Clipper](https://github.com/withsmilo/How-to-serve-pretrained-models-using-Clipper)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -1568,6 +1582,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [On Choosing a Deep Reinforcement Learning Library](https://medium.com/data-from-the-trenches/choosing-a-deep-reinforcement-learning-library-890fb0307092)
 * [Learning to play snake at 1 million FPS](https://towardsdatascience.com/learning-to-play-snake-at-1-million-fps-4aae8d36d2f1)
 * [Implementations of basic RL algorithms with minimal lines of codes! \(pytorch based\)](https://github.com/seungeunrho/minimalRL)
+* [Explainable Deep Reinforcement Learning](https://docs.google.com/presentation/d/1_toSHyF6O9m3AFbhDVNA5hjOwGQSZ2ZZmnQH5OMG0lg/)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -2189,6 +2204,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [A curated list of applied machine learning and data science notebooks and libraries across different industries.](https://github.com/firmai/industry-machine-learning)
 * [Fast auc roc computation](https://www.kaggle.com/c/microsoft-malware-prediction/discussion/76013)
 * [End-to-End Time Series Interpolation in PySpark — Filling the Gap](https://towardsdatascience.com/end-to-end-time-series-interpolation-in-pyspark-filling-the-gap-5ccefc6b7fc9)
+* [Deep Dive into Catboost Functionalities for Model Interpretation](https://towardsdatascience.com/deep-dive-into-catboost-functionalities-for-model-interpretation-7cdef669aeed)
+* [Amazon SageMaker Ground Truth: Using A Pre-Trained Model for Faster Data Labeling](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ground-truth-using-a-pre-trained-model-for-faster-data-labeling/)
+* [Recall, Precision, F1, ROC, AUC, and everything](https://medium.com/swlh/recall-precision-f1-roc-auc-and-everything-542aedf322b9)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2563,6 +2581,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [그들이 AWS 위에서 데이터 파이프 라인을 운영하는 법](https://docs.google.com/presentation/d/11C_BKio0DZIop_ZjJk7ogxQtWV5qHIr-hHjw277z64k/)
 * [판다스 코드 속도 최적화를 위한 초보자 안내서](https://aldente0630.github.io/data-science/2018/08/05/a-beginners-guide-to-optimizing-pandas-code-for-speed.html)
 * [확률 분포 튜토리얼](https://brunch.co.kr/@chris-song/90)
+* [Hypothesis Testing with Numpy](https://medium.com/@mathanrajsharma/hypothesis-testing-with-numpy-271c185e8cf0)
+* [Data visualization in Python like in R’s ggplot2](https://medium.com/@gscheithauer/data-visualization-in-python-like-in-rs-ggplot2-bc62f8debbf5)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
