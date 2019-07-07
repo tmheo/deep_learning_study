@@ -1061,6 +1061,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Simple Multiclass Image Classification with Keras](https://mlai.iptek.web.id/2018/07/01/simple-multiclass-image-classification-with-keras/)
   * [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context\(19.06.23\)](https://www.notion.so/62ecd6bfb61b47d1aa3e3a3c91fe2bae)
   * [XLNet: Generalized Autoregressive Pretraining for Language Understanding\(19.06.25\)](https://www.notion.so/f4b608f11dfc4c8c8eb4c504f867d4aa)
+  * [실제 코드로 보는 XLNet \(Code Review\)](https://www.notion.so/4aca62fa1ffe4e3483b69cbc09f0a066)
   * [1st Place Solution for Intel Scene Classification Challenge](https://towardsdatascience.com/1st-place-solution-for-intel-scene-classification-challenge-c95cf941f8ed)
   * [A Keras Pipeline for Image Segmentation](https://towardsdatascience.com/a-keras-pipeline-for-image-segmentation-part-1-6515a421157d)
   * [XLNet outperforms BERT on several NLP Tasks](https://medium.com/dair-ai/xlnet-outperforms-bert-on-several-nlp-tasks-9ec867bb563b)
@@ -1070,6 +1071,18 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Adapters: A Compact and Extensible Transfer Learning Method for NLP](https://medium.com/dair-ai/adapters-a-compact-and-extensible-transfer-learning-method-for-nlp-6d18c2399f62)
   * [1000x Faster Data Augmentation](https://towardsdatascience.com/1000x-faster-data-augmentation-b91bafee896c)
   * [Dress Segmentation with Autoencoder in Keras](https://towardsdatascience.com/dress-segmentation-with-autoencoder-in-keras-497cf1fd169a)
+  * [Image Segmentation With Test Time Augmentation With Keras](https://www.depends-on-the-definition.com/test-time-augmentation-keras/)
+  * [꼼꼼하고 이해하기 쉬운 XLNet 논문 리뷰](https://blog.pingpong.us/xlnet-review/)
+  * [Uncovering what neural nets “see” with FlashTorch](https://towardsdatascience.com/feature-visualisation-in-pytorch-saliency-maps-a3f99d08f78a)
+  * [Deploying PyTorch inference with MXNet Model Server](https://aws.amazon.com/blogs/machine-learning/deploying-pytorch-inference-with-mxnet-model-server/)
+  * [A Comprehensive State-Of-The-Art Image Recognition Tutorial](https://towardsdatascience.com/a-comprehensive-state-of-the-art-image-recognition-tutorial-c34c544d0b4)
+  * [Microsoft makes AI debugging and visualization tool TensorWatch open source](https://www.microsoft.com/en-us/research/blog/microsoft-makes-ai-debugging-and-visualization-tool-tensorwatch-open-source/)
+  * [Introducing TensorWatch: Microsoft Research New Tool for Debugging Deep Learning Programs](https://towardsdatascience.com/introducing-tensorwatch-microsoft-research-new-tool-for-debugging-deep-learning-programs-9a7f194202b)
+  * [TTA\(test time augmentation\) with 케라스](https://hwiyong.tistory.com/215)
+  * [이제 하이퍼파라미터 튜닝은 케라스 튜너에게 맡기세요](https://docs.google.com/presentation/d/1U6CS0v3cPLrUOJlEsrsNmwVYoYhvNU6QW6_fD9czyZY/)
+  * [딥러닝으로 오디오 만나보기\(이론편\)](https://docs.google.com/presentation/d/18a4EyWXfyHsm9lhMPY1G-dZ9k5AC8s_yaK25Sa2xyj0/)
+  * [딥러닝으로 오디오 만나보기\(실전편\)](https://docs.google.com/presentation/d/1coPBGTMYyHbX7hDV_gNrVgkeQ65kVOnuN4EKq2lsv1o/)
+  * [XLNet — a clever language modeling solution](https://towardsdatascience.com/xlnet-a-clever-language-modeling-solution-ab41e87798b0)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1215,6 +1228,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Efficient Training of Bert by Progressively Stacking](https://www.slideshare.net/HoonHeo5/efficient-training-of-bert-by-progressively-stacking)
   * [사이킷런 해부학](https://drive.google.com/file/d/1NKZVDHVYdBCaGrY-Uf5J812p9M-R_Z1y/view)
   * [Getting Started with TensorFlow 2.0](https://docs.google.com/presentation/d/1SC1kPpcn1fb2UzeBraXrGewloeDNMjScgdiH_bYK5a8/)
+  * [Structuring your first NLP project](https://tykimos.github.io/warehouse/2019-7-4-ISS_2nd_Deep_Learning_Conference_All_Together_aisolab_file.pdf)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -1257,6 +1271,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [빵형의 개발도상국](https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg/videos)
   * [트랜스포머 [어텐션 이즈 올 유 니드]](https://www.youtube.com/watch?v=mxGCEWOxfe8)
   * [Attention \(1\): What is Attention?](https://www.youtube.com/watch?v=CIQ354Y_gOc)
+  * [Learn Natural Language Processing](https://www.youtube.com/watch?v=GazFsfcijXQ)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -1369,6 +1384,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Source code for "Efficient Training of BERT by Progressively Stacking"](https://github.com/gonglinyuan/StackingBERT)
   * [Stanford Cars Classification using keras and fastai](https://github.com/sidml/Stanford-Cars-Classification)
   * [How to serve pretrained models using Clipper](https://github.com/withsmilo/How-to-serve-pretrained-models-using-Clipper)
+  * [Deep learning introduction to beginners with PyTorch](https://github.com/NoelShin/Deep-Learning-Bootcamp-with-PyTorch)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -2207,6 +2223,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Deep Dive into Catboost Functionalities for Model Interpretation](https://towardsdatascience.com/deep-dive-into-catboost-functionalities-for-model-interpretation-7cdef669aeed)
 * [Amazon SageMaker Ground Truth: Using A Pre-Trained Model for Faster Data Labeling](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ground-truth-using-a-pre-trained-model-for-faster-data-labeling/)
 * [Recall, Precision, F1, ROC, AUC, and everything](https://medium.com/swlh/recall-precision-f1-roc-auc-and-everything-542aedf322b9)
+* [Associating prediction results with input data using Amazon SageMaker Batch Transform](https://aws.amazon.com/blogs/machine-learning/associating-prediction-results-with-input-data-using-amazon-sagemaker-batch-transform/)
+* [How To Use Active Learning To Iteratively Improve Your Machine Learning Models](https://medium.com/towards-artificial-intelligence/how-to-use-active-learning-to-iteratively-improve-your-machine-learning-models-1c6164bdab99)
+* [Softmax Activation Function](https://medium.com/@mathanrajsharma/softmax-activation-function-e582ea53ada7)
+* [Label Smoothing: Making model robust to incorrect labels](https://towardsdatascience.com/label-smoothing-making-model-robust-to-incorrect-labels-2fae037ffbd0)
+* [I’m Kaggler, Why need kaggle?](https://drive.google.com/file/d/1gD4at3qB_dZtbEzqhZMeFHsTBQN_fbB1/view)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2583,6 +2604,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [확률 분포 튜토리얼](https://brunch.co.kr/@chris-song/90)
 * [Hypothesis Testing with Numpy](https://medium.com/@mathanrajsharma/hypothesis-testing-with-numpy-271c185e8cf0)
 * [Data visualization in Python like in R’s ggplot2](https://medium.com/@gscheithauer/data-visualization-in-python-like-in-rs-ggplot2-bc62f8debbf5)
+* [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)
+* [Introducing kepler.gl for Jupyter](https://medium.com/vis-gl/introducing-kepler-gl-for-jupyter-f72d41659fbf)
+* [JupyterLab — A Next Gen Python Data Science IDE](https://towardsdatascience.com/jupyterlab-a-next-gen-python-data-science-ide-562d216b023d)
+* [Google Colab TPU 알아보기](https://drive.google.com/file/d/1hP0d65SOTMNWL0hKj0Ss1FgYjh_sdbok/view) : [[Code]](https://github.com/taejjing/cloud_tpu_example)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -2881,6 +2906,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Introduction to recommender systems](https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada)
 * [Make your own Recommendation System](https://towardsdatascience.com/make-your-own-recommendation-system-b596d847296d)
 * [Build Your Own Clustering Based Recommendation Engine in 15 minutes !!](https://towardsdatascience.com/build-your-own-clustering-based-recommendation-engine-in-15-minutes-bdddd591d394)
+* [Deep Learning Recommendation Model for Personalization and Recommendation Systems](https://github.com/facebookresearch/dlrm)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
