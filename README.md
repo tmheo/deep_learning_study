@@ -1083,6 +1083,15 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [딥러닝으로 오디오 만나보기\(이론편\)](https://docs.google.com/presentation/d/18a4EyWXfyHsm9lhMPY1G-dZ9k5AC8s_yaK25Sa2xyj0/)
   * [딥러닝으로 오디오 만나보기\(실전편\)](https://docs.google.com/presentation/d/1coPBGTMYyHbX7hDV_gNrVgkeQ65kVOnuN4EKq2lsv1o/)
   * [XLNet — a clever language modeling solution](https://towardsdatascience.com/xlnet-a-clever-language-modeling-solution-ab41e87798b0)
+  * [Gaining insights on transfer learning with FlashTorch](https://towardsdatascience.com/gaining-insights-on-transfer-learning-with-flashtorch-de344df0f410)
+  * [카톡 데이터는 어떻게 정제할 수 있을까? - Dialog-BERT 만들기 1편](https://blog.pingpong.us/dialog-bert-1/)
+  * [Introducing MASS – A pre-training method that outperforms BERT and GPT in sequence to sequence language generation tasks](https://www.microsoft.com/en-us/research/blog/introducing-mass-a-pre-training-method-that-outperforms-bert-and-gpt-in-sequence-to-sequence-language-generation-tasks/)
+  * [How a simple mix of object-oriented programming can sharpen your deep learning prototype](https://towardsdatascience.com/how-a-simple-mix-of-object-oriented-programming-can-sharpen-your-deep-learning-prototype-19893bd969bd)
+  * [Bring your own deep learning framework to Amazon SageMaker with Model Server for Apache MXNet](https://aws.amazon.com/ko/blogs/machine-learning/bring-your-own-deep-learning-framework-to-amazon-sagemaker-with-model-server-for-apache-mxnet/)
+  * [Generative Adversarial Networks - The Story So Far](https://blog.floydhub.com/gans-story-so-far/)
+  * [Why default CNN are broken in Keras and how to fix them](https://towardsdatascience.com/why-default-cnn-are-broken-in-keras-and-how-to-fix-them-ce295e5e5f2)
+  * [Attention Is All You Need — Transformer](https://medium.com/towards-artificial-intelligence/attention-is-all-you-need-transformer-4c34aa78308f)
+  * [Deep Learning for Diagnosis of Skin Images with fastai](https://towardsdatascience.com/deep-learning-for-diagnosis-of-skin-images-with-fastai-792160ab5495)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1385,6 +1394,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Stanford Cars Classification using keras and fastai](https://github.com/sidml/Stanford-Cars-Classification)
   * [How to serve pretrained models using Clipper](https://github.com/withsmilo/How-to-serve-pretrained-models-using-Clipper)
   * [Deep learning introduction to beginners with PyTorch](https://github.com/NoelShin/Deep-Learning-Bootcamp-with-PyTorch)
+  * [OpenNMT Colab Tutorial Pytorch && Tensorflow](https://github.com/Parkchanjun/OpenNMT-Colab-Tutorial)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -1599,6 +1609,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Learning to play snake at 1 million FPS](https://towardsdatascience.com/learning-to-play-snake-at-1-million-fps-4aae8d36d2f1)
 * [Implementations of basic RL algorithms with minimal lines of codes! \(pytorch based\)](https://github.com/seungeunrho/minimalRL)
 * [Explainable Deep Reinforcement Learning](https://docs.google.com/presentation/d/1_toSHyF6O9m3AFbhDVNA5hjOwGQSZ2ZZmnQH5OMG0lg/)
+* [강화학습 해부학 교실: Rainbow 이론부터 구현까지 \(2nd dlcat in Daejeon\)](https://www.slideshare.net/KyunghwanKim27/rainbow-2nd-dlcat-in-daejeon)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -2228,6 +2239,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Softmax Activation Function](https://medium.com/@mathanrajsharma/softmax-activation-function-e582ea53ada7)
 * [Label Smoothing: Making model robust to incorrect labels](https://towardsdatascience.com/label-smoothing-making-model-robust-to-incorrect-labels-2fae037ffbd0)
 * [I’m Kaggler, Why need kaggle?](https://drive.google.com/file/d/1gD4at3qB_dZtbEzqhZMeFHsTBQN_fbB1/view)
+* [Financial data modeling with RAPIDS.](https://medium.com/rapids-ai/financial-data-modeling-with-rapids-5bca466f348)
+* [How to visualize decision trees](https://explained.ai/decision-tree-viz/index.html)
+* [Getting Deeper into Categorical Encodings for Machine Learning](https://towardsdatascience.com/getting-deeper-into-categorical-encodings-for-machine-learning-2312acd347c8)
+* [Opening Black Boxes: How to leverage Explainable Machine Learning](https://towardsdatascience.com/opening-black-boxes-how-to-leverage-explainable-machine-learning-dd4ab439998e)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2608,6 +2623,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Introducing kepler.gl for Jupyter](https://medium.com/vis-gl/introducing-kepler-gl-for-jupyter-f72d41659fbf)
 * [JupyterLab — A Next Gen Python Data Science IDE](https://towardsdatascience.com/jupyterlab-a-next-gen-python-data-science-ide-562d216b023d)
 * [Google Colab TPU 알아보기](https://drive.google.com/file/d/1hP0d65SOTMNWL0hKj0Ss1FgYjh_sdbok/view) : [[Code]](https://github.com/taejjing/cloud_tpu_example)
+* [Handy Data Visualization Functions in matplotlib & Seaborn to Speed Up Your EDA](https://medium.com/better-programming/handy-data-visualization-functions-in-matplotlib-seaborn-to-speed-up-your-eda-241ba0a9c47d)
+* [Using DVC to create an efficient version control system for data projects](https://medium.com/qonto-engineering/using-dvc-to-create-an-efficient-version-control-system-for-data-projects-96efd94355fe)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
