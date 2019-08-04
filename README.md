@@ -125,6 +125,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [한권으로 끝내는 파이썬 & 딥러닝](https://sdc-james.gitbook.io/onebook/)
   * [2019 딥러닝 홀로서기 세미나](https://github.com/heartcored98/Standalone-DeepLearning)
   * [Handbooks and Code Samples for Software Engineers wanting to learn the Keras Machine Learning framework](https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer)
+  * [딥러닝 입문에서 활용까지 케라스\(Keras\)](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=161)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -1092,6 +1093,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Why default CNN are broken in Keras and how to fix them](https://towardsdatascience.com/why-default-cnn-are-broken-in-keras-and-how-to-fix-them-ce295e5e5f2)
   * [Attention Is All You Need — Transformer](https://medium.com/towards-artificial-intelligence/attention-is-all-you-need-transformer-4c34aa78308f)
   * [Deep Learning for Diagnosis of Skin Images with fastai](https://towardsdatascience.com/deep-learning-for-diagnosis-of-skin-images-with-fastai-792160ab5495)
+  * [Advanced image classification - In Class Kaggle challenge](https://olaralex.com/advanced-image-classification/)
+  * [Data Exploration with Adversarial Autoencoders](https://towardsdatascience.com/data-exploration-with-adversarial-autoencoders-311a4e1f271b)
+  * [Illustrated: 10 CNN Architectures](https://towardsdatascience.com/illustrated-10-cnn-architectures-95d78ace614d)
+  * [Deep CARs— Transfer Learning With Pytorch](https://towardsdatascience.com/deep-cars-transfer-learning-with-pytorch-3e7541212e85)
+  * [spaCy meets PyTorch-Transformers: Fine-tune BERT, XLNet and GPT-2](https://explosion.ai/blog/spacy-pytorch-transformers)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1238,6 +1244,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [사이킷런 해부학](https://drive.google.com/file/d/1NKZVDHVYdBCaGrY-Uf5J812p9M-R_Z1y/view)
   * [Getting Started with TensorFlow 2.0](https://docs.google.com/presentation/d/1SC1kPpcn1fb2UzeBraXrGewloeDNMjScgdiH_bYK5a8/)
   * [Structuring your first NLP project](https://tykimos.github.io/warehouse/2019-7-4-ISS_2nd_Deep_Learning_Conference_All_Together_aisolab_file.pdf)
+  * [A Simple Explanation of XLNet](https://www.slideshare.net/DomyoungLee/a-simple-explanation-of-xlnet)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -1395,6 +1402,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [How to serve pretrained models using Clipper](https://github.com/withsmilo/How-to-serve-pretrained-models-using-Clipper)
   * [Deep learning introduction to beginners with PyTorch](https://github.com/NoelShin/Deep-Learning-Bootcamp-with-PyTorch)
   * [OpenNMT Colab Tutorial Pytorch && Tensorflow](https://github.com/Parkchanjun/OpenNMT-Colab-Tutorial)
+  * [Keras Optimizer with Gradient Accumulation](https://github.com/bojone/accum_optimizer_for_keras)
+  * [Codes used on AI Starthon 2019. 1st place in total.](https://github.com/ildoonet/ai-starthon-2019)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -2243,6 +2252,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [How to visualize decision trees](https://explained.ai/decision-tree-viz/index.html)
 * [Getting Deeper into Categorical Encodings for Machine Learning](https://towardsdatascience.com/getting-deeper-into-categorical-encodings-for-machine-learning-2312acd347c8)
 * [Opening Black Boxes: How to leverage Explainable Machine Learning](https://towardsdatascience.com/opening-black-boxes-how-to-leverage-explainable-machine-learning-dd4ab439998e)
+* [Log Book — Guide to Distance Measuring Approaches for K- Means Clustering](https://towardsdatascience.com/log-book-guide-to-distance-measuring-approaches-for-k-means-clustering-f137807e8e21)
+* [Cluster Analysis: Create, Visualize and Interpret Customer Segments](https://towardsdatascience.com/cluster-analysis-create-visualize-and-interpret-customer-segments-474e55d00ebb)
+* [The 5 Feature Selection Algorithms every Data Scientist should know](https://towardsdatascience.com/the-5-feature-selection-algorithms-every-data-scientist-need-to-know-3a6b566efd2)
+* [How to Build First CC Fraud Model using CatBoost](https://towardsdatascience.com/how-to-build-first-cc-fraud-model-using-catboost-d2a322e05304)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2924,6 +2937,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Make your own Recommendation System](https://towardsdatascience.com/make-your-own-recommendation-system-b596d847296d)
 * [Build Your Own Clustering Based Recommendation Engine in 15 minutes !!](https://towardsdatascience.com/build-your-own-clustering-based-recommendation-engine-in-15-minutes-bdddd591d394)
 * [Deep Learning Recommendation Model for Personalization and Recommendation Systems](https://github.com/facebookresearch/dlrm)
+* [Using Deep Neural Networks to make YouTube Recommendations](https://towardsdatascience.com/using-deep-neural-networks-to-make-youtube-recommendations-dfc0a1a13d1e)
+* [2 years of Developing Personalized Real-Time Recommendation Service Based on Machine Learning](http://withsmilo.github.io/python/2019/07/24/2_years_of_developing_personalized_real_time_recommendation_service_based_on_machine_learning/)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
