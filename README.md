@@ -1086,6 +1086,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [XLNet — a clever language modeling solution](https://towardsdatascience.com/xlnet-a-clever-language-modeling-solution-ab41e87798b0)
   * [Gaining insights on transfer learning with FlashTorch](https://towardsdatascience.com/gaining-insights-on-transfer-learning-with-flashtorch-de344df0f410)
   * [카톡 데이터는 어떻게 정제할 수 있을까? - Dialog-BERT 만들기 1편](https://blog.pingpong.us/dialog-bert-1/)
+  * [누가누가 잘하나! 대화체와 합이 잘 맞는 Tokenizer를 찾아보자! - Dialog-BERT 만들기 2편](https://blog.pingpong.us/tokenizer/)
+  * [카톡 대화 데이터를 BERT로 잘 학습시킬 수 있을까? - Dialog-BERT 만들기 3편](https://blog.pingpong.us/dialog-bert-pretrain/)
   * [Introducing MASS – A pre-training method that outperforms BERT and GPT in sequence to sequence language generation tasks](https://www.microsoft.com/en-us/research/blog/introducing-mass-a-pre-training-method-that-outperforms-bert-and-gpt-in-sequence-to-sequence-language-generation-tasks/)
   * [How a simple mix of object-oriented programming can sharpen your deep learning prototype](https://towardsdatascience.com/how-a-simple-mix-of-object-oriented-programming-can-sharpen-your-deep-learning-prototype-19893bd969bd)
   * [Bring your own deep learning framework to Amazon SageMaker with Model Server for Apache MXNet](https://aws.amazon.com/ko/blogs/machine-learning/bring-your-own-deep-learning-framework-to-amazon-sagemaker-with-model-server-for-apache-mxnet/)
@@ -1098,6 +1100,14 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Illustrated: 10 CNN Architectures](https://towardsdatascience.com/illustrated-10-cnn-architectures-95d78ace614d)
   * [Deep CARs— Transfer Learning With Pytorch](https://towardsdatascience.com/deep-cars-transfer-learning-with-pytorch-3e7541212e85)
   * [spaCy meets PyTorch-Transformers: Fine-tune BERT, XLNet and GPT-2](https://explosion.ai/blog/spacy-pytorch-transformers)
+  * [Introducing tf-explain, Interpretability for TensorFlow 2.0](https://blog.sicara.com/tf-explain-interpretability-tensorflow-2-9438b5846e35)
+  * [LSTM-based African Language Classification](https://towardsdatascience.com/lstm-based-african-language-classification-e4f644c0f29e)
+  * [Pytorch Lightning vs PyTorch Ignite vs Fast.ai](https://towardsdatascience.com/pytorch-lightning-vs-pytorch-ignite-vs-fast-ai-61dc7480ad8a)
+  * [Learn how to Build your own Speech-to-Text Model \(using Python\)](https://medium.com/analytics-vidhya/learn-how-to-build-your-own-speech-to-text-model-using-python-cd8a6564e720)
+  * [Understanding Fastai's fit_one_cycle method](https://iconof.com/1cycle-learning-rate-policy/) : [[번역]](https://github.com/jehyunlee/texts/blob/master/1cycle-learning-rate-policy/text.md)
+  * [What’s up with Deep Learning optimizers since Adam?](https://medium.com/vitalify-asia/whats-up-with-deep-learning-optimizers-since-adam-5c1d862b9db0)
+  * [A Newbie’s Guide to Stochastic Gradient Descent With Restarts](https://towardsdatascience.com/https-medium-com-reina-wang-tw-stochastic-gradient-descent-with-restarts-5f511975163)
+  * [BERT 설명 발표 자료](https://banana-media-lab.tistory.com/m/entry/BERT-%EC%84%A4%EB%AA%85-%EB%B0%9C%ED%91%9C-%EC%9E%90%EB%A3%8C)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1404,6 +1414,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [OpenNMT Colab Tutorial Pytorch && Tensorflow](https://github.com/Parkchanjun/OpenNMT-Colab-Tutorial)
   * [Keras Optimizer with Gradient Accumulation](https://github.com/bojone/accum_optimizer_for_keras)
   * [Codes used on AI Starthon 2019. 1st place in total.](https://github.com/ildoonet/ai-starthon-2019)
+  * [Stanford Cars Classification using keras and fastai](https://github.com/sidml/Stanford-Cars-Classification)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -2256,6 +2267,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Cluster Analysis: Create, Visualize and Interpret Customer Segments](https://towardsdatascience.com/cluster-analysis-create-visualize-and-interpret-customer-segments-474e55d00ebb)
 * [The 5 Feature Selection Algorithms every Data Scientist should know](https://towardsdatascience.com/the-5-feature-selection-algorithms-every-data-scientist-need-to-know-3a6b566efd2)
 * [How to Build First CC Fraud Model using CatBoost](https://towardsdatascience.com/how-to-build-first-cc-fraud-model-using-catboost-d2a322e05304)
+* [Feature Engineer Optimization in HyperparameterHunter 3.0](https://towardsdatascience.com/hyperparameter-hunter-feature-engineering-958966818b6e)
+* [머신러닝 실험을 도와줄 Python Sacred 소개](https://zzsza.github.io/mlops/2019/07/21/python-sacred/)
+* [Sacred와 Omniboard를 활용한 실험 및 로그 모니터링](https://zzsza.github.io/mlops/2019/07/22/sacred-with-omniboard/)
+
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2638,6 +2653,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Google Colab TPU 알아보기](https://drive.google.com/file/d/1hP0d65SOTMNWL0hKj0Ss1FgYjh_sdbok/view) : [[Code]](https://github.com/taejjing/cloud_tpu_example)
 * [Handy Data Visualization Functions in matplotlib & Seaborn to Speed Up Your EDA](https://medium.com/better-programming/handy-data-visualization-functions-in-matplotlib-seaborn-to-speed-up-your-eda-241ba0a9c47d)
 * [Using DVC to create an efficient version control system for data projects](https://medium.com/qonto-engineering/using-dvc-to-create-an-efficient-version-control-system-for-data-projects-96efd94355fe)
+* [How I built a spreadsheet app with Python to make data science easier](https://hackernoon.com/introducing-grid-studio-a-spreadsheet-app-with-python-to-make-data-science-easier-tdup38f7)
+* [그들이 AWS 위에서 데이터 파이프라인을 운영하는 법](https://docs.google.com/presentation/d/1_v-f5B67v-hcmEbltLEfjSS5MKKctztdAGZzEHs2DPM/)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
