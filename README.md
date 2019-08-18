@@ -1108,6 +1108,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [What’s up with Deep Learning optimizers since Adam?](https://medium.com/vitalify-asia/whats-up-with-deep-learning-optimizers-since-adam-5c1d862b9db0)
   * [A Newbie’s Guide to Stochastic Gradient Descent With Restarts](https://towardsdatascience.com/https-medium-com-reina-wang-tw-stochastic-gradient-descent-with-restarts-5f511975163)
   * [BERT 설명 발표 자료](https://banana-media-lab.tistory.com/m/entry/BERT-%EC%84%A4%EB%AA%85-%EB%B0%9C%ED%91%9C-%EC%9E%90%EB%A3%8C)
+  * [Training Neural Nets on Larger Batches: Practical Tips for 1-GPU, Multi-GPU & Distributed setups](https://medium.com/huggingface/training-larger-batches-practical-tips-on-1-gpu-multi-gpu-distributed-setups-ec88c3e51255)
+  * [The Illustrated GPT-2 \(Visualizing Transformer Language Models\)](https://jalammar.github.io/illustrated-gpt2/)
+  * [N-Shot Learning: Learning More with Less Data](https://blog.floydhub.com/n-shot-learning/)
+  * [Estimating an Optimal Learning Rate For a Deep Neural Network](https://towardsdatascience.com/estimating-optimal-learning-rate-for-a-deep-neural-network-ce32f2556ce0) : [[번역]](https://github.com/jehyunlee/texts/blob/master/estimating_an_optimal_learning_rate_for_a_deep_neural_network/text.md)
+  * [Interpreting Deep Learning Models for Computer Vision](https://medium.com/google-developer-experts/interpreting-deep-learning-models-for-computer-vision-f95683e23c1d)
+  * [Tensorflow 2.0 Tutorial on Categorical Features Embedding](https://medium.com/analytics-vidhya/tensorflow-2-tutorial-on-categorical-features-embedding-93dd81027ea9)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -2270,6 +2276,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Feature Engineer Optimization in HyperparameterHunter 3.0](https://towardsdatascience.com/hyperparameter-hunter-feature-engineering-958966818b6e)
 * [머신러닝 실험을 도와줄 Python Sacred 소개](https://zzsza.github.io/mlops/2019/07/21/python-sacred/)
 * [Sacred와 Omniboard를 활용한 실험 및 로그 모니터링](https://zzsza.github.io/mlops/2019/07/22/sacred-with-omniboard/)
+* [4 Tips for Advanced Feature Engineering and Preprocessing](https://towardsdatascience.com/4-tips-for-advanced-feature-engineering-and-preprocessing-ec11575c09ea)
+* [Getting started with Text Preprocessing](https://www.kaggle.com/sudalairajkumar/getting-started-with-text-preprocessing)
 
 
 ## Data Science
