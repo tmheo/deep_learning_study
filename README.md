@@ -126,6 +126,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [2019 딥러닝 홀로서기 세미나](https://github.com/heartcored98/Standalone-DeepLearning)
   * [Handbooks and Code Samples for Software Engineers wanting to learn the Keras Machine Learning framework](https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer)
   * [딥러닝 입문에서 활용까지 케라스\(Keras\)](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=161)
+  * [Machine Learning 정리](http://soopsaram.com/ml/)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -1261,6 +1262,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Getting Started with TensorFlow 2.0](https://docs.google.com/presentation/d/1SC1kPpcn1fb2UzeBraXrGewloeDNMjScgdiH_bYK5a8/)
   * [Structuring your first NLP project](https://tykimos.github.io/warehouse/2019-7-4-ISS_2nd_Deep_Learning_Conference_All_Together_aisolab_file.pdf)
   * [A Simple Explanation of XLNet](https://www.slideshare.net/DomyoungLee/a-simple-explanation-of-xlnet)
+  * [PyCon Korea 2019 - 딥러닝 NLP 손쉽게 따라해보기](https://github.com/seujung/gluonnlp_tutorial)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -2663,6 +2665,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Using DVC to create an efficient version control system for data projects](https://medium.com/qonto-engineering/using-dvc-to-create-an-efficient-version-control-system-for-data-projects-96efd94355fe)
 * [How I built a spreadsheet app with Python to make data science easier](https://hackernoon.com/introducing-grid-studio-a-spreadsheet-app-with-python-to-make-data-science-easier-tdup38f7)
 * [그들이 AWS 위에서 데이터 파이프라인을 운영하는 법](https://docs.google.com/presentation/d/1_v-f5B67v-hcmEbltLEfjSS5MKKctztdAGZzEHs2DPM/)
+* [10 Simple hacks to speed up your Data Analysis in Python](https://towardsdatascience.com/10-simple-hacks-to-speed-up-your-data-analysis-in-python-ec18c6396e6b)
+* [2019년 pycon 튜토리얼 \(Python으로 지리공간데이터 다루기\) 실습 파일](https://github.com/rollinstar/gpd_example)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -2964,6 +2968,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Deep Learning Recommendation Model for Personalization and Recommendation Systems](https://github.com/facebookresearch/dlrm)
 * [Using Deep Neural Networks to make YouTube Recommendations](https://towardsdatascience.com/using-deep-neural-networks-to-make-youtube-recommendations-dfc0a1a13d1e)
 * [2 years of Developing Personalized Real-Time Recommendation Service Based on Machine Learning](http://withsmilo.github.io/python/2019/07/24/2_years_of_developing_personalized_real_time_recommendation_service_based_on_machine_learning/)
+* [PyCon Korea 2019 - 추천시스템 이제는 돈이 되어야 한다.](https://www.slideshare.net/ssuser2fe594/ss-164511610)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
