@@ -1115,6 +1115,14 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Estimating an Optimal Learning Rate For a Deep Neural Network](https://towardsdatascience.com/estimating-optimal-learning-rate-for-a-deep-neural-network-ce32f2556ce0) : [[번역]](https://github.com/jehyunlee/texts/blob/master/estimating_an_optimal_learning_rate_for_a_deep_neural_network/text.md)
   * [Interpreting Deep Learning Models for Computer Vision](https://medium.com/google-developer-experts/interpreting-deep-learning-models-for-computer-vision-f95683e23c1d)
   * [Tensorflow 2.0 Tutorial on Categorical Features Embedding](https://medium.com/analytics-vidhya/tensorflow-2-tutorial-on-categorical-features-embedding-93dd81027ea9)
+  * [Deep Learning Performance Cheat Sheet](https://towardsdatascience.com/deep-learning-performance-cheat-sheet-21374b9c4f45)
+  * [UNet](https://towardsdatascience.com/u-net-b229b32b4a71)
+  * [Changing input size of pre-trained models in Keras](https://medium.com/@ckyrkou/changing-input-size-of-pre-trained-models-in-keras-3dfbe3ca3091)
+  * [Road detection using segmentation models and albumentations libraries on Keras](https://towardsdatascience.com/road-detection-using-segmentation-models-and-albumentations-libraries-on-keras-d5434eaf73a8)
+  * [Smaller, faster, cheaper, lighter: Introducing DistilBERT, a distilled version of BERT](https://medium.com/huggingface/distilbert-8cf3380435b5)
+  * [DCGANs — Generating Dog Images with Tensorflow and Keras](https://towardsdatascience.com/dcgans-generating-dog-images-with-tensorflow-and-keras-fb51a1071432)
+  * [Vanilla VQA](https://medium.com/ai2-blog/vanilla-vqa-adcaaaa94336)
+  * [Fast data augmentation in PyTorch using Nvidia DALI](https://towardsdatascience.com/fast-data-augmentation-in-pytorch-using-nvidia-dali-68f5432e1f5f)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -2280,6 +2288,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Sacred와 Omniboard를 활용한 실험 및 로그 모니터링](https://zzsza.github.io/mlops/2019/07/22/sacred-with-omniboard/)
 * [4 Tips for Advanced Feature Engineering and Preprocessing](https://towardsdatascience.com/4-tips-for-advanced-feature-engineering-and-preprocessing-ec11575c09ea)
 * [Getting started with Text Preprocessing](https://www.kaggle.com/sudalairajkumar/getting-started-with-text-preprocessing)
+* [Interpretable Machine Learning 개요: \(1\) 머신러닝 모델에 대한 해석력 확보를 위한 방법](http://research.sualab.com/introduction/2019/08/30/interpretable-machine-learning-overview-1.html)
 
 
 ## Data Science
@@ -2667,6 +2676,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [그들이 AWS 위에서 데이터 파이프라인을 운영하는 법](https://docs.google.com/presentation/d/1_v-f5B67v-hcmEbltLEfjSS5MKKctztdAGZzEHs2DPM/)
 * [10 Simple hacks to speed up your Data Analysis in Python](https://towardsdatascience.com/10-simple-hacks-to-speed-up-your-data-analysis-in-python-ec18c6396e6b)
 * [2019년 pycon 튜토리얼 \(Python으로 지리공간데이터 다루기\) 실습 파일](https://github.com/rollinstar/gpd_example)
+* [Guest Blog: How Virgin Hyperloop One reduced processing time from hours to minutes with Koalas](https://databricks.com/blog/2019/08/22/guest-blog-how-virgin-hyperloop-one-reduced-processing-time-from-hours-to-minutes-with-koalas.html)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -2969,6 +2979,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Using Deep Neural Networks to make YouTube Recommendations](https://towardsdatascience.com/using-deep-neural-networks-to-make-youtube-recommendations-dfc0a1a13d1e)
 * [2 years of Developing Personalized Real-Time Recommendation Service Based on Machine Learning](http://withsmilo.github.io/python/2019/07/24/2_years_of_developing_personalized_real_time_recommendation_service_based_on_machine_learning/)
 * [PyCon Korea 2019 - 추천시스템 이제는 돈이 되어야 한다.](https://www.slideshare.net/ssuser2fe594/ss-164511610)
+* [글쓰기 화면에서 카테고리 자동 추천하는 모델 만들기](https://medium.com/daangn/%EA%B8%80%EC%93%B0%EA%B8%B0-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC-%EC%B6%94%EC%B2%9C%EB%AA%A8%EB%8D%B8-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-cbbcc43e1f7f)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
