@@ -1123,6 +1123,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [DCGANs — Generating Dog Images with Tensorflow and Keras](https://towardsdatascience.com/dcgans-generating-dog-images-with-tensorflow-and-keras-fb51a1071432)
   * [Vanilla VQA](https://medium.com/ai2-blog/vanilla-vqa-adcaaaa94336)
   * [Fast data augmentation in PyTorch using Nvidia DALI](https://towardsdatascience.com/fast-data-augmentation-in-pytorch-using-nvidia-dali-68f5432e1f5f)
+  * [Introduction to Deep Learning Normalization](https://subinium.github.io/introduction-to-normalization/)
+  * [How to apply data augmentation to deal with unbalanced datasets in 20 lines of code](https://medium.com/analytics-vidhya/how-to-apply-data-augmentation-to-deal-with-unbalanced-datasets-in-20-lines-of-code-ada8521320c9)
+  * [If you know SQL, you probably understand Transformer, BERT and GPT.](https://towardsdatascience.com/if-you-know-sql-you-probably-understand-transformer-bert-and-gpt-7b197cb48d24)
+  * [Introducing Neural Structured Learning in TensorFlow](https://medium.com/tensorflow/introducing-neural-structured-learning-in-tensorflow-5a802efd7afd)
+  * [CelebA Attribute Prediction and Clustering with Keras](https://towardsdatascience.com/celeba-attribute-prediction-and-clustering-with-keras-3d148063098d)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -2289,7 +2294,16 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [4 Tips for Advanced Feature Engineering and Preprocessing](https://towardsdatascience.com/4-tips-for-advanced-feature-engineering-and-preprocessing-ec11575c09ea)
 * [Getting started with Text Preprocessing](https://www.kaggle.com/sudalairajkumar/getting-started-with-text-preprocessing)
 * [Interpretable Machine Learning 개요: \(1\) 머신러닝 모델에 대한 해석력 확보를 위한 방법](http://research.sualab.com/introduction/2019/08/30/interpretable-machine-learning-overview-1.html)
-
+* [A story of my first gold medal in one Kaggle competition: things done and lessons learned](https://towardsdatascience.com/a-story-of-my-first-gold-medal-in-one-kaggle-competition-things-done-and-lessons-learned-c269d9c233d1)
+* [XGBoost 정리](https://eagle705.github.io/cslog/2018/06/12/XGBoost-%EC%A0%95%EB%A6%AC/)
+* [XGBoost 사용시 GPU 가속하기](http://www.kwangsiklee.com/2018/06/xgboost-%EC%82%AC%EC%9A%A9%EC%8B%9C-gpu-%EA%B0%80%EC%86%8D%ED%95%98%EA%B8%B0/)
+* [Beginner Guide : Feature Selection](https://subinium.github.io/feature-selection/)
+* [Train sklearn 100x faster](https://medium.com/building-ibotta/train-sklearn-100x-faster-bec530fc1f45)
+* [Introducing Feast: an open source feature store for machine learning](https://cloud.google.com/blog/products/ai-machine-learning/introducing-feast-an-open-source-feature-store-for-machine-learning)
+* [Tracking ML Experiments using MLflow](https://towardsdatascience.com/tracking-ml-experiments-using-mlflow-7910197091bb)
+* [All About Missing Data Handling](https://towardsdatascience.com/all-about-missing-data-handling-b94b8b5d2184)
+* [Beginner Guide : Missing Data Handling](https://subinium.github.io/missing-data-handling/)
+* [Introducing SHAP Decision Plots](https://towardsdatascience.com/introducing-shap-decision-plots-52ed3b4a1cba)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2677,6 +2691,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [10 Simple hacks to speed up your Data Analysis in Python](https://towardsdatascience.com/10-simple-hacks-to-speed-up-your-data-analysis-in-python-ec18c6396e6b)
 * [2019년 pycon 튜토리얼 \(Python으로 지리공간데이터 다루기\) 실습 파일](https://github.com/rollinstar/gpd_example)
 * [Guest Blog: How Virgin Hyperloop One reduced processing time from hours to minutes with Koalas](https://databricks.com/blog/2019/08/22/guest-blog-how-virgin-hyperloop-one-reduced-processing-time-from-hours-to-minutes-with-koalas.html)
+* [Single UserID Matching for Anonymous Users Across Devices with GraphX](https://towardsdatascience.com/single-userid-matching-for-anonymous-users-across-devices-with-graphx-72fe111ac44b)
+* [An introduction to plotnine.](https://dputhier.github.io/jgb53d-bd-prog_github/practicals/intro_ggplot/intro_ggplot.html)
+* [A Comprehensive Guide to the Grammar of Graphics for Effective Visualization of Multi-dimensional Data](https://towardsdatascience.com/a-comprehensive-guide-to-the-grammar-of-graphics-for-effective-visualization-of-multi-dimensional-1f92b4ed4149)
+* [How to Create an Interactive Geographic Map Using Python and Bokeh](https://towardsdatascience.com/how-to-create-an-interactive-geographic-map-using-python-and-bokeh-12981ca0b567)
+* [Demystifying hypothesis testing with simple Python examples](https://towardsdatascience.com/demystifying-hypothesis-testing-with-simple-python-examples-4997ad3c5294)
+* [Visual Storytelling with Seaborn](https://medium.com/swlh/visual-storytelling-with-seaborn-28dc548dbc4b)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -2980,6 +3000,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [2 years of Developing Personalized Real-Time Recommendation Service Based on Machine Learning](http://withsmilo.github.io/python/2019/07/24/2_years_of_developing_personalized_real_time_recommendation_service_based_on_machine_learning/)
 * [PyCon Korea 2019 - 추천시스템 이제는 돈이 되어야 한다.](https://www.slideshare.net/ssuser2fe594/ss-164511610)
 * [글쓰기 화면에서 카테고리 자동 추천하는 모델 만들기](https://medium.com/daangn/%EA%B8%80%EC%93%B0%EA%B8%B0-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC-%EC%B6%94%EC%B2%9C%EB%AA%A8%EB%8D%B8-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-cbbcc43e1f7f)
+* [The best tool for better Recommendations Systems](https://towardsdatascience.com/the-best-tool-for-better-recommendations-systems-e57142b45f11)
+* [Building a Content Based Recommender for Data Science Articles](https://towardsdatascience.com/building-a-content-based-recommender-for-data-science-articles-728e5ec7d63d)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
