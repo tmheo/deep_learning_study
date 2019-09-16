@@ -127,6 +127,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Handbooks and Code Samples for Software Engineers wanting to learn the Keras Machine Learning framework](https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer)
   * [딥러닝 입문에서 활용까지 케라스\(Keras\)](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=161)
   * [Machine Learning 정리](http://soopsaram.com/ml/)
+  * [NLP 101: 딥러닝과 자연어 처리 학습을 위한 자료 저장소](https://github.com/Huffon/NLP101)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -1128,6 +1129,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [If you know SQL, you probably understand Transformer, BERT and GPT.](https://towardsdatascience.com/if-you-know-sql-you-probably-understand-transformer-bert-and-gpt-7b197cb48d24)
   * [Introducing Neural Structured Learning in TensorFlow](https://medium.com/tensorflow/introducing-neural-structured-learning-in-tensorflow-5a802efd7afd)
   * [CelebA Attribute Prediction and Clustering with Keras](https://towardsdatascience.com/celeba-attribute-prediction-and-clustering-with-keras-3d148063098d)
+  * [Document Embedding Techniques](https://towardsdatascience.com/document-embedding-techniques-fed3e7a6a25d)
+  * [Using RoBERTa with Fastai for NLP](https://medium.com/analytics-vidhya/using-roberta-with-fastai-for-nlp-7ed3fed21f6c)
+  * [BERT, RoBERTa, DistilBERT, XLNet — which one to use?](https://towardsdatascience.com/bert-roberta-distilbert-xlnet-which-one-to-use-3d5ab82ba5f8)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1651,6 +1655,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Implementations of basic RL algorithms with minimal lines of codes! \(pytorch based\)](https://github.com/seungeunrho/minimalRL)
 * [Explainable Deep Reinforcement Learning](https://docs.google.com/presentation/d/1_toSHyF6O9m3AFbhDVNA5hjOwGQSZ2ZZmnQH5OMG0lg/)
 * [강화학습 해부학 교실: Rainbow 이론부터 구현까지 \(2nd dlcat in Daejeon\)](https://www.slideshare.net/KyunghwanKim27/rainbow-2nd-dlcat-in-daejeon)
+* [From Zero to Flagpole Hero](https://towardsdatascience.com/from-zero-to-flagpole-hero-ead14fc46fba)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -2304,6 +2309,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [All About Missing Data Handling](https://towardsdatascience.com/all-about-missing-data-handling-b94b8b5d2184)
 * [Beginner Guide : Missing Data Handling](https://subinium.github.io/missing-data-handling/)
 * [Introducing SHAP Decision Plots](https://towardsdatascience.com/introducing-shap-decision-plots-52ed3b4a1cba)
+* [How to LB probe on Kaggle](https://towardsdatascience.com/how-to-lb-probe-on-kaggle-c0aa21458bfe)
+* [Part 1. Introduction to Ensemble Learning](https://subinium.github.io/introduction-to-ensemble-1/)
+* [Part 2. Introduction to Ensemble Learning : Boosting](https://subinium.github.io/introduction-to-ensemble-2-boosting/)
+* [Explain Your Model with the SHAP Values](https://towardsdatascience.com/explain-your-model-with-the-shap-values-bc36aac4de3d)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
