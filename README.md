@@ -1132,6 +1132,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Document Embedding Techniques](https://towardsdatascience.com/document-embedding-techniques-fed3e7a6a25d)
   * [Using RoBERTa with Fastai for NLP](https://medium.com/analytics-vidhya/using-roberta-with-fastai-for-nlp-7ed3fed21f6c)
   * [BERT, RoBERTa, DistilBERT, XLNet — which one to use?](https://towardsdatascience.com/bert-roberta-distilbert-xlnet-which-one-to-use-3d5ab82ba5f8)
+  * [BERT for dummies — Step by Step Tutorial](https://towardsdatascience.com/bert-for-dummies-step-by-step-tutorial-fb90890ffe03)
+  * [Activation maps for deep learning models in a few lines of code](https://towardsdatascience.com/activation-maps-for-deep-learning-models-in-a-few-lines-of-code-ed9ced1e8d21)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1280,6 +1282,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Structuring your first NLP project](https://tykimos.github.io/warehouse/2019-7-4-ISS_2nd_Deep_Learning_Conference_All_Together_aisolab_file.pdf)
   * [A Simple Explanation of XLNet](https://www.slideshare.net/DomyoungLee/a-simple-explanation-of-xlnet)
   * [PyCon Korea 2019 - 딥러닝 NLP 손쉽게 따라해보기](https://github.com/seujung/gluonnlp_tutorial)
+  * [Bag of Tricks for Image Classification with Convolutional Neural Networks \(CVPR 2019\) Paper Review](https://www.slideshare.net/gohyunwoong/bag-of-tricks-for-image-classification-with-convolutional-neural-networks-cvpr-2019-paper-review)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -2313,6 +2316,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Part 1. Introduction to Ensemble Learning](https://subinium.github.io/introduction-to-ensemble-1/)
 * [Part 2. Introduction to Ensemble Learning : Boosting](https://subinium.github.io/introduction-to-ensemble-2-boosting/)
 * [Explain Your Model with the SHAP Values](https://towardsdatascience.com/explain-your-model-with-the-shap-values-bc36aac4de3d)
+* [Machine Learning Workspace - All-in-one web-based development environment for machine learning](https://github.com/ml-tooling/ml-workspace)
+* [[Data Science Glossary on Kaggle](https://www.notion.so/65161a760980468b872cc1135240ee73)](https://www.notion.so/65161a760980468b872cc1135240ee73?v=a5cf95b4f7894a3f8eafb4ddc7701755)
+* [Encode Smarter: How to Easily Integrate Categorical Encoding into Your Machine Learning Pipeline](https://towardsdatascience.com/encode-smarter-how-to-easily-integrate-categorical-encoding-into-your-machine-learning-pipeline-89debe3ce24c)
+* [Black-Box models are actually more explainable than a Logistic Regression](https://towardsdatascience.com/black-box-models-are-actually-more-explainable-than-a-logistic-regression-f263c22795d)
+* [Ranking features based on predictive power/importance of the class labels](https://medium.com/analytics-vidhya/ranking-features-based-on-importance-predictive-power-with-respect-to-the-class-labels-of-the-25afaed71e90)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
