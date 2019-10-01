@@ -1134,6 +1134,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [BERT, RoBERTa, DistilBERT, XLNet — which one to use?](https://towardsdatascience.com/bert-roberta-distilbert-xlnet-which-one-to-use-3d5ab82ba5f8)
   * [BERT for dummies — Step by Step Tutorial](https://towardsdatascience.com/bert-for-dummies-step-by-step-tutorial-fb90890ffe03)
   * [Activation maps for deep learning models in a few lines of code](https://towardsdatascience.com/activation-maps-for-deep-learning-models-in-a-few-lines-of-code-ed9ced1e8d21)
+  * [A Keras Meta Model Served](https://medium.com/@uglyboxer/a-keras-meta-model-served-e410ff10f36d)
+  * [Time2Vec for Time Series features encoding](https://towardsdatascience.com/time2vec-for-time-series-features-encoding-a03a4f3f937e)
+  * [Image Captioning in Python with Keras](https://medium.com/swlh/image-captioning-in-python-with-keras-870f976e0f18)
+  * [Understanding Convolution Neural Networks: CNN— the ELI5 way](https://towardsdatascience.com/understanding-convolution-neural-networks-the-eli5-way-785330cd1fb7)
+  * [Meet ALBERT: a new ‘Lite BERT’ from Google & Toyota with State of the Art NLP performance and 18x fewer parameters.](https://medium.com/@lessw/meet-albert-a-new-lite-bert-from-google-toyota-with-state-of-the-art-nlp-performance-and-18x-df8f7b58fa28)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1443,6 +1448,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Keras Optimizer with Gradient Accumulation](https://github.com/bojone/accum_optimizer_for_keras)
   * [Codes used on AI Starthon 2019. 1st place in total.](https://github.com/ildoonet/ai-starthon-2019)
   * [Stanford Cars Classification using keras and fastai](https://github.com/sidml/Stanford-Cars-Classification)
+  * [Korean BERT pre-trained cased \(KoBERT\)](https://github.com/SKTBrain/KoBERT)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -2321,6 +2327,13 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Encode Smarter: How to Easily Integrate Categorical Encoding into Your Machine Learning Pipeline](https://towardsdatascience.com/encode-smarter-how-to-easily-integrate-categorical-encoding-into-your-machine-learning-pipeline-89debe3ce24c)
 * [Black-Box models are actually more explainable than a Logistic Regression](https://towardsdatascience.com/black-box-models-are-actually-more-explainable-than-a-logistic-regression-f263c22795d)
 * [Ranking features based on predictive power/importance of the class labels](https://medium.com/analytics-vidhya/ranking-features-based-on-importance-predictive-power-with-respect-to-the-class-labels-of-the-25afaed71e90)
+* [Adding Interpretability to Multiclass Text Classification models](https://towardsdatascience.com/adding-interpretability-to-multiclass-text-classification-models-c44864e8a13b)
+* [Feature Selection: Beyond feature importance?](https://medium.com/fiverr-engineering/feature-selection-beyond-feature-importance-9b97e5a842f)
+* [The Ultimate Tool for Data Science Feature Factories](https://towardsdatascience.com/the-ultimate-tool-for-data-science-feature-factories-55aed0f70974)
+* [Feature Factories pt 2: An Introduction to MLFlow](https://towardsdatascience.com/feature-factories-pt-2-an-introduction-to-mlflow-873be3c66b66)
+* [Version Control for Data Science — Tracking Machine Learning models and datasets](https://blog.usejournal.com/version-control-for-data-science-tracking-your-machine-learning-models-and-datasets-aaa61f20bb45)
+* [EmbeddingEncoder + AutoLGB in Kaggler](https://www.kaggle.com/jeongyoonlee/embeddingencoder-autolgb-in-kaggler)
+* [Deploying Models to Production with Mlflow and Amazon Sagemaker](https://towardsdatascience.com/deploying-models-to-production-with-mlflow-and-amazon-sagemaker-d21f67909198)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2714,6 +2727,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [How to Create an Interactive Geographic Map Using Python and Bokeh](https://towardsdatascience.com/how-to-create-an-interactive-geographic-map-using-python-and-bokeh-12981ca0b567)
 * [Demystifying hypothesis testing with simple Python examples](https://towardsdatascience.com/demystifying-hypothesis-testing-with-simple-python-examples-4997ad3c5294)
 * [Visual Storytelling with Seaborn](https://medium.com/swlh/visual-storytelling-with-seaborn-28dc548dbc4b)
+* [Exploratory Data Analysis: A Practical Guide and Template for Structured Data](https://towardsdatascience.com/exploratory-data-analysis-eda-a-practical-guide-and-template-for-structured-data-abfbf3ee3bd9)
+* [P-value Explained Simply for Data Scientists](https://towardsdatascience.com/p-value-explained-simply-for-data-scientists-4c0cd7044f14)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -3019,6 +3034,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [글쓰기 화면에서 카테고리 자동 추천하는 모델 만들기](https://medium.com/daangn/%EA%B8%80%EC%93%B0%EA%B8%B0-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC-%EC%B6%94%EC%B2%9C%EB%AA%A8%EB%8D%B8-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-cbbcc43e1f7f)
 * [The best tool for better Recommendations Systems](https://towardsdatascience.com/the-best-tool-for-better-recommendations-systems-e57142b45f11)
 * [Building a Content Based Recommender for Data Science Articles](https://towardsdatascience.com/building-a-content-based-recommender-for-data-science-articles-728e5ec7d63d)
+* [Recent advances in deep recommender systems](https://www.slideshare.net/NaverEngineering/recent-advances-in-deep-recommender-systems?from_m_app=android)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
