@@ -128,6 +128,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [딥러닝 입문에서 활용까지 케라스\(Keras\)](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=161)
   * [Machine Learning 정리](http://soopsaram.com/ml/)
   * [NLP 101: 딥러닝과 자연어 처리 학습을 위한 자료 저장소](https://github.com/Huffon/NLP101)
+  * [Spring 2019 Full Stack Deep Learning Bootcamp](https://fullstackdeeplearning.com/march2019)
+  * [Start Here with Computer Vision, Deep Learning, and OpenCV](https://www.pyimagesearch.com/start-here/)
+  * [Advanced NLP with spaCy](https://course.spacy.io/)
+  * [Introduction to NLP - Tutorial for Beginner](https://www.kaggle.com/vipulgandhi/introduction-to-nlp-tutorial-for-beginner)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -1139,6 +1143,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Image Captioning in Python with Keras](https://medium.com/swlh/image-captioning-in-python-with-keras-870f976e0f18)
   * [Understanding Convolution Neural Networks: CNN— the ELI5 way](https://towardsdatascience.com/understanding-convolution-neural-networks-the-eli5-way-785330cd1fb7)
   * [Meet ALBERT: a new ‘Lite BERT’ from Google & Toyota with State of the Art NLP performance and 18x fewer parameters.](https://medium.com/@lessw/meet-albert-a-new-lite-bert-from-google-toyota-with-state-of-the-art-nlp-performance-and-18x-df8f7b58fa28)
+  * [TensorFlow 2.0 + Keras Overview for Deep Learning Researchers](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO) : [[번역]](https://colab.research.google.com/drive/1p4RhSj1FEuscyZP81ocn8IeGD_2r46fS)
+  * [How to Use Convolutional Neural Networks for Time Series Classification](https://towardsdatascience.com/how-to-use-convolutional-neural-networks-for-time-series-classification-56b1b0a07a57)
+  * [Demystifying Object Detection and Instance Segmentation for Data Scientists](https://towardsdatascience.com/a-hitchhikers-guide-to-object-detection-and-instance-segmentation-ac0146fe8e11)
+  * [Modeling Bank’s Churn Rate with AdaNet: A Scalable, Flexible Auto-Ensemble Learning Framework](https://towardsdatascience.com/modeling-banks-churn-rate-with-adanet-a-scalable-flexible-auto-ensemble-learning-framework-700fa1e6df74)
+  * [Demystifying BERT: The Groundbreaking NLP Framework](https://medium.com/analytics-vidhya/demystifying-bert-the-groundbreaking-nlp-framework-8e3142b3d366)
+  * [Attack Toxic Comments Kaggle Competition Using Fast.ai](https://towardsdatascience.com/attack-toxic-comments-kaggle-competition-using-fast-ai-b9eb61509e79)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1665,6 +1675,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Explainable Deep Reinforcement Learning](https://docs.google.com/presentation/d/1_toSHyF6O9m3AFbhDVNA5hjOwGQSZ2ZZmnQH5OMG0lg/)
 * [강화학습 해부학 교실: Rainbow 이론부터 구현까지 \(2nd dlcat in Daejeon\)](https://www.slideshare.net/KyunghwanKim27/rainbow-2nd-dlcat-in-daejeon)
 * [From Zero to Flagpole Hero](https://towardsdatascience.com/from-zero-to-flagpole-hero-ead14fc46fba)
+* [모두를 위한 강화학습](https://www.slideshare.net/taeyounglee1447/reinforcement-learning-for-everyone)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -2323,7 +2334,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Part 2. Introduction to Ensemble Learning : Boosting](https://subinium.github.io/introduction-to-ensemble-2-boosting/)
 * [Explain Your Model with the SHAP Values](https://towardsdatascience.com/explain-your-model-with-the-shap-values-bc36aac4de3d)
 * [Machine Learning Workspace - All-in-one web-based development environment for machine learning](https://github.com/ml-tooling/ml-workspace)
-* [[Data Science Glossary on Kaggle](https://www.notion.so/65161a760980468b872cc1135240ee73)](https://www.notion.so/65161a760980468b872cc1135240ee73?v=a5cf95b4f7894a3f8eafb4ddc7701755)
+* [Data Science Glossary on Kaggle](https://www.notion.so/65161a760980468b872cc1135240ee73?v=a5cf95b4f7894a3f8eafb4ddc7701755)
 * [Encode Smarter: How to Easily Integrate Categorical Encoding into Your Machine Learning Pipeline](https://towardsdatascience.com/encode-smarter-how-to-easily-integrate-categorical-encoding-into-your-machine-learning-pipeline-89debe3ce24c)
 * [Black-Box models are actually more explainable than a Logistic Regression](https://towardsdatascience.com/black-box-models-are-actually-more-explainable-than-a-logistic-regression-f263c22795d)
 * [Ranking features based on predictive power/importance of the class labels](https://medium.com/analytics-vidhya/ranking-features-based-on-importance-predictive-power-with-respect-to-the-class-labels-of-the-25afaed71e90)
@@ -2334,6 +2345,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Version Control for Data Science — Tracking Machine Learning models and datasets](https://blog.usejournal.com/version-control-for-data-science-tracking-your-machine-learning-models-and-datasets-aaa61f20bb45)
 * [EmbeddingEncoder + AutoLGB in Kaggler](https://www.kaggle.com/jeongyoonlee/embeddingencoder-autolgb-in-kaggler)
 * [Deploying Models to Production with Mlflow and Amazon Sagemaker](https://towardsdatascience.com/deploying-models-to-production-with-mlflow-and-amazon-sagemaker-d21f67909198)
+* [MLOps Tooling](https://toddmorrill.github.io/blog/2019/10/05/MLOps-tooling)
+* [Turn Python Scripts into Beautiful ML Tools](https://towardsdatascience.com/coding-ml-tools-like-you-code-ml-models-ddba3357eace)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2729,6 +2742,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Visual Storytelling with Seaborn](https://medium.com/swlh/visual-storytelling-with-seaborn-28dc548dbc4b)
 * [Exploratory Data Analysis: A Practical Guide and Template for Structured Data](https://towardsdatascience.com/exploratory-data-analysis-eda-a-practical-guide-and-template-for-structured-data-abfbf3ee3bd9)
 * [P-value Explained Simply for Data Scientists](https://towardsdatascience.com/p-value-explained-simply-for-data-scientists-4c0cd7044f14)
+* [Bayesian nightmare. Solved!](https://towardsdatascience.com/bayesian-nightmare-how-to-start-loving-bayes-1622741fa960)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
