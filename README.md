@@ -1149,6 +1149,21 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Modeling Bank’s Churn Rate with AdaNet: A Scalable, Flexible Auto-Ensemble Learning Framework](https://towardsdatascience.com/modeling-banks-churn-rate-with-adanet-a-scalable-flexible-auto-ensemble-learning-framework-700fa1e6df74)
   * [Demystifying BERT: The Groundbreaking NLP Framework](https://medium.com/analytics-vidhya/demystifying-bert-the-groundbreaking-nlp-framework-8e3142b3d366)
   * [Attack Toxic Comments Kaggle Competition Using Fast.ai](https://towardsdatascience.com/attack-toxic-comments-kaggle-competition-using-fast-ai-b9eb61509e79)
+  * [Visualizing Convolution Neural Networks using Pytorch](https://towardsdatascience.com/visualizing-convolution-neural-networks-using-pytorch-3dfa8443e74e)
+  * [E2E tf.Keras to TFLite to Android](https://medium.com/@margaretmz/e2e-tfkeras-tflite-android-273acde6588)
+  * [How to train a fastai model and run it in the browser](https://davidpfahler.com/fastai-in-the-browser)
+  * [Deep-Learning-in-Production](https://github.com/ahkarami/Deep-Learning-in-Production)
+  * [Understanding 1D and 3D Convolution Neural Network | Keras](https://towardsdatascience.com/understanding-1d-and-3d-convolution-neural-network-keras-9d8f76e29610)
+  * [Tensorflow KR 3차 오프라인 모임 후기](https://zzsza.github.io/etc/2019/10/20/tensorflow-kr-3th-meeting/)
+  * [Tensorflow KR 3차 오프라인 모임 발표자료](https://drive.google.com/drive/u/0/folders/1YFM1oiVCNgzOKnlW1z7hJSXaZOT7tcv4)
+  * [Building a mixed-data neural network in Keras to predict accident locations](https://heartbeat.fritz.ai/building-a-mixed-data-neural-network-in-keras-to-predict-accident-locations-d51a63b738cf)
+  * [Latest Winning Techniques for Kaggle Image Classification with Limited Data](https://towardsdatascience.com/latest-winning-techniques-for-kaggle-image-classification-with-limited-data-5259e7736327)
+  * [Interpretable Machine Learning for Image Classification with LIME](https://towardsdatascience.com/interpretable-machine-learning-for-image-classification-with-lime-ea947e82ca13)
+  * [Simple Transformers — Introducing The Easiest Way To Use BERT, RoBERTa, XLNet, and XLM](https://towardsdatascience.com/simple-transformers-introducing-the-easiest-bert-roberta-xlnet-and-xlm-library-58bf8c59b2a3)
+  * [What is tf.keras really?](https://jaredwinick.github.io/what_is_tf_keras/)
+  * [Generalization in Neural Networks](https://medium.com/deep-learning-demystified/generalization-in-neural-networks-7765ee42ac23)
+  * [What is RAPIDS AI?](https://medium.com/future-vision/what-is-rapids-ai-7e552d80a1d2)
+  * [Categorical Embedding and Transfer Learning](https://towardsdatascience.com/categorical-embedding-and-transfer-learning-dd3c4af6345d)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1298,6 +1313,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [A Simple Explanation of XLNet](https://www.slideshare.net/DomyoungLee/a-simple-explanation-of-xlnet)
   * [PyCon Korea 2019 - 딥러닝 NLP 손쉽게 따라해보기](https://github.com/seujung/gluonnlp_tutorial)
   * [Bag of Tricks for Image Classification with Convolutional Neural Networks \(CVPR 2019\) Paper Review](https://www.slideshare.net/gohyunwoong/bag-of-tricks-for-image-classification-with-convolutional-neural-networks-cvpr-2019-paper-review)
+  * [GAN을 활용한 My handwriting styler](https://www.slideshare.net/MinjungChung1/my-handwriting-styler) : [[Code]](https://github.com/jeina7/Handwriting_styler)
+  * ['나만의' 코퍼스틑 없다? 자연어처리 연구 데이터의 구축, 검증 및 정제에 관하여](https://www.slideshare.net/WonIkCho/1910-tfkr3-warnikchow)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -1341,6 +1358,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [트랜스포머 [어텐션 이즈 올 유 니드]](https://www.youtube.com/watch?v=mxGCEWOxfe8)
   * [Attention \(1\): What is Attention?](https://www.youtube.com/watch?v=CIQ354Y_gOc)
   * [Learn Natural Language Processing](https://www.youtube.com/watch?v=GazFsfcijXQ)
+  * [PR-201: Bag of Tricks for Image Classification with Convolutional Neural Networks](https://www.youtube.com/watch?v=D-baIgejA4M)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -1459,6 +1477,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Codes used on AI Starthon 2019. 1st place in total.](https://github.com/ildoonet/ai-starthon-2019)
   * [Stanford Cars Classification using keras and fastai](https://github.com/sidml/Stanford-Cars-Classification)
   * [Korean BERT pre-trained cased \(KoBERT\)](https://github.com/SKTBrain/KoBERT)
+  * [Running your TensorFlow Models in SageMaker Workshop](https://github.com/aws-samples/TensorFlow-in-SageMaker-workshop)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -2319,6 +2338,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [4 Tips for Advanced Feature Engineering and Preprocessing](https://towardsdatascience.com/4-tips-for-advanced-feature-engineering-and-preprocessing-ec11575c09ea)
 * [Getting started with Text Preprocessing](https://www.kaggle.com/sudalairajkumar/getting-started-with-text-preprocessing)
 * [Interpretable Machine Learning 개요: \(1\) 머신러닝 모델에 대한 해석력 확보를 위한 방법](http://research.sualab.com/introduction/2019/08/30/interpretable-machine-learning-overview-1.html)
+* [Interpretable Machine Learning 개요: \(2\) 이미지 인식 문제에서의 딥러닝 모델의 주요 해석 방법](http://research.sualab.com/introduction/2019/10/23/interpretable-machine-learning-overview-2.html)
 * [A story of my first gold medal in one Kaggle competition: things done and lessons learned](https://towardsdatascience.com/a-story-of-my-first-gold-medal-in-one-kaggle-competition-things-done-and-lessons-learned-c269d9c233d1)
 * [XGBoost 정리](https://eagle705.github.io/cslog/2018/06/12/XGBoost-%EC%A0%95%EB%A6%AC/)
 * [XGBoost 사용시 GPU 가속하기](http://www.kwangsiklee.com/2018/06/xgboost-%EC%82%AC%EC%9A%A9%EC%8B%9C-gpu-%EA%B0%80%EC%86%8D%ED%95%98%EA%B8%B0/)
@@ -2347,6 +2367,13 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Deploying Models to Production with Mlflow and Amazon Sagemaker](https://towardsdatascience.com/deploying-models-to-production-with-mlflow-and-amazon-sagemaker-d21f67909198)
 * [MLOps Tooling](https://toddmorrill.github.io/blog/2019/10/05/MLOps-tooling)
 * [Turn Python Scripts into Beautiful ML Tools](https://towardsdatascience.com/coding-ml-tools-like-you-code-ml-models-ddba3357eace)
+* [11 Categorical Encoders and Benchmark](https://www.kaggle.com/subinium/11-categorical-encoders-and-benchmark)
+* [What happens when ML pipeline meets Hydra?](https://github.com/withsmilo/When-ML-pipeline-meets-Hydra)
+* [머신러닝으로 콘서트 티켓 판매량 예측하기\(1\) 콘서트 비즈니스에서 예측의 역할 — MyMusicTaste](https://medium.com/mymusictaste-official/ticket-sales-estimation-modeling-1-d60350e4eb53)
+* [머신러닝으로 콘서트 티켓 판매량 예측하기\(2\) 모델링, 첫 삽을 뜨기까지— MyMusicTaste](https://medium.com/mymusictaste-official/ticket-sales-estimation-modeling-2-8fea028a5f0e)
+* [머신러닝으로 콘서트 티켓 판매량 예측하기\(3\) 첫 번째 모델, Paul의 탄생 — MyMusicTaste](https://medium.com/mymusictaste-official/ticket-sales-estimation-modeling-3-1af24baaf85b)
+* [머신러닝으로 콘서트 티켓 판매량 예측하기\(4\) 모델 개선 프로세스와 지표— MyMusicTaste](https://medium.com/mymusictaste-official/ticket-sales-estimation-modeling-4-cd67b81863df)
+* [Time Series Analysis in Python – A Comprehensive Guide with Examples](https://www.machinelearningplus.com/time-series/time-series-analysis-python/)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2743,6 +2770,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Exploratory Data Analysis: A Practical Guide and Template for Structured Data](https://towardsdatascience.com/exploratory-data-analysis-eda-a-practical-guide-and-template-for-structured-data-abfbf3ee3bd9)
 * [P-value Explained Simply for Data Scientists](https://towardsdatascience.com/p-value-explained-simply-for-data-scientists-4c0cd7044f14)
 * [Bayesian nightmare. Solved!](https://towardsdatascience.com/bayesian-nightmare-how-to-start-loving-bayes-1622741fa960)
+* [Jovian: The platform for all your Data Science projects](https://www.jovian.ml/)
+* [IPython Notebook Support is Finally Here for Visual Studio Code](https://towardsdatascience.com/ipython-notebook-support-is-finally-here-for-visual-studio-code-b578abe0361c)
+* [타다 \(TADA\) 서비스의 데이터 웨어하우스 : 태초부터 현재까지](https://speakerdeck.com/vcnc/tada-tada-seobiseuyi-deiteo-weeohauseu-taecobuteo-hyeonjaeggaji)
+* [Netflix Open Sources Polynote to Make Data Science Notebooks Better](https://towardsdatascience.com/netflix-open-sources-polynote-to-make-data-science-notebooks-better-8d6820535b25)
+* [4 Tips To Write Scalable Apache Spark Code](https://medium.com/towards-artificial-intelligence/4-tips-to-write-scalable-apache-spark-code-1c736e4d698e)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -3048,7 +3080,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [글쓰기 화면에서 카테고리 자동 추천하는 모델 만들기](https://medium.com/daangn/%EA%B8%80%EC%93%B0%EA%B8%B0-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC-%EC%B6%94%EC%B2%9C%EB%AA%A8%EB%8D%B8-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-cbbcc43e1f7f)
 * [The best tool for better Recommendations Systems](https://towardsdatascience.com/the-best-tool-for-better-recommendations-systems-e57142b45f11)
 * [Building a Content Based Recommender for Data Science Articles](https://towardsdatascience.com/building-a-content-based-recommender-for-data-science-articles-728e5ec7d63d)
-* [Recent advances in deep recommender systems](https://www.slideshare.net/NaverEngineering/recent-advances-in-deep-recommender-systems?from_m_app=android)
+* [Recent advances in deep recommender systems](https://www.slideshare.net/NaverEngineering/recent-advances-in-deep-recommender-systems)
+* [How Youtube is recommending your next video](https://medium.com/vantageai/how-youtube-is-recommending-your-next-video-7e5f1a6bd6d9)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
