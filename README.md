@@ -1164,6 +1164,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Generalization in Neural Networks](https://medium.com/deep-learning-demystified/generalization-in-neural-networks-7765ee42ac23)
   * [What is RAPIDS AI?](https://medium.com/future-vision/what-is-rapids-ai-7e552d80a1d2)
   * [Categorical Embedding and Transfer Learning](https://towardsdatascience.com/categorical-embedding-and-transfer-learning-dd3c4af6345d)
+  * [[ALBERT 논문 Review] ALBERT: A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS](https://y-rok.github.io/nlp/2019/10/23/albert.html)
+  * [Batch Normalization and Dropout in Neural Networks with Pytorch](https://towardsdatascience.com/batch-normalization-and-dropout-in-neural-networks-explained-with-pytorch-47d7a8459bcd)
+  * [Fantastic and straightforward image classification with fastai library for Pytorch](https://medium.com/analytics-vidhya/fantastic-and-straightforward-image-classification-with-fastai-library-for-pytorch-30c3380ac284)
+  * [Speeding up BERT](https://blog.inten.to/speeding-up-bert-5528e18bb4ea)
+  * [Distilling BERT models with spaCy](https://towardsdatascience.com/distilling-bert-models-with-spacy-277c7edc426c)
+  * [BERT Text Classification in 3 Lines of Code Using Keras](https://towardsdatascience.com/bert-text-classification-in-3-lines-of-code-using-keras-264db7e7a358)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1315,6 +1321,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Bag of Tricks for Image Classification with Convolutional Neural Networks \(CVPR 2019\) Paper Review](https://www.slideshare.net/gohyunwoong/bag-of-tricks-for-image-classification-with-convolutional-neural-networks-cvpr-2019-paper-review)
   * [GAN을 활용한 My handwriting styler](https://www.slideshare.net/MinjungChung1/my-handwriting-styler) : [[Code]](https://github.com/jeina7/Handwriting_styler)
   * ['나만의' 코퍼스틑 없다? 자연어처리 연구 데이터의 구축, 검증 및 정제에 관하여](https://www.slideshare.net/WonIkCho/1910-tfkr3-warnikchow)
+  * [자연어 처리 모델의 성능을 높이는 비결 - 임베딩](https://drive.google.com/file/d/1H5I1Pg0SWbxqh7ImJbLQ-yCZjvNCVT5U/view)
+  * [딥 러닝 자연어 처리를 학습을 위한 파워포인트. \(Deep Learning for Natural Language Processing\)](https://www.slideshare.net/wonjoonyoo/ss-188835227)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -1695,6 +1703,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [강화학습 해부학 교실: Rainbow 이론부터 구현까지 \(2nd dlcat in Daejeon\)](https://www.slideshare.net/KyunghwanKim27/rainbow-2nd-dlcat-in-daejeon)
 * [From Zero to Flagpole Hero](https://towardsdatascience.com/from-zero-to-flagpole-hero-ead14fc46fba)
 * [모두를 위한 강화학습](https://www.slideshare.net/taeyounglee1447/reinforcement-learning-for-everyone)
+* [Repository for slides & codes of RL Korea Bootcamp](https://github.com/reinforcement-learning-kr/rl_bootcamp)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -2374,6 +2383,13 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [머신러닝으로 콘서트 티켓 판매량 예측하기\(3\) 첫 번째 모델, Paul의 탄생 — MyMusicTaste](https://medium.com/mymusictaste-official/ticket-sales-estimation-modeling-3-1af24baaf85b)
 * [머신러닝으로 콘서트 티켓 판매량 예측하기\(4\) 모델 개선 프로세스와 지표— MyMusicTaste](https://medium.com/mymusictaste-official/ticket-sales-estimation-modeling-4-cd67b81863df)
 * [Time Series Analysis in Python – A Comprehensive Guide with Examples](https://www.machinelearningplus.com/time-series/time-series-analysis-python/)
+* [클라우드 환경에서 머신러닝 서비스 프로토타입 빠르게 만들어보기](https://urbanbase.github.io/dev/2019/10/24/Machine-Learning-Prototype.html)
+* [LightGBM, XGBoost Hyper Parameteres](https://sites.google.com/view/lauraepp/parameters)
+* [NGBoost Explained](https://towardsdatascience.com/ngboost-explained-comparison-to-lightgbm-and-xgboost-fda510903e53)
+* [Interpreting Machine Learning Model](https://towardsdatascience.com/interpreting-machine-learning-model-70fa49d20af1)
+* [Statistical Modeling — The Full Pragmatic Guide](https://towardsdatascience.com/statistical-modeling-the-full-pragmatic-guide-7aeb56e38b36)
+* [Game Theory to Interpret Machine Learning Models and Predictions — The Ultimate Guide](https://towardsdatascience.com/the-ultimate-guide-using-game-theory-to-interpret-machine-learning-c384cbb6929)
+* [Automating ML Feature Engineering](https://app.getpocket.com/read/2778787409)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
