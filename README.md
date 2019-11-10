@@ -1170,6 +1170,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Speeding up BERT](https://blog.inten.to/speeding-up-bert-5528e18bb4ea)
   * [Distilling BERT models with spaCy](https://towardsdatascience.com/distilling-bert-models-with-spacy-277c7edc426c)
   * [BERT Text Classification in 3 Lines of Code Using Keras](https://towardsdatascience.com/bert-text-classification-in-3-lines-of-code-using-keras-264db7e7a358)
+  * [GANs from Zero to Hero: Best Resources for Newcomers](https://towardsdatascience.com/gans-from-zero-to-hero-best-resources-for-newcomers-a7c7cf1024b5)
+  * [Interactive Convolutional Neural Network](https://medium.com/dataseries/interactive-convolutional-neural-network-65bc19d8d698)
+  * [Learning Fine-grained Image Similarity with Deep Ranking 정리](https://umbum.tistory.com/262)
+  * [How to build an image duplicate finder for your dataset](https://towardsdatascience.com/how-to-build-an-image-duplicate-finder-f8714ddca9d2)
+  * [Best Practices for NLP Classification in TensorFlow 2.0](https://towardsdatascience.com/best-practices-for-nlp-classification-in-tensorflow-2-0-a5a3d43b7b73)
+  * [How Deep Neural Networks Look for Features in Images? With Keras and Google Colab](https://towardsdatascience.com/how-deep-neural-network-look-for-features-in-images-with-keras-and-google-colab-28209d57f771)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -2390,6 +2396,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Statistical Modeling — The Full Pragmatic Guide](https://towardsdatascience.com/statistical-modeling-the-full-pragmatic-guide-7aeb56e38b36)
 * [Game Theory to Interpret Machine Learning Models and Predictions — The Ultimate Guide](https://towardsdatascience.com/the-ultimate-guide-using-game-theory-to-interpret-machine-learning-c384cbb6929)
 * [Automating ML Feature Engineering](https://app.getpocket.com/read/2778787409)
+* [Explain Any Models with the SHAP Values — Use the KernelExplainer](https://towardsdatascience.com/explain-any-models-with-the-shap-values-use-the-kernelexplainer-79de9464897a)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2791,6 +2798,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [타다 \(TADA\) 서비스의 데이터 웨어하우스 : 태초부터 현재까지](https://speakerdeck.com/vcnc/tada-tada-seobiseuyi-deiteo-weeohauseu-taecobuteo-hyeonjaeggaji)
 * [Netflix Open Sources Polynote to Make Data Science Notebooks Better](https://towardsdatascience.com/netflix-open-sources-polynote-to-make-data-science-notebooks-better-8d6820535b25)
 * [4 Tips To Write Scalable Apache Spark Code](https://medium.com/towards-artificial-intelligence/4-tips-to-write-scalable-apache-spark-code-1c736e4d698e)
+* [Exploring your data with just 1 line of Python](https://towardsdatascience.com/exploring-your-data-with-just-1-line-of-python-4b35ce21a82d)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
