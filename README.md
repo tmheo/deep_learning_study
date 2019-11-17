@@ -1176,6 +1176,13 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [How to build an image duplicate finder for your dataset](https://towardsdatascience.com/how-to-build-an-image-duplicate-finder-f8714ddca9d2)
   * [Best Practices for NLP Classification in TensorFlow 2.0](https://towardsdatascience.com/best-practices-for-nlp-classification-in-tensorflow-2-0-a5a3d43b7b73)
   * [How Deep Neural Networks Look for Features in Images? With Keras and Google Colab](https://towardsdatascience.com/how-deep-neural-network-look-for-features-in-images-with-keras-and-google-colab-28209d57f771)
+  * [Neural averaging ensembles for tabular data with TensorFlow 2.0](https://medium.com/b-telligent-data-science-ai/neural-averaging-ensembles-for-tabular-data-with-tensorflow-2-0-f28796e1289f)
+  * [Image similarity using Triplet Loss](https://towardsdatascience.com/image-similarity-using-triplet-loss-3744c0f67973)
+  * [Image Similarity using Deep Ranking](https://medium.com/@akarshzingade/image-similarity-using-deep-ranking-c1bd83855978)
+  * [Finetuning BERT with Tensorflow estimators in only a few lines of code](https://medium.com/serendeepia/finetuning-bert-with-tensorflow-estimators-in-only-a-few-lines-of-code-f522dfa2295c)
+  * [Multi-Label Classification using BERT, RoBERTa, XLNet, XLM, and DistilBERT with Simple Transformers](https://towardsdatascience.com/multi-label-classification-using-bert-roberta-xlnet-xlm-and-distilbert-with-simple-transformers-b3e0cda12ce5)
+  * [Transfer Learning in NLP](https://towardsdatascience.com/transfer-learning-in-nlp-f5035cc3f62f)
+  * [Building a Deep Image Search Engine using tf.Keras](https://towardsdatascience.com/building-a-deep-image-search-engine-using-tf-keras-6760beedbad)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -2799,6 +2806,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Netflix Open Sources Polynote to Make Data Science Notebooks Better](https://towardsdatascience.com/netflix-open-sources-polynote-to-make-data-science-notebooks-better-8d6820535b25)
 * [4 Tips To Write Scalable Apache Spark Code](https://medium.com/towards-artificial-intelligence/4-tips-to-write-scalable-apache-spark-code-1c736e4d698e)
 * [Exploring your data with just 1 line of Python](https://towardsdatascience.com/exploring-your-data-with-just-1-line-of-python-4b35ce21a82d)
+* [\(KO\)온라인 뉴스 댓글 생태계를 흐리는 어뷰저 분석기 / \(EN\) Online news comments analysis revealing public opinion manipulators and possible solutions](https://www.slideshare.net/JiHyungMoon1/ko-en-online-news-comments-analysis-revealing-public-opinion-manipulators-and-possible-solutions-185118255)
+* [Quickly Build and Deploy a Dashboard with Streamlit](https://towardsdatascience.com/quickly-build-and-deploy-an-application-with-streamlit-988ca08c7e83)
+* [600X t-SNE speedup with RAPIDS](https://towardsdatascience.com/600x-t-sne-speedup-with-rapids-5b4cf1f62059)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
