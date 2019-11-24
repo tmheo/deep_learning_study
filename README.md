@@ -1183,6 +1183,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Multi-Label Classification using BERT, RoBERTa, XLNet, XLM, and DistilBERT with Simple Transformers](https://towardsdatascience.com/multi-label-classification-using-bert-roberta-xlnet-xlm-and-distilbert-with-simple-transformers-b3e0cda12ce5)
   * [Transfer Learning in NLP](https://towardsdatascience.com/transfer-learning-in-nlp-f5035cc3f62f)
   * [Building a Deep Image Search Engine using tf.Keras](https://towardsdatascience.com/building-a-deep-image-search-engine-using-tf-keras-6760beedbad)
+  * [Question Answering with BERT, XLNET, XLM, and DistilBERT using Simple Transformers](https://towardsdatascience.com/question-answering-with-bert-xlnet-xlm-and-distilbert-using-simple-transformers-4d8785ee762a)
+  * [Similar Images Recommendations using FastAi and Annoy](https://towardsdatascience.com/similar-images-recommendations-using-fastai-and-annoy-16d6ceb3b809)
+  * [GLUE: 벤치마크를 통해 BERT 이해하기](https://huffon.github.io/2019/11/16/glue/)
+  * [Illustrated: Self-Attention](https://towardsdatascience.com/illustrated-self-attention-2d627e33b20a)
+  * [How To Fine-Tune GPT-2 So You Can Generate Long-Form Creative Writing](https://towardsdatascience.com/how-to-fine-tune-gpt-2-so-you-can-generate-long-form-creative-writing-7a5ae1314a61)
+  * [Video processing pipeline with OpenCV](https://medium.com/deepvisionguru/video-processing-pipeline-with-opencv-ac10187d75b)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1336,6 +1342,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * ['나만의' 코퍼스틑 없다? 자연어처리 연구 데이터의 구축, 검증 및 정제에 관하여](https://www.slideshare.net/WonIkCho/1910-tfkr3-warnikchow)
   * [자연어 처리 모델의 성능을 높이는 비결 - 임베딩](https://drive.google.com/file/d/1H5I1Pg0SWbxqh7ImJbLQ-yCZjvNCVT5U/view)
   * [딥 러닝 자연어 처리를 학습을 위한 파워포인트. \(Deep Learning for Natural Language Processing\)](https://www.slideshare.net/wonjoonyoo/ss-188835227)
+  * [Autonomous Driving\(feat. Deep Learning\)](https://drive.google.com/file/d/1354JrgZnko47Kq8uadkZGqBMS-iqgcJP/view)
+  * [More on Transformers: BERT와 친구들](https://docs.google.com/presentation/d/1OeDO-d4hxQ7OuhbpxJjsMGVfLWakSGIqnhu_IvQbxqQ)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -2404,6 +2412,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Game Theory to Interpret Machine Learning Models and Predictions — The Ultimate Guide](https://towardsdatascience.com/the-ultimate-guide-using-game-theory-to-interpret-machine-learning-c384cbb6929)
 * [Automating ML Feature Engineering](https://app.getpocket.com/read/2778787409)
 * [Explain Any Models with the SHAP Values — Use the KernelExplainer](https://towardsdatascience.com/explain-any-models-with-the-shap-values-use-the-kernelexplainer-79de9464897a)
+* [Federated Learning: Challenges, Methods, and Future Directions](https://blog.ml.cmu.edu/2019/11/12/federated-learning-challenges-methods-and-future-directions/)
+* [파이썬을 활용한 자연어 분석](https://www.slideshare.net/YBkim2/ss-118063552)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2809,6 +2819,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [\(KO\)온라인 뉴스 댓글 생태계를 흐리는 어뷰저 분석기 / \(EN\) Online news comments analysis revealing public opinion manipulators and possible solutions](https://www.slideshare.net/JiHyungMoon1/ko-en-online-news-comments-analysis-revealing-public-opinion-manipulators-and-possible-solutions-185118255)
 * [Quickly Build and Deploy a Dashboard with Streamlit](https://towardsdatascience.com/quickly-build-and-deploy-an-application-with-streamlit-988ca08c7e83)
 * [600X t-SNE speedup with RAPIDS](https://towardsdatascience.com/600x-t-sne-speedup-with-rapids-5b4cf1f62059)
+* [Image processing using scikit image](https://towardsdatascience.com/image-processing-using-scikit-image-cb57ce4321ed)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
