@@ -132,6 +132,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Start Here with Computer Vision, Deep Learning, and OpenCV](https://www.pyimagesearch.com/start-here/)
   * [Advanced NLP with spaCy](https://course.spacy.io/)
   * [Introduction to NLP - Tutorial for Beginner](https://www.kaggle.com/vipulgandhi/introduction-to-nlp-tutorial-for-beginner)
+  * [Learn on Towards Data Science](https://towardsdatascience.com/learn-on-towards-data-science-52245bc91451)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -1189,6 +1190,15 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Illustrated: Self-Attention](https://towardsdatascience.com/illustrated-self-attention-2d627e33b20a)
   * [How To Fine-Tune GPT-2 So You Can Generate Long-Form Creative Writing](https://towardsdatascience.com/how-to-fine-tune-gpt-2-so-you-can-generate-long-form-creative-writing-7a5ae1314a61)
   * [Video processing pipeline with OpenCV](https://medium.com/deepvisionguru/video-processing-pipeline-with-opencv-ac10187d75b)
+  * [Fake News Classification with BERT](https://towardsdatascience.com/fake-news-classification-with-bert-afbeee601f41)
+  * [Pre-trained language model in any language](https://towardsdatascience.com/pre-trained-language-model-in-any-language-7531ea7217d4)
+  * [Time Series Forecasting with LSTMs using TensorFlow 2 and Keras in Python](https://towardsdatascience.com/time-series-forecasting-with-lstms-using-tensorflow-2-and-keras-in-python-6ceee9c6c651)
+  * [Introducing the TFX interactive notebook](https://blog.tensorflow.org/2019/11/introducing-tfx-interactive-notebook.html)
+  * [Lit BERT: NLP Transfer Learning In 3 Steps](https://towardsdatascience.com/lit-bert-nlp-transfer-learning-in-3-steps-272a866570db)
+  * [Tracking Deep Learning Experiments using Keras, MlFlow and MongoDb](https://medium.com/analytics-vidhya/tracking-deep-learning-experiments-using-keras-mlflow-and-mongodb-732fc771266c)
+  * [AI x Bookathon | 인공지능을 [수필 쓰는 작가]로 학습시켜보자!](https://jeinalog.tistory.com/25)
+  * [동영상입력 행동분류 모델 튜토리얼 소개](https://tykimos.github.io/2019/11/30/Video_Input_Multiclass_Recogintion_Model/)
+  * [Fine-tuning BERT with Keras and tf.Module](https://towardsdatascience.com/fine-tuning-bert-with-keras-and-tf-module-ed24ea91cff2)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -2414,6 +2424,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Explain Any Models with the SHAP Values — Use the KernelExplainer](https://towardsdatascience.com/explain-any-models-with-the-shap-values-use-the-kernelexplainer-79de9464897a)
 * [Federated Learning: Challenges, Methods, and Future Directions](https://blog.ml.cmu.edu/2019/11/12/federated-learning-challenges-methods-and-future-directions/)
 * [파이썬을 활용한 자연어 분석](https://www.slideshare.net/YBkim2/ss-118063552)
+* [PySpark & AWS | Predicting Customer Churn](https://towardsdatascience.com/predicting-customer-churn-with-pyspark-95cd352d393)
+* [Forecasting in Python with Facebook Prophet](https://towardsdatascience.com/forecasting-in-python-with-facebook-prophet-29810eb57e66)
+* [Google’s new ‘Explainable AI” (xAI) service](https://towardsdatascience.com/googles-new-explainable-ai-xai-service-83a7bc823773)
+* [Matthews Correlation Coefficient Is The Best Classification Metric You’ve Never Heard Of](https://towardsdatascience.com/the-best-classification-metric-youve-never-heard-of-the-matthews-correlation-coefficient-3bf50a2f3e9a)
+* [Text Classification with Extremely Small Datasets](https://towardsdatascience.com/text-classification-with-extremely-small-datasets-333d322caee2)
+* [Using Gradient Boosting for Time Series prediction tasks](https://towardsdatascience.com/using-gradient-boosting-for-time-series-prediction-tasks-600fac66a5fc)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2820,6 +2836,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Quickly Build and Deploy a Dashboard with Streamlit](https://towardsdatascience.com/quickly-build-and-deploy-an-application-with-streamlit-988ca08c7e83)
 * [600X t-SNE speedup with RAPIDS](https://towardsdatascience.com/600x-t-sne-speedup-with-rapids-5b4cf1f62059)
 * [Image processing using scikit image](https://towardsdatascience.com/image-processing-using-scikit-image-cb57ce4321ed)
+* [One Word of Code to Stop Using Pandas So Slowly](https://towardsdatascience.com/one-word-of-code-to-stop-using-pandas-so-slowly-793e0a81343c)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -3127,6 +3144,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Building a Content Based Recommender for Data Science Articles](https://towardsdatascience.com/building-a-content-based-recommender-for-data-science-articles-728e5ec7d63d)
 * [Recent advances in deep recommender systems](https://www.slideshare.net/NaverEngineering/recent-advances-in-deep-recommender-systems)
 * [How Youtube is recommending your next video](https://medium.com/vantageai/how-youtube-is-recommending-your-next-video-7e5f1a6bd6d9)
+* [Powered by AI: Instagram’s Explore recommender system](https://instagram-engineering.com/powered-by-ai-instagrams-explore-recommender-system-7ca901d2a882)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
