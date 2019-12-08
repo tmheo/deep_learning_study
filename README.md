@@ -1199,6 +1199,13 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [AI x Bookathon | 인공지능을 [수필 쓰는 작가]로 학습시켜보자!](https://jeinalog.tistory.com/25)
   * [동영상입력 행동분류 모델 튜토리얼 소개](https://tykimos.github.io/2019/11/30/Video_Input_Multiclass_Recogintion_Model/)
   * [Fine-tuning BERT with Keras and tf.Module](https://towardsdatascience.com/fine-tuning-bert-with-keras-and-tf-module-ed24ea91cff2)
+  * [Converting From Keras To PyTorch Lightning](https://towardsdatascience.com/converting-from-keras-to-pytorch-lightning-be40326d7b7d)
+  * [How to Gain State-Of-The-Art Result on Tabular Data with Deep Learning and Embedding Layers](https://towardsdatascience.com/how-to-gain-state-of-the-art-result-on-tabular-data-with-deep-learning-and-embedding-layers-d1eb6b83c52c)
+  * [Do it for the ‘gram: Instagram-style Caption Generator](https://towardsdatascience.com/do-it-for-the-gram-instagram-style-caption-generator-4e7044766e34)
+  * [Identifying Hate Speech with BERT and CNN](https://towardsdatascience.com/identifying-hate-speech-with-bert-and-cnn-b7aa2cddd60d)
+  * [THE 7 QUESTIONS YOU NEED TO ASK TO OPERATE DEEP LEARNING INFRASTRUCTURE AT SCALE](https://jameskle.com/writes/deep-learning-infrastructure-tooling)
+  * [Multi-Label Image Classification in TensorFlow 2.0](https://towardsdatascience.com/multi-label-image-classification-in-tensorflow-2-0-7d4cf8a4bc72)
+  * [Painless Fine-Tuning of BERT in Pytorch](https://medium.com/swlh/painless-fine-tuning-of-bert-in-pytorch-b91c14912caa)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -2430,6 +2437,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Matthews Correlation Coefficient Is The Best Classification Metric You’ve Never Heard Of](https://towardsdatascience.com/the-best-classification-metric-youve-never-heard-of-the-matthews-correlation-coefficient-3bf50a2f3e9a)
 * [Text Classification with Extremely Small Datasets](https://towardsdatascience.com/text-classification-with-extremely-small-datasets-333d322caee2)
 * [Using Gradient Boosting for Time Series prediction tasks](https://towardsdatascience.com/using-gradient-boosting-for-time-series-prediction-tasks-600fac66a5fc)
+* [[re:Invent 2019 워크샵] Optimizing your machine learning models on Amazon SageMaker](https://dev.classmethod.jp/cloud/aws/reinvent2019-sagemaker-workshop-korean/)
+* [Feature Engineering Time](https://towardsdatascience.com/feature-engineering-time-3934038e0dbe)
+* [Using Spark to Predict Churn](https://towardsdatascience.com/using-spark-to-predict-churn-c69e675272bf)
+* [Open-Sourcing Metaflow, a Human-Centric Framework for Data Science](https://medium.com/netflix-techblog/open-sourcing-metaflow-a-human-centric-framework-for-data-science-fa72e04a5d9)
+* [LightGBM with the Focal Loss for imbalanced datasets](https://towardsdatascience.com/lightgbm-with-the-focal-loss-for-imbalanced-datasets-9836a9ae00ca)
+* [Hypothesis Testing in Machine Learning: What for and Why](https://medium.com/dataseries/hypothesis-testing-in-machine-learning-what-for-and-why-ad6ddf3d7af2)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2837,6 +2850,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [600X t-SNE speedup with RAPIDS](https://towardsdatascience.com/600x-t-sne-speedup-with-rapids-5b4cf1f62059)
 * [Image processing using scikit image](https://towardsdatascience.com/image-processing-using-scikit-image-cb57ce4321ed)
 * [One Word of Code to Stop Using Pandas So Slowly](https://towardsdatascience.com/one-word-of-code-to-stop-using-pandas-so-slowly-793e0a81343c)
+* [Streamlit 101: An in-depth introduction](https://towardsdatascience.com/streamlit-101-an-in-depth-introduction-fc8aad9492f2)
+* [Power up your Python Projects with Visual Studio Code](https://towardsdatascience.com/power-up-your-python-projects-with-visual-studio-code-401f78dd97eb)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -3145,6 +3160,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Recent advances in deep recommender systems](https://www.slideshare.net/NaverEngineering/recent-advances-in-deep-recommender-systems)
 * [How Youtube is recommending your next video](https://medium.com/vantageai/how-youtube-is-recommending-your-next-video-7e5f1a6bd6d9)
 * [Powered by AI: Instagram’s Explore recommender system](https://instagram-engineering.com/powered-by-ai-instagrams-explore-recommender-system-7ca901d2a882)
+* [Youtube 추천 시스템 분석](https://havefunlearningnewstuff.tistory.com/3)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
