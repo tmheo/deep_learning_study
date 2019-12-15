@@ -133,6 +133,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Advanced NLP with spaCy](https://course.spacy.io/)
   * [Introduction to NLP - Tutorial for Beginner](https://www.kaggle.com/vipulgandhi/introduction-to-nlp-tutorial-for-beginner)
   * [Learn on Towards Data Science](https://towardsdatascience.com/learn-on-towards-data-science-52245bc91451)
+  * [Natural Language Processing Best Practices & Examples](https://github.com/microsoft/nlp-recipes)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -1524,6 +1525,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Stanford Cars Classification using keras and fastai](https://github.com/sidml/Stanford-Cars-Classification)
   * [Korean BERT pre-trained cased \(KoBERT\)](https://github.com/SKTBrain/KoBERT)
   * [Running your TensorFlow Models in SageMaker Workshop](https://github.com/aws-samples/TensorFlow-in-SageMaker-workshop)
+  * [AIHub Dataset + Detectron2 Tutorial](https://github.com/visionNoob/detectron2_aihub_tutorial)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -2443,6 +2445,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Open-Sourcing Metaflow, a Human-Centric Framework for Data Science](https://medium.com/netflix-techblog/open-sourcing-metaflow-a-human-centric-framework-for-data-science-fa72e04a5d9)
 * [LightGBM with the Focal Loss for imbalanced datasets](https://towardsdatascience.com/lightgbm-with-the-focal-loss-for-imbalanced-datasets-9836a9ae00ca)
 * [Hypothesis Testing in Machine Learning: What for and Why](https://medium.com/dataseries/hypothesis-testing-in-machine-learning-what-for-and-why-ad6ddf3d7af2)
+* [Stacking made easy with Sklearn](https://towardsdatascience.com/stacking-made-easy-with-sklearn-e27a0793c92b)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2852,6 +2855,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [One Word of Code to Stop Using Pandas So Slowly](https://towardsdatascience.com/one-word-of-code-to-stop-using-pandas-so-slowly-793e0a81343c)
 * [Streamlit 101: An in-depth introduction](https://towardsdatascience.com/streamlit-101-an-in-depth-introduction-fc8aad9492f2)
 * [Power up your Python Projects with Visual Studio Code](https://towardsdatascience.com/power-up-your-python-projects-with-visual-studio-code-401f78dd97eb)
+* [How to Deploy a Streamlit App using an Amazon Free ec2 instance?](https://towardsdatascience.com/how-to-deploy-a-streamlit-app-using-an-amazon-free-ec2-instance-416a41f69dc3)
+* [이왕이면 다홍 데이터](https://www.slideshare.net/SubinAn1/ss-205782769)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
