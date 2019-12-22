@@ -134,6 +134,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Introduction to NLP - Tutorial for Beginner](https://www.kaggle.com/vipulgandhi/introduction-to-nlp-tutorial-for-beginner)
   * [Learn on Towards Data Science](https://towardsdatascience.com/learn-on-towards-data-science-52245bc91451)
   * [Natural Language Processing Best Practices & Examples](https://github.com/microsoft/nlp-recipes)
+  * [딥러닝을 위한 TensorFlow 2.0](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=169)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -1207,6 +1208,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [THE 7 QUESTIONS YOU NEED TO ASK TO OPERATE DEEP LEARNING INFRASTRUCTURE AT SCALE](https://jameskle.com/writes/deep-learning-infrastructure-tooling)
   * [Multi-Label Image Classification in TensorFlow 2.0](https://towardsdatascience.com/multi-label-image-classification-in-tensorflow-2-0-7d4cf8a4bc72)
   * [Painless Fine-Tuning of BERT in Pytorch](https://medium.com/swlh/painless-fine-tuning-of-bert-in-pytorch-b91c14912caa)
+  * [How to train YOLOv3 on Google COLAB to detect custom objects \(e.g: Gun detection\)](https://medium.com/@quangnhatnguyenle/how-to-train-yolov3-on-google-colab-to-detect-custom-objects-e-g-gun-detection-d3a1ee43eda1)
+  * [Horovod를 활용하여 Tensorflow에서 Multi GPU로 학습하기 \(BERT Distributed Training 해보기\)](https://y-rok.github.io/deep%20learning/2019/12/19/horovod-tensorflow.html)
+  * [Reducing your labeled data requirements \(2–5x\) for Deep Learning: Deep Mind’s new “Contrastive Predictive Coding 2.0”](https://medium.com/@lessw/reducing-your-labeled-data-requirements-2-5x-for-deep-learning-google-brains-new-contrastive-2ac0da0367ef)
+  * [Transformer \(Attention Is All You Need\) 구현하기 \(1/3\)](https://paul-hyun.github.io/transformer-01/)
+  * [Transformer \(Attention Is All You Need\) 구현하기 \(2/3\)](https://paul-hyun.github.io/transformer-02/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1526,6 +1532,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Korean BERT pre-trained cased \(KoBERT\)](https://github.com/SKTBrain/KoBERT)
   * [Running your TensorFlow Models in SageMaker Workshop](https://github.com/aws-samples/TensorFlow-in-SageMaker-workshop)
   * [AIHub Dataset + Detectron2 Tutorial](https://github.com/visionNoob/detectron2_aihub_tutorial)
+  * [Automatic Korean word spacing with TensorFlow 2.0 + Keras](https://github.com/fuzzythecat/awesome-spacer)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -2446,6 +2453,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [LightGBM with the Focal Loss for imbalanced datasets](https://towardsdatascience.com/lightgbm-with-the-focal-loss-for-imbalanced-datasets-9836a9ae00ca)
 * [Hypothesis Testing in Machine Learning: What for and Why](https://medium.com/dataseries/hypothesis-testing-in-machine-learning-what-for-and-why-ad6ddf3d7af2)
 * [Stacking made easy with Sklearn](https://towardsdatascience.com/stacking-made-easy-with-sklearn-e27a0793c92b)
+* [Rules of Machine Learning: Best Practices for ML Engineering 정리](https://zzsza.github.io/data/2019/12/15/rules-of-ml/)
+* [Three Model Explanability Methods Every Data Scientist Should Know](https://towardsdatascience.com/three-model-explanability-methods-every-data-scientist-should-know-c332bdfd8df)
+* [Stratified Group k-Fold Cross-Validation](https://www.kaggle.com/jakubwasikowski/stratified-group-k-fold-cross-validation)
+* [The Winding Road to Better Machine Learning Infrastructure Through Tensorflow Extended and Kubeflow](https://labs.spotify.com/2019/12/13/the-winding-road-to-better-machine-learning-infrastructure-through-tensorflow-extended-and-kubeflow/)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3166,6 +3177,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [How Youtube is recommending your next video](https://medium.com/vantageai/how-youtube-is-recommending-your-next-video-7e5f1a6bd6d9)
 * [Powered by AI: Instagram’s Explore recommender system](https://instagram-engineering.com/powered-by-ai-instagrams-explore-recommender-system-7ca901d2a882)
 * [Youtube 추천 시스템 분석](https://havefunlearningnewstuff.tistory.com/3)
+* [Building An Image Recommendation System For News Articles using Word and Sentence Embeddings](https://towardsdatascience.com/building-an-image-recommendation-system-for-news-articles-using-word-and-sentence-embeddings-a5acb485a445)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
