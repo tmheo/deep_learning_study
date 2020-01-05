@@ -1213,6 +1213,18 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Reducing your labeled data requirements \(2–5x\) for Deep Learning: Deep Mind’s new “Contrastive Predictive Coding 2.0”](https://medium.com/@lessw/reducing-your-labeled-data-requirements-2-5x-for-deep-learning-google-brains-new-contrastive-2ac0da0367ef)
   * [Transformer \(Attention Is All You Need\) 구현하기 \(1/3\)](https://paul-hyun.github.io/transformer-01/)
   * [Transformer \(Attention Is All You Need\) 구현하기 \(2/3\)](https://paul-hyun.github.io/transformer-02/)
+  * [Transformer \(Attention Is All You Need\) 구현하기 \(3/3\)](https://paul-hyun.github.io/transformer-03/)
+  * [GPT\(Generative Pre-Training\) 구현하기 \(1/2\)](https://paul-hyun.github.io/gpt-01/)
+  * [GPT\(Generative Pre-Training\) 구현하기 \(2/2\)](https://paul-hyun.github.io/gpt-02/)
+  * [BERT\(Bidirectional Encoder Representations from Transformers\) 구현하기 \(1/2\)](https://paul-hyun.github.io/bert-01/)
+  * [BERT\(Bidirectional Encoder Representations from Transformers\) 구현하기 \(2/2\)](https://paul-hyun.github.io/bert-02/)
+  * [SimpleRepresentations: BERT, RoBERTa, XLM, XLNet and DistilBERT Features for Any NLP Task](https://medium.com/swlh/simplerepresentations-bert-roberta-xlm-xlnet-and-distilbert-features-for-any-nlp-task-468b5ceb6f0e)
+  * [Running distributed TensorFlow training with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/running-distributed-tensorflow-training-with-amazon-sagemaker/)
+  * [AutoGluon: Deep Learning AutoML](https://towardsdatascience.com/autogluon-deep-learning-automl-5cdb4e2388ec)
+  * [Fastai with 🤗Transformers \(BERT, RoBERTa, XLNet, XLM, DistilBERT\)](https://towardsdatascience.com/fastai-with-transformers-bert-roberta-xlnet-xlm-distilbert-4f41ee18ecb2)
+  * [Image Similarity Detection in Action with Tensorflow 2.0](https://towardsdatascience.com/image-similarity-detection-in-action-with-tensorflow-2-0-b8d9a78b2509)
+  * [Introduction to Deep Anomaly Detection](https://kh-kim.github.io/blog/2019/12/12/Deep-Anomaly-Detection.html)
+  * [Autoencoder based Anomaly Detection](https://kh-kim.github.io/blog/2019/12/15/Autoencoder-based-anomaly-detection.html)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1412,6 +1424,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Attention \(1\): What is Attention?](https://www.youtube.com/watch?v=CIQ354Y_gOc)
   * [Learn Natural Language Processing](https://www.youtube.com/watch?v=GazFsfcijXQ)
   * [PR-201: Bag of Tricks for Image Classification with Convolutional Neural Networks](https://www.youtube.com/watch?v=D-baIgejA4M)
+  * [Solving NLP Problems with BERT | Yuanhao Wu | Kaggle](https://www.youtube.com/watch?v=rQQAIJIf60s)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -2457,6 +2470,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Three Model Explanability Methods Every Data Scientist Should Know](https://towardsdatascience.com/three-model-explanability-methods-every-data-scientist-should-know-c332bdfd8df)
 * [Stratified Group k-Fold Cross-Validation](https://www.kaggle.com/jakubwasikowski/stratified-group-k-fold-cross-validation)
 * [The Winding Road to Better Machine Learning Infrastructure Through Tensorflow Extended and Kubeflow](https://labs.spotify.com/2019/12/13/the-winding-road-to-better-machine-learning-infrastructure-through-tensorflow-extended-and-kubeflow/)
+* [Scaling Machine Learning Algorithms\(Fbprophet/XGBoost\) with pyspark on W-MLP](https://medium.com/walmartlabs/scaling-machine-learning-algorithms-fbprophet-xgboost-with-pyspark-on-w-mlp-405fadca1c19)
+* [Introducing Xverse! — A python package for feature selection and transformation](https://towardsdatascience.com/introducing-xverse-a-python-package-for-feature-selection-and-transformation-17193cdcd067)
+* [Explaining black box models-Ensemble and Deep Learning using LIME and SHAP](https://medium.com/ibm-garage/explaining-black-box-models-ensemble-and-deep-learning-using-lime-and-shap-53c59d9f09b3?)
+* [Practical Lessons for Scaling Machine Learning Solutions in the Real World](https://towardsdatascience.com/practical-lessons-for-scaling-machine-learning-solutions-in-the-real-world-e33c7254a0f6)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2868,6 +2885,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Power up your Python Projects with Visual Studio Code](https://towardsdatascience.com/power-up-your-python-projects-with-visual-studio-code-401f78dd97eb)
 * [How to Deploy a Streamlit App using an Amazon Free ec2 instance?](https://towardsdatascience.com/how-to-deploy-a-streamlit-app-using-an-amazon-free-ec2-instance-416a41f69dc3)
 * [이왕이면 다홍 데이터](https://www.slideshare.net/SubinAn1/ss-205782769)
+* [Learn Metaflow in 10 mins — Netflix’s Python/R Framework for Data Science](https://towardsdatascience.com/learn-metaflow-in-10-mins-netflixs-python-r-framework-for-data-scientists-2ef124c716e4)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -3178,6 +3196,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Powered by AI: Instagram’s Explore recommender system](https://instagram-engineering.com/powered-by-ai-instagrams-explore-recommender-system-7ca901d2a882)
 * [Youtube 추천 시스템 분석](https://havefunlearningnewstuff.tistory.com/3)
 * [Building An Image Recommendation System For News Articles using Word and Sentence Embeddings](https://towardsdatascience.com/building-an-image-recommendation-system-for-news-articles-using-word-and-sentence-embeddings-a5acb485a445)
+* [Explicit Recommender System](https://medium.com/@rinabuoy13/explicit-recommender-system-matrix-factorization-in-pytorch-f3779bb55d74)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
