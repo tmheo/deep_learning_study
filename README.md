@@ -1097,6 +1097,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [카톡 데이터는 어떻게 정제할 수 있을까? - Dialog-BERT 만들기 1편](https://blog.pingpong.us/dialog-bert-1/)
   * [누가누가 잘하나! 대화체와 합이 잘 맞는 Tokenizer를 찾아보자! - Dialog-BERT 만들기 2편](https://blog.pingpong.us/tokenizer/)
   * [카톡 대화 데이터를 BERT로 잘 학습시킬 수 있을까? - Dialog-BERT 만들기 3편](https://blog.pingpong.us/dialog-bert-pretrain/)
+  * [대화의 Context를 반영한 답변을 생성할 수 있을까? - Dialog-BERT 만들기 4편](https://blog.pingpong.us/ml-dialog-bert-multiturn/)
   * [Introducing MASS – A pre-training method that outperforms BERT and GPT in sequence to sequence language generation tasks](https://www.microsoft.com/en-us/research/blog/introducing-mass-a-pre-training-method-that-outperforms-bert-and-gpt-in-sequence-to-sequence-language-generation-tasks/)
   * [How a simple mix of object-oriented programming can sharpen your deep learning prototype](https://towardsdatascience.com/how-a-simple-mix-of-object-oriented-programming-can-sharpen-your-deep-learning-prototype-19893bd969bd)
   * [Bring your own deep learning framework to Amazon SageMaker with Model Server for Apache MXNet](https://aws.amazon.com/ko/blogs/machine-learning/bring-your-own-deep-learning-framework-to-amazon-sagemaker-with-model-server-for-apache-mxnet/)
@@ -1225,6 +1226,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Image Similarity Detection in Action with Tensorflow 2.0](https://towardsdatascience.com/image-similarity-detection-in-action-with-tensorflow-2-0-b8d9a78b2509)
   * [Introduction to Deep Anomaly Detection](https://kh-kim.github.io/blog/2019/12/12/Deep-Anomaly-Detection.html)
   * [Autoencoder based Anomaly Detection](https://kh-kim.github.io/blog/2019/12/15/Autoencoder-based-anomaly-detection.html)
+  * [YOLACT with Google Colab](https://www.immersivelimit.com/tutorials/yolact-with-google-colab)
+  * [Transformer - Harder, Better, Faster, Stronger](https://blog.pingpong.us/ml-transformer/)
+  * [Anomaly Detection with Autoencoders in TensorFlow 2.0](https://towardsdatascience.com/anomaly-detection-with-autoencoders-in-tensorflow-2-0-a1a6c9ebf495)
+  * [Text Classification with Hugging Face Transformers in TensorFlow 2 \(Without Tears\)](https://towardsdatascience.com/text-classification-with-hugging-face-transformers-in-tensorflow-2-without-tears-ee50e4f3e7ed)
+  * [A Keras-Based Autoencoder for Anomaly Detection in Sequences](https://towardsdatascience.com/a-keras-based-autoencoder-for-anomaly-detection-in-sequences-75337eaed0e5)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1425,6 +1431,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Learn Natural Language Processing](https://www.youtube.com/watch?v=GazFsfcijXQ)
   * [PR-201: Bag of Tricks for Image Classification with Convolutional Neural Networks](https://www.youtube.com/watch?v=D-baIgejA4M)
   * [Solving NLP Problems with BERT | Yuanhao Wu | Kaggle](https://www.youtube.com/watch?v=rQQAIJIf60s)
+  * [[통계청 현직 AI] Colab에서 케라스 BERT로 네이버 영화 감성분석 따라하기 Keras Bert implementation on google Colaboratory](https://www.youtube.com/watch?v=OOfCI8R0jr8)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -2474,6 +2481,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Introducing Xverse! — A python package for feature selection and transformation](https://towardsdatascience.com/introducing-xverse-a-python-package-for-feature-selection-and-transformation-17193cdcd067)
 * [Explaining black box models-Ensemble and Deep Learning using LIME and SHAP](https://medium.com/ibm-garage/explaining-black-box-models-ensemble-and-deep-learning-using-lime-and-shap-53c59d9f09b3?)
 * [Practical Lessons for Scaling Machine Learning Solutions in the Real World](https://towardsdatascience.com/practical-lessons-for-scaling-machine-learning-solutions-in-the-real-world-e33c7254a0f6)
+* [NLP 튜토리얼: 라벨링 없이 트위터 유저들을 자동으로 나누어보기](https://beomi.github.io/2020/01/05/Clustering_Twitter_Users/)
+* [How to build machine learning model at large scale with Apache Spark and LightGBM for credit card fraud detection?](https://towardsdatascience.com/how-to-perform-credit-card-fraud-detection-at-large-scale-with-apache-spark-and-lightgbm-61a982de8672)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2886,6 +2895,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [How to Deploy a Streamlit App using an Amazon Free ec2 instance?](https://towardsdatascience.com/how-to-deploy-a-streamlit-app-using-an-amazon-free-ec2-instance-416a41f69dc3)
 * [이왕이면 다홍 데이터](https://www.slideshare.net/SubinAn1/ss-205782769)
 * [Learn Metaflow in 10 mins — Netflix’s Python/R Framework for Data Science](https://towardsdatascience.com/learn-metaflow-in-10-mins-netflixs-python-r-framework-for-data-scientists-2ef124c716e4)
+* [Voila를 사용해 Jupyter Notebook Dashboard 만들기](https://zzsza.github.io/development/2020/01/06/jupyter_notebook_voila_dashboard/)
+* [O'reilly Strata Data Conference New York 2019 후기](https://speakerdeck.com/socar/oreilly-strata-data-conference-new-york-2019-hugi)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -3197,6 +3208,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Youtube 추천 시스템 분석](https://havefunlearningnewstuff.tistory.com/3)
 * [Building An Image Recommendation System For News Articles using Word and Sentence Embeddings](https://towardsdatascience.com/building-an-image-recommendation-system-for-news-articles-using-word-and-sentence-embeddings-a5acb485a445)
 * [Explicit Recommender System](https://medium.com/@rinabuoy13/explicit-recommender-system-matrix-factorization-in-pytorch-f3779bb55d74)
+* [유튜브 추천시스템 논문 리뷰 Part 1 - The Youtube Video Recommendation System \(RecSys 2010\)](https://yhs968.blogspot.com/2019/07/1-youtube-video-recommendation.html)
+* [유튜브 추천시스템 논문 리뷰 Part 2 - Deep Neural Networks for YouTube Recommendations \(RecSys 2016\)](https://yhs968.blogspot.com/2019/09/part-2-deep-neural-networks-for-youtube.html)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
