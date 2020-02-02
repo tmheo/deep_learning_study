@@ -1231,6 +1231,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Anomaly Detection with Autoencoders in TensorFlow 2.0](https://towardsdatascience.com/anomaly-detection-with-autoencoders-in-tensorflow-2-0-a1a6c9ebf495)
   * [Text Classification with Hugging Face Transformers in TensorFlow 2 \(Without Tears\)](https://towardsdatascience.com/text-classification-with-hugging-face-transformers-in-tensorflow-2-without-tears-ee50e4f3e7ed)
   * [A Keras-Based Autoencoder for Anomaly Detection in Sequences](https://towardsdatascience.com/a-keras-based-autoencoder-for-anomaly-detection-in-sequences-75337eaed0e5)
+  * [“Anomaly Detection 개요： \(1\) 이상치 탐지 분야에 대한 소개 및 주요 문제와 핵심 용어, 산업 현장 적용 사례 정리”](http://research.sualab.com/introduction/review/2020/01/30/anomaly-detection-overview-1.html)
+  * [그래프 임베딩 요약](https://medium.com/watcha/%EA%B7%B8%EB%9E%98%ED%94%84-%EC%9E%84%EB%B2%A0%EB%94%A9-%EC%9A%94%EC%95%BD-bc2732048999)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -2483,6 +2485,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Practical Lessons for Scaling Machine Learning Solutions in the Real World](https://towardsdatascience.com/practical-lessons-for-scaling-machine-learning-solutions-in-the-real-world-e33c7254a0f6)
 * [NLP 튜토리얼: 라벨링 없이 트위터 유저들을 자동으로 나누어보기](https://beomi.github.io/2020/01/05/Clustering_Twitter_Users/)
 * [How to build machine learning model at large scale with Apache Spark and LightGBM for credit card fraud detection?](https://towardsdatascience.com/how-to-perform-credit-card-fraud-detection-at-large-scale-with-apache-spark-and-lightgbm-61a982de8672)
+* [How to succeed in code \(kernel\) competitions | Dmitry Gordeev | Kaggle Days](https://www.youtube.com/watch?v=HCg_ewbNEss)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2897,6 +2900,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Learn Metaflow in 10 mins — Netflix’s Python/R Framework for Data Science](https://towardsdatascience.com/learn-metaflow-in-10-mins-netflixs-python-r-framework-for-data-scientists-2ef124c716e4)
 * [Voila를 사용해 Jupyter Notebook Dashboard 만들기](https://zzsza.github.io/development/2020/01/06/jupyter_notebook_voila_dashboard/)
 * [O'reilly Strata Data Conference New York 2019 후기](https://speakerdeck.com/socar/oreilly-strata-data-conference-new-york-2019-hugi)
+* [Automated reports with Jupyter Notebooks \(using Jupytext and Papermill\)](https://medium.com/capital-fund-management/automated-reports-with-jupyter-notebooks-using-jupytext-and-papermill-619e60c37330)
+* [A/B 테스트를 적용하기 어려울 때, 이벤트 효과 추정하기](https://www.slideshare.net/lumiamitie/ab-20200118-224983073)
+* [Plotnine: Grammar of Graphics for Python](https://www.datascienceworkshops.com/blog/plotnine-grammar-of-graphics-for-python/)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
