@@ -1233,6 +1233,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [A Keras-Based Autoencoder for Anomaly Detection in Sequences](https://towardsdatascience.com/a-keras-based-autoencoder-for-anomaly-detection-in-sequences-75337eaed0e5)
   * [“Anomaly Detection 개요： \(1\) 이상치 탐지 분야에 대한 소개 및 주요 문제와 핵심 용어, 산업 현장 적용 사례 정리”](http://research.sualab.com/introduction/review/2020/01/30/anomaly-detection-overview-1.html)
   * [그래프 임베딩 요약](https://medium.com/watcha/%EA%B7%B8%EB%9E%98%ED%94%84-%EC%9E%84%EB%B2%A0%EB%94%A9-%EC%9A%94%EC%95%BD-bc2732048999)
+  * [Transformer - Illustration and code](https://nbviewer.jupyter.org/github/vinsis/math-and-ml-notes/blob/master/notebooks/Transformer%20-%20Illustration%20and%20code.ipynb)
+  * [Using BERT For Classifying Documents with Long Texts](https://medium.com/@armandj.olivares/using-bert-for-classifying-documents-with-long-texts-5c3e7b04573d)
+  * [Fast AutoAugment - 1.데이터 어그먼테이션 연구 동향을 소개합니다](https://www.kakaobrain.com/blog/64)
+  * [Fast AutoAugment - 2.이미지 어그먼테이션 정책 자동 탐색 알고리즘을 소개합니다](https://kakaobrain.com/blog/116)
+  * [Combining GPT-2 and BERT to make a fake person](https://www.bonkerfield.org/2020/02/combining-gpt-2-and-bert/)
+  * [How to build a convincing reddit personality with GPT2 and BERT](https://www.bonkerfield.org/2020/02/reddit-bot-gpt2-bert/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -2486,6 +2492,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [NLP 튜토리얼: 라벨링 없이 트위터 유저들을 자동으로 나누어보기](https://beomi.github.io/2020/01/05/Clustering_Twitter_Users/)
 * [How to build machine learning model at large scale with Apache Spark and LightGBM for credit card fraud detection?](https://towardsdatascience.com/how-to-perform-credit-card-fraud-detection-at-large-scale-with-apache-spark-and-lightgbm-61a982de8672)
 * [How to succeed in code \(kernel\) competitions | Dmitry Gordeev | Kaggle Days](https://www.youtube.com/watch?v=HCg_ewbNEss)
+* [Machine Learning의 Feature Store란?](https://zzsza.github.io/mlops/2020/02/02/feature-store/)
+* [MNIST 2D t-SNE with Rapids](https://www.kaggle.com/tunguz/mnist-2d-t-sne-with-rapids)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2903,6 +2911,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Automated reports with Jupyter Notebooks \(using Jupytext and Papermill\)](https://medium.com/capital-fund-management/automated-reports-with-jupyter-notebooks-using-jupytext-and-papermill-619e60c37330)
 * [A/B 테스트를 적용하기 어려울 때, 이벤트 효과 추정하기](https://www.slideshare.net/lumiamitie/ab-20200118-224983073)
 * [Plotnine: Grammar of Graphics for Python](https://www.datascienceworkshops.com/blog/plotnine-grammar-of-graphics-for-python/)
+* [Endless River: An Overview of DataViz for Categorical Data](https://medium.com/nightingale/endless-river-an-overview-of-dataviz-for-categorical-data-4780b68b42e8)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
