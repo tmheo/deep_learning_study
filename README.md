@@ -1239,6 +1239,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Fast AutoAugment - 2.이미지 어그먼테이션 정책 자동 탐색 알고리즘을 소개합니다](https://kakaobrain.com/blog/116)
   * [Combining GPT-2 and BERT to make a fake person](https://www.bonkerfield.org/2020/02/combining-gpt-2-and-bert/)
   * [How to build a convincing reddit personality with GPT2 and BERT](https://www.bonkerfield.org/2020/02/reddit-bot-gpt2-bert/)
+  * [Image Augmentation for Deep Learning using PyTorch — Feature Engineering for Images](https://medium.com/analytics-vidhya/image-augmentation-for-deep-learning-using-pytorch-feature-engineering-for-images-3f4a64122614)
+  * [Visual Paper Summary: ALBERT \(A Lite BERT\)](https://amitness.com/2020/02/albert-visual-summary/)
+  * [Illustrating the Reformer](https://towardsdatascience.com/illustrating-the-reformer-393575ac6ba0)
+  * [“Self-training with Noisy Student improves ImageNet classification Review”](https://hoya012.github.io/blog/Self-training-with-Noisy-Student-improves-ImageNet-classification-Review/)
+  * [Semantic Segmentation을 활용한 차량 파손 탐지 딥러닝 모델 개발기](https://tech.socarcorp.kr/data/2020/02/13/car-damage-segmentation-model.html)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1440,6 +1445,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [PR-201: Bag of Tricks for Image Classification with Convolutional Neural Networks](https://www.youtube.com/watch?v=D-baIgejA4M)
   * [Solving NLP Problems with BERT | Yuanhao Wu | Kaggle](https://www.youtube.com/watch?v=rQQAIJIf60s)
   * [[통계청 현직 AI] Colab에서 케라스 BERT로 네이버 영화 감성분석 따라하기 Keras Bert implementation on google Colaboratory](https://www.youtube.com/watch?v=OOfCI8R0jr8)
+  * [Subword-level Word Vector Representations for Korean - 주현진](https://www.youtube.com/watch?v=QR5XFn5rdMQ)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -1561,6 +1567,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Running your TensorFlow Models in SageMaker Workshop](https://github.com/aws-samples/TensorFlow-in-SageMaker-workshop)
   * [AIHub Dataset + Detectron2 Tutorial](https://github.com/visionNoob/detectron2_aihub_tutorial)
   * [Automatic Korean word spacing with TensorFlow 2.0 + Keras](https://github.com/fuzzythecat/awesome-spacer)
+  * [Dacon 14th Competition 1st Place- "Financial smishing character analysis"](https://github.com/hotorch/Dacon_14th_Competition_code)
+  * [Dacon 14th Competition [euphoria] public 17위 private 10위 코드 공유](https://dacon.io/competitions/official/235401/codeshare/662)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -2494,6 +2502,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [How to succeed in code \(kernel\) competitions | Dmitry Gordeev | Kaggle Days](https://www.youtube.com/watch?v=HCg_ewbNEss)
 * [Machine Learning의 Feature Store란?](https://zzsza.github.io/mlops/2020/02/02/feature-store/)
 * [MNIST 2D t-SNE with Rapids](https://www.kaggle.com/tunguz/mnist-2d-t-sne-with-rapids)
+* [A new perspective on Shapley values: the Naïve Shapley method](https://towardsdatascience.com/a-new-perspective-on-shapley-values-the-radical-shapley-method-6c2f4af7f922)
+* [Building a real-time prediction pipeline using Spark Structured Streaming and Microservices](https://towardsdatascience.com/building-a-real-time-prediction-pipeline-using-spark-structured-streaming-and-microservices-626dc20899eb)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2912,6 +2922,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [A/B 테스트를 적용하기 어려울 때, 이벤트 효과 추정하기](https://www.slideshare.net/lumiamitie/ab-20200118-224983073)
 * [Plotnine: Grammar of Graphics for Python](https://www.datascienceworkshops.com/blog/plotnine-grammar-of-graphics-for-python/)
 * [Endless River: An Overview of DataViz for Categorical Data](https://medium.com/nightingale/endless-river-an-overview-of-dataviz-for-categorical-data-4780b68b42e8)
+* [Comparing Rows Between Two Pandas DataFrames](https://hackingandslacking.com/comparing-rows-between-two-pandas-dataframes-c3b174ff560e)
+* [Matplotlib Defaults & Fonts](https://jehyunlee.github.io/2020/02/13/Python-DS-2-matplotlib/)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
