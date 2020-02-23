@@ -1244,6 +1244,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Illustrating the Reformer](https://towardsdatascience.com/illustrating-the-reformer-393575ac6ba0)
   * [“Self-training with Noisy Student improves ImageNet classification Review”](https://hoya012.github.io/blog/Self-training-with-Noisy-Student-improves-ImageNet-classification-Review/)
   * [Semantic Segmentation을 활용한 차량 파손 탐지 딥러닝 모델 개발기](https://tech.socarcorp.kr/data/2020/02/13/car-damage-segmentation-model.html)
+  * [Build a Textual Similarity Web App with TensorFlow.js](https://towardsdatascience.com/how-to-build-a-textual-similarity-analysis-web-app-aa3139d4fb71)
+  * [구글의 Open-Domain 챗봇 'Meena' 논문 리뷰](https://blog.pingpong.us/meena-presentation/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1569,6 +1571,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Automatic Korean word spacing with TensorFlow 2.0 + Keras](https://github.com/fuzzythecat/awesome-spacer)
   * [Dacon 14th Competition 1st Place- "Financial smishing character analysis"](https://github.com/hotorch/Dacon_14th_Competition_code)
   * [Dacon 14th Competition [euphoria] public 17위 private 10위 코드 공유](https://dacon.io/competitions/official/235401/codeshare/662)
+  * [Best Practices, code samples, and documentation for Computer Vision](https://github.com/microsoft/computervision-recipes/)
+  * [A list of NLP\(Natural Language Processing\) tutorials built on PyTorch](https://github.com/lyeoni/nlp-tutorial)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
