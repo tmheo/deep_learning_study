@@ -1448,6 +1448,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Solving NLP Problems with BERT | Yuanhao Wu | Kaggle](https://www.youtube.com/watch?v=rQQAIJIf60s)
   * [[통계청 현직 AI] Colab에서 케라스 BERT로 네이버 영화 감성분석 따라하기 Keras Bert implementation on google Colaboratory](https://www.youtube.com/watch?v=OOfCI8R0jr8)
   * [Subword-level Word Vector Representations for Korean - 주현진](https://www.youtube.com/watch?v=QR5XFn5rdMQ)
+  * [[통계청 공무원 AI] BERT로 Q&A 구현해보기 With SQuAD AND KERAS](https://www.youtube.com/watch?v=LuApA264Wbs)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -2508,6 +2509,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [MNIST 2D t-SNE with Rapids](https://www.kaggle.com/tunguz/mnist-2d-t-sne-with-rapids)
 * [A new perspective on Shapley values: the Naïve Shapley method](https://towardsdatascience.com/a-new-perspective-on-shapley-values-the-radical-shapley-method-6c2f4af7f922)
 * [Building a real-time prediction pipeline using Spark Structured Streaming and Microservices](https://towardsdatascience.com/building-a-real-time-prediction-pipeline-using-spark-structured-streaming-and-microservices-626dc20899eb)
+* [Kaggler Pipeline for Data Science Competitions](http://kaggler.com/2020/02/19/kaggler-pipeline.html)
+* [Explain Your Model with Microsoft’s InterpretML](https://medium.com/analytics-vidhya/explain-your-model-with-microsofts-interpretml-5daab1d693b4)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2928,6 +2931,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Endless River: An Overview of DataViz for Categorical Data](https://medium.com/nightingale/endless-river-an-overview-of-dataviz-for-categorical-data-4780b68b42e8)
 * [Comparing Rows Between Two Pandas DataFrames](https://hackingandslacking.com/comparing-rows-between-two-pandas-dataframes-c3b174ff560e)
 * [Matplotlib Defaults & Fonts](https://jehyunlee.github.io/2020/02/13/Python-DS-2-matplotlib/)
+* [VS CODE를 웹 상에 띄워놓고 어디서든 코딩하기](https://eungbean.github.io/2019/11/04/remote-vscode/)
+* [Getting Started to Work With Jupyter Notebooks in Visual Studio Code](https://towardsdatascience.com/getting-started-with-jupyter-notebooks-in-visual-studio-code-5dcccb3f739b)
+* [Learn HiPlot in 6 mins — Facebook’s Python Library for Machine Learning Visualizations](https://levelup.gitconnected.com/learn-hiplot-in-6-mins-facebooks-python-library-for-machine-learning-visualizations-330129d558ac)
+* [Version control with Jupyter Notebook](https://towardsdatascience.com/version-control-with-jupyter-notebook-b9630bc5996e)
+* [Master Spark fundamentals & optimizations](https://www.streamhub.co.uk/apache-spark-tuning-manual/)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
