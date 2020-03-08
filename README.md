@@ -136,6 +136,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Natural Language Processing Best Practices & Examples](https://github.com/microsoft/nlp-recipes)
   * [딥러닝을 위한 TensorFlow 2.0](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=169)
   * [자연어 언어모델 ‘BERT’](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=164)
+  * [the-incredible-pytorch](https://www.ritchieng.com/the-incredible-pytorch/)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
