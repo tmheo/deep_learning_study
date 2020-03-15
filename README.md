@@ -1246,6 +1246,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Illustrating the Reformer](https://towardsdatascience.com/illustrating-the-reformer-393575ac6ba0)
   * [“Self-training with Noisy Student improves ImageNet classification Review”](https://hoya012.github.io/blog/Self-training-with-Noisy-Student-improves-ImageNet-classification-Review/)
   * [Semantic Segmentation을 활용한 차량 파손 탐지 딥러닝 모델 개발기](https://tech.socarcorp.kr/data/2020/02/13/car-damage-segmentation-model.html)
+  * [딥러닝 모델 Serving 간단 구축기](https://tech.socarcorp.kr/data/2020/03/10/ml-model-serving.html)
   * [Build a Textual Similarity Web App with TensorFlow.js](https://towardsdatascience.com/how-to-build-a-textual-similarity-analysis-web-app-aa3139d4fb71)
   * [구글의 Open-Domain 챗봇 'Meena' 논문 리뷰](https://blog.pingpong.us/meena-presentation/)
   * [Deep Learning Image Classification Guidebook [1] LeNet, AlexNet, ZFNet, VGG, GoogLeNet, ResNet](https://hoya012.github.io/blog/deeplearning-classification-guidebook-1/)
@@ -1255,6 +1256,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Simplify And Scale Your PyTorch Code With PyTorch Lighting](https://towardsdatascience.com/how-to-refactor-your-pytorch-code-to-get-these-42-benefits-of-pytorch-lighting-6fdd0dc97538)
   * [From PyTorch to PyTorch Lightning — A gentle introduction](https://towardsdatascience.com/from-pytorch-to-pytorch-lightning-a-gentle-introduction-b371b7caaf09)
   * [How to use SWA in PyTorch](https://www.kaggle.com/c/google-quest-challenge/discussion/129936)
+  * [How to get 4x speedup and better generalization using the right batch size](https://towardsdatascience.com/implementing-a-batch-size-finder-in-fastai-how-to-get-a-4x-speedup-with-better-generalization-813d686f6bdf)
+  * [Explore image augmentations using a convenient tool](https://towardsdatascience.com/explore-image-augmentations-using-a-convenient-tool-a199b4ac8214)
+  * [딥러닝 모델 서비스 A-Z 1편 - 연산 최적화 및 모델 경량화](https://blog.pingpong.us/ml-model-optimize/)
+  * [Get started with PyTorch, Cloud TPUs, and Colab](https://medium.com/pytorch/get-started-with-pytorch-cloud-tpus-and-colab-a24757b8f7fc)
+  * [AutoML-Zero：Evolving Machine Learning Algorithms From Scratch Review](https://hoya012.github.io/blog/automl-zero-review/)
+  * [Convolutional Neural Networks](https://cezannec.github.io/Convolutional_Neural_Networks/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1473,6 +1480,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [[통계청 현직 AI] Colab에서 케라스 BERT로 네이버 영화 감성분석 따라하기 Keras Bert implementation on google Colaboratory](https://www.youtube.com/watch?v=OOfCI8R0jr8)
   * [Subword-level Word Vector Representations for Korean - 주현진](https://www.youtube.com/watch?v=QR5XFn5rdMQ)
   * [[통계청 공무원 AI] BERT로 Q&A 구현해보기 With SQuAD AND KERAS](https://www.youtube.com/watch?v=LuApA264Wbs)
+  * [AutoML-Zero](https://www.youtube.com/watch?v=aumUBLMfIA4)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -2537,6 +2545,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Explain Your Model with Microsoft’s InterpretML](https://medium.com/analytics-vidhya/explain-your-model-with-microsofts-interpretml-5daab1d693b4)
 * [Kubeflow 1.0: Cloud-Native ML for Everyone](https://medium.com/kubeflow/kubeflow-1-0-cloud-native-ml-for-everyone-a3950202751)
 * [How To Painlessly Analyze Your Time Series](https://towardsdatascience.com/how-to-painlessly-analyze-your-time-series-f52dab7ea80d)
+* [AWS Korea AI/ML Workshop](https://www.sagemaker-workshop-kr.com/kr/)
+* [Active Learning: getting the most out of limited data](https://towardsdatascience.com/active-learning-getting-the-most-out-of-limited-data-16b472f25370)
+* [지구별 여행자님의 Kubeflow Blog](https://www.kangwoo.kr/category/machine-learning/kubeflow/)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2962,6 +2973,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Learn HiPlot in 6 mins — Facebook’s Python Library for Machine Learning Visualizations](https://levelup.gitconnected.com/learn-hiplot-in-6-mins-facebooks-python-library-for-machine-learning-visualizations-330129d558ac)
 * [Version control with Jupyter Notebook](https://towardsdatascience.com/version-control-with-jupyter-notebook-b9630bc5996e)
 * [Master Spark fundamentals & optimizations](https://www.streamhub.co.uk/apache-spark-tuning-manual/)
+* [Pandas 100 tricks](https://www.kaggle.com/python10pm/pandas-100-tricks)
+* [Useful Python libraries for Data Science](https://www.kaggle.com/parulpandey/useful-python-libraries-for-data-science)
+* [Jupyter Notebooks in the IDE](https://towardsdatascience.com/jupyter-notebooks-in-the-ide-visual-studio-code-versus-pycharm-5e72218eb3e8)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
