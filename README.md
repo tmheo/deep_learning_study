@@ -1251,6 +1251,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [구글의 Open-Domain 챗봇 'Meena' 논문 리뷰](https://blog.pingpong.us/meena-presentation/)
   * [Deep Learning Image Classification Guidebook [1] LeNet, AlexNet, ZFNet, VGG, GoogLeNet, ResNet](https://hoya012.github.io/blog/deeplearning-classification-guidebook-1/)
   * [Deep Learning Image Classification Guidebook [2] PreActResNet, Inception-v2, Inception-v3, Inception-v4, Inception-ResNet, Stochastic Depth ResNet, WRN](https://hoya012.github.io/blog/deeplearning-classification-guidebook-2/)
+  * [Deep Learning Image Classification Guidebook [3] SqueezeNet, Xception, MobileNet, ResNext, PolyNet, PyramidNet, Residual Attention Network, DenseNet, Dual Path Network \(DPN\)](https://hoya012.github.io/blog/deeplearning-classification-guidebook-3/)
   * [9 Tips For Training Lightning-Fast Neural Networks In Pytorch](https://towardsdatascience.com/9-tips-for-training-lightning-fast-neural-networks-in-pytorch-8e63a502f565)
   * [Trivial Multi-Node Training With Pytorch-Lightning](https://towardsdatascience.com/trivial-multi-node-training-with-pytorch-lightning-ff75dfb809bd)
   * [Simplify And Scale Your PyTorch Code With PyTorch Lighting](https://towardsdatascience.com/how-to-refactor-your-pytorch-code-to-get-these-42-benefits-of-pytorch-lighting-6fdd0dc97538)
@@ -1606,6 +1607,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Dacon 14th Competition [euphoria] public 17위 private 10위 코드 공유](https://dacon.io/competitions/official/235401/codeshare/662)
   * [Best Practices, code samples, and documentation for Computer Vision](https://github.com/microsoft/computervision-recipes/)
   * [A list of NLP\(Natural Language Processing\) tutorials built on PyTorch](https://github.com/lyeoni/nlp-tutorial)
+  * [COVID-19_Classification](https://colab.research.google.com/drive/1xVA1kJXOjPPjp32uRKHM5qJTSpDP7Qj1)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -2548,6 +2550,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [AWS Korea AI/ML Workshop](https://www.sagemaker-workshop-kr.com/kr/)
 * [Active Learning: getting the most out of limited data](https://towardsdatascience.com/active-learning-getting-the-most-out-of-limited-data-16b472f25370)
 * [지구별 여행자님의 Kubeflow Blog](https://www.kangwoo.kr/category/machine-learning/kubeflow/)
+* [Experiment Management: How to Organize Your Model Development Process](https://neptune.ai/blog/experiment-management)
+* [15 Best Tools for Tracking Machine Learning Experiments](https://neptune.ai/blog/best-ml-experiment-tracking-tools)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2976,6 +2980,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Pandas 100 tricks](https://www.kaggle.com/python10pm/pandas-100-tricks)
 * [Useful Python libraries for Data Science](https://www.kaggle.com/parulpandey/useful-python-libraries-for-data-science)
 * [Jupyter Notebooks in the IDE](https://towardsdatascience.com/jupyter-notebooks-in-the-ide-visual-studio-code-versus-pycharm-5e72218eb3e8)
+* [Spark+DynamoDB - Plug-and-play implementation of an Apache Spark custom data source for AWS DynamoDB](https://github.com/audienceproject/spark-dynamodb)
+* [[KR] 파이썬 웹어플리케이션 맛보기 \(feat. Streamlit\)](https://lucaseo.github.io/2020/03/13/20200313-1/)
+* [Qubole Sparklens tool for performance tuning Apache Spark](https://github.com/qubole/sparklens)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
