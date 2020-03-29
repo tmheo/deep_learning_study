@@ -1263,6 +1263,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Get started with PyTorch, Cloud TPUs, and Colab](https://medium.com/pytorch/get-started-with-pytorch-cloud-tpus-and-colab-a24757b8f7fc)
   * [AutoML-Zero：Evolving Machine Learning Algorithms From Scratch Review](https://hoya012.github.io/blog/automl-zero-review/)
   * [Convolutional Neural Networks](https://cezannec.github.io/Convolutional_Neural_Networks/)
+  * [NVIDIA DALI: Speeding up PyTorch](https://towardsdatascience.com/nvidia-dali-speeding-up-pytorch-876c80182440)
+  * [How to scale training on multiple GPUs](https://towardsdatascience.com/how-to-scale-training-on-multiple-gpus-dae1041f49d2)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -2552,6 +2554,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [지구별 여행자님의 Kubeflow Blog](https://www.kangwoo.kr/category/machine-learning/kubeflow/)
 * [Experiment Management: How to Organize Your Model Development Process](https://neptune.ai/blog/experiment-management)
 * [15 Best Tools for Tracking Machine Learning Experiments](https://neptune.ai/blog/best-ml-experiment-tracking-tools)
+* [10 Useful ML Practices For Python Developers](https://medium.com/modern-nlp/10-great-ml-practices-for-python-developers-b089eefc18fc)
+* [머신러닝 Experiment Management 쉽게 하기\(feat. neptune ai\)](https://zzsza.github.io/mlops/2020/03/22/ml-experiment-management-using-neptune-ai/)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2983,6 +2987,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Spark+DynamoDB - Plug-and-play implementation of an Apache Spark custom data source for AWS DynamoDB](https://github.com/audienceproject/spark-dynamodb)
 * [[KR] 파이썬 웹어플리케이션 맛보기 \(feat. Streamlit\)](https://lucaseo.github.io/2020/03/13/20200313-1/)
 * [Qubole Sparklens tool for performance tuning Apache Spark](https://github.com/qubole/sparklens)
+* [COVID-19 Korea Dataset with patient routes and visualizer](https://github.com/ThisIsIsaac/Data-Science-for-COVID-19)
+* [A visual debugger for Jupyter](https://blog.jupyter.org/a-visual-debugger-for-jupyter-914e61716559?gi=b2d8ed7ab057)
+* [Jupyter is now a full-fledged IDE](https://towardsdatascience.com/jupyter-is-now-a-full-fledged-ide-c99218d33095)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
