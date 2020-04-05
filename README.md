@@ -1252,6 +1252,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deep Learning Image Classification Guidebook [1] LeNet, AlexNet, ZFNet, VGG, GoogLeNet, ResNet](https://hoya012.github.io/blog/deeplearning-classification-guidebook-1/)
   * [Deep Learning Image Classification Guidebook [2] PreActResNet, Inception-v2, Inception-v3, Inception-v4, Inception-ResNet, Stochastic Depth ResNet, WRN](https://hoya012.github.io/blog/deeplearning-classification-guidebook-2/)
   * [Deep Learning Image Classification Guidebook [3] SqueezeNet, Xception, MobileNet, ResNext, PolyNet, PyramidNet, Residual Attention Network, DenseNet, Dual Path Network \(DPN\)](https://hoya012.github.io/blog/deeplearning-classification-guidebook-3/)
+  * [Deep Learning Image Classification Guidebook [4] Squeeze-and-Excitation Network \(SENet\), ShuffleNet, CondenseNet, MobileNetV2, ShuffleNetV2, NASNet, AmoebaNet, PNASNet, MnasNet](https://hoya012.github.io/blog/deeplearning-classification-guidebook-4/)
   * [9 Tips For Training Lightning-Fast Neural Networks In Pytorch](https://towardsdatascience.com/9-tips-for-training-lightning-fast-neural-networks-in-pytorch-8e63a502f565)
   * [Trivial Multi-Node Training With Pytorch-Lightning](https://towardsdatascience.com/trivial-multi-node-training-with-pytorch-lightning-ff75dfb809bd)
   * [Simplify And Scale Your PyTorch Code With PyTorch Lighting](https://towardsdatascience.com/how-to-refactor-your-pytorch-code-to-get-these-42-benefits-of-pytorch-lighting-6fdd0dc97538)
@@ -1265,6 +1266,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Convolutional Neural Networks](https://cezannec.github.io/Convolutional_Neural_Networks/)
   * [NVIDIA DALI: Speeding up PyTorch](https://towardsdatascience.com/nvidia-dali-speeding-up-pytorch-876c80182440)
   * [How to scale training on multiple GPUs](https://towardsdatascience.com/how-to-scale-training-on-multiple-gpus-dae1041f49d2)
+  * [Language Modeling in Torchtext](https://medium.com/@sangramsing/language-modeling-in-torchtext-a9810954ab0c)
+  * [Reduce ML inference costs on Amazon SageMaker for PyTorch models using Amazon Elastic Inference](https://aws.amazon.com/blogs/machine-learning/reduce-ml-inference-costs-on-amazon-sagemaker-for-pytorch-models-using-amazon-elastic-inference/)
+  * [Introduction to Captum — A model interpretability library for PyTorch](https://medium.com/pytorch/introduction-to-captum-a-model-interpretability-library-for-pytorch-d236592d8afa)
+  * [Introducing the Model Garden for TensorFlow 2](https://blog.tensorflow.org/2020/03/introducing-model-garden-for-tensorflow-2.html)
+  * [Torchlayers - Shape inference for PyTorch \(like in Keras\) + new SoTA layers!](https://szymonmaszke.github.io/torchlayers/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1610,6 +1616,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Best Practices, code samples, and documentation for Computer Vision](https://github.com/microsoft/computervision-recipes/)
   * [A list of NLP\(Natural Language Processing\) tutorials built on PyTorch](https://github.com/lyeoni/nlp-tutorial)
   * [COVID-19_Classification](https://colab.research.google.com/drive/1xVA1kJXOjPPjp32uRKHM5qJTSpDP7Qj1)
+  * [Tensorflow2 Cookbook](https://github.com/taki0112/Tensorflow2-Cookbook)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -2556,6 +2563,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [15 Best Tools for Tracking Machine Learning Experiments](https://neptune.ai/blog/best-ml-experiment-tracking-tools)
 * [10 Useful ML Practices For Python Developers](https://medium.com/modern-nlp/10-great-ml-practices-for-python-developers-b089eefc18fc)
 * [머신러닝 Experiment Management 쉽게 하기\(feat. neptune ai\)](https://zzsza.github.io/mlops/2020/03/22/ml-experiment-management-using-neptune-ai/)
+* [Share ML with KubeFlow and MLflow](https://medium.com/scientya/share-ml-with-kubeflow-and-mlflow-71ec13ebf9c9)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -2990,6 +2998,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [COVID-19 Korea Dataset with patient routes and visualizer](https://github.com/ThisIsIsaac/Data-Science-for-COVID-19)
 * [A visual debugger for Jupyter](https://blog.jupyter.org/a-visual-debugger-for-jupyter-914e61716559?gi=b2d8ed7ab057)
 * [Jupyter is now a full-fledged IDE](https://towardsdatascience.com/jupyter-is-now-a-full-fledged-ide-c99218d33095)
+* [Matplotlib Axes \(1\)](https://jehyunlee.github.io/2020/03/31/Python-DS-9-matplotlib_axis/)
+* [Spark dataframe 에서 중첩컬럼\(nested column\) 처리 rename/drop/convert to map](https://cce199.tistory.com/65)
+* [Best practices for successfully managing memory for Apache Spark applications on Amazon EMR](https://aws.amazon.com/blogs/big-data/best-practices-for-successfully-managing-memory-for-apache-spark-applications-on-amazon-emr/)
+* [Colaboratory Matplotlib 에서 한글폰트 사용하기](https://colab.research.google.com/github/nicewook/datascience_exercise/blob/master/korean_font_on_matplotlib.ipynb)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -3303,6 +3315,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Explicit Recommender System](https://medium.com/@rinabuoy13/explicit-recommender-system-matrix-factorization-in-pytorch-f3779bb55d74)
 * [유튜브 추천시스템 논문 리뷰 Part 1 - The Youtube Video Recommendation System \(RecSys 2010\)](https://yhs968.blogspot.com/2019/07/1-youtube-video-recommendation.html)
 * [유튜브 추천시스템 논문 리뷰 Part 2 - Deep Neural Networks for YouTube Recommendations \(RecSys 2016\)](https://yhs968.blogspot.com/2019/09/part-2-deep-neural-networks-for-youtube.html)
+* [Building a strong baseline recommender using PyTorch, on a laptop](https://eugeneyan.com/2020/01/06/recommender-systems-beyond-the-user-item-matrix)
+* [Beating the baseline recommender with Graph and NLP techniques](https://eugeneyan.com/2020/01/13/recommender-systems-graph-and-nlp-techniques)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
