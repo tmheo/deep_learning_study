@@ -1271,6 +1271,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Introduction to Captum — A model interpretability library for PyTorch](https://medium.com/pytorch/introduction-to-captum-a-model-interpretability-library-for-pytorch-d236592d8afa)
   * [Introducing the Model Garden for TensorFlow 2](https://blog.tensorflow.org/2020/03/introducing-model-garden-for-tensorflow-2.html)
   * [Torchlayers - Shape inference for PyTorch \(like in Keras\) + new SoTA layers!](https://szymonmaszke.github.io/torchlayers/)
+  * [fastai and PyTorch Lightning are democratising AI](https://towardsdatascience.com/fastai-and-pytorch-lightning-are-democratising-ai-92318ff224b1)
+  * [What to do when you didn’t get any medal in a Kaggle competition?](https://towardsdatascience.com/what-to-do-when-you-dont-get-any-medal-in-a-kaggle-competition-b54cc433da3)
+  * [GANs for tabular data](https://towardsdatascience.com/review-of-gans-for-tabular-data-a30a2199342)
+  * [Modelling tabular data with Neural Networks and Transfer Learning! How and Why?](https://towardsdatascience.com/fast-and-accurate-learning-with-transfer-learning-on-tabular-data-how-and-why-dfe4e752bb2d)
+  * [Summarization has gotten commoditized thanks to BERT](https://towardsdatascience.com/summarization-has-gotten-commoditized-thanks-to-bert-9bb73f2d6922)
+  * [LSTM for time series prediction](https://towardsdatascience.com/lstm-for-time-series-prediction-de8aeb26f2ca)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1490,6 +1496,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Subword-level Word Vector Representations for Korean - 주현진](https://www.youtube.com/watch?v=QR5XFn5rdMQ)
   * [[통계청 공무원 AI] BERT로 Q&A 구현해보기 With SQuAD AND KERAS](https://www.youtube.com/watch?v=LuApA264Wbs)
   * [AutoML-Zero](https://www.youtube.com/watch?v=aumUBLMfIA4)
+  * [15min Tutorial : keras + CNN + MNIST + Colab](https://www.youtube.com/watch?v=o3ERJ_7_0pg)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -2564,6 +2571,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [10 Useful ML Practices For Python Developers](https://medium.com/modern-nlp/10-great-ml-practices-for-python-developers-b089eefc18fc)
 * [머신러닝 Experiment Management 쉽게 하기\(feat. neptune ai\)](https://zzsza.github.io/mlops/2020/03/22/ml-experiment-management-using-neptune-ai/)
 * [Share ML with KubeFlow and MLflow](https://medium.com/scientya/share-ml-with-kubeflow-and-mlflow-71ec13ebf9c9)
+* [Bring your own model for Amazon SageMaker labeling workflows with active learning](https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-for-amazon-sagemaker-labeling-workflows-with-active-learning/)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3002,6 +3010,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Spark dataframe 에서 중첩컬럼\(nested column\) 처리 rename/drop/convert to map](https://cce199.tistory.com/65)
 * [Best practices for successfully managing memory for Apache Spark applications on Amazon EMR](https://aws.amazon.com/blogs/big-data/best-practices-for-successfully-managing-memory-for-apache-spark-applications-on-amazon-emr/)
 * [Colaboratory Matplotlib 에서 한글폰트 사용하기](https://colab.research.google.com/github/nicewook/datascience_exercise/blob/master/korean_font_on_matplotlib.ipynb)
+* [Six Spark Exercises to Rule Them All](https://towardsdatascience.com/six-spark-exercises-to-rule-them-all-242445b24565)
+* [The art of joining in Spark](https://towardsdatascience.com/the-art-of-joining-in-spark-dcbd33d693c)
+* [10 Minutes from pandas to Koalas on Apache Spark](https://databricks.com/blog/2020/03/31/10-minutes-from-pandas-to-koalas-on-apache-spark.html)
+* [Visualize Categorical Relationships With Catscatter](https://towardsdatascience.com/visualize-categorical-relationships-with-catscatter-e60cdb164395)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
