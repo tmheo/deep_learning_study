@@ -1277,6 +1277,14 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Modelling tabular data with Neural Networks and Transfer Learning! How and Why?](https://towardsdatascience.com/fast-and-accurate-learning-with-transfer-learning-on-tabular-data-how-and-why-dfe4e752bb2d)
   * [Summarization has gotten commoditized thanks to BERT](https://towardsdatascience.com/summarization-has-gotten-commoditized-thanks-to-bert-9bb73f2d6922)
   * [LSTM for time series prediction](https://towardsdatascience.com/lstm-for-time-series-prediction-de8aeb26f2ca)
+  * [BERT Tutorials](https://mccormickml.com/tutorials/) : [[Video]](https://www.youtube.com/playlist?list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6)
+  * [Pytorch 코드 작성 팁](https://sensibilityit.tistory.com/511)
+  * [Demystifying Tensorflow Time Series: Local Linear Trend](https://towardsdatascience.com/demystifying-tensorflow-time-series-local-linear-trend-9bec0802b24a)
+  * [COVID19 - TabNet \(fast.ai baseline\)](https://www.kaggle.com/syzymon/covid19-tabnet-fast-ai-baseline)
+  * [Kubeflow 파이프라인 운용하기](https://medium.com/daangn/kubeflow-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EC%9A%B4%EC%9A%A9%ED%95%98%EA%B8%B0-6c6d7bc98c30)
+  * [How to Use Label Smoothing for Regularization](https://medium.com/towards-artificial-intelligence/how-to-use-label-smoothing-for-regularization-aa349f7f1dbb)
+  * [How to train your neural net - PyTorch](https://towardsdatascience.com/tagged/akshaj-wields-pytorch)
+  * [Build a BERT Sci-kit Transformer](https://towardsdatascience.com/build-a-bert-sci-kit-transformer-59d60ddd54a5)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1447,6 +1455,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [파이썬 날코딩으로 알고 짜는 딥러닝_13장](https://www.slideshare.net/mediahanbit/13-221710038)
   * [파이썬 날코딩으로 알고 짜는 딥러닝_14장](https://www.slideshare.net/mediahanbit/14-221710110)
   * [파이썬 날코딩으로 알고 짜는 딥러닝_15장](https://www.slideshare.net/mediahanbit/15-221710158)
+  * [The Illustrated Transformer](https://docs.google.com/presentation/d/1D1KM2nL-G8HvMO5Ps2BkbMBfB4qkKcjkFhQ1vLxwZ1o/edit#slide=id.p)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -1497,6 +1506,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [[통계청 공무원 AI] BERT로 Q&A 구현해보기 With SQuAD AND KERAS](https://www.youtube.com/watch?v=LuApA264Wbs)
   * [AutoML-Zero](https://www.youtube.com/watch?v=aumUBLMfIA4)
   * [15min Tutorial : keras + CNN + MNIST + Colab](https://www.youtube.com/watch?v=o3ERJ_7_0pg)
+  * [NLP for Developers](https://www.youtube.com/playlist?list=PL75e0qA87dlFJiNMeKltWImhQxfFwaxvv)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -1624,6 +1634,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [A list of NLP\(Natural Language Processing\) tutorials built on PyTorch](https://github.com/lyeoni/nlp-tutorial)
   * [COVID-19_Classification](https://colab.research.google.com/drive/1xVA1kJXOjPPjp32uRKHM5qJTSpDP7Qj1)
   * [Tensorflow2 Cookbook](https://github.com/taki0112/Tensorflow2-Cookbook)
+  * [The fastai book](https://github.com/fastai/fastbook)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -1679,6 +1690,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Tencent ML-Images](https://github.com/Tencent/tencent-ml-images)
   * [KorQuAD - The Korean Question Answering Dataset](https://korquad.github.io/)
   * [VisualData - Discover Computer Vision Datasets](https://www.visualdata.io/)
+  * [한국어 NLP dataset 모음](https://datasetfinder.blogspot.com/2020/04/dataset.html)
 
 ## Reinforcement Learning
 * [Fundamental of Reinforcement Learning](https://www.gitbook.com/book/dnddnjs/rl/)
@@ -2572,6 +2584,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [머신러닝 Experiment Management 쉽게 하기\(feat. neptune ai\)](https://zzsza.github.io/mlops/2020/03/22/ml-experiment-management-using-neptune-ai/)
 * [Share ML with KubeFlow and MLflow](https://medium.com/scientya/share-ml-with-kubeflow-and-mlflow-71ec13ebf9c9)
 * [Bring your own model for Amazon SageMaker labeling workflows with active learning](https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-for-amazon-sagemaker-labeling-workflows-with-active-learning/)
+* [kubeflow pipeline 사용해보기 - kubeflow pipeline example with iris data](https://lsjsj92.tistory.com/581)
+* [SHAP formula explained the way I wish someone explained it to me](https://towardsdatascience.com/shap-explained-the-way-i-wish-someone-explained-it-to-me-ab81cc69ef30)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3014,6 +3028,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [The art of joining in Spark](https://towardsdatascience.com/the-art-of-joining-in-spark-dcbd33d693c)
 * [10 Minutes from pandas to Koalas on Apache Spark](https://databricks.com/blog/2020/03/31/10-minutes-from-pandas-to-koalas-on-apache-spark.html)
 * [Visualize Categorical Relationships With Catscatter](https://towardsdatascience.com/visualize-categorical-relationships-with-catscatter-e60cdb164395)
+* [Dataprep.eda : Accelerate your EDA \(EDA 자동화 패키지\)](https://eda-ai-lab.tistory.com/484)
+* [How to interpret p-value with COVID-19 data](https://towardsdatascience.com/how-to-interpret-p-value-with-covid-19-data-edc19e8483b)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
