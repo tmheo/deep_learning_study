@@ -1285,6 +1285,13 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [How to Use Label Smoothing for Regularization](https://medium.com/towards-artificial-intelligence/how-to-use-label-smoothing-for-regularization-aa349f7f1dbb)
   * [How to train your neural net - PyTorch](https://towardsdatascience.com/tagged/akshaj-wields-pytorch)
   * [Build a BERT Sci-kit Transformer](https://towardsdatascience.com/build-a-bert-sci-kit-transformer-59d60ddd54a5)
+  * [The Right Way to Use Deep Learning for Tabular Data | Entity Embedding](https://towardsdatascience.com/the-right-way-to-use-deep-learning-for-tabular-data-entity-embedding-b5c4aaf1423a)
+  * [BERT Encoder](https://peltarion.com/knowledge-center/documentation/modeling-view/build-an-ai-model/blocks/bert-encoder)
+  * [These are the Easiest Data Augmentation Techniques in Natural Language Processing you can think of — and they work](https://towardsdatascience.com/these-are-the-easiest-data-augmentation-techniques-in-natural-language-processing-you-can-think-of-88e393fd610)
+  * [TorchServe and [TorchElastic for Kubernetes], new PyTorch libraries for serving and training models at scale](https://medium.com/pytorch/torchserve-and-torchelastic-for-kubernetes-new-pytorch-libraries-for-serving-and-training-models-2efd12e09adc)
+  * [Announcing TorchServe, An Open Source Model Server for PyTorch](https://aws.amazon.com/ko/blogs/aws/announcing-torchserve-an-open-source-model-server-for-pytorch/)
+  * [TensorFlow TPU 학습 101](https://blog.pingpong.us/tpu-with-tf2-and-gcp/)
+  * [Quick Primer on Distributed Training with PyTorch](https://levelup.gitconnected.com/quick-primer-on-distributed-training-with-pytorch-ad362d8aa032)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1507,6 +1514,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [AutoML-Zero](https://www.youtube.com/watch?v=aumUBLMfIA4)
   * [15min Tutorial : keras + CNN + MNIST + Colab](https://www.youtube.com/watch?v=o3ERJ_7_0pg)
   * [NLP for Developers](https://www.youtube.com/playlist?list=PL75e0qA87dlFJiNMeKltWImhQxfFwaxvv)
+  * [Text Classification | Sentiment Analysis with BERT using huggingface, PyTorch and Python Tutorial](https://www.youtube.com/watch?v=8N-nM3QW7O0)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -2586,6 +2594,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Bring your own model for Amazon SageMaker labeling workflows with active learning](https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-for-amazon-sagemaker-labeling-workflows-with-active-learning/)
 * [kubeflow pipeline 사용해보기 - kubeflow pipeline example with iris data](https://lsjsj92.tistory.com/581)
 * [SHAP formula explained the way I wish someone explained it to me](https://towardsdatascience.com/shap-explained-the-way-i-wish-someone-explained-it-to-me-ab81cc69ef30)
+* [Making Sense of Shapley Values](https://towardsdatascience.com/making-sense-of-shapley-values-dc67a8e4c5e8)
+* [A True End-to-End ML Example: Lead Scoring](https://towardsdatascience.com/a-true-end-to-end-ml-example-lead-scoring-f5b52e9a3c80)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3030,6 +3040,18 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Visualize Categorical Relationships With Catscatter](https://towardsdatascience.com/visualize-categorical-relationships-with-catscatter-e60cdb164395)
 * [Dataprep.eda : Accelerate your EDA \(EDA 자동화 패키지\)](https://eda-ai-lab.tistory.com/484)
 * [How to interpret p-value with COVID-19 data](https://towardsdatascience.com/how-to-interpret-p-value-with-covid-19-data-edc19e8483b)
+* [PublicDataReader - 부동산 데이터 수집하기](https://wooiljeong.github.io/python/public_data_reader_01/)
+* [Matplotlib-Tools](https://jehyunlee.github.io/2020/04/21/Python-DS-10-matplotlib_Tools/)
+* [최대가능도추정\(Maximum Likelihood Estimation\) 개념 정리](https://losskatsu.github.io/statistics/mle/)
+* [Sports Analytics: an exploratory analysis of international football matches-Part 1](https://datasciencechalktalk.com/2019/10/25/sport-analytics-exploratory-analysis-of-international-football-matches-part-1/)
+* [Sports Analytics: an exploratory analysis of international football matches-Part 2](https://datasciencechalktalk.com/2019/10/28/sports-analytics-an-exploratory-analysis-of-international-football-matches-part-2/)
+* [Interactive analytics and predictions on Restaurant tips](https://datasciencechalktalk.com/2019/11/03/interactive-analytics-and-predictions-on-restaurant-tips/)
+* [How to build your Machine Learning App in 3 simple steps](https://towardsdatascience.com/how-to-build-your-machine-learning-app-in-3-simple-steps-d56ed910355c)
+* [How to write Web apps using simple Python for Data Scientists?](https://towardsdatascience.com/how-to-write-web-apps-using-simple-python-for-data-scientists-a227a1a01582)
+* [Streamlit Python Tutorials](https://www.youtube.com/playlist?list=PLJ39kWiJXSixyRMcn3lrbv8xI8ZZoYNZU)
+* [Plotly Python Tutorial | Cufflinks Python Tutorial | Interactive Data Visualization in Python](https://www.youtube.com/watch?v=pkk5U-8Vl7A)
+* [NLP visualizations for clear, immediate insights into text data and outputs](https://medium.com/plotly/nlp-visualisations-for-clear-immediate-insights-into-text-data-and-outputs-9ebfab168d5b)
+* [Plotly.py 4.0 is here: Offline Only, Express First, Displayable Anywhere](https://medium.com/plotly/plotly-py-4-0-is-here-offline-only-express-first-displayable-anywhere-fc444e5659ee)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
