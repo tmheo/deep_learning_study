@@ -1292,6 +1292,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Announcing TorchServe, An Open Source Model Server for PyTorch](https://aws.amazon.com/ko/blogs/aws/announcing-torchserve-an-open-source-model-server-for-pytorch/)
   * [TensorFlow TPU 학습 101](https://blog.pingpong.us/tpu-with-tf2-and-gcp/)
   * [Quick Primer on Distributed Training with PyTorch](https://levelup.gitconnected.com/quick-primer-on-distributed-training-with-pytorch-ad362d8aa032)
+  * [How to use the Transformer for Audio Classification](https://codeburst.io/how-to-use-transformer-for-audio-classification-5f4bc0d0c1f0?gi=59d9158cd799)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -2596,6 +2597,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [SHAP formula explained the way I wish someone explained it to me](https://towardsdatascience.com/shap-explained-the-way-i-wish-someone-explained-it-to-me-ab81cc69ef30)
 * [Making Sense of Shapley Values](https://towardsdatascience.com/making-sense-of-shapley-values-dc67a8e4c5e8)
 * [A True End-to-End ML Example: Lead Scoring](https://towardsdatascience.com/a-true-end-to-end-ml-example-lead-scoring-f5b52e9a3c80)
+* [RIP correlation. Introducing the Predictive Power Score](https://towardsdatascience.com/rip-correlation-introducing-the-predictive-power-score-3d90808b9598)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3052,6 +3054,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Plotly Python Tutorial | Cufflinks Python Tutorial | Interactive Data Visualization in Python](https://www.youtube.com/watch?v=pkk5U-8Vl7A)
 * [NLP visualizations for clear, immediate insights into text data and outputs](https://medium.com/plotly/nlp-visualisations-for-clear-immediate-insights-into-text-data-and-outputs-9ebfab168d5b)
 * [Plotly.py 4.0 is here: Offline Only, Express First, Displayable Anywhere](https://medium.com/plotly/plotly-py-4-0-is-here-offline-only-express-first-displayable-anywhere-fc444e5659ee)
+* [Automated Focusing](https://jehyunlee.github.io/2020/04/30/Python-DS-12-auto_focus/)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -3367,6 +3370,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [유튜브 추천시스템 논문 리뷰 Part 2 - Deep Neural Networks for YouTube Recommendations \(RecSys 2016\)](https://yhs968.blogspot.com/2019/09/part-2-deep-neural-networks-for-youtube.html)
 * [Building a strong baseline recommender using PyTorch, on a laptop](https://eugeneyan.com/2020/01/06/recommender-systems-beyond-the-user-item-matrix)
 * [Beating the baseline recommender with Graph and NLP techniques](https://eugeneyan.com/2020/01/13/recommender-systems-graph-and-nlp-techniques)
+* [멜론에서 음악 추천을 어떻게 할까?](https://brunch.co.kr/@kakao-it/342)
+* [멜론 플레이리스트 데이터 탐색](https://brunch.co.kr/@kakao-it/343)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
