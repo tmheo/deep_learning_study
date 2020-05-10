@@ -1293,6 +1293,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [TensorFlow TPU 학습 101](https://blog.pingpong.us/tpu-with-tf2-and-gcp/)
   * [Quick Primer on Distributed Training with PyTorch](https://levelup.gitconnected.com/quick-primer-on-distributed-training-with-pytorch-ad362d8aa032)
   * [How to use the Transformer for Audio Classification](https://codeburst.io/how-to-use-transformer-for-audio-classification-5f4bc0d0c1f0?gi=59d9158cd799)
+  * [Anomaly Detection with Autoencoders Made Easy](https://towardsdatascience.com/anomaly-detection-with-autoencoder-b4cdce4866a6)
+  * [Explaining Anomalies Detected by Autoencoders Using SHAP](https://arxiv.org/abs/1903.02407)
+  * [Interpreting BERT Models \(Part 1\)](https://captum.ai/tutorials/Bert_SQUAD_Interpret)
+  * [꼼꼼하고 이해하기 쉬운 Reformer 리뷰](https://blog.pingpong.us/reformer-review/)
+  * [Working with Hugging Face Transformers and TF 2.0](https://towardsdatascience.com/working-with-hugging-face-transformers-and-tf-2-0-89bf35e3555a)
+  * [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1863,6 +1869,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [From Zero to Flagpole Hero](https://towardsdatascience.com/from-zero-to-flagpole-hero-ead14fc46fba)
 * [모두를 위한 강화학습](https://www.slideshare.net/taeyounglee1447/reinforcement-learning-for-everyone)
 * [Repository for slides & codes of RL Korea Bootcamp](https://github.com/reinforcement-learning-kr/rl_bootcamp)
+* [Reinforcement Learning Concept on Cart-Pole with DQN](https://towardsdatascience.com/reinforcement-learning-concept-on-cart-pole-with-dqn-799105ca670)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -2598,6 +2605,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Making Sense of Shapley Values](https://towardsdatascience.com/making-sense-of-shapley-values-dc67a8e4c5e8)
 * [A True End-to-End ML Example: Lead Scoring](https://towardsdatascience.com/a-true-end-to-end-ml-example-lead-scoring-f5b52e9a3c80)
 * [RIP correlation. Introducing the Predictive Power Score](https://towardsdatascience.com/rip-correlation-introducing-the-predictive-power-score-3d90808b9598)
+* [Anomaly Detection with PyOD!](https://towardsdatascience.com/anomaly-detection-with-pyod-b523fc47db9)
+* [Hydra — A fresh look at configuration for machine learning projects](https://medium.com/pytorch/hydra-a-fresh-look-at-configuration-for-machine-learning-projects-50583186b710)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
