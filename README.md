@@ -1299,6 +1299,14 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [꼼꼼하고 이해하기 쉬운 Reformer 리뷰](https://blog.pingpong.us/reformer-review/)
   * [Working with Hugging Face Transformers and TF 2.0](https://towardsdatascience.com/working-with-hugging-face-transformers-and-tf-2-0-89bf35e3555a)
   * [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
+  * [Deploying huggingface‘s BERT to production with pytorch/serve](https://medium.com/analytics-vidhya/deploy-huggingface-s-bert-to-production-with-pytorch-serve-27b068026d18)
+  * [Autoencoder Neural Network for Anomaly Detection with Unlabeled Dataset](https://towardsdatascience.com/autoencoder-neural-network-for-anomaly-detection-with-unlabeled-dataset-af9051a048)
+  * [Deep Anomaly Detection for large scale enterprise data](https://medium.com/analytics-vidhya/deep-anomaly-detection-9f19896c8b2)
+  * [From Financial Compliance to Fraud Detection with Conditional Variational Autoencoders \(CVAE\) and Tensorflow](https://medium.com/@amunategui/from-financial-compliance-to-fraud-detection-with-conditional-variational-autoencoders-cvae-and-2f911a2c98cb)
+  * [Conv2d: Finally Understand What Happens in the Forward Pass](https://towardsdatascience.com/conv2d-to-finally-understand-what-happens-in-the-forward-pass-1bbaafb0b148)
+  * [꼼꼼하고 이해하기 쉬운 ELECTRA 논문 리뷰](https://blog.pingpong.us/electra-review/)
+  * [Training Machine Learning Models on Amazon SageMaker](https://towardsdatascience.com/training-machine-learning-models-on-amazon-sagemaker-d95bd089db0d)
+  * [Deploying EfficientNet Model using TorchServe](https://medium.com/the-artificial-impostor/deploying-efficientnet-model-using-torchserve-9f5f811aa447)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1650,6 +1658,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [COVID-19_Classification](https://colab.research.google.com/drive/1xVA1kJXOjPPjp32uRKHM5qJTSpDP7Qj1)
   * [Tensorflow2 Cookbook](https://github.com/taki0112/Tensorflow2-Cookbook)
   * [The fastai book](https://github.com/fastai/fastbook)
+  * [Detection of Accounting Anomalies using Deep Autoencoder Neural Networks](https://github.com/GitiHubi/deepAI)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -2607,6 +2616,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [RIP correlation. Introducing the Predictive Power Score](https://towardsdatascience.com/rip-correlation-introducing-the-predictive-power-score-3d90808b9598)
 * [Anomaly Detection with PyOD!](https://towardsdatascience.com/anomaly-detection-with-pyod-b523fc47db9)
 * [Hydra — A fresh look at configuration for machine learning projects](https://medium.com/pytorch/hydra-a-fresh-look-at-configuration-for-machine-learning-projects-50583186b710)
+* [MLOps: Continuous delivery and automation pipelines in machine learning 번역](https://zzsza.github.io/mlops/2020/05/16/cd-and-automation-pipeline-in-ml/)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
