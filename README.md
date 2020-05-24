@@ -1192,7 +1192,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Question Answering with BERT, XLNET, XLM, and DistilBERT using Simple Transformers](https://towardsdatascience.com/question-answering-with-bert-xlnet-xlm-and-distilbert-using-simple-transformers-4d8785ee762a)
   * [Similar Images Recommendations using FastAi and Annoy](https://towardsdatascience.com/similar-images-recommendations-using-fastai-and-annoy-16d6ceb3b809)
   * [GLUE: 벤치마크를 통해 BERT 이해하기](https://huffon.github.io/2019/11/16/glue/)
-  * [Illustrated: Self-Attention](https://towardsdatascience.com/illustrated-self-attention-2d627e33b20a)
+  * [Illustrated: Self-Attention](https://towardsdatascience.com/illustrated-self-attention-2d627e33b20a) : [[Code]](https://colab.research.google.com/drive/1rPk3ohrmVclqhH7uQ7qys4oznDdAhpzF)
   * [How To Fine-Tune GPT-2 So You Can Generate Long-Form Creative Writing](https://towardsdatascience.com/how-to-fine-tune-gpt-2-so-you-can-generate-long-form-creative-writing-7a5ae1314a61)
   * [Video processing pipeline with OpenCV](https://medium.com/deepvisionguru/video-processing-pipeline-with-opencv-ac10187d75b)
   * [Fake News Classification with BERT](https://towardsdatascience.com/fake-news-classification-with-bert-afbeee601f41)
@@ -1307,6 +1307,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [꼼꼼하고 이해하기 쉬운 ELECTRA 논문 리뷰](https://blog.pingpong.us/electra-review/)
   * [Training Machine Learning Models on Amazon SageMaker](https://towardsdatascience.com/training-machine-learning-models-on-amazon-sagemaker-d95bd089db0d)
   * [Deploying EfficientNet Model using TorchServe](https://medium.com/the-artificial-impostor/deploying-efficientnet-model-using-torchserve-9f5f811aa447)
+  * [A Visual Survey of Data Augmentation in NLP](https://amitness.com/2020/05/data-augmentation-for-nlp/)
+  * [[Pytorch 팁] 파이토치\(Pytorch\)에서 TensorBoard 사용하기](https://sensibilityit.tistory.com/512)
+  * [10 TensorFlow Tricks Every ML Practioner Must Know](https://jehyunlee.github.io/2020/05/22/Python-DS-14-10_TF_skills/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1659,6 +1662,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Tensorflow2 Cookbook](https://github.com/taki0112/Tensorflow2-Cookbook)
   * [The fastai book](https://github.com/fastai/fastbook)
   * [Detection of Accounting Anomalies using Deep Autoencoder Neural Networks](https://github.com/GitiHubi/deepAI)
+  * [f-AnoGAN: Fast Unsupervised Anomaly detection with GAN using Pytorch](https://github.com/mulkong/f-AnoGAN_with_Pytorch)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -2617,6 +2621,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Anomaly Detection with PyOD!](https://towardsdatascience.com/anomaly-detection-with-pyod-b523fc47db9)
 * [Hydra — A fresh look at configuration for machine learning projects](https://medium.com/pytorch/hydra-a-fresh-look-at-configuration-for-machine-learning-projects-50583186b710)
 * [MLOps: Continuous delivery and automation pipelines in machine learning 번역](https://zzsza.github.io/mlops/2020/05/16/cd-and-automation-pipeline-in-ml/)
+* [Introducing BentoML: An open-source framework for high-performance model serving](https://docs.google.com/presentation/d/17J3W0ZGMWTmUOdnf4sGQzKz2Gm-1Vpzx_8Mz9n-bHqA/)
+* [Anomaly Detection : Isolation Forest with Statistical Rules](https://towardsdatascience.com/isolation-forest-with-statistical-rules-4dd27dad2da9)
+* [An Awesome Tutorial to Learn Outlier Detection in Python using PyOD Library](https://www.analyticsvidhya.com/blog/2019/02/outlier-detection-python-pyod/)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3074,6 +3081,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [NLP visualizations for clear, immediate insights into text data and outputs](https://medium.com/plotly/nlp-visualisations-for-clear-immediate-insights-into-text-data-and-outputs-9ebfab168d5b)
 * [Plotly.py 4.0 is here: Offline Only, Express First, Displayable Anywhere](https://medium.com/plotly/plotly-py-4-0-is-here-offline-only-express-first-displayable-anywhere-fc444e5659ee)
 * [Automated Focusing](https://jehyunlee.github.io/2020/04/30/Python-DS-12-auto_focus/)
+* [Introducing JupyterDash](https://medium.com/plotly/introducing-jupyterdash-811f1f57c02e)
+* [Unit Testing for Data Scientists](https://towardsdatascience.com/unit-testing-for-data-scientists-dc5e0cd397fb)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
