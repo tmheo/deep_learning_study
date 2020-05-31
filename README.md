@@ -3083,6 +3083,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Automated Focusing](https://jehyunlee.github.io/2020/04/30/Python-DS-12-auto_focus/)
 * [Introducing JupyterDash](https://medium.com/plotly/introducing-jupyterdash-811f1f57c02e)
 * [Unit Testing for Data Scientists](https://towardsdatascience.com/unit-testing-for-data-scientists-dc5e0cd397fb)
+* [Quickly share ML WebApps from Google Colab using ngrok for Free](https://towardsdatascience.com/quickly-share-ml-webapps-from-google-colab-using-ngrok-for-free-ae899ca2661a)
+* [[Python 데이터 분석] 가설 검정 \(Hypothesis Testing\)](https://engkimbs.tistory.com/758)
+* [Beyond “tidy”: Plotly Express now accepts wide-form and mixed-form data](https://medium.com/plotly/beyond-tidy-plotly-express-now-accepts-wide-form-and-mixed-form-data-bdc3e054f891)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
