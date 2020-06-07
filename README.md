@@ -137,6 +137,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [딥러닝을 위한 TensorFlow 2.0](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=169)
   * [자연어 언어모델 ‘BERT’](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=164)
   * [the-incredible-pytorch](https://www.ritchieng.com/the-incredible-pytorch/)
+  * [The Super Duper NLP Repo](https://notebooks.quantumstat.com/)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -1310,6 +1311,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [A Visual Survey of Data Augmentation in NLP](https://amitness.com/2020/05/data-augmentation-for-nlp/)
   * [[Pytorch 팁] 파이토치\(Pytorch\)에서 TensorBoard 사용하기](https://sensibilityit.tistory.com/512)
   * [10 TensorFlow Tricks Every ML Practioner Must Know](https://jehyunlee.github.io/2020/05/22/Python-DS-14-10_TF_skills/)
+  * [Announcing: Hummingbird A library for accelerating inference with traditional machine learning models](https://azuredata.microsoft.com/articles/ebd95ec0-1eae-44a3-90f5-c11f5c916d15)
+  * [Productive NLP Experimentation with Python using Pytorch Lightning and Torchtext](https://towardsdatascience.com/productive-nlp-experimentation-with-python-using-pytorch-lightning-and-torchtext-256a4d00a26b)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1533,6 +1536,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [15min Tutorial : keras + CNN + MNIST + Colab](https://www.youtube.com/watch?v=o3ERJ_7_0pg)
   * [NLP for Developers](https://www.youtube.com/playlist?list=PL75e0qA87dlFJiNMeKltWImhQxfFwaxvv)
   * [Text Classification | Sentiment Analysis with BERT using huggingface, PyTorch and Python Tutorial](https://www.youtube.com/watch?v=8N-nM3QW7O0)
+  * [DeepMind x UCL | Deep Learning Lecture Series 2020](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -2624,6 +2628,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Introducing BentoML: An open-source framework for high-performance model serving](https://docs.google.com/presentation/d/17J3W0ZGMWTmUOdnf4sGQzKz2Gm-1Vpzx_8Mz9n-bHqA/)
 * [Anomaly Detection : Isolation Forest with Statistical Rules](https://towardsdatascience.com/isolation-forest-with-statistical-rules-4dd27dad2da9)
 * [An Awesome Tutorial to Learn Outlier Detection in Python using PyOD Library](https://www.analyticsvidhya.com/blog/2019/02/outlier-detection-python-pyod/)
+* [핸즈온 머신러닝 2 - 박해선님 YouTube 강의](https://www.youtube.com/playlist?list=PLJN246lAkhQjX3LOdLVnfdFaCbGouEBeb)
+* [Guide to Interpretable Machine Learning](https://towardsdatascience.com/guide-to-interpretable-machine-learning-d40e8a64b6cf)
+* [mlmachine - Clean ML Experiments, Elegant EDA & Pandas Pipelines](https://towardsdatascience.com/mlmachine-clean-ml-experiments-elegant-eda-pandas-pipelines-daba951dde0a)
+* [히든마르코프 모델을 이용한 오픈 이온 채널 수 예측\(우리가 Kaggle – University of Liverpool – Ion Switching Competition에서 거의 우승할뻔했던 경험에 대하여\)](http://bongholee.com/2020/06/%ED%9E%88%EB%93%A0%EB%A7%88%EB%A5%B4%EC%BD%94%ED%94%84-%EB%AA%A8%EB%8D%B8%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%98%A4%ED%94%88-%EC%9D%B4%EC%98%A8-%EC%B1%84%EB%84%90-%EC%88%98-%EC%98%88%EC%B8%A1/)
+* [이야기로 설명하는 최대 우도 추정법 \(Maximum Likelihood Estimation\)](https://www.youtube.com/watch?v=sOtkPm_1GYw)
+* [이야기로 설명하는 로지스틱 회귀 분석](https://www.youtube.com/watch?v=egeOjGEG1j4)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3086,6 +3096,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Quickly share ML WebApps from Google Colab using ngrok for Free](https://towardsdatascience.com/quickly-share-ml-webapps-from-google-colab-using-ngrok-for-free-ae899ca2661a)
 * [[Python 데이터 분석] 가설 검정 \(Hypothesis Testing\)](https://engkimbs.tistory.com/758)
 * [Beyond “tidy”: Plotly Express now accepts wide-form and mixed-form data](https://medium.com/plotly/beyond-tidy-plotly-express-now-accepts-wide-form-and-mixed-form-data-bdc3e054f891)
+* [10 Steps to Setup a Comprehensive Data Science Workspace with VSCode on Windows](https://towardsdatascience.com/10-steps-to-setup-a-comprehensive-data-science-workspace-with-vscode-on-windows-32fe190a8f3)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
