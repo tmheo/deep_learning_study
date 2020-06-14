@@ -170,6 +170,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Browse state-of-the-art](https://paperswithcode.com/sota)
   * [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle)
   * [The Learning Machine](https://www.thelearningmachine.ai/)
+  * [매주 15분 투자해서 AI/NLP를 공부하는 방법](https://jiho-ml.com/weekly-nlp-0/)
 * Article
   * [Andrej Karpathy's Deep Learning Blog](http://karpathy.github.io/)
   * [머신러닝 딥러닝 입문 시 도움 되는 강좌](https://www.facebook.com/groups/TensorFlowKR/permalink/485458151795248/)
@@ -1313,6 +1314,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [10 TensorFlow Tricks Every ML Practioner Must Know](https://jehyunlee.github.io/2020/05/22/Python-DS-14-10_TF_skills/)
   * [Announcing: Hummingbird A library for accelerating inference with traditional machine learning models](https://azuredata.microsoft.com/articles/ebd95ec0-1eae-44a3-90f5-c11f5c916d15)
   * [Productive NLP Experimentation with Python using Pytorch Lightning and Torchtext](https://towardsdatascience.com/productive-nlp-experimentation-with-python-using-pytorch-lightning-and-torchtext-256a4d00a26b)
+  * [Catalyst 101 — Accelerated PyTorch](https://medium.com/pytorch/catalyst-101-accelerated-pytorch-bd766a556d92)
+  * [Deploy models in PyTorch](https://towardsdatascience.com/deploy-models-and-create-custom-handlers-in-torchserve-fc2d048fbe91)
+  * [초보자를 위한 텐서플로2 노트북](https://brunch.co.kr/@synabreu/78)
+  * [albumentations - fast image augmentation library 소개 및 사용법 Tutorial](https://hoya012.github.io/blog/albumentation_tutorial/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1667,6 +1672,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [The fastai book](https://github.com/fastai/fastbook)
   * [Detection of Accounting Anomalies using Deep Autoencoder Neural Networks](https://github.com/GitiHubi/deepAI)
   * [f-AnoGAN: Fast Unsupervised Anomaly detection with GAN using Pytorch](https://github.com/mulkong/f-AnoGAN_with_Pytorch)
+  * [NarrativeKoGPT2 - koGPT-2를 이용한 이야기 생성 AI](https://github.com/shbictai/narrativeKoGPT2)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -1887,6 +1893,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [모두를 위한 강화학습](https://www.slideshare.net/taeyounglee1447/reinforcement-learning-for-everyone)
 * [Repository for slides & codes of RL Korea Bootcamp](https://github.com/reinforcement-learning-kr/rl_bootcamp)
 * [Reinforcement Learning Concept on Cart-Pole with DQN](https://towardsdatascience.com/reinforcement-learning-concept-on-cart-pole-with-dqn-799105ca670)
+* [Reinforcement Learning](https://teamdable.github.io/techblog/Reinforcement-Learning)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -2634,6 +2641,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [히든마르코프 모델을 이용한 오픈 이온 채널 수 예측\(우리가 Kaggle – University of Liverpool – Ion Switching Competition에서 거의 우승할뻔했던 경험에 대하여\)](http://bongholee.com/2020/06/%ED%9E%88%EB%93%A0%EB%A7%88%EB%A5%B4%EC%BD%94%ED%94%84-%EB%AA%A8%EB%8D%B8%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%98%A4%ED%94%88-%EC%9D%B4%EC%98%A8-%EC%B1%84%EB%84%90-%EC%88%98-%EC%98%88%EC%B8%A1/)
 * [이야기로 설명하는 최대 우도 추정법 \(Maximum Likelihood Estimation\)](https://www.youtube.com/watch?v=sOtkPm_1GYw)
 * [이야기로 설명하는 로지스틱 회귀 분석](https://www.youtube.com/watch?v=egeOjGEG1j4)
+* [Push the limits of explainability — an ultimate guide to SHAP librar](https://medium.com/swlh/push-the-limits-of-explainability-an-ultimate-guide-to-shap-library-a110af566a02)
+* [Machine Learning Visualizations with Yellowbrick](https://medium.com/data-science-community-srm/machine-learning-visualizations-with-yellowbrick-3c533955b1b3)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3097,6 +3106,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [[Python 데이터 분석] 가설 검정 \(Hypothesis Testing\)](https://engkimbs.tistory.com/758)
 * [Beyond “tidy”: Plotly Express now accepts wide-form and mixed-form data](https://medium.com/plotly/beyond-tidy-plotly-express-now-accepts-wide-form-and-mixed-form-data-bdc3e054f891)
 * [10 Steps to Setup a Comprehensive Data Science Workspace with VSCode on Windows](https://towardsdatascience.com/10-steps-to-setup-a-comprehensive-data-science-workspace-with-vscode-on-windows-32fe190a8f3)
+* [A/B test 는 가설이 중요하다](https://ghk829.github.io/whitecross.github.com/ABtestingcommonmistake/)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -3414,6 +3424,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Beating the baseline recommender with Graph and NLP techniques](https://eugeneyan.com/2020/01/13/recommender-systems-graph-and-nlp-techniques)
 * [멜론에서 음악 추천을 어떻게 할까?](https://brunch.co.kr/@kakao-it/342)
 * [멜론 플레이리스트 데이터 탐색](https://brunch.co.kr/@kakao-it/343)
+* [추천\(Recommendation\) 시스템 - 알고리즘 Trend 정리](https://hoondongkim.blogspot.com/2019/03/recommendation-trend.html)
+* [추천시스템에 빠져들기](https://www.notion.so/ecc73247c9f9486d9063fca918c5917e)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
