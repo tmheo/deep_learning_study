@@ -93,7 +93,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Edwith - Statistics 110 : Probability](https://www.edwith.org/harvardprobability/)
   * [Edwith - 선형대수 with Khan Academy](https://www.edwith.org/linear-algebra)
   * [TensorFlow | A Concise Handbook of TensorFlow Eager Execution](https://tf.wiki/)
-  * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+  * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) : [[번역]](https://tootouch.github.io/IML/start/)
   * [Bloomberg ML EDU - FOUNDATIONS OF MACHINE LEARNING](https://bloomberg.github.io/foml/)
   * [Edwith - [2018] 데이터과학 산책](https://www.edwith.org/walkingds)
   * [YSDA Natural Language Processing Course](https://github.com/yandexdataschool/nlp_course)
@@ -1318,6 +1318,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deploy models in PyTorch](https://towardsdatascience.com/deploy-models-and-create-custom-handlers-in-torchserve-fc2d048fbe91)
   * [초보자를 위한 텐서플로2 노트북](https://brunch.co.kr/@synabreu/78)
   * [albumentations - fast image augmentation library 소개 및 사용법 Tutorial](https://hoya012.github.io/blog/albumentation_tutorial/)
+  * [TensorFlow Multi GPU 사용법](https://jjerry-k.github.io/deeplearning/2020/06/14/tf2_multi_gpu/)
+  * [Integrating image and tabular data for deep learning](https://towardsdatascience.com/integrating-image-and-tabular-data-for-deep-learning-9281397c7318)
+  * [파이토치에도 보일러플레이트가 스치운다](http://research.sualab.com/development/2020/06/18/pytorch-boilerplate.html)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1673,6 +1676,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Detection of Accounting Anomalies using Deep Autoencoder Neural Networks](https://github.com/GitiHubi/deepAI)
   * [f-AnoGAN: Fast Unsupervised Anomaly detection with GAN using Pytorch](https://github.com/mulkong/f-AnoGAN_with_Pytorch)
   * [NarrativeKoGPT2 - koGPT-2를 이용한 이야기 생성 AI](https://github.com/shbictai/narrativeKoGPT2)
+  * [Tutorial for pretraining Korean GPT-2 model](https://github.com/MrBananaHuman/KorGPT2Tutorial)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -2643,6 +2647,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [이야기로 설명하는 로지스틱 회귀 분석](https://www.youtube.com/watch?v=egeOjGEG1j4)
 * [Push the limits of explainability — an ultimate guide to SHAP librar](https://medium.com/swlh/push-the-limits-of-explainability-an-ultimate-guide-to-shap-library-a110af566a02)
 * [Machine Learning Visualizations with Yellowbrick](https://medium.com/data-science-community-srm/machine-learning-visualizations-with-yellowbrick-3c533955b1b3)
+* [Feature selection? You are probably doing it wrong](https://towardsdatascience.com/feature-selection-you-are-probably-doing-it-wrong-985679b41456)
+* [SHAP에 대한 모든 것 - part 1 : Shapley Values 알아보기](https://datanetworkanalysis.github.io/2019/12/23/shap1)
+* [SHAP에 대한 모든 것 - part 2 : SHAP 소개](https://datanetworkanalysis.github.io/2019/12/24/shap2)
+* [SHAP에 대한 모든 것 - part 3 : SHAP을 통한 시각화해석](https://datanetworkanalysis.github.io/2019/12/24/shap3)
+* [[리뷰] XAI 설명 가능한 인공지능 \(인공지능을 해부하다\)](https://theorydb.github.io/review/2020/06/09/review-book-xai/)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3426,6 +3435,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [멜론 플레이리스트 데이터 탐색](https://brunch.co.kr/@kakao-it/343)
 * [추천\(Recommendation\) 시스템 - 알고리즘 Trend 정리](https://hoondongkim.blogspot.com/2019/03/recommendation-trend.html)
 * [추천시스템에 빠져들기](https://www.notion.so/ecc73247c9f9486d9063fca918c5917e)
+* [[ICLR 2020] INDUCTIVE MATRIX COMPLETION BASED ON GRAPH NEURAL NETWORKS](https://yoonki-j.info/iclr2020-igmc/)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
