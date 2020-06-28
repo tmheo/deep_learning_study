@@ -138,6 +138,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [자연어 언어모델 ‘BERT’](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=164)
   * [the-incredible-pytorch](https://www.ritchieng.com/the-incredible-pytorch/)
   * [The Super Duper NLP Repo](https://notebooks.quantumstat.com/)
+  * [Deep Learning Models](https://github.com/rasbt/deeplearning-models)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -1321,6 +1322,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [TensorFlow Multi GPU 사용법](https://jjerry-k.github.io/deeplearning/2020/06/14/tf2_multi_gpu/)
   * [Integrating image and tabular data for deep learning](https://towardsdatascience.com/integrating-image-and-tabular-data-for-deep-learning-9281397c7318)
   * [파이토치에도 보일러플레이트가 스치운다](http://research.sualab.com/development/2020/06/18/pytorch-boilerplate.html)
+  * [Everyone can use deep learning now](https://towardsdatascience.com/everyone-can-use-deep-learning-now-8d683f92bce7)
+  * [우리가 PyTorch Lightning을 써야 하는 이유](https://baeseongsu.github.io/posts/pytorch-lightning-introduction/)
+  * [BERT Distillation with Catalyst](https://medium.com/pytorch/bert-distillation-with-catalyst-c6f30c985854)
+  * [NIPA...NIPA가 뭐죠..](https://jjerry-k.github.io/deeplearning/2020/06/26/nipa_intro/)
+  * [NIPA 컴퓨팅 자원 신청 방법 !](https://jjerry-k.github.io/deeplearning/2020/06/27/nipa_apply/)
+  * [NIPA x Docker !](https://jjerry-k.github.io/deeplearning/2020/06/28/nipa_docker/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1677,6 +1684,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [f-AnoGAN: Fast Unsupervised Anomaly detection with GAN using Pytorch](https://github.com/mulkong/f-AnoGAN_with_Pytorch)
   * [NarrativeKoGPT2 - koGPT-2를 이용한 이야기 생성 AI](https://github.com/shbictai/narrativeKoGPT2)
   * [Tutorial for pretraining Korean GPT-2 model](https://github.com/MrBananaHuman/KorGPT2Tutorial)
+  * [Simple Chit-Chat based on KoGPT2](https://github.com/haven-jeon/KoGPT2-chatbot)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -2652,6 +2660,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [SHAP에 대한 모든 것 - part 2 : SHAP 소개](https://datanetworkanalysis.github.io/2019/12/24/shap2)
 * [SHAP에 대한 모든 것 - part 3 : SHAP을 통한 시각화해석](https://datanetworkanalysis.github.io/2019/12/24/shap3)
 * [[리뷰] XAI 설명 가능한 인공지능 \(인공지능을 해부하다\)](https://theorydb.github.io/review/2020/06/09/review-book-xai/)
+* [Sagemaker Github Actions](https://www.youtube.com/watch?v=SjqPeL4QJao)
+* [Use SHAP loss values to debug/monitor your model](https://towardsdatascience.com/use-shap-loss-values-to-debug-monitor-your-model-83f7808af40f)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3116,6 +3126,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Beyond “tidy”: Plotly Express now accepts wide-form and mixed-form data](https://medium.com/plotly/beyond-tidy-plotly-express-now-accepts-wide-form-and-mixed-form-data-bdc3e054f891)
 * [10 Steps to Setup a Comprehensive Data Science Workspace with VSCode on Windows](https://towardsdatascience.com/10-steps-to-setup-a-comprehensive-data-science-workspace-with-vscode-on-windows-32fe190a8f3)
 * [A/B test 는 가설이 중요하다](https://ghk829.github.io/whitecross.github.com/ABtestingcommonmistake/)
+* [Google Colab Tips for Power Users](https://amitness.com/2020/06/google-colaboratory-tips/)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
