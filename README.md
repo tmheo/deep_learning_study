@@ -1328,6 +1328,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [NIPA...NIPA가 뭐죠..](https://jjerry-k.github.io/deeplearning/2020/06/26/nipa_intro/)
   * [NIPA 컴퓨팅 자원 신청 방법 !](https://jjerry-k.github.io/deeplearning/2020/06/27/nipa_apply/)
   * [NIPA x Docker !](https://jjerry-k.github.io/deeplearning/2020/06/28/nipa_docker/)
+  * [Reproducible PyTorch를 위한 randomness 올바르게 제어하기!](https://hoya012.github.io/blog/reproducible_pytorch/)
+  * [Building a visual search application with Amazon SageMaker and Amazon ES](https://aws.amazon.com/blogs/machine-learning/building-a-visual-search-application-with-amazon-sagemaker-and-amazon-es/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1552,6 +1554,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [NLP for Developers](https://www.youtube.com/playlist?list=PL75e0qA87dlFJiNMeKltWImhQxfFwaxvv)
   * [Text Classification | Sentiment Analysis with BERT using huggingface, PyTorch and Python Tutorial](https://www.youtube.com/watch?v=8N-nM3QW7O0)
   * [DeepMind x UCL | Deep Learning Lecture Series 2020](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
+  * [Opening Up the Black Box: Model Understanding with Captum and PyTorch](https://www.youtube.com/watch?v=0QLrRyLndFI)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -1906,6 +1909,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Repository for slides & codes of RL Korea Bootcamp](https://github.com/reinforcement-learning-kr/rl_bootcamp)
 * [Reinforcement Learning Concept on Cart-Pole with DQN](https://towardsdatascience.com/reinforcement-learning-concept-on-cart-pole-with-dqn-799105ca670)
 * [Reinforcement Learning](https://teamdable.github.io/techblog/Reinforcement-Learning)
+* [RaptorJung님의 강화학습 블로그](https://blog.naver.com/PostList.nhn?blogId=jk96491&categoryNo=12)
+* [Colab for the RL tutorial at EEML 2020](https://github.com/eemlcommunity/PracticalSessions2020/blob/master/rl/EEML2020_RL_Tutorial.ipynb)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -2662,6 +2667,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [[리뷰] XAI 설명 가능한 인공지능 \(인공지능을 해부하다\)](https://theorydb.github.io/review/2020/06/09/review-book-xai/)
 * [Sagemaker Github Actions](https://www.youtube.com/watch?v=SjqPeL4QJao)
 * [Use SHAP loss values to debug/monitor your model](https://towardsdatascience.com/use-shap-loss-values-to-debug-monitor-your-model-83f7808af40f)
+* [Is this the Best Feature Selection Algorithm “BorutaShap”?](https://medium.com/analytics-vidhya/is-this-the-best-feature-selection-algorithm-borutashap-8bc238aa1677)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3127,6 +3133,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [10 Steps to Setup a Comprehensive Data Science Workspace with VSCode on Windows](https://towardsdatascience.com/10-steps-to-setup-a-comprehensive-data-science-workspace-with-vscode-on-windows-32fe190a8f3)
 * [A/B test 는 가설이 중요하다](https://ghk829.github.io/whitecross.github.com/ABtestingcommonmistake/)
 * [Google Colab Tips for Power Users](https://amitness.com/2020/06/google-colaboratory-tips/)
+* [About Joins in Spark 3.0](https://towardsdatascience.com/about-joins-in-spark-3-0-1e0ea083ea86)
+* [Spark 3.0에 새로 추가된 기능 소개 및 설명](https://nephtyws.github.io/data/whats-new-in-spark-3/)
+* [도메인 지식이 결여된 인과 추정이 위험한 이유](https://danbi-ncsoft.github.io/study/2020/06/29/study-domain_knowledge_and_causal_inference.html)
+* [Biohacker님의 데이터 분석 블로그](https://partrita.github.io/)
+* [One-tailed or two-tailed test, that is the question](https://towardsdatascience.com/one-tailed-or-two-tailed-test-that-is-the-question-1283387f631c)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -3447,6 +3458,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [추천\(Recommendation\) 시스템 - 알고리즘 Trend 정리](https://hoondongkim.blogspot.com/2019/03/recommendation-trend.html)
 * [추천시스템에 빠져들기](https://www.notion.so/ecc73247c9f9486d9063fca918c5917e)
 * [[ICLR 2020] INDUCTIVE MATRIX COMPLETION BASED ON GRAPH NEURAL NETWORKS](https://yoonki-j.info/iclr2020-igmc/)
+* [RecSys Challenge 참가 스토리](https://hojinyang.github.io/blogging/recsyschallenge/)
+* [Powerful EDA \(Exploratory Data Analysis\) in just two lines of code using Sweetviz](https://towardsdatascience.com/powerful-eda-exploratory-data-analysis-in-just-two-lines-of-code-using-sweetviz-6c943d32f34)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
