@@ -139,6 +139,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [the-incredible-pytorch](https://www.ritchieng.com/the-incredible-pytorch/)
   * [The Super Duper NLP Repo](https://notebooks.quantumstat.com/)
   * [Deep Learning Models](https://github.com/rasbt/deeplearning-models)
+  * [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
+  * [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -1330,6 +1332,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [NIPA x Docker !](https://jjerry-k.github.io/deeplearning/2020/06/28/nipa_docker/)
   * [Reproducible PyTorch를 위한 randomness 올바르게 제어하기!](https://hoya012.github.io/blog/reproducible_pytorch/)
   * [Building a visual search application with Amazon SageMaker and Amazon ES](https://aws.amazon.com/blogs/machine-learning/building-a-visual-search-application-with-amazon-sagemaker-and-amazon-es/)
+  * [HuggingFace 내 토크나이저 종류 살펴보기](https://huffon.github.io/2020/07/05/tokenizers/)
+  * [How to Create an End to End Object Detector using Yolov5?](https://towardsdatascience.com/how-to-create-an-end-to-end-object-detector-using-yolov5-35fbb1a02810)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -2668,6 +2672,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Sagemaker Github Actions](https://www.youtube.com/watch?v=SjqPeL4QJao)
 * [Use SHAP loss values to debug/monitor your model](https://towardsdatascience.com/use-shap-loss-values-to-debug-monitor-your-model-83f7808af40f)
 * [Is this the Best Feature Selection Algorithm “BorutaShap”?](https://medium.com/analytics-vidhya/is-this-the-best-feature-selection-algorithm-borutashap-8bc238aa1677)
+* [All Machine Learning Algorithms Explained](https://thecleverprogrammer.com/2020/06/05/all-machine-learning-algorithms-explained/)
+* [Announcing PyCaret 1.0.0](https://towardsdatascience.com/announcing-pycaret-an-open-source-low-code-machine-learning-library-in-python-4a1f1aad8d46)
+* [4 Automatic Outlier Detection Algorithms in Python](https://machinelearningmastery.com/model-based-outlier-detection-and-removal-in-python/)
+* [Feature Importance May Be Lying To You](https://towardsdatascience.com/feature-importance-may-be-lying-to-you-3247cafa7ee7)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3138,6 +3146,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [도메인 지식이 결여된 인과 추정이 위험한 이유](https://danbi-ncsoft.github.io/study/2020/06/29/study-domain_knowledge_and_causal_inference.html)
 * [Biohacker님의 데이터 분석 블로그](https://partrita.github.io/)
 * [One-tailed or two-tailed test, that is the question](https://towardsdatascience.com/one-tailed-or-two-tailed-test-that-is-the-question-1283387f631c)
+* [Official Matplotlib cheat sheets](https://github.com/matplotlib/cheatsheets)
+* [Using Pandas pipe function to improve code readability](https://towardsdatascience.com/using-pandas-pipe-function-to-improve-code-readability-96d66abfaf8)
+* [Data Mechanics UI — We’re building a better Apache Spark UI](https://towardsdatascience.com/spark-delight-were-building-a-better-spark-ui-1b463840e243)
+* [Visualizing Science; How Color Determines What we see](https://jehyunlee.github.io/2020/07/08/Python-DS-19-vs_color/)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
