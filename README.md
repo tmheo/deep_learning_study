@@ -1334,6 +1334,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Building a visual search application with Amazon SageMaker and Amazon ES](https://aws.amazon.com/blogs/machine-learning/building-a-visual-search-application-with-amazon-sagemaker-and-amazon-es/)
   * [HuggingFace 내 토크나이저 종류 살펴보기](https://huffon.github.io/2020/07/05/tokenizers/)
   * [How to Create an End to End Object Detector using Yolov5?](https://towardsdatascience.com/how-to-create-an-end-to-end-object-detector-using-yolov5-35fbb1a02810)
+  * [Pytorch Implementation of GEE: A Gradient-based Explainable Variational Autoencoder for Network Anomaly Detection](https://blog.munhou.com/2020/07/12/Pytorch-Implementation-of-GEE-A-Gradient-based-Explainable-Variational-Autoencoder-for-Network-Anomaly-Detection/)
+  * [An introduction to PyTorch Lightning with comparisons to PyTorch](https://amaarora.github.io/2020/07/12/oganized-pytorch.html)
+  * [Building a Neural Network on Amazon SageMaker with PyTorch Lightning](https://towardsdatascience.com/building-a-neural-network-on-amazon-sagemaker-with-pytorch-lightning-63730ec740ea)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -2676,6 +2679,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Announcing PyCaret 1.0.0](https://towardsdatascience.com/announcing-pycaret-an-open-source-low-code-machine-learning-library-in-python-4a1f1aad8d46)
 * [4 Automatic Outlier Detection Algorithms in Python](https://machinelearningmastery.com/model-based-outlier-detection-and-removal-in-python/)
 * [Feature Importance May Be Lying To You](https://towardsdatascience.com/feature-importance-may-be-lying-to-you-3247cafa7ee7)
+* [Outlier Detection](https://medium.com/@tarundutta.it/outlier-detection-8e4d8f773475)
+* [텍스트 마이닝 기법](https://romanticq.github.io/categories/#%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3150,6 +3155,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Using Pandas pipe function to improve code readability](https://towardsdatascience.com/using-pandas-pipe-function-to-improve-code-readability-96d66abfaf8)
 * [Data Mechanics UI — We’re building a better Apache Spark UI](https://towardsdatascience.com/spark-delight-were-building-a-better-spark-ui-1b463840e243)
 * [Visualizing Science; How Color Determines What we see](https://jehyunlee.github.io/2020/07/08/Python-DS-19-vs_color/)
+* [Colab on steroids: free GPU instances with SSH access and Visual Studio Code Server](https://towardsdatascience.com/colab-free-gpu-ssh-visual-studio-code-server-36fe1d3c5243)
+* [Mastering Query Plans in Spark 3.0](https://towardsdatascience.com/mastering-query-plans-in-spark-3-0-f4c334663aa4)
+* [달고나 1. \(RTB를 위한\) 광고 시스템의 이해](https://brunch.co.kr/@jejugrapher/215)
+* [What’s new in Matplotlib 3](https://towardsdatascience.com/whats-new-in-matplotlib-3-1b3b03f18ddc)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
