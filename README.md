@@ -2681,6 +2681,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Feature Importance May Be Lying To You](https://towardsdatascience.com/feature-importance-may-be-lying-to-you-3247cafa7ee7)
 * [Outlier Detection](https://medium.com/@tarundutta.it/outlier-detection-8e4d8f773475)
 * [텍스트 마이닝 기법](https://romanticq.github.io/categories/#%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
+* [Regression with PyCaret: A better machine learning library](https://towardsdatascience.com/regression-with-pycaret-a-better-machine-learning-library-e02762a0615c)
+* [A Simplified approach using PyCaret for Anomaly Detection](https://towardsdatascience.com/a-simplified-approach-using-pycaret-for-anomaly-detection-7d33aca3f066)
+* [Machine learning made easier with PyCaret](https://towardsdatascience.com/machine-learning-made-easier-with-pycaret-907e7124efe6)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3159,6 +3162,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Mastering Query Plans in Spark 3.0](https://towardsdatascience.com/mastering-query-plans-in-spark-3-0-f4c334663aa4)
 * [달고나 1. \(RTB를 위한\) 광고 시스템의 이해](https://brunch.co.kr/@jejugrapher/215)
 * [What’s new in Matplotlib 3](https://towardsdatascience.com/whats-new-in-matplotlib-3-1b3b03f18ddc)
+* [Introduction to Best Parallel Plot Python Library: “HiPlot”](https://towardsdatascience.com/introduction-to-best-parallel-plot-python-library-hiplot-8387f5786d97)
+* [PCA; Dimension Reduction + α](https://jehyunlee.github.io/2020/07/21/Python-DS-21-PCA/)
+* [Every Complex DataFrame Manipulation, Explained & Visualized Intuitively](https://towardsdatascience.com/every-dataframe-manipulation-explained-visualized-intuitively-dbeea7a5529e)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
