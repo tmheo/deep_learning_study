@@ -1337,6 +1337,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Pytorch Implementation of GEE: A Gradient-based Explainable Variational Autoencoder for Network Anomaly Detection](https://blog.munhou.com/2020/07/12/Pytorch-Implementation-of-GEE-A-Gradient-based-Explainable-Variational-Autoencoder-for-Network-Anomaly-Detection/)
   * [An introduction to PyTorch Lightning with comparisons to PyTorch](https://amaarora.github.io/2020/07/12/oganized-pytorch.html)
   * [Building a Neural Network on Amazon SageMaker with PyTorch Lightning](https://towardsdatascience.com/building-a-neural-network-on-amazon-sagemaker-with-pytorch-lightning-63730ec740ea)
+  * [How to Keep Track of PyTorch Lightning Experiments with Neptune](https://towardsdatascience.com/how-to-keep-track-of-pytorch-lightning-experiments-with-neptune-af467ec05600)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -3165,6 +3166,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Introduction to Best Parallel Plot Python Library: “HiPlot”](https://towardsdatascience.com/introduction-to-best-parallel-plot-python-library-hiplot-8387f5786d97)
 * [PCA; Dimension Reduction + α](https://jehyunlee.github.io/2020/07/21/Python-DS-21-PCA/)
 * [Every Complex DataFrame Manipulation, Explained & Visualized Intuitively](https://towardsdatascience.com/every-dataframe-manipulation-explained-visualized-intuitively-dbeea7a5529e)
+* [5 Spark Best Practices For Data Science](https://towardsdatascience.com/5-spark-best-practices-61587a35ac15)
+* [Building an analytical data lake with Apache Spark and Apache Hudi - Part 1](https://olivermascarenhas.com/2020-04-13-building-analytical-datalake-with-apache-spark-and-apache-hudi/)
+* [apache hudi 적용해서 aws 에서 glue metastore 기반 테이블만들기](https://cce199.tistory.com/67)
+* [한국어 전처리](https://colab.research.google.com/drive/1FfhWsP9izQcuVl06P30r5cCxELA1ciVE?usp=sharing)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
