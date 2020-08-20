@@ -1340,6 +1340,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [How to Keep Track of PyTorch Lightning Experiments with Neptune](https://towardsdatascience.com/how-to-keep-track-of-pytorch-lightning-experiments-with-neptune-af467ec05600)
   * [Semantic Segmentation PyTorch Tutorial & ECCV 2020 VIPriors Challenge 참가 후기 정리](https://hoya012.github.io/blog/segmentation_tutorial_pytorch/)
   * [GPT-3, 인류 역사상 가장 뛰어난 언어 AI](https://blog.pingpong.us/gpt3-review/)
+  * [Mixed-Precision Training of Deep Neural Networks](https://hoya012.github.io/blog/Mixed-Precision-Training/)
+  * [한국어로 대화하는 생성 모델의 학습을 위한 여정](https://blog.pingpong.us/generation-model/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -2688,6 +2690,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Regression with PyCaret: A better machine learning library](https://towardsdatascience.com/regression-with-pycaret-a-better-machine-learning-library-e02762a0615c)
 * [A Simplified approach using PyCaret for Anomaly Detection](https://towardsdatascience.com/a-simplified-approach-using-pycaret-for-anomaly-detection-7d33aca3f066)
 * [Machine learning made easier with PyCaret](https://towardsdatascience.com/machine-learning-made-easier-with-pycaret-907e7124efe6)
+* [An Explanation for eXplainable AI](https://medium.com/analytics-vidhya/an-explanation-for-explainable-ai-xai-d56ae3dacd13)
+* [Explaining Machine Learning Predictions and Building Trust with LIME](https://medium.com/fair-bytes/explaining-machine-learning-predictions-and-building-trust-with-lime-473bf46de61a)
+* [6 Dimensionality Reduction Algorithms With Python](https://machinelearningmastery.com/dimensionality-reduction-algorithms-with-python/)
+* [Outlier detection method introduction](https://www.slideshare.net/DaeJinKim22/outlier-detection-method-introduction-129968281)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3174,6 +3180,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [apache hudi 적용해서 aws 에서 glue metastore 기반 테이블만들기](https://cce199.tistory.com/67)
 * [한국어 전처리](https://colab.research.google.com/drive/1FfhWsP9izQcuVl06P30r5cCxELA1ciVE?usp=sharing)
 * [Processing and visualizing multiple categorical variables with Python — NBA’s schedule challenges](https://towardsdatascience.com/processing-and-visualizing-multiple-categorical-variables-with-python-nbas-schedule-challenges-b48453bff813)
+* [Reshape pandas dataframe with melt in Python — tutorial and visualization](https://towardsdatascience.com/reshape-pandas-dataframe-with-melt-in-python-tutorial-and-visualization-29ec1450bb02)
+* [Interactive Data Visualization In Python with Pygal](https://towardsdatascience.com/interactive-data-visualization-in-python-with-pygal-4696fccc8c96)
+* [Interoperability between Koalas and Apache Spark](https://databricks.com/blog/2020/08/11/interoperability-between-koalas-and-apache-spark.html)
+* [handcalcs: Python calculations in Jupyter, as though you wrote them by hand - Latex](https://github.com/connorferster/handcalcs)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
