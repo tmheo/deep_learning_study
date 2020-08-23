@@ -2694,6 +2694,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Explaining Machine Learning Predictions and Building Trust with LIME](https://medium.com/fair-bytes/explaining-machine-learning-predictions-and-building-trust-with-lime-473bf46de61a)
 * [6 Dimensionality Reduction Algorithms With Python](https://machinelearningmastery.com/dimensionality-reduction-algorithms-with-python/)
 * [Outlier detection method introduction](https://www.slideshare.net/DaeJinKim22/outlier-detection-method-introduction-129968281)
+* [From Hours to Seconds: 100x Faster Boosting, Bagging, and Stacking with RAPIDS cuML and Scikit-learn Machine Learning Model Ensembling](https://medium.com/rapids-ai/100x-faster-machine-learning-model-ensembling-with-rapids-cuml-and-scikit-learn-meta-estimators-d869788ee6b1)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
