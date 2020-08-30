@@ -1342,6 +1342,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [GPT-3, 인류 역사상 가장 뛰어난 언어 AI](https://blog.pingpong.us/gpt3-review/)
   * [Mixed-Precision Training of Deep Neural Networks](https://hoya012.github.io/blog/Mixed-Precision-Training/)
   * [한국어로 대화하는 생성 모델의 학습을 위한 여정](https://blog.pingpong.us/generation-model/)
+  * [Deep Learning's Most Important Ideas - A Brief Historical Review](https://dennybritz.com/blog/deep-learning-most-important-ideas/)
+  * [Image Classification with Automatic Mixed-Precision Training PyTorch Tutorial](https://hoya012.github.io/blog/Image-Classification-with-Mixed-Precision-Training-PyTorch-Tutorial/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1513,6 +1515,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [파이썬 날코딩으로 알고 짜는 딥러닝_14장](https://www.slideshare.net/mediahanbit/14-221710110)
   * [파이썬 날코딩으로 알고 짜는 딥러닝_15장](https://www.slideshare.net/mediahanbit/15-221710158)
   * [The Illustrated Transformer](https://docs.google.com/presentation/d/1D1KM2nL-G8HvMO5Ps2BkbMBfB4qkKcjkFhQ1vLxwZ1o/edit#slide=id.p)
+  * [네트워크 경량화 이모저모 @ 2020 DLD](https://www.slideshare.net/KimJunghoon5/2020-dld-238284732)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -1701,6 +1704,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Tutorial for pretraining Korean GPT-2 model](https://github.com/MrBananaHuman/KorGPT2Tutorial)
   * [Simple Chit-Chat based on KoGPT2](https://github.com/haven-jeon/KoGPT2-chatbot)
   * [KcBERT: Korean comments BERT](https://github.com/Beomi/KcBERT)
+  * [Text-Classification-Transformers](https://github.com/toriving/text-classification-transformers)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -2695,6 +2699,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [6 Dimensionality Reduction Algorithms With Python](https://machinelearningmastery.com/dimensionality-reduction-algorithms-with-python/)
 * [Outlier detection method introduction](https://www.slideshare.net/DaeJinKim22/outlier-detection-method-introduction-129968281)
 * [From Hours to Seconds: 100x Faster Boosting, Bagging, and Stacking with RAPIDS cuML and Scikit-learn Machine Learning Model Ensembling](https://medium.com/rapids-ai/100x-faster-machine-learning-model-ensembling-with-rapids-cuml-and-scikit-learn-meta-estimators-d869788ee6b1)
+* [Shparkley: Scaling Shapley values with Spark for Interpreting Machine Learning Models](https://tech.affirm.com/shparkley-scaling-shapley-values-with-spark-for-interpreting-machine-learning-models-8c9bc9574d70)
+* [한국어 자연어처리 1편_서브워드 구축\(Subword Tokenizer, huggingface VS SentencePiece\)](https://keep-steady.tistory.com/37?category=702926)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
