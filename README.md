@@ -174,6 +174,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle)
   * [The Learning Machine](https://www.thelearningmachine.ai/)
   * [매주 15분 투자해서 AI/NLP를 공부하는 방법](https://jiho-ml.com/weekly-nlp-0/)
+  * [DNA\(Data Network Analysis\) NEWS](https://datanetworkanalysis.github.io/dna_news)
 * Article
   * [Andrej Karpathy's Deep Learning Blog](http://karpathy.github.io/)
   * [머신러닝 딥러닝 입문 시 도움 되는 강좌](https://www.facebook.com/groups/TensorFlowKR/permalink/485458151795248/)
@@ -2701,6 +2702,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [From Hours to Seconds: 100x Faster Boosting, Bagging, and Stacking with RAPIDS cuML and Scikit-learn Machine Learning Model Ensembling](https://medium.com/rapids-ai/100x-faster-machine-learning-model-ensembling-with-rapids-cuml-and-scikit-learn-meta-estimators-d869788ee6b1)
 * [Shparkley: Scaling Shapley values with Spark for Interpreting Machine Learning Models](https://tech.affirm.com/shparkley-scaling-shapley-values-with-spark-for-interpreting-machine-learning-models-8c9bc9574d70)
 * [한국어 자연어처리 1편_서브워드 구축\(Subword Tokenizer, huggingface VS SentencePiece\)](https://keep-steady.tistory.com/37?category=702926)
+* [Interpreting Anomalies from Isolation Forest](https://nbviewer.jupyter.org/github/h2oai/h2o-tutorials/blob/master/tutorials/isolation-forest/interpreting_isolation-forest.ipynb)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3191,6 +3193,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Interactive Data Visualization In Python with Pygal](https://towardsdatascience.com/interactive-data-visualization-in-python-with-pygal-4696fccc8c96)
 * [Interoperability between Koalas and Apache Spark](https://databricks.com/blog/2020/08/11/interoperability-between-koalas-and-apache-spark.html)
 * [handcalcs: Python calculations in Jupyter, as though you wrote them by hand - Latex](https://github.com/connorferster/handcalcs)
+* [Why you should try the Bayesian approach of A/B testing](https://towardsdatascience.com/why-you-should-try-the-bayesian-approach-of-a-b-testing-38b8079ea33a)
+* [Azar의 공정한 A/B test 운영 시스템 ABzar 소개](https://hyperconnect.github.io/2020/08/26/azar-ab-test.html)
+* [dtreeviz : Decision Tree Visualization](https://github.com/parrt/dtreeviz)
+* [Visualize a Decision Tree in 4 Ways with Scikit-Learn and Python](https://mljar.com/blog/visualize-decision-tree/)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
