@@ -1345,6 +1345,15 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [한국어로 대화하는 생성 모델의 학습을 위한 여정](https://blog.pingpong.us/generation-model/)
   * [Deep Learning's Most Important Ideas - A Brief Historical Review](https://dennybritz.com/blog/deep-learning-most-important-ideas/)
   * [Image Classification with Automatic Mixed-Precision Training PyTorch Tutorial](https://hoya012.github.io/blog/Image-Classification-with-Mixed-Precision-Training-PyTorch-Tutorial/)
+  * [A Framework For Contrastive Self-Supervised Learning And Designing A New Approach](https://towardsdatascience.com/a-framework-for-contrastive-self-supervised-learning-and-designing-a-new-approach-3caab5d29619)
+  * [Colab에서 TPU로 BERT 처음부터 학습시키기 - Tensorflow/Google ver.](https://beomi.github.io/2020/02/26/Train-BERT-from-scratch-on-colab-TPU-Tensorflow-ver/)
+  * [[공개용] Colab에서 TPU로 KcBERT 처음부터 Pretrain하기 with Korpora](https://colab.research.google.com/drive/1lYBYtaXqt9S733OXdXvrvC09ysKFN30W)
+  * [Full Stack Deep Learning — Setting up Machine Learning Projects](https://medium.com/@heegyukim/full-stack-deep-learning-setting-up-machine-learning-projects-32681ccac007)
+  * [Full Stack Deep Learning — Infrastructure and Tooling](https://medium.com/@heegyukim/full-stack-deep-learning-infrastructure-and-tooling-e0cd33af7a9e)
+  * [Full Stack Deep Learning — Data Management](https://medium.com/@heegyukim/full-stack-deep-learning-data-management-7ee8ca43aac7)
+  * [Full Stack Deep Learning — Machine Learning Teams](https://medium.com/@heegyukim/full-stack-deep-learning-machine-learning-teams-8aaa2e22b5ca)
+  * [Full Stack Deep Learning — Training and Debugging](https://medium.com/@heegyukim/full-stack-deep-learning-training-and-debugging-1c0f1d587e66)
+  * [Full Stack Deep Learning — Testing and Deployment](https://medium.com/@heegyukim/full-stack-deep-learning-testing-and-deployment-d98568424a8a)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1762,6 +1771,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [KorQuAD - The Korean Question Answering Dataset](https://korquad.github.io/)
   * [VisualData - Discover Computer Vision Datasets](https://www.visualdata.io/)
   * [한국어 NLP dataset 모음](https://datasetfinder.blogspot.com/2020/04/dataset.html)
+  * [Korpora: Korean Corpora Archives](https://github.com/ko-nlp/Korpora)
 
 ## Reinforcement Learning
 * [Fundamental of Reinforcement Learning](https://www.gitbook.com/book/dnddnjs/rl/)
@@ -2703,6 +2713,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Shparkley: Scaling Shapley values with Spark for Interpreting Machine Learning Models](https://tech.affirm.com/shparkley-scaling-shapley-values-with-spark-for-interpreting-machine-learning-models-8c9bc9574d70)
 * [한국어 자연어처리 1편_서브워드 구축\(Subword Tokenizer, huggingface VS SentencePiece\)](https://keep-steady.tistory.com/37?category=702926)
 * [Interpreting Anomalies from Isolation Forest](https://nbviewer.jupyter.org/github/h2oai/h2o-tutorials/blob/master/tutorials/isolation-forest/interpreting_isolation-forest.ipynb)
+* [Introduction to Yellowbrick: A Python Library to Visualize the Prediction of your Machine Learning Model](https://towardsdatascience.com/introduction-to-yellowbrick-a-python-library-to-explain-the-prediction-of-your-machine-learning-d63ecee10ecc)
+* [Getting oriented in the RAPIDS distributed ML ecosystem, part 1: ETL](https://medium.com/rapids-ai/getting-oriented-in-the-rapids-distributed-ml-ecosystem-part-1-etl-6aaa03f7da4d)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3197,6 +3209,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Azar의 공정한 A/B test 운영 시스템 ABzar 소개](https://hyperconnect.github.io/2020/08/26/azar-ab-test.html)
 * [dtreeviz : Decision Tree Visualization](https://github.com/parrt/dtreeviz)
 * [Visualize a Decision Tree in 4 Ways with Scikit-Learn and Python](https://mljar.com/blog/visualize-decision-tree/)
+* [Seaborn 0.11 Quick Review](https://jehyunlee.github.io/2020/09/09/Python-DS-31-seaborn_upgrade/)
+* [ColabCode - Run code server on Google Colab or Kaggle Notebooks](https://github.com/abhishekkrthakur/colabcode/)
+* [The new kid on the statistics-in-Python block: pingouin](https://towardsdatascience.com/the-new-kid-on-the-statistics-in-python-block-pingouin-6b353a1db57c)
+* [Powerful EDA \(Exploratory Data Analysis\) in just two lines of code using Sweetviz](https://towardsdatascience.com/powerful-eda-exploratory-data-analysis-in-just-two-lines-of-code-using-sweetviz-6c943d32f34)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -3518,7 +3534,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [추천시스템에 빠져들기](https://www.notion.so/ecc73247c9f9486d9063fca918c5917e)
 * [[ICLR 2020] INDUCTIVE MATRIX COMPLETION BASED ON GRAPH NEURAL NETWORKS](https://yoonki-j.info/iclr2020-igmc/)
 * [RecSys Challenge 참가 스토리](https://hojinyang.github.io/blogging/recsyschallenge/)
-* [Powerful EDA \(Exploratory Data Analysis\) in just two lines of code using Sweetviz](https://towardsdatascience.com/powerful-eda-exploratory-data-analysis-in-just-two-lines-of-code-using-sweetviz-6c943d32f34)
+* [빠키님의 추천 블로그](https://velog.io/@vvakki_?tag=Recommendation-System)
+* [Johnny Yoon님의 추천 블로그](https://jyoondev.tistory.com/m/category/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4/%EC%B6%94%EC%B2%9C%EC%8B%9C%EC%8A%A4%ED%85%9C)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
