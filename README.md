@@ -1354,6 +1354,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Full Stack Deep Learning — Machine Learning Teams](https://medium.com/@heegyukim/full-stack-deep-learning-machine-learning-teams-8aaa2e22b5ca)
   * [Full Stack Deep Learning — Training and Debugging](https://medium.com/@heegyukim/full-stack-deep-learning-training-and-debugging-1c0f1d587e66)
   * [Full Stack Deep Learning — Testing and Deployment](https://medium.com/@heegyukim/full-stack-deep-learning-testing-and-deployment-d98568424a8a)
+  * [Run State of the Art NLP Workloads at Scale with RAPIDS, HuggingFace, and Dask](https://medium.com/rapids-ai/state-of-the-art-nlp-at-scale-with-rapids-huggingface-and-dask-a885c19ce87b)
+  * [PyTorch Lightning Bolts — From Linear, Logistic Regression on TPUs to pre-trained GANs](https://medium.com/pytorch/pytorch-lightning-bolts-from-boosted-regression-on-tpus-to-pre-trained-gans-5cebdb1f99fe)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1580,6 +1582,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Text Classification | Sentiment Analysis with BERT using huggingface, PyTorch and Python Tutorial](https://www.youtube.com/watch?v=8N-nM3QW7O0)
   * [DeepMind x UCL | Deep Learning Lecture Series 2020](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
   * [Opening Up the Black Box: Model Understanding with Captum and PyTorch](https://www.youtube.com/watch?v=0QLrRyLndFI)
+  * [DETR: End-to-End Object Detection with Transformers \(꼼꼼한 딥러닝 논문 리뷰와 코드 실습\)](https://www.youtube.com/watch?v=hCWUTvVrG7E)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -3213,6 +3216,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [ColabCode - Run code server on Google Colab or Kaggle Notebooks](https://github.com/abhishekkrthakur/colabcode/)
 * [The new kid on the statistics-in-Python block: pingouin](https://towardsdatascience.com/the-new-kid-on-the-statistics-in-python-block-pingouin-6b353a1db57c)
 * [Powerful EDA \(Exploratory Data Analysis\) in just two lines of code using Sweetviz](https://towardsdatascience.com/powerful-eda-exploratory-data-analysis-in-just-two-lines-of-code-using-sweetviz-6c943d32f34)
+* [AI against COVID-19](https://tootouch.github.io/research/ai_against_covid19/)
+* [Pandas with Dask, For an Ultra-Fast Notebook](https://towardsdatascience.com/pandas-with-dask-for-an-ultra-fast-notebook-e2621c3769f)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -3536,6 +3541,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [RecSys Challenge 참가 스토리](https://hojinyang.github.io/blogging/recsyschallenge/)
 * [빠키님의 추천 블로그](https://velog.io/@vvakki_?tag=Recommendation-System)
 * [Johnny Yoon님의 추천 블로그](https://jyoondev.tistory.com/m/category/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4/%EC%B6%94%EC%B2%9C%EC%8B%9C%EC%8A%A4%ED%85%9C)
+* [Scalable Recommender Systems with NVTabular- A Fast Tabular Data Loading and Transformation Library](https://medium.com/rapids-ai/gpu-recommender-systems-with-nvtabular-eee056c37ea0)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
