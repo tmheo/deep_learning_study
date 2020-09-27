@@ -141,6 +141,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deep Learning Models](https://github.com/rasbt/deeplearning-models)
   * [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
   * [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/)
+  * [PyTorch로 시작하는 딥 러닝 입문](https://wikidocs.net/book/2788)
+  * [AI For Everyone MOOC 한글번역 - 김형률](https://docs.google.com/document/d/1aAxJgvFjQj8U9joD_xJWGz6kSoVT6ueOPZhrgxH7mSg/)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -1356,6 +1358,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Full Stack Deep Learning — Testing and Deployment](https://medium.com/@heegyukim/full-stack-deep-learning-testing-and-deployment-d98568424a8a)
   * [Run State of the Art NLP Workloads at Scale with RAPIDS, HuggingFace, and Dask](https://medium.com/rapids-ai/state-of-the-art-nlp-at-scale-with-rapids-huggingface-and-dask-a885c19ce87b)
   * [PyTorch Lightning Bolts — From Linear, Logistic Regression on TPUs to pre-trained GANs](https://medium.com/pytorch/pytorch-lightning-bolts-from-boosted-regression-on-tpus-to-pre-trained-gans-5cebdb1f99fe)
+  * [Serving PyTorch models in production with the Amazon SageMaker native TorchServe integration](https://aws.amazon.com/blogs/machine-learning/serving-pytorch-models-in-production-with-the-amazon-sagemaker-native-torchserve-integration/)
+  * [Introducing PyTorch Forecasting](https://towardsdatascience.com/introducing-pytorch-forecasting-64de99b9ef46)
+  * [Animations of Neural Networks Transforming Data](https://towardsdatascience.com/animations-of-neural-networks-transforming-data-42005e8fffd9)
+  * [Understanding Transformers, the Data Science Way](https://towardsdatascience.com/understanding-transformers-the-data-science-way-e4670a4ee076)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1528,6 +1534,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [파이썬 날코딩으로 알고 짜는 딥러닝_15장](https://www.slideshare.net/mediahanbit/15-221710158)
   * [The Illustrated Transformer](https://docs.google.com/presentation/d/1D1KM2nL-G8HvMO5Ps2BkbMBfB4qkKcjkFhQ1vLxwZ1o/edit#slide=id.p)
   * [네트워크 경량화 이모저모 @ 2020 DLD](https://www.slideshare.net/KimJunghoon5/2020-dld-238284732)
+  * [PyCon2020 NLP beginner's BERT challenge](https://www.slideshare.net/ssuser78d9d6/pycon2020-nlp-beginners-bert-challenge)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -1718,6 +1725,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Simple Chit-Chat based on KoGPT2](https://github.com/haven-jeon/KoGPT2-chatbot)
   * [KcBERT: Korean comments BERT](https://github.com/Beomi/KcBERT)
   * [Text-Classification-Transformers](https://github.com/toriving/text-classification-transformers)
+  * [Neural Plot - A Library for visualizing Neural Networks of the TensorFlow/Keras models](https://github.com/Rajsoni03/Neural-Plot)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -2718,6 +2726,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Interpreting Anomalies from Isolation Forest](https://nbviewer.jupyter.org/github/h2oai/h2o-tutorials/blob/master/tutorials/isolation-forest/interpreting_isolation-forest.ipynb)
 * [Introduction to Yellowbrick: A Python Library to Visualize the Prediction of your Machine Learning Model](https://towardsdatascience.com/introduction-to-yellowbrick-a-python-library-to-explain-the-prediction-of-your-machine-learning-d63ecee10ecc)
 * [Getting oriented in the RAPIDS distributed ML ecosystem, part 1: ETL](https://medium.com/rapids-ai/getting-oriented-in-the-rapids-distributed-ml-ecosystem-part-1-etl-6aaa03f7da4d)
+* [Unsupervised Meta-Learning Is All You Need](https://medium.com/cracking-the-data-science-interview/unsupervised-meta-learning-is-all-you-need-71b6dfa29ccd)
+* [Introduction to Hydra.cc: A Powerful Framework to Configure your Data Science Projects](https://towardsdatascience.com/introduction-to-hydra-cc-a-powerful-framework-to-configure-your-data-science-projects-ed65713a53c6)
+* [Better Features for a Tree-Based Model](https://towardsdatascience.com/better-features-for-a-tree-based-model-d3b21247cdf2)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3218,6 +3229,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Powerful EDA \(Exploratory Data Analysis\) in just two lines of code using Sweetviz](https://towardsdatascience.com/powerful-eda-exploratory-data-analysis-in-just-two-lines-of-code-using-sweetviz-6c943d32f34)
 * [AI against COVID-19](https://tootouch.github.io/research/ai_against_covid19/)
 * [Pandas with Dask, For an Ultra-Fast Notebook](https://towardsdatascience.com/pandas-with-dask-for-an-ultra-fast-notebook-e2621c3769f)
+* [How to use an IDE in Google Colab \(and Kaggle Kernels !\) instead of Jupyter or a simple script](https://medium.com/analytics-vidhya/how-to-use-an-ide-in-google-colab-and-kaggle-kernels-instead-of-jupyter-or-a-simple-script-d790f3b753f8)
+* [Make Your Pandas DataFrame Output Report-Ready](https://towardsdatascience.com/make-your-pandas-dataframe-output-report-ready-a9440f6045c6)
+* [모바일 마케팅 분석 무작정 따라하기 #1](https://danbi-ncsoft.github.io/works/2019/08/06/works-mobile_mkt-1.html)
+* [모바일 마케팅 분석 무작정 따라하기 #2](https://danbi-ncsoft.github.io/works/2019/08/19/works-mobile_mkt-2.html)
+* [게임 속 시장을 들여다보기 위한 단 하나의 지표](https://blog.ncsoft.com/game-data-analytics-20200924/)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -3542,6 +3558,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [빠키님의 추천 블로그](https://velog.io/@vvakki_?tag=Recommendation-System)
 * [Johnny Yoon님의 추천 블로그](https://jyoondev.tistory.com/m/category/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4/%EC%B6%94%EC%B2%9C%EC%8B%9C%EC%8A%A4%ED%85%9C)
 * [Scalable Recommender Systems with NVTabular- A Fast Tabular Data Loading and Transformation Library](https://medium.com/rapids-ai/gpu-recommender-systems-with-nvtabular-eee056c37ea0)
+* [Introducing TensorFlow Recommenders](https://blog.tensorflow.org/2020/09/introducing-tensorflow-recommenders.html?m=1)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
