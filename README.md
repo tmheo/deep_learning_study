@@ -1362,6 +1362,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Introducing PyTorch Forecasting](https://towardsdatascience.com/introducing-pytorch-forecasting-64de99b9ef46)
   * [Animations of Neural Networks Transforming Data](https://towardsdatascience.com/animations-of-neural-networks-transforming-data-42005e8fffd9)
   * [Understanding Transformers, the Data Science Way](https://towardsdatascience.com/understanding-transformers-the-data-science-way-e4670a4ee076)
+  * [Survey report of Federated Learning](https://tootouch.github.io/research/federated_learning/)
+  * [Fastai Bag of Tricks —Experiments with a Kaggle Dataset — Part 1](https://towardsdatascience.com/fastai-bag-of-tricks-experiments-with-a-kaggle-dataset-part-1-135e46da72f2)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -2729,6 +2731,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Unsupervised Meta-Learning Is All You Need](https://medium.com/cracking-the-data-science-interview/unsupervised-meta-learning-is-all-you-need-71b6dfa29ccd)
 * [Introduction to Hydra.cc: A Powerful Framework to Configure your Data Science Projects](https://towardsdatascience.com/introduction-to-hydra-cc-a-powerful-framework-to-configure-your-data-science-projects-ed65713a53c6)
 * [Better Features for a Tree-Based Model](https://towardsdatascience.com/better-features-for-a-tree-based-model-d3b21247cdf2)
+* [Running on-demand, serverless Apache Spark data processing jobs using Amazon SageMaker managed Spark containers and the Amazon SageMaker SDK](https://aws.amazon.com/blogs/machine-learning/running-on-demand-serverless-apache-spark-data-processing-jobs-using-amazon-sagemaker-managed-spark-containers-and-the-amazon-sagemaker-sdk/)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3234,6 +3237,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [모바일 마케팅 분석 무작정 따라하기 #1](https://danbi-ncsoft.github.io/works/2019/08/06/works-mobile_mkt-1.html)
 * [모바일 마케팅 분석 무작정 따라하기 #2](https://danbi-ncsoft.github.io/works/2019/08/19/works-mobile_mkt-2.html)
 * [게임 속 시장을 들여다보기 위한 단 하나의 지표](https://blog.ncsoft.com/game-data-analytics-20200924/)
+* [머신 러닝 엔지니어 vs. 데이터 사이언티스트](https://medium.com/code-states/%EB%A8%B8%EC%8B%A0-%EB%9F%AC%EB%8B%9D-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-vs-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9D%B4%EC%96%B8%ED%8B%B0%EC%8A%A4%ED%8A%B8-7cff2ae6f253)
+* [스네이크메이크 \(Snakemake\) 튜토리얼](https://haje01.github.io/2020/04/21/snakemake-tutorial.html)
+* [How to version control Jupyter Notebooks](https://towardsdatascience.com/how-to-version-control-jupyter-notebooks-ccf0be144319)
+* [Plot Organization in matplotlib — Your One-stop Guide](https://towardsdatascience.com/plot-organization-in-matplotlib-your-one-stop-guide-if-you-are-reading-this-it-is-probably-f79c2dcbc801)
+* [Creating Reproducible Data Science Projects](https://medium.com/swlh/creating-reproducible-data-science-projects-a38a15920f2a)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -3558,7 +3566,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [빠키님의 추천 블로그](https://velog.io/@vvakki_?tag=Recommendation-System)
 * [Johnny Yoon님의 추천 블로그](https://jyoondev.tistory.com/m/category/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4/%EC%B6%94%EC%B2%9C%EC%8B%9C%EC%8A%A4%ED%85%9C)
 * [Scalable Recommender Systems with NVTabular- A Fast Tabular Data Loading and Transformation Library](https://medium.com/rapids-ai/gpu-recommender-systems-with-nvtabular-eee056c37ea0)
-* [Introducing TensorFlow Recommenders](https://blog.tensorflow.org/2020/09/introducing-tensorflow-recommenders.html?m=1)
+* [Introducing TensorFlow Recommenders](https://blog.tensorflow.org/2020/09/introducing-tensorflow-recommenders.html)
+* [Building Recommender Systems with PyTorch | Tutorial](https://www.youtube.com/playlist?list=PL_lsbAsL_o2Cw0VXQ4Gd8B_5WUmZqQuIM)
+* [추천 시스템 Basics](https://recommendsystem.oopy.io/)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
