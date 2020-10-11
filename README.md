@@ -1364,6 +1364,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Understanding Transformers, the Data Science Way](https://towardsdatascience.com/understanding-transformers-the-data-science-way-e4670a4ee076)
   * [Survey report of Federated Learning](https://tootouch.github.io/research/federated_learning/)
   * [Fastai Bag of Tricks —Experiments with a Kaggle Dataset — Part 1](https://towardsdatascience.com/fastai-bag-of-tricks-experiments-with-a-kaggle-dataset-part-1-135e46da72f2)
+  * [Pytorch Lightning Machine Learning Zero To Hero In 75 Lines Of Code](https://towardsdatascience.com/pytorch-lightning-machine-learning-zero-to-hero-in-75-lines-of-code-7892f3ba83c0)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1952,6 +1953,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Reinforcement Learning](https://teamdable.github.io/techblog/Reinforcement-Learning)
 * [RaptorJung님의 강화학습 블로그](https://blog.naver.com/PostList.nhn?blogId=jk96491&categoryNo=12)
 * [Colab for the RL tutorial at EEML 2020](https://github.com/eemlcommunity/PracticalSessions2020/blob/master/rl/EEML2020_RL_Tutorial.ipynb)
+* [딥레이서 도전하기 - AWSKRUG Deepracer Meetup](https://www.youtube.com/playlist?list=PLX2fs3661XpNNr_PFfV7Y0BngN_OxJfrE)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
@@ -2732,6 +2734,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Introduction to Hydra.cc: A Powerful Framework to Configure your Data Science Projects](https://towardsdatascience.com/introduction-to-hydra-cc-a-powerful-framework-to-configure-your-data-science-projects-ed65713a53c6)
 * [Better Features for a Tree-Based Model](https://towardsdatascience.com/better-features-for-a-tree-based-model-d3b21247cdf2)
 * [Running on-demand, serverless Apache Spark data processing jobs using Amazon SageMaker managed Spark containers and the Amazon SageMaker SDK](https://aws.amazon.com/blogs/machine-learning/running-on-demand-serverless-apache-spark-data-processing-jobs-using-amazon-sagemaker-managed-spark-containers-and-the-amazon-sagemaker-sdk/)
+* [Introducing MLOps - 차문수\(Superb AI\) :: 제33회 AWSKRUG DataScience모임](https://www.youtube.com/watch?v=CjloF7g-5O4)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3242,6 +3245,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [How to version control Jupyter Notebooks](https://towardsdatascience.com/how-to-version-control-jupyter-notebooks-ccf0be144319)
 * [Plot Organization in matplotlib — Your One-stop Guide](https://towardsdatascience.com/plot-organization-in-matplotlib-your-one-stop-guide-if-you-are-reading-this-it-is-probably-f79c2dcbc801)
 * [Creating Reproducible Data Science Projects](https://medium.com/swlh/creating-reproducible-data-science-projects-a38a15920f2a)
+* [Apache Spark 3.0 변경 사항](https://lightningdb.io/blog/2020/10/apache-spark-3.0-review.html)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
