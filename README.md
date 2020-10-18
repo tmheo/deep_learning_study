@@ -1365,6 +1365,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Survey report of Federated Learning](https://tootouch.github.io/research/federated_learning/)
   * [Fastai Bag of Tricks —Experiments with a Kaggle Dataset — Part 1](https://towardsdatascience.com/fastai-bag-of-tricks-experiments-with-a-kaggle-dataset-part-1-135e46da72f2)
   * [Pytorch Lightning Machine Learning Zero To Hero In 75 Lines Of Code](https://towardsdatascience.com/pytorch-lightning-machine-learning-zero-to-hero-in-75-lines-of-code-7892f3ba83c0)
+  * [파이토치 모델 결과 재구성하기 \(Pytorch Reproduction Experiement\)](https://tootouch.github.io/setting/reproduction_pytorch/)
+  * [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://www.notion.so/An-Image-is-Worth-16x16-Words-Transformers-for-Image-Recognition-at-Scale-2533e91000614391a511a779bce5eaad)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1538,6 +1540,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [The Illustrated Transformer](https://docs.google.com/presentation/d/1D1KM2nL-G8HvMO5Ps2BkbMBfB4qkKcjkFhQ1vLxwZ1o/edit#slide=id.p)
   * [네트워크 경량화 이모저모 @ 2020 DLD](https://www.slideshare.net/KimJunghoon5/2020-dld-238284732)
   * [PyCon2020 NLP beginner's BERT challenge](https://www.slideshare.net/ssuser78d9d6/pycon2020-nlp-beginners-bert-challenge)
+  * [ViT \(Vision Transformer\) Review [CDM]](https://www.slideshare.net/DongminChoi6/vit-vision-transformer-review-cdm)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -1593,6 +1596,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [DeepMind x UCL | Deep Learning Lecture Series 2020](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
   * [Opening Up the Black Box: Model Understanding with Captum and PyTorch](https://www.youtube.com/watch?v=0QLrRyLndFI)
   * [DETR: End-to-End Object Detection with Transformers \(꼼꼼한 딥러닝 논문 리뷰와 코드 실습\)](https://www.youtube.com/watch?v=hCWUTvVrG7E)
+  * [StarGAN \(꼼꼼한 딥러닝 논문 리뷰와 코드 실습\)](https://www.youtube.com/watch?v=-r9M4Cj9o_8)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -2735,6 +2739,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Better Features for a Tree-Based Model](https://towardsdatascience.com/better-features-for-a-tree-based-model-d3b21247cdf2)
 * [Running on-demand, serverless Apache Spark data processing jobs using Amazon SageMaker managed Spark containers and the Amazon SageMaker SDK](https://aws.amazon.com/blogs/machine-learning/running-on-demand-serverless-apache-spark-data-processing-jobs-using-amazon-sagemaker-managed-spark-containers-and-the-amazon-sagemaker-sdk/)
 * [Introducing MLOps - 차문수\(Superb AI\) :: 제33회 AWSKRUG DataScience모임](https://www.youtube.com/watch?v=CjloF7g-5O4)
+* [Machine Learning Visualization](https://towardsdatascience.com/machine-learning-visualization-fcc39a1e376a)
+* [Optuna vs Hyperopt](https://towardsdatascience.com/optuna-vs-hyperopt-which-hyperparameter-optimization-library-should-you-choose-ed8564618151)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3246,6 +3252,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Plot Organization in matplotlib — Your One-stop Guide](https://towardsdatascience.com/plot-organization-in-matplotlib-your-one-stop-guide-if-you-are-reading-this-it-is-probably-f79c2dcbc801)
 * [Creating Reproducible Data Science Projects](https://medium.com/swlh/creating-reproducible-data-science-projects-a38a15920f2a)
 * [Apache Spark 3.0 변경 사항](https://lightningdb.io/blog/2020/10/apache-spark-3.0-review.html)
+* [Overcoming Apache Spark’s biggest pain points](https://towardsdatascience.com/overcoming-apache-sparks-biggest-pain-points-b374cebcf6a4)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -3573,6 +3580,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Introducing TensorFlow Recommenders](https://blog.tensorflow.org/2020/09/introducing-tensorflow-recommenders.html)
 * [Building Recommender Systems with PyTorch | Tutorial](https://www.youtube.com/playlist?list=PL_lsbAsL_o2Cw0VXQ4Gd8B_5WUmZqQuIM)
 * [추천 시스템 Basics](https://recommendsystem.oopy.io/)
+* [RS_c, the central platform for the RecSys community](https://recommender-systems.com/)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
