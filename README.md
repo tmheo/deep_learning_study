@@ -143,6 +143,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/)
   * [PyTorch로 시작하는 딥 러닝 입문](https://wikidocs.net/book/2788)
   * [AI For Everyone MOOC 한글번역 - 김형률](https://docs.google.com/document/d/1aAxJgvFjQj8U9joD_xJWGz6kSoVT6ueOPZhrgxH7mSg/)
+  * [한국어 자연어처리 튜토리얼](https://github.com/MrBananaHuman/KorNlpTutorial)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -1367,6 +1368,25 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Pytorch Lightning Machine Learning Zero To Hero In 75 Lines Of Code](https://towardsdatascience.com/pytorch-lightning-machine-learning-zero-to-hero-in-75-lines-of-code-7892f3ba83c0)
   * [파이토치 모델 결과 재구성하기 \(Pytorch Reproduction Experiement\)](https://tootouch.github.io/setting/reproduction_pytorch/)
   * [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://www.notion.so/An-Image-is-Worth-16x16-Words-Transformers-for-Image-Recognition-at-Scale-2533e91000614391a511a779bce5eaad)
+  * [Better Data Loading: 20x PyTorch Speed-Up for Tabular Data](https://towardsdatascience.com/better-data-loading-20x-pytorch-speed-up-for-tabular-data-e264b9e34352)
+  * [Training Better Deep Learning Models for Structured Data using Semi-supervised Learning](https://towardsdatascience.com/training-better-deep-learning-models-for-structured-data-using-semi-supervised-learning-8acc3b536319)
+  * [Modelling tabular data with CatBoost and NODE](https://towardsdatascience.com/modelling-tabular-data-with-catboost-and-node-929bfbaaeb08)
+  * [Modelling tabular data with Google’s TabNet](https://towardsdatascience.com/modelling-tabular-data-with-googles-tabnet-ba7315897bfb)
+  * [Tabular Data and Deep Learning: Where Do We Stand?](https://medium.com/codon-consulting/tabular-data-and-deep-learning-where-do-we-stand-209b202e443a)
+  * [Using entity embeddings with FastAI \(v1 and v2!\)](https://medium.com/codon-consulting/using-entity-embeddings-with-fastai-v1-and-v2-fa4ba0d80105)
+  * [COVID19 - TabNet \(fast.ai baseline\)](https://www.kaggle.com/syzymon/covid19-tabnet-fast-ai-baseline)
+  * [Pytorch-TabNet : Attentive Interpretable Tabular Learning](https://github.com/dreamquark-ai/tabnet)
+  * [The Unreasonable Ineffectiveness of Deep Learning on Tabular Data](https://towardsdatascience.com/the-unreasonable-ineffectiveness-of-deep-learning-on-tabular-data-fd784ea29c33)
+  * [TabNet: Should we stick with Boosting?](https://www.kaggle.com/marcusgawronsky/tabnet-should-we-stick-with-boosting)
+  * [TabNet in Tensorflow 2.0](https://www.kaggle.com/marcusgawronsky/tabnet-in-tensorflow-2-0/)
+  * [Differentiable CatBoost?: NODE in Tensorflow 2.0](https://www.kaggle.com/marcusgawronsky/differentiable-catboost-node-in-tensorflow-2-0)
+  * [Achieving SOTA Results with Tabnet](https://www.kaggle.com/tanulsingh077/achieving-sota-results-with-tabnet)
+  * [Exploring Limits of Meta-Features :Tabnet[LB 0.77]](https://www.kaggle.com/tanulsingh077/exploring-limits-of-meta-features-tabnet-lb-0-77)
+  * [TReNDS Google TabNet Baseline](https://www.kaggle.com/phoenix9032/trends-google-tabnet-baseline)
+  * [Introduction to TabNet - Kfold 10 [TRAINING]](https://www.kaggle.com/ludovick/introduction-to-tabnet-kfold-10-training)
+  * [Introduction to TabNet - Kfold 10 [INFERENCE]](https://www.kaggle.com/ludovick/introduction-to-tabnet-kfold-10-inference)
+  * [Deep learning without expensive hardware using Google Colab and connecting it with GitHub](https://medium.com/analytics-vidhya/deep-learning-without-expensive-hardware-using-google-colab-and-connecting-it-with-github-73bb866b65d7)
+  * [PyTorch Lightning 1.0: From 0–600k](https://medium.com/pytorch/pytorch-lightning-1-0-from-0-600k-80fc65e2fab0)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1541,6 +1561,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [네트워크 경량화 이모저모 @ 2020 DLD](https://www.slideshare.net/KimJunghoon5/2020-dld-238284732)
   * [PyCon2020 NLP beginner's BERT challenge](https://www.slideshare.net/ssuser78d9d6/pycon2020-nlp-beginners-bert-challenge)
   * [ViT \(Vision Transformer\) Review [CDM]](https://www.slideshare.net/DongminChoi6/vit-vision-transformer-review-cdm)
+  * [Talks # 4: Sebastien Fischman - Pytorch-TabNet: Beating XGBoost on Tabular Data Using Deep Learning](https://www.slideshare.net/SebastienFischman/tab-netpresentation/) : [[Video]](https://www.youtube.com/watch?v=ysBaZO8YmX8)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -1597,6 +1618,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Opening Up the Black Box: Model Understanding with Captum and PyTorch](https://www.youtube.com/watch?v=0QLrRyLndFI)
   * [DETR: End-to-End Object Detection with Transformers \(꼼꼼한 딥러닝 논문 리뷰와 코드 실습\)](https://www.youtube.com/watch?v=hCWUTvVrG7E)
   * [StarGAN \(꼼꼼한 딥러닝 논문 리뷰와 코드 실습\)](https://www.youtube.com/watch?v=-r9M4Cj9o_8)
+  * [Talks # 13: William Falcon; Stop engineering, start winning - How to Kaggle with PyTorch Lightning](https://www.youtube.com/watch?v=H3wAuZuru2c)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -1778,6 +1800,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [khaiii - Kakao Hangul Analyzer III](https://github.com/kakao/khaiii)
   * [Xfer - Transfer Learning framework written in Python](https://xfer.readthedocs.io/en/master/)
   * [CLaF: Clova Language Framework](https://naver.github.io/claf/docs/_build/html/index.html)
+  * [Pytorch Lightning](https://pytorchlightning.ai/)
 * Dataset
   * [Fueling the Gold Rush: The Greatest Public Datasets for AI](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2)
   * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
@@ -3253,6 +3276,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Creating Reproducible Data Science Projects](https://medium.com/swlh/creating-reproducible-data-science-projects-a38a15920f2a)
 * [Apache Spark 3.0 변경 사항](https://lightningdb.io/blog/2020/10/apache-spark-3.0-review.html)
 * [Overcoming Apache Spark’s biggest pain points](https://towardsdatascience.com/overcoming-apache-sparks-biggest-pain-points-b374cebcf6a4)
+* [Causal Inference : Primer \(2019-06-01 잔디콘\)](https://www.slideshare.net/lumiamitie/causal-inference-primer-20190601)
+* [Causal Inference : An Introduction](https://medium.com/analytics-vidhya/causal-inference-an-introduction-f424df7c76ef)
+* [DoWhy | Making causal inference easy](https://microsoft.github.io/dowhy/index.html)
+* [Meet whale! 🐳 The stupidly simple data discovery tool.](https://medium.com/df-foundation/meet-whale-the-stupidly-simple-data-discovery-tool-9f847c004b47)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
