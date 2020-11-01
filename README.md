@@ -1387,6 +1387,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Introduction to TabNet - Kfold 10 [INFERENCE]](https://www.kaggle.com/ludovick/introduction-to-tabnet-kfold-10-inference)
   * [Deep learning without expensive hardware using Google Colab and connecting it with GitHub](https://medium.com/analytics-vidhya/deep-learning-without-expensive-hardware-using-google-colab-and-connecting-it-with-github-73bb866b65d7)
   * [PyTorch Lightning 1.0: From 0–600k](https://medium.com/pytorch/pytorch-lightning-1-0-from-0-600k-80fc65e2fab0)
+  * [A Unifying Review of Deep and Shallow Anomaly Detection](https://arxiv.org/abs/2009.11732)
+  * [How to tune Pytorch Lightning hyperparameters](https://towardsdatascience.com/how-to-tune-pytorch-lightning-hyperparameters-80089a281646)
+  * Implementing TabNet in PyTorchhttps://towardsdatascience.com/implementing-tabnet-in-pytorch-fc977c383279)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1619,6 +1622,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [DETR: End-to-End Object Detection with Transformers \(꼼꼼한 딥러닝 논문 리뷰와 코드 실습\)](https://www.youtube.com/watch?v=hCWUTvVrG7E)
   * [StarGAN \(꼼꼼한 딥러닝 논문 리뷰와 코드 실습\)](https://www.youtube.com/watch?v=-r9M4Cj9o_8)
   * [Talks # 13: William Falcon; Stop engineering, start winning - How to Kaggle with PyTorch Lightning](https://www.youtube.com/watch?v=H3wAuZuru2c)
+  * [PR-281: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://www.youtube.com/watch?v=D72_Cn-XV1g)
+  * [ResNet: Deep Residual Learning for Image Recognition \(꼼꼼한 딥러닝 논문 리뷰와 코드 실습\)](https://www.youtube.com/watch?v=671BsKl8d0E)
+  * [3 lines of code conversational AI with NVIDIA NeMo and PyTorch Lightning](https://www.youtube.com/watch?v=0XbX5QCRKFs)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -2764,6 +2770,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Introducing MLOps - 차문수\(Superb AI\) :: 제33회 AWSKRUG DataScience모임](https://www.youtube.com/watch?v=CjloF7g-5O4)
 * [Machine Learning Visualization](https://towardsdatascience.com/machine-learning-visualization-fcc39a1e376a)
 * [Optuna vs Hyperopt](https://towardsdatascience.com/optuna-vs-hyperopt-which-hyperparameter-optimization-library-should-you-choose-ed8564618151)
+* [The Unknown Benefits of using a Soft-F1 Loss in Classification Systems](https://towardsdatascience.com/the-unknown-benefits-of-using-a-soft-f1-loss-in-classification-systems-753902c0105d)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3280,6 +3287,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Causal Inference : An Introduction](https://medium.com/analytics-vidhya/causal-inference-an-introduction-f424df7c76ef)
 * [DoWhy | Making causal inference easy](https://microsoft.github.io/dowhy/index.html)
 * [Meet whale! 🐳 The stupidly simple data discovery tool.](https://medium.com/df-foundation/meet-whale-the-stupidly-simple-data-discovery-tool-9f847c004b47)
+* [PandasGUI: Analyzing Pandas dataframes with a Graphical User Interface](https://towardsdatascience.com/pandasgui-analyzing-pandas-dataframes-with-a-graphical-user-interface-36f5c1357b1d)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -3608,6 +3616,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Building Recommender Systems with PyTorch | Tutorial](https://www.youtube.com/playlist?list=PL_lsbAsL_o2Cw0VXQ4Gd8B_5WUmZqQuIM)
 * [추천 시스템 Basics](https://recommendsystem.oopy.io/)
 * [RS_c, the central platform for the RecSys community](https://recommender-systems.com/)
+* [RecSys 2020 Tutorial: Feature Engineering for Recommender Systems](https://www.youtube.com/watch?v=uROvhp7cj6Q)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
