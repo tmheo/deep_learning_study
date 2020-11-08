@@ -2771,6 +2771,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Machine Learning Visualization](https://towardsdatascience.com/machine-learning-visualization-fcc39a1e376a)
 * [Optuna vs Hyperopt](https://towardsdatascience.com/optuna-vs-hyperopt-which-hyperparameter-optimization-library-should-you-choose-ed8564618151)
 * [The Unknown Benefits of using a Soft-F1 Loss in Classification Systems](https://towardsdatascience.com/the-unknown-benefits-of-using-a-soft-f1-loss-in-classification-systems-753902c0105d)
+* [5 things you are doing wrong in PyCaret](https://towardsdatascience.com/5-things-you-are-doing-wrong-in-pycaret-e01981575d2a)
+* [1+1=? Better decision-making when causal inference meets machine learning](https://towardsdatascience.com/1-1-better-decision-making-when-causal-inference-meets-machine-learning-bd3b00d8286b)
+* [t-SNE로 보는 본 대회 이미지의 특징 \(유사도를 중심으로\)](https://dacon.io/codeshare/1766)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3288,6 +3291,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [DoWhy | Making causal inference easy](https://microsoft.github.io/dowhy/index.html)
 * [Meet whale! 🐳 The stupidly simple data discovery tool.](https://medium.com/df-foundation/meet-whale-the-stupidly-simple-data-discovery-tool-9f847c004b47)
 * [PandasGUI: Analyzing Pandas dataframes with a Graphical User Interface](https://towardsdatascience.com/pandasgui-analyzing-pandas-dataframes-with-a-graphical-user-interface-36f5c1357b1d)
+* [[영상] 완전 쌩초보 colab 사용기!](https://dacon.io/forum/401715)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
