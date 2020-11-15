@@ -1390,6 +1390,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [A Unifying Review of Deep and Shallow Anomaly Detection](https://arxiv.org/abs/2009.11732)
   * [How to tune Pytorch Lightning hyperparameters](https://towardsdatascience.com/how-to-tune-pytorch-lightning-hyperparameters-80089a281646)
   * Implementing TabNet in PyTorchhttps://towardsdatascience.com/implementing-tabnet-in-pytorch-fc977c383279)
+  * [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
+  * [MLflow and PyTorch — Where Cutting Edge AI meets MLOps](https://medium.com/pytorch/mlflow-and-pytorch-where-cutting-edge-ai-meets-mlops-1985cf8aa789)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1625,6 +1627,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [PR-281: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://www.youtube.com/watch?v=D72_Cn-XV1g)
   * [ResNet: Deep Residual Learning for Image Recognition \(꼼꼼한 딥러닝 논문 리뷰와 코드 실습\)](https://www.youtube.com/watch?v=671BsKl8d0E)
   * [3 lines of code conversational AI with NVIDIA NeMo and PyTorch Lightning](https://www.youtube.com/watch?v=0XbX5QCRKFs)
+  * [Illustrated Guide to Transformers Neural Network: A step by step explanation](https://www.youtube.com/watch?v=4Bdc55j80l8)
+  * [Pytorch Transformers from Scratch \(Attention is all you need\)](https://www.youtube.com/watch?v=U0s0f995w14)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -2774,6 +2778,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [5 things you are doing wrong in PyCaret](https://towardsdatascience.com/5-things-you-are-doing-wrong-in-pycaret-e01981575d2a)
 * [1+1=? Better decision-making when causal inference meets machine learning](https://towardsdatascience.com/1-1-better-decision-making-when-causal-inference-meets-machine-learning-bd3b00d8286b)
 * [t-SNE로 보는 본 대회 이미지의 특징 \(유사도를 중심으로\)](https://dacon.io/codeshare/1766)
+* [Synthetic Data Vault (SDV): A Python Library for Dataset Modeling](https://towardsdatascience.com/synthetic-data-vault-sdv-a-python-library-for-dataset-modeling-b48c406e7398)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3292,6 +3297,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Meet whale! 🐳 The stupidly simple data discovery tool.](https://medium.com/df-foundation/meet-whale-the-stupidly-simple-data-discovery-tool-9f847c004b47)
 * [PandasGUI: Analyzing Pandas dataframes with a Graphical User Interface](https://towardsdatascience.com/pandasgui-analyzing-pandas-dataframes-with-a-graphical-user-interface-36f5c1357b1d)
 * [[영상] 완전 쌩초보 colab 사용기!](https://dacon.io/forum/401715)
+* [How To Assess Statistical Significance In Your Data with Permutation Tests](https://towardsdatascience.com/how-to-assess-statistical-significance-in-your-data-with-permutation-tests-8bb925b2113d)
+* [Redacting sensitive information with user-defined functions in Amazon Athena](https://aws.amazon.com/ko/blogs/big-data/redacting-sensitive-information-with-user-defined-functions-in-amazon-athena/)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -3621,6 +3628,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [추천 시스템 Basics](https://recommendsystem.oopy.io/)
 * [RS_c, the central platform for the RecSys community](https://recommender-systems.com/)
 * [RecSys 2020 Tutorial: Feature Engineering for Recommender Systems](https://www.youtube.com/watch?v=uROvhp7cj6Q)
+* [Deep Dive into Netflix’s Recommender System](https://towardsdatascience.com/deep-dive-into-netflixs-recommender-system-341806ae3b48)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
