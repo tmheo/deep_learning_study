@@ -1270,6 +1270,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [How to get 4x speedup and better generalization using the right batch size](https://towardsdatascience.com/implementing-a-batch-size-finder-in-fastai-how-to-get-a-4x-speedup-with-better-generalization-813d686f6bdf)
   * [Explore image augmentations using a convenient tool](https://towardsdatascience.com/explore-image-augmentations-using-a-convenient-tool-a199b4ac8214)
   * [딥러닝 모델 서비스 A-Z 1편 - 연산 최적화 및 모델 경량화](https://blog.pingpong.us/ml-model-optimize/)
+  * [딥러닝 모델 서비스 A-Z 2편 - Knowledge Distillation](https://blog.pingpong.us/ml-model-optimize-2/)
   * [Get started with PyTorch, Cloud TPUs, and Colab](https://medium.com/pytorch/get-started-with-pytorch-cloud-tpus-and-colab-a24757b8f7fc)
   * [AutoML-Zero：Evolving Machine Learning Algorithms From Scratch Review](https://hoya012.github.io/blog/automl-zero-review/)
   * [Convolutional Neural Networks](https://cezannec.github.io/Convolutional_Neural_Networks/)
@@ -1392,6 +1393,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * Implementing TabNet in PyTorchhttps://towardsdatascience.com/implementing-tabnet-in-pytorch-fc977c383279)
   * [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
   * [MLflow and PyTorch — Where Cutting Edge AI meets MLOps](https://medium.com/pytorch/mlflow-and-pytorch-where-cutting-edge-ai-meets-mlops-1985cf8aa789)
+  * [Tools to Design or Visualize Architecture of Neural Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -2779,6 +2781,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [1+1=? Better decision-making when causal inference meets machine learning](https://towardsdatascience.com/1-1-better-decision-making-when-causal-inference-meets-machine-learning-bd3b00d8286b)
 * [t-SNE로 보는 본 대회 이미지의 특징 \(유사도를 중심으로\)](https://dacon.io/codeshare/1766)
 * [Synthetic Data Vault (SDV): A Python Library for Dataset Modeling](https://towardsdatascience.com/synthetic-data-vault-sdv-a-python-library-for-dataset-modeling-b48c406e7398)
+* [How to Improve Data Labeling Efficiency with Auto-Labeling, Uncertainty Estimates, and Active Learning](https://medium.com/towards-artificial-intelligence/improving-data-labeling-efficiency-with-auto-labeling-uncertainty-estimates-and-active-learning-5848272365be)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3299,6 +3302,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [[영상] 완전 쌩초보 colab 사용기!](https://dacon.io/forum/401715)
 * [How To Assess Statistical Significance In Your Data with Permutation Tests](https://towardsdatascience.com/how-to-assess-statistical-significance-in-your-data-with-permutation-tests-8bb925b2113d)
 * [Redacting sensitive information with user-defined functions in Amazon Athena](https://aws.amazon.com/ko/blogs/big-data/redacting-sensitive-information-with-user-defined-functions-in-amazon-athena/)
+* [달고나 17. Exploration과 MAB](https://brunch.co.kr/@jejugrapher/231)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
