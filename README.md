@@ -1394,6 +1394,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
   * [MLflow and PyTorch — Where Cutting Edge AI meets MLOps](https://medium.com/pytorch/mlflow-and-pytorch-where-cutting-edge-ai-meets-mlops-1985cf8aa789)
   * [Tools to Design or Visualize Architecture of Neural Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)
+  * [nn.Transformer 사용하기, 어텐션 시각화](http://blog.naver.com/PostView.nhn?blogId=myincizor&logNo=222054097305&parentCategoryNo=&categoryNo=6&viewDate=&isShowPopularPosts=false&from=postView)
+  * [Recibrew! Predicting Food Ingredients with Deep Learning!](https://medium.com/towards-artificial-intelligence/recibrew-find-out-the-foods-ingredients-dbc2a4e37383)
+  * [PyTorch Lightning: Making your Training Phase Cleaner and Easier](https://towardsdatascience.com/pytorch-lightning-making-your-training-phase-cleaner-and-easier-845c4629445b)
+  * [Image Classification: Tips and Tricks From 13 Kaggle Competitions \(+ Tons of References\)](https://neptune.ai/blog/image-classification-tips-and-tricks-from-13-kaggle-competitions)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -2782,6 +2786,13 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [t-SNE로 보는 본 대회 이미지의 특징 \(유사도를 중심으로\)](https://dacon.io/codeshare/1766)
 * [Synthetic Data Vault (SDV): A Python Library for Dataset Modeling](https://towardsdatascience.com/synthetic-data-vault-sdv-a-python-library-for-dataset-modeling-b48c406e7398)
 * [How to Improve Data Labeling Efficiency with Auto-Labeling, Uncertainty Estimates, and Active Learning](https://medium.com/towards-artificial-intelligence/improving-data-labeling-efficiency-with-auto-labeling-uncertainty-estimates-and-active-learning-5848272365be)
+* [Causal Inference: What, Why, and How](https://towardsdatascience.com/causal-inference-what-why-and-how-d7336b0081ec)
+* [Machine Learning Case Study: Telco Customer Churn Prediction](https://towardsdatascience.com/machine-learning-case-study-telco-customer-churn-prediction-bc4be03c9e1d)
+* [[NLP 언제까지 미룰래? 일단 들어와!!] #1.자연어 처리란?](https://dacon.io/codeshare/1794)
+* [[NLP 언제까지 미룰래? 일단 들어와!!] #2. NLP 전처리](https://dacon.io/codeshare/1823)
+* [[NLP 언제까지 미룰래? 일단 들어와!!] #3. Vectorization](https://dacon.io/codeshare/1841)
+* [[NLP 언제까지 미룰래? 일단 들어와!!] #4. word embedding](https://dacon.io/codeshare/1847)
+* [[NLP 언제까지 미룰래? 일단 들어와!!] #5. Modeling\(완\)](https://dacon.io/codeshare/1849)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
