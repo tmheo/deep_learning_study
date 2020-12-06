@@ -1398,6 +1398,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Recibrew! Predicting Food Ingredients with Deep Learning!](https://medium.com/towards-artificial-intelligence/recibrew-find-out-the-foods-ingredients-dbc2a4e37383)
   * [PyTorch Lightning: Making your Training Phase Cleaner and Easier](https://towardsdatascience.com/pytorch-lightning-making-your-training-phase-cleaner-and-easier-845c4629445b)
   * [Image Classification: Tips and Tricks From 13 Kaggle Competitions \(+ Tons of References\)](https://neptune.ai/blog/image-classification-tips-and-tricks-from-13-kaggle-competitions)
+  * [keras BatchNormalization](https://jehyunlee.github.io/2020/12/01/Python-DL-4-bn/)
+  * [하나의 조직에서 TensorFlow와 PyTorch 동시 활용하기](https://blog.pingpong.us/torch-to-tf-tf-to-torch/)
+  * [[논문] 최근 AI의 이미지 인식에서 화제인 "Vision Transformer"에 대한 해설](https://engineer-mole.tistory.com/133)
+  * [Vision Transformer: goodbye_CNN[Training]](https://www.kaggle.com/rythian47/vision-transformer-goodbye-cnn-training)
+  * [Vision Transformer \(ViT\): Tutorial + Baseline](https://www.kaggle.com/abhinand05/vision-transformer-vit-tutorial-baseline)
+  * [Vision Transformer \(ViT\) : Visualize Attention Map](https://www.kaggle.com/piantic/vision-transformer-vit-visualize-attention-map)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1771,6 +1777,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [KcBERT: Korean comments BERT](https://github.com/Beomi/KcBERT)
   * [Text-Classification-Transformers](https://github.com/toriving/text-classification-transformers)
   * [Neural Plot - A Library for visualizing Neural Networks of the TensorFlow/Keras models](https://github.com/Rajsoni03/Neural-Plot)
+  * [Disentangling Label Distribution for Long-tailed Visual Recognition](https://github.com/hyperconnect/LADE)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -2793,6 +2800,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [[NLP 언제까지 미룰래? 일단 들어와!!] #3. Vectorization](https://dacon.io/codeshare/1841)
 * [[NLP 언제까지 미룰래? 일단 들어와!!] #4. word embedding](https://dacon.io/codeshare/1847)
 * [[NLP 언제까지 미룰래? 일단 들어와!!] #5. Modeling\(완\)](https://dacon.io/codeshare/1849)
+* [머신러닝 시스템 디자인 패턴](https://mercari.github.io/ml-system-design-pattern/README_ko.html)
+* [Never Leave the GPU: End-to-end Machine Learning Pipelines with RAPIDS Preprocessing](https://medium.com/rapids-ai/never-leave-the-gpu-end-to-end-ml-pipelines-with-rapids-preprocessing-e455cddd281f)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3314,6 +3323,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [How To Assess Statistical Significance In Your Data with Permutation Tests](https://towardsdatascience.com/how-to-assess-statistical-significance-in-your-data-with-permutation-tests-8bb925b2113d)
 * [Redacting sensitive information with user-defined functions in Amazon Athena](https://aws.amazon.com/ko/blogs/big-data/redacting-sensitive-information-with-user-defined-functions-in-amazon-athena/)
 * [달고나 17. Exploration과 MAB](https://brunch.co.kr/@jejugrapher/231)
+* [p-value의 의미](https://angeloyeo.github.io/2020/03/29/p_value.html)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -3644,6 +3654,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [RS_c, the central platform for the RecSys community](https://recommender-systems.com/)
 * [RecSys 2020 Tutorial: Feature Engineering for Recommender Systems](https://www.youtube.com/watch?v=uROvhp7cj6Q)
 * [Deep Dive into Netflix’s Recommender System](https://towardsdatascience.com/deep-dive-into-netflixs-recommender-system-341806ae3b48)
+* [TensorFlow Recommenders: Scalable retrieval and feature interaction modelling](https://blog.tensorflow.org/2020/11/tensorflow-recommenders-scalable-retrieval-feature-interaction-modelling.html)
+* [TFRS를 통해 살펴보는 추천시스템](https://hojinyang.github.io/blogging/tfrs/)
+* [tfrs-movierec-serving](https://github.com/hojinYang/tfrs-movierec-serving)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
