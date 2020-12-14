@@ -178,6 +178,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [The Learning Machine](https://www.thelearningmachine.ai/)
   * [매주 15분 투자해서 AI/NLP를 공부하는 방법](https://jiho-ml.com/weekly-nlp-0/)
   * [DNA\(Data Network Analysis\) NEWS](https://datanetworkanalysis.github.io/dna_news)
+  * [집현전 NLP 리뷰 모임](https://github.com/jiphyeonjeon/nlp-review)
 * Article
   * [Andrej Karpathy's Deep Learning Blog](http://karpathy.github.io/)
   * [머신러닝 딥러닝 입문 시 도움 되는 강좌](https://www.facebook.com/groups/TensorFlowKR/permalink/485458151795248/)
@@ -1404,6 +1405,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Vision Transformer: goodbye_CNN[Training]](https://www.kaggle.com/rythian47/vision-transformer-goodbye-cnn-training)
   * [Vision Transformer \(ViT\): Tutorial + Baseline](https://www.kaggle.com/abhinand05/vision-transformer-vit-tutorial-baseline)
   * [Vision Transformer \(ViT\) : Visualize Attention Map](https://www.kaggle.com/piantic/vision-transformer-vit-visualize-attention-map)
+  * [Variational Autoencoder Demystified With PyTorch Implementation](https://towardsdatascience.com/variational-autoencoder-demystified-with-pytorch-implementation-3a06bee395ed)
+  * [Transformers for Image Recognition at Scale](https://ai.googleblog.com/2020/12/transformers-for-image-recognition-at.html)
+  * [Visualization of Self-Attention Maps in Vision](https://epfml.github.io/attention-cnn/)
+  * [이미지 분류 모델 AutoML 파이프라인](https://medium.com/daangn/%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B6%84%EB%A5%98-%EB%AA%A8%EB%8D%B8-automl-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-68beb1ff15bf)
+  * [But what are PyTorch DataLoaders really?](https://www.scottcondron.com/jupyter/visualisation/audio/2020/12/02/dataloaders-samplers-collate.html)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1641,6 +1647,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [3 lines of code conversational AI with NVIDIA NeMo and PyTorch Lightning](https://www.youtube.com/watch?v=0XbX5QCRKFs)
   * [Illustrated Guide to Transformers Neural Network: A step by step explanation](https://www.youtube.com/watch?v=4Bdc55j80l8)
   * [Pytorch Transformers from Scratch \(Attention is all you need\)](https://www.youtube.com/watch?v=U0s0f995w14)
+  * [[딥러닝 기계 번역] Transformer: Attention Is All You Need \(꼼꼼한 딥러닝 논문 리뷰와 코드 실습\)](https://www.youtube.com/watch?v=AA621UofTUA)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -1778,6 +1785,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Text-Classification-Transformers](https://github.com/toriving/text-classification-transformers)
   * [Neural Plot - A Library for visualizing Neural Networks of the TensorFlow/Keras models](https://github.com/Rajsoni03/Neural-Plot)
   * [Disentangling Label Distribution for Long-tailed Visual Recognition](https://github.com/hyperconnect/LADE)
+  * [PyTorch-StudioGAN](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN)
+  * [KoBART](https://github.com/SKT-AI/KoBART)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -2004,6 +2013,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [RaptorJung님의 강화학습 블로그](https://blog.naver.com/PostList.nhn?blogId=jk96491&categoryNo=12)
 * [Colab for the RL tutorial at EEML 2020](https://github.com/eemlcommunity/PracticalSessions2020/blob/master/rl/EEML2020_RL_Tutorial.ipynb)
 * [딥레이서 도전하기 - AWSKRUG Deepracer Meetup](https://www.youtube.com/playlist?list=PLX2fs3661XpNNr_PFfV7Y0BngN_OxJfrE)
+* [Solutions of team "liveinparis" with codes \(6th place\)](https://www.kaggle.com/c/google-football/discussion/201376) : [[Code]](https://github.com/seungeunrho/football-paris)
 
 ## Machine Learning
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
