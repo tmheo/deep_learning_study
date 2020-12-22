@@ -2812,6 +2812,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [[NLP 언제까지 미룰래? 일단 들어와!!] #5. Modeling\(완\)](https://dacon.io/codeshare/1849)
 * [머신러닝 시스템 디자인 패턴](https://mercari.github.io/ml-system-design-pattern/README_ko.html)
 * [Never Leave the GPU: End-to-end Machine Learning Pipelines with RAPIDS Preprocessing](https://medium.com/rapids-ai/never-leave-the-gpu-end-to-end-ml-pipelines-with-rapids-preprocessing-e455cddd281f)
+* [단국대 2020 2학기 캐글뽀개기 강의](https://www.youtube.com/playlist?list=PLYF-I-Q8h6CtJNVw4VpOtXdlSz3hDvTjE)
+* [Machine Learning Engineering](http://www.mlebook.com/wiki/doku.php)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3334,6 +3336,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Redacting sensitive information with user-defined functions in Amazon Athena](https://aws.amazon.com/ko/blogs/big-data/redacting-sensitive-information-with-user-defined-functions-in-amazon-athena/)
 * [달고나 17. Exploration과 MAB](https://brunch.co.kr/@jejugrapher/231)
 * [p-value의 의미](https://angeloyeo.github.io/2020/03/29/p_value.html)
+* [Lux: A Python API for Intelligent Visual Discovery](https://lux-api.readthedocs.io/en/latest/)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
