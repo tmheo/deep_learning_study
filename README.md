@@ -1410,6 +1410,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Visualization of Self-Attention Maps in Vision](https://epfml.github.io/attention-cnn/)
   * [이미지 분류 모델 AutoML 파이프라인](https://medium.com/daangn/%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B6%84%EB%A5%98-%EB%AA%A8%EB%8D%B8-automl-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-68beb1ff15bf)
   * [But what are PyTorch DataLoaders really?](https://www.scottcondron.com/jupyter/visualisation/audio/2020/12/02/dataloaders-samplers-collate.html)
+  * [Data-efficient image Transformers: A promising new technique for image classification](https://ai.facebook.com/blog/data-efficient-image-transformers-a-promising-new-technique-for-image-classification/)
+  * [carefree-learn: Tabular Datasets ❤️ PyTorch](https://medium.com/pytorch/carefree-learn-tabular-datasets-%EF%B8%8F-pytorch-e329b2f008f2)
+  * [Data Loader, Better, Faster, Stronger - large parquet dataset을 위한 PyTorch dataset, dataloader 튜닝 일기](https://d2.naver.com/helloworld/3773258)
+  * [The Time Series Transformer](https://towardsdatascience.com/the-time-series-transformer-2a521a0efad3)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1648,6 +1652,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Illustrated Guide to Transformers Neural Network: A step by step explanation](https://www.youtube.com/watch?v=4Bdc55j80l8)
   * [Pytorch Transformers from Scratch \(Attention is all you need\)](https://www.youtube.com/watch?v=U0s0f995w14)
   * [[딥러닝 기계 번역] Transformer: Attention Is All You Need \(꼼꼼한 딥러닝 논문 리뷰와 코드 실습\)](https://www.youtube.com/watch?v=AA621UofTUA)
+  * [GAN: Generative Adversarial Networks \(꼼꼼한 딥러닝 논문 리뷰와 코드 실습\)](https://www.youtube.com/watch?v=AVvlDmhHgC4)
+  * [Machine Translation Survey \(vol1\) : Background](https://www.youtube.com/watch?v=KQfvEg-fGMw)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -2814,6 +2820,14 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Never Leave the GPU: End-to-end Machine Learning Pipelines with RAPIDS Preprocessing](https://medium.com/rapids-ai/never-leave-the-gpu-end-to-end-ml-pipelines-with-rapids-preprocessing-e455cddd281f)
 * [단국대 2020 2학기 캐글뽀개기 강의](https://www.youtube.com/playlist?list=PLYF-I-Q8h6CtJNVw4VpOtXdlSz3hDvTjE)
 * [Machine Learning Engineering](http://www.mlebook.com/wiki/doku.php)
+* [[Paper] Please Stop Permuting Features](https://blog.ceshine.net/post/please-stop-permuting-features/)
+* [Understand your data and ML model using What-IF Tool](https://medium.com/@vishalsolanki_42311/understand-your-data-and-ml-model-using-what-if-tool-57b7cf0d5541)
+* [Approaching \(Almost\) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost)
+* [Causal inference \(Part 1 of 3\): Understanding the fundamentals](https://medium.com/data-science-at-microsoft/causal-inference-part-1-of-3-understanding-the-fundamentals-816f4723e54a)
+* [Causal inference \(Part 2 of 3\): Selecting algorithms](https://medium.com/data-science-at-microsoft/causal-inference-part-2-of-3-selecting-algorithms-a966f8228a2d)
+* [Causal inference \(Part 3 of 3\): Model validation and applications](https://medium.com/data-science-at-microsoft/causal-inference-part-3-of-3-model-validation-and-applications-c84764156a29)
+* [Attribution analysis: How to measure impact? \(Part 1 of 2\)](https://medium.com/data-science-at-microsoft/attribution-analysis-how-to-measure-impact-part-1-of-2-324d43fbbba0)
+* [Attribution analysis: How to measure impact? \(Part 2 of 2\)](https://medium.com/data-science-at-microsoft/attribution-analysis-how-to-measure-impact-part-2-of-2-606ab0ff017f)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3337,6 +3351,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [달고나 17. Exploration과 MAB](https://brunch.co.kr/@jejugrapher/231)
 * [p-value의 의미](https://angeloyeo.github.io/2020/03/29/p_value.html)
 * [Lux: A Python API for Intelligent Visual Discovery](https://lux-api.readthedocs.io/en/latest/)
+* [Python Ray 사용법 - Python 병렬처리, 분산처리](https://zzsza.github.io/mlops/2021/01/03/python-ray/)
+* [Open-source Workflow Management Tools: A Survey](https://ploomber.io/posts/survey/)
+* [A step-by-step guide for debugging memory leaks in Spark Applications](https://medium.com/disney-streaming/a-step-by-step-guide-for-debugging-memory-leaks-in-spark-applications-e0dd05118958)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -3670,6 +3687,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [TensorFlow Recommenders: Scalable retrieval and feature interaction modelling](https://blog.tensorflow.org/2020/11/tensorflow-recommenders-scalable-retrieval-feature-interaction-modelling.html)
 * [TFRS를 통해 살펴보는 추천시스템](https://hojinyang.github.io/blogging/tfrs/)
 * [tfrs-movierec-serving](https://github.com/hojinYang/tfrs-movierec-serving)
+* [넷플릭스! 내 취향을 어떻게 알아? - 유저 취향저격 홈화면 만들기](https://blossominkyung.com/20e6de2b-42f0-4dc8-8a88-c81c982d3a0e)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
