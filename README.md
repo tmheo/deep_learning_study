@@ -1391,7 +1391,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [PyTorch Lightning 1.0: From 0–600k](https://medium.com/pytorch/pytorch-lightning-1-0-from-0-600k-80fc65e2fab0)
   * [A Unifying Review of Deep and Shallow Anomaly Detection](https://arxiv.org/abs/2009.11732)
   * [How to tune Pytorch Lightning hyperparameters](https://towardsdatascience.com/how-to-tune-pytorch-lightning-hyperparameters-80089a281646)
-  * Implementing TabNet in PyTorchhttps://towardsdatascience.com/implementing-tabnet-in-pytorch-fc977c383279)
+  * [Implementing TabNet in PyTorch](https://towardsdatascience.com/implementing-tabnet-in-pytorch-fc977c383279)
   * [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
   * [MLflow and PyTorch — Where Cutting Edge AI meets MLOps](https://medium.com/pytorch/mlflow-and-pytorch-where-cutting-edge-ai-meets-mlops-1985cf8aa789)
   * [Tools to Design or Visualize Architecture of Neural Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)
@@ -1414,6 +1414,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [carefree-learn: Tabular Datasets ❤️ PyTorch](https://medium.com/pytorch/carefree-learn-tabular-datasets-%EF%B8%8F-pytorch-e329b2f008f2)
   * [Data Loader, Better, Faster, Stronger - large parquet dataset을 위한 PyTorch dataset, dataloader 튜닝 일기](https://d2.naver.com/helloworld/3773258)
   * [The Time Series Transformer](https://towardsdatascience.com/the-time-series-transformer-2a521a0efad3)
+  * [유니버설 컴퓨팅 엔진으로 사전 훈련된 트랜스포머](https://brunch.co.kr/@synabreu/115)
+  * [Transformers for Time-series Forecasting](https://medium.com/mlearning-ai/transformer-implementation-for-time-series-forecasting-a9db2db5c820)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -2828,6 +2830,17 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Causal inference \(Part 3 of 3\): Model validation and applications](https://medium.com/data-science-at-microsoft/causal-inference-part-3-of-3-model-validation-and-applications-c84764156a29)
 * [Attribution analysis: How to measure impact? \(Part 1 of 2\)](https://medium.com/data-science-at-microsoft/attribution-analysis-how-to-measure-impact-part-1-of-2-324d43fbbba0)
 * [Attribution analysis: How to measure impact? \(Part 2 of 2\)](https://medium.com/data-science-at-microsoft/attribution-analysis-how-to-measure-impact-part-2-of-2-606ab0ff017f)
+* [Tabular Data Binary Classification: All Tips and Tricks from 5 Kaggle Competitions](https://medium.com/neptune-ai/tabular-data-binary-classification-all-tips-and-tricks-from-5-kaggle-competitions-51667b21876e)
+* [Week 35 - 모델 중심에서 데이터 중심의 AI 개발로](https://jiho-ml.com/weekly-nlp-35/)
+* [Tutorial on Causal Inference and its Connections to Machine Learning \(Using DoWhy+EconML\)](https://microsoft.github.io/dowhy/example_notebooks/tutorial-causalinference-machinelearning-using-dowhy-econml.html)
+* [Getting Started with Causal Inference](https://causalinference.gitlab.io/)
+* [데이터 과학자가 알아야할 인과적 추론들의 우위관계](https://newspeppermint.com/2020/07/31/m-causalinference/)
+* [How to Use Causal Inference In Day-to-Day Analytical Work — Part 1 of 2](https://towardsdatascience.com/how-to-use-causal-inference-in-day-to-day-analytical-work-part-1-of-2-b5efbdbf8ab0)
+* [How to Use Causal Inference in Day-to-Day Analytical Work — Part 2 of 2](https://towardsdatascience.com/how-to-use-causal-inference-in-day-to-day-analytical-work-part-2-of-2-1824e7024cd2)
+* [You are underutilizing shap values — feature groups and correlations](https://towardsdatascience.com/you-are-underutilizing-shap-values-feature-groups-and-correlations-8df1b136e2c2)
+* [Causal Inference: What, Why, and How](https://towardsdatascience.com/causal-inference-what-why-and-how-d7336b0081ec)
+* [Data Science on AWS](https://github.com/data-science-on-aws/workshop)
+* [Understanding inverse propensity weighting](https://medium.com/bigdatarepublic/understanding-inverse-propensity-weighting-a191d94bb2eb)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3354,6 +3367,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Python Ray 사용법 - Python 병렬처리, 분산처리](https://zzsza.github.io/mlops/2021/01/03/python-ray/)
 * [Open-source Workflow Management Tools: A Survey](https://ploomber.io/posts/survey/)
 * [A step-by-step guide for debugging memory leaks in Spark Applications](https://medium.com/disney-streaming/a-step-by-step-guide-for-debugging-memory-leaks-in-spark-applications-e0dd05118958)
+* [Simpler Experimentation with Jupyter, Papermill, and MLflow](https://towardsdatascience.com/a-simpler-experimentation-workflow-with-jupyter-papermill-and-mlflow-5a84db16039)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
