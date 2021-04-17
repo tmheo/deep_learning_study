@@ -1416,6 +1416,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [The Time Series Transformer](https://towardsdatascience.com/the-time-series-transformer-2a521a0efad3)
   * [유니버설 컴퓨팅 엔진으로 사전 훈련된 트랜스포머](https://brunch.co.kr/@synabreu/115)
   * [Transformers for Time-series Forecasting](https://medium.com/mlearning-ai/transformer-implementation-for-time-series-forecasting-a9db2db5c820)
+  * [Transformer를 이용해 대량의 게임 데이터를 임베딩 해보자!](https://danbi-ncsoft.github.io/works/2021/04/13/transformer_embedding.html)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -2841,6 +2842,14 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Causal Inference: What, Why, and How](https://towardsdatascience.com/causal-inference-what-why-and-how-d7336b0081ec)
 * [Data Science on AWS](https://github.com/data-science-on-aws/workshop)
 * [Understanding inverse propensity weighting](https://medium.com/bigdatarepublic/understanding-inverse-propensity-weighting-a191d94bb2eb)
+* [The SHAP with More Elegant Charts](https://medium.com/dataman-in-ai/the-shap-with-more-elegant-charts-bc3e73fa1c0c)
+* [인과관계를 찾아서 1](https://danbi-ncsoft.github.io/study/2019/02/19/causality-part1.html)
+* [인과관계를 찾아서 2](https://danbi-ncsoft.github.io/study/2019/02/19/causality-part2.html)
+* [인과관계를 찾아서 3: 도구변수](https://danbi-ncsoft.github.io/study/2019/08/07/IV.html)
+* [인과관계를 찾아서 4: 이중차분법](https://danbi-ncsoft.github.io/study/2019/08/13/causality-part4-DID.html)
+* [도메인 지식이 결여된 인과 추정이 위험한 이유](https://danbi-ncsoft.github.io/study/2020/06/29/study-domain_knowledge_and_causal_inference.html)
+* [인과추론 분석 설계에서 도메인 지식이 필요한 이유](https://danbi-ncsoft.github.io/study/2021/01/15/instrumentvariable.html)
+* [A Quickstart for Causal Analysis Decision-Making with DoWhy](https://medium.com/geekculture/a-quickstart-for-causal-analysis-decision-making-with-dowhy-2ce2d4d1efa9)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3702,6 +3711,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [TFRS를 통해 살펴보는 추천시스템](https://hojinyang.github.io/blogging/tfrs/)
 * [tfrs-movierec-serving](https://github.com/hojinYang/tfrs-movierec-serving)
 * [넷플릭스! 내 취향을 어떻게 알아? - 유저 취향저격 홈화면 만들기](https://blossominkyung.com/20e6de2b-42f0-4dc8-8a88-c81c982d3a0e)
+* [1년차 주니어가 추천 시스템 현장에서 마주한 고민](https://medium.com/watcha/1%EB%85%84%EC%B0%A8-%EC%A3%BC%EB%8B%88%EC%96%B4%EA%B0%80-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%98%84%EC%9E%A5%EC%97%90%EC%84%9C-%EB%A7%88%EC%A3%BC%ED%95%9C-%EA%B3%A0%EB%AF%BC-12f568eb2cc2)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
