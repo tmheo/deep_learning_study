@@ -2850,6 +2850,17 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [도메인 지식이 결여된 인과 추정이 위험한 이유](https://danbi-ncsoft.github.io/study/2020/06/29/study-domain_knowledge_and_causal_inference.html)
 * [인과추론 분석 설계에서 도메인 지식이 필요한 이유](https://danbi-ncsoft.github.io/study/2021/01/15/instrumentvariable.html)
 * [A Quickstart for Causal Analysis Decision-Making with DoWhy](https://medium.com/geekculture/a-quickstart-for-causal-analysis-decision-making-with-dowhy-2ce2d4d1efa9)
+* [Machine Learning Serving - BentoML 사용법](https://zzsza.github.io/mlops/2021/04/18/bentoml-basic/)
+* [Kubernetes기반의 Regression Test Pipeline을 구축하기](https://makinarocks.github.io/Regresssion-Test/)
+* [Causal Inference — To Control or not to Control](https://towardsdatascience.com/causal-inference-to-control-or-not-to-control-417e2721e22e)
+* [Causal Inference: 인과 추론 소개](https://bondata.medium.com/causal-inference-%EC%9D%B8%EA%B3%BC-%EC%B6%94%EB%A1%A0-%EC%86%8C%EA%B0%9C-30cc9af08cbd)
+* [Quasi-experiments: 인과 관계 \(이벤트의 효과\) 를 측정하는 방법](https://bondata.medium.com/quasi-experiments-%EC%9D%B8%EA%B3%BC-%EA%B4%80%EA%B3%84-%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%9D%98-%ED%9A%A8%EA%B3%BC-%EB%A5%BC-%EC%B8%A1%EC%A0%95%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-da34ceefc34f)
+* [A/B 테스트 결과 해석에서 자주 발생하는 12가지 함정들](https://bondata.medium.com/a-b-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B2%B0%EA%B3%BC-%ED%95%B4%EC%84%9D%EC%97%90%EC%84%9C-%EC%9E%90%EC%A3%BC-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-12%EA%B0%80%EC%A7%80-%ED%95%A8%EC%A0%95%EB%93%A4-2fe273b76a2d)
+* [Using Causal Inference to Improve the Uber User Experience](https://eng.uber.com/causal-inference-at-uber/)
+* [Causal Impact - Getting Started](https://nbviewer.jupyter.org/github/dafiti/causalimpact/blob/master/examples/getting_started.ipynb)
+* [Why you should not rely on t-SNE, UMAP or TriMAP](https://towardsdatascience.com/why-you-should-not-rely-on-t-sne-umap-or-trimap-f8f5dc333e59)
+* [Supercharge Your Machine Learning Experiments with PyCaret and Gradio](https://towardsdatascience.com/supercharge-your-machine-learning-experiments-with-pycaret-and-gradio-5932c61f80d9)
+* [CausalNex in Action — Finding the WHY Behind the Scenes](https://ljubica-vujovic.medium.com/causalnex-in-action-finding-the-why-behind-the-scenes-c50b78abc888)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3377,6 +3388,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Open-source Workflow Management Tools: A Survey](https://ploomber.io/posts/survey/)
 * [A step-by-step guide for debugging memory leaks in Spark Applications](https://medium.com/disney-streaming/a-step-by-step-guide-for-debugging-memory-leaks-in-spark-applications-e0dd05118958)
 * [Simpler Experimentation with Jupyter, Papermill, and MLflow](https://towardsdatascience.com/a-simpler-experimentation-workflow-with-jupyter-papermill-and-mlflow-5a84db16039)
+* [초심자를 위한 데이터 시각화 \(EDA\) 가이드라인](https://bondata.medium.com/%EC%B4%88%EC%8B%AC%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EA%B0%81%ED%99%94-eda-%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8-c9737c680652)
+* [초심자를 위한 데이터 시각화 \(EDA\) 가이드라인 실습](https://bondata.medium.com/%EC%B4%88%EC%8B%AC%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EA%B0%81%ED%99%94-eda-%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8-%EC%8B%A4%EC%8A%B5-62d11f93e17e)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
