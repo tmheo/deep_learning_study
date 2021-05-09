@@ -2893,6 +2893,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [A Crash Course in Causality: Inferring Causal Effects from Observational Data](https://www.coursera.org/learn/crash-course-in-causality)
 * [Causal Diagrams: Draw Your Assumptions Before Your Conclusions](https://www.edx.org/course/causal-diagrams-draw-your-assumptions-before-your)
 * [Causal design patterns for data analysts](https://emilyriederer.netlify.app/post/causal-design-patterns/)
+* [Causal Design Patterns](https://docs.google.com/presentation/d/1_gItoNO4lfrgrPfRCSlq833hIrw1iNZ2RcltCCkPspc/)
 * [Causal Inference: The Mixtape](https://mixtape.scunning.com/)
 * [Causal Inference : Primer \(2019-06-01 잔디콘\)](https://www.slideshare.net/lumiamitie/causal-inference-primer-20190601)
 * [Understanding MLOps](https://www.slideshare.net/chunmk/understanding-mlops)
