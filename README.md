@@ -1419,6 +1419,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Transformer를 이용해 대량의 게임 데이터를 임베딩 해보자!](https://danbi-ncsoft.github.io/works/2021/04/13/transformer_embedding.html)
   * [스탠포드 cs231n을 정리하며...](https://softwareeng.tistory.com/entry/%EC%8A%A4%ED%83%A0%ED%8F%AC%EB%93%9C-cs231n%EC%9D%84-%EC%A0%95%EB%A6%AC%ED%95%98%EB%A9%B0)
   * [Top 10 Performance Tuning Practices for Pytorch](https://medium.com/naver-shopping-dev/top-10-performance-tuning-practices-for-pytorch-e6c510152f76)
+  * [KoBERT 쉽게 따라하고 간단한 fine-tuning 하기](https://moondol-ai.tistory.com/241)
+  * [PyTorch Lightning RoBERTa \(Training/Inference\)](https://www.kaggle.com/jeongyoonlee/pytorch-lightning-roberta-training-inference/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -2852,6 +2854,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [도메인 지식이 결여된 인과 추정이 위험한 이유](https://danbi-ncsoft.github.io/study/2020/06/29/study-domain_knowledge_and_causal_inference.html)
 * [인과추론 분석 설계에서 도메인 지식이 필요한 이유](https://danbi-ncsoft.github.io/study/2021/01/15/instrumentvariable.html)
 * [A Quickstart for Causal Analysis Decision-Making with DoWhy](https://medium.com/geekculture/a-quickstart-for-causal-analysis-decision-making-with-dowhy-2ce2d4d1efa9)
+* [Estimate the Causal Effect Intervention on Time Series with causalimpact](https://towardsdatascience.com/estimate-the-causal-effect-intervention-on-time-series-with-causalimpact-e949c5cd4147)
 * [Machine Learning Serving - BentoML 사용법](https://zzsza.github.io/mlops/2021/04/18/bentoml-basic/)
 * [Kubernetes기반의 Regression Test Pipeline을 구축하기](https://makinarocks.github.io/Regresssion-Test/)
 * [Causal Inference — To Control or not to Control](https://towardsdatascience.com/causal-inference-to-control-or-not-to-control-417e2721e22e)
@@ -2885,6 +2888,14 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Causal Inference Book](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
 * [Chris Anagnostopoulos: Causal Machine Learning: a rising tide](https://www.youtube.com/watch?v=5JsFZbGqJzc)
 * [CausalNex in Action — Finding the WHY Behind the Scenes](https://ljubica-vujovic.medium.com/causalnex-in-action-finding-the-why-behind-the-scenes-c50b78abc888)
+* [Causal Data Science](https://medium.com/causal-data-science/causal-data-science-721ed63a4027)
+* [4 Reasons why Correlation does NOT imply Causation](https://towardsdatascience.com/4-reasons-why-correlation-does-not-imply-causation-f202f69fe979)
+* [A Crash Course in Causality: Inferring Causal Effects from Observational Data](https://www.coursera.org/learn/crash-course-in-causality)
+* [Causal Diagrams: Draw Your Assumptions Before Your Conclusions](https://www.edx.org/course/causal-diagrams-draw-your-assumptions-before-your)
+* [Causal design patterns for data analysts](https://emilyriederer.netlify.app/post/causal-design-patterns/)
+* [Causal Inference: The Mixtape](https://mixtape.scunning.com/)
+* [Causal Inference : Primer \(2019-06-01 잔디콘\)](https://www.slideshare.net/lumiamitie/causal-inference-primer-20190601)
+* [Understanding MLOps](https://www.slideshare.net/chunmk/understanding-mlops)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
