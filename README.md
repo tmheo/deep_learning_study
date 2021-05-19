@@ -2917,6 +2917,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Causal Inference Study](https://github.com/lumiamitie/TIL/tree/master/python/causal_inference)
 * [Awesome Causal Inference](https://github.com/ksseono/awesome-causal-inference)
 * [Enterprise Causal Inference: Beyond Churn Modeling](https://medium.com/data-from-the-trenches/enterprise-causal-inference-beyond-churn-modeling-78a13a431501)
+* [Improve CPA / ROAS of Digital Advertising Through Causal Inference](https://medium.com/@digital_marketing_successway/improve-cpa-roas-of-digital-advertising-through-causal-inference-4e10f1ec8ce)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
