@@ -2919,6 +2919,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Enterprise Causal Inference: Beyond Churn Modeling](https://medium.com/data-from-the-trenches/enterprise-causal-inference-beyond-churn-modeling-78a13a431501)
 * [Improve CPA / ROAS of Digital Advertising Through Causal Inference](https://medium.com/@digital_marketing_successway/improve-cpa-roas-of-digital-advertising-through-causal-inference-4e10f1ec8ce)
 * [Propensity Scores and Inverse Probability Weighting in Causal Inference](https://towardsdatascience.com/propensity-scores-and-inverse-probability-weighting-in-causal-inference-97aa53f3b6ce)
+* [Be Careful When Interpreting Predictive Models in Search of Causal Insights](https://towardsdatascience.com/be-careful-when-interpreting-predictive-models-in-search-of-causal-insights-e68626e664b6)
+* [A Quick Comparison of Causal-Inference Estimates](https://towardsdatascience.com/a-quick-comparison-of-causal-inference-estimates-d7995592025)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3458,6 +3460,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Python을 이용한 연구데이터 시각화 Part 1](https://jehyunlee.github.io/2021/04/30/Python-DS-70-pythonvis1/)
 * [Python을 이용한 연구데이터 시각화 Part 2](https://jehyunlee.github.io/2021/05/03/Python-DS-71-pythonvis2/)
 * [Python을 이용한 연구데이터 시각화 Part 3](https://jehyunlee.github.io/2021/05/04/Python-DS-72-pythonvis3/)
+* [Use Colab more efficiently with these hacks](https://towardsdatascience.com/use-colab-more-efficiently-with-these-hacks-fc89ef1162d8)
+* [Adaptive Query Execution \(AQE\) in Spark 3 with Example : What Every Spark Programmer Must Know](https://medium.com/@ravishankar.nair/adaptive-query-execution-aqe-in-spark-3-with-example-what-every-spark-programmer-must-know-adfde0dc600e)
+* [Scaling AI with Project Ray, the Successor to Spark](https://medium.com/@ravishankar.nair/scaling-ai-with-project-ray-the-successor-to-spark-7b63570a0f60)
+* [t-test의 여러가지 종류들 : 언제 어떤 t-test를 이용해야 하는 걸까?](https://blog.naver.com/definitice/221398814700)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
