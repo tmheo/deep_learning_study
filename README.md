@@ -1422,6 +1422,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [KoBERT 쉽게 따라하고 간단한 fine-tuning 하기](https://moondol-ai.tistory.com/241)
   * [PyTorch Lightning RoBERTa \(Training/Inference\)](https://www.kaggle.com/jeongyoonlee/pytorch-lightning-roberta-training-inference/)
   * [Image Data Augmentation Overview](https://hoya012.github.io/blog/Image-Data-Augmentation-Overview/)
+  * [Lightning Flash 0.3 — New Tasks, Visualization Tools, Data Pipeline, and Flash Registry API](https://pytorch-lightning.medium.com/lightning-flash-0-3-new-tasks-visualization-tools-data-pipeline-and-flash-registry-api-1e236ba9530)
+  * [이미지 라벨링\(Image Labeling\), 노가다가 답일까?](https://medium.com/musinsa-tech/imagelabeling-c351c0258a62)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -2921,6 +2923,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Propensity Scores and Inverse Probability Weighting in Causal Inference](https://towardsdatascience.com/propensity-scores-and-inverse-probability-weighting-in-causal-inference-97aa53f3b6ce)
 * [Be Careful When Interpreting Predictive Models in Search of Causal Insights](https://towardsdatascience.com/be-careful-when-interpreting-predictive-models-in-search-of-causal-insights-e68626e664b6)
 * [A Quick Comparison of Causal-Inference Estimates](https://towardsdatascience.com/a-quick-comparison-of-causal-inference-estimates-d7995592025)
+* [Jungle Scout case study: Kedro, Airflow, and MLFlow use on production code](https://junglescouteng.medium.com/jungle-scout-case-study-kedro-airflow-and-mlflow-use-on-production-code-150d7231d42e)
+* [Beyond A/B Testing: Primer on Causal Inference](https://towardsdatascience.com/beyond-a-b-testing-primer-on-causal-inference-d8e462d90a0b)
+* [Causal ML for Data Science: Deep Learning with Instrumental Variables](https://towardsdatascience.com/causal-ml-for-data-science-deep-learning-with-instrumental-variables-96e5b7cc0482)
+* [A World of Causal Inference with EconML by Microsoft Research](https://medium.com/analytics-vidhya/a-world-of-causal-inference-with-econml-by-microsoft-research-7dd43e97ce09)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
