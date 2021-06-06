@@ -2927,6 +2927,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Beyond A/B Testing: Primer on Causal Inference](https://towardsdatascience.com/beyond-a-b-testing-primer-on-causal-inference-d8e462d90a0b)
 * [Causal ML for Data Science: Deep Learning with Instrumental Variables](https://towardsdatascience.com/causal-ml-for-data-science-deep-learning-with-instrumental-variables-96e5b7cc0482)
 * [A World of Causal Inference with EconML by Microsoft Research](https://medium.com/analytics-vidhya/a-world-of-causal-inference-with-econml-by-microsoft-research-7dd43e97ce09)
+* [[MLOps KR 행사] MLOps 춘추 전국 시대 정리\(210605\)](https://www.slideshare.net/zzsza/mlops-kr-mlops-210605)
+* [Ray: 대규모 ML인프라를 위한 분산 시스템 프레임워크\(조상빈\)](https://speakerdeck.com/mlopskr/ray-daegyumo-mlinpeurareul-wihan-bunsan-siseutem-peureimweokeu-josangbin)
+* [JupyterFlow : 당신의 모델에 날개를 달아드립니다\(유홍근\)](https://speakerdeck.com/mlopskr/jupyterflow-dangsinyi-modele-nalgaereul-daladeuribnida-yuhonggeun)
+* [모델을 데이터셋에 맞게 대량을 찍어내는 방법\(only 파이썬\)\(김태영\)](https://speakerdeck.com/mlopskr/modeleul-deiteosese-majge-daeryangeul-jjigeonaeneun-bangbeob-only-paisseon-gimtaeyeong)
+* [KRSH: 선언형 Kubeflow, Terraform처럼 파이프라인 관리하기\(김완수\)](https://speakerdeck.com/mlopskr/krsh-seoneonhyeong-kubeflow-terraformceoreom-paipeurain-gwanrihagi-gimwansu)
+* [Data-centric MLOps\(이정권\)](https://speakerdeck.com/mlopskr/data-centric-mlops-ijeonggweon)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3470,6 +3476,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Adaptive Query Execution \(AQE\) in Spark 3 with Example : What Every Spark Programmer Must Know](https://medium.com/@ravishankar.nair/adaptive-query-execution-aqe-in-spark-3-with-example-what-every-spark-programmer-must-know-adfde0dc600e)
 * [Scaling AI with Project Ray, the Successor to Spark](https://medium.com/@ravishankar.nair/scaling-ai-with-project-ray-the-successor-to-spark-7b63570a0f60)
 * [t-test의 여러가지 종류들 : 언제 어떤 t-test를 이용해야 하는 걸까?](https://blog.naver.com/definitice/221398814700)
+* [쏘카 데이터 그룹 - Airflow와 함께한 데이터 환경 구축기\(feat. Airflow on Kubernetes\)](https://tech.socarcorp.kr/data/2021/06/01/data-engineering-with-airflow.html)
+* [How to apply new font to matplotlib easily!](https://www.kaggle.com/fulrose/how-to-apply-new-font-to-matplotlib-easily)
+* [Data Processing Support in Ray](https://medium.com/distributed-computing-with-ray/data-processing-support-in-ray-ae8da34dce7e)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
