@@ -1424,6 +1424,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Image Data Augmentation Overview](https://hoya012.github.io/blog/Image-Data-Augmentation-Overview/)
   * [Lightning Flash 0.3 — New Tasks, Visualization Tools, Data Pipeline, and Flash Registry API](https://pytorch-lightning.medium.com/lightning-flash-0-3-new-tasks-visualization-tools-data-pipeline-and-flash-registry-api-1e236ba9530)
   * [이미지 라벨링\(Image Labeling\), 노가다가 답일까?](https://medium.com/musinsa-tech/imagelabeling-c351c0258a62)
+  * [Transformers Explained Visually — Not Just How, but Why They Work So Well](https://towardsdatascience.com/transformers-explained-visually-not-just-how-but-why-they-work-so-well-d840bd61a9d3)
+  * [labml.ai Annotated PyTorch Paper Implementations](https://nn.labml.ai/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -3479,6 +3481,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [쏘카 데이터 그룹 - Airflow와 함께한 데이터 환경 구축기\(feat. Airflow on Kubernetes\)](https://tech.socarcorp.kr/data/2021/06/01/data-engineering-with-airflow.html)
 * [How to apply new font to matplotlib easily!](https://www.kaggle.com/fulrose/how-to-apply-new-font-to-matplotlib-easily)
 * [Data Processing Support in Ray](https://medium.com/distributed-computing-with-ray/data-processing-support-in-ray-ae8da34dce7e)
+* [올바른 분석을 방해하는 함정 카드 피해가기](https://www.slideshare.net/lumiamitie/ss-234793925)
+* [A/B 테스트를 적용하기 어려울 때, 이벤트 효과 추정하기 \(2020-01-18 잔디콘\)](https://www.slideshare.net/lumiamitie/ab-20200118-224983073)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
