@@ -2927,7 +2927,6 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [A Quick Comparison of Causal-Inference Estimates](https://towardsdatascience.com/a-quick-comparison-of-causal-inference-estimates-d7995592025)
 * [Jungle Scout case study: Kedro, Airflow, and MLFlow use on production code](https://junglescouteng.medium.com/jungle-scout-case-study-kedro-airflow-and-mlflow-use-on-production-code-150d7231d42e)
 * [Beyond A/B Testing: Primer on Causal Inference](https://towardsdatascience.com/beyond-a-b-testing-primer-on-causal-inference-d8e462d90a0b)
-* [Causal ML for Data Science: Deep Learning with Instrumental Variables](https://towardsdatascience.com/causal-ml-for-data-science-deep-learning-with-instrumental-variables-96e5b7cc0482)
 * [A World of Causal Inference with EconML by Microsoft Research](https://medium.com/analytics-vidhya/a-world-of-causal-inference-with-econml-by-microsoft-research-7dd43e97ce09)
 * [[MLOps KR 행사] MLOps 춘추 전국 시대 정리\(210605\)](https://www.slideshare.net/zzsza/mlops-kr-mlops-210605)
 * [Ray: 대규모 ML인프라를 위한 분산 시스템 프레임워크\(조상빈\)](https://speakerdeck.com/mlopskr/ray-daegyumo-mlinpeurareul-wihan-bunsan-siseutem-peureimweokeu-josangbin)
@@ -2935,6 +2934,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [모델을 데이터셋에 맞게 대량을 찍어내는 방법\(only 파이썬\)\(김태영\)](https://speakerdeck.com/mlopskr/modeleul-deiteosese-majge-daeryangeul-jjigeonaeneun-bangbeob-only-paisseon-gimtaeyeong)
 * [KRSH: 선언형 Kubeflow, Terraform처럼 파이프라인 관리하기\(김완수\)](https://speakerdeck.com/mlopskr/krsh-seoneonhyeong-kubeflow-terraformceoreom-paipeurain-gwanrihagi-gimwansu)
 * [Data-centric MLOps\(이정권\)](https://speakerdeck.com/mlopskr/data-centric-mlops-ijeonggweon)
+* [Causal Inference : An Introduction](https://medium.com/analytics-vidhya/causal-inference-an-introduction-f424df7c76ef)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3447,9 +3447,6 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Creating Reproducible Data Science Projects](https://medium.com/swlh/creating-reproducible-data-science-projects-a38a15920f2a)
 * [Apache Spark 3.0 변경 사항](https://lightningdb.io/blog/2020/10/apache-spark-3.0-review.html)
 * [Overcoming Apache Spark’s biggest pain points](https://towardsdatascience.com/overcoming-apache-sparks-biggest-pain-points-b374cebcf6a4)
-* [Causal Inference : Primer \(2019-06-01 잔디콘\)](https://www.slideshare.net/lumiamitie/causal-inference-primer-20190601)
-* [Causal Inference : An Introduction](https://medium.com/analytics-vidhya/causal-inference-an-introduction-f424df7c76ef)
-* [DoWhy | Making causal inference easy](https://microsoft.github.io/dowhy/index.html)
 * [Meet whale! 🐳 The stupidly simple data discovery tool.](https://medium.com/df-foundation/meet-whale-the-stupidly-simple-data-discovery-tool-9f847c004b47)
 * [PandasGUI: Analyzing Pandas dataframes with a Graphical User Interface](https://towardsdatascience.com/pandasgui-analyzing-pandas-dataframes-with-a-graphical-user-interface-36f5c1357b1d)
 * [[영상] 완전 쌩초보 colab 사용기!](https://dacon.io/forum/401715)
