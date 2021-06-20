@@ -1426,6 +1426,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [이미지 라벨링\(Image Labeling\), 노가다가 답일까?](https://medium.com/musinsa-tech/imagelabeling-c351c0258a62)
   * [Transformers Explained Visually — Not Just How, but Why They Work So Well](https://towardsdatascience.com/transformers-explained-visually-not-just-how-but-why-they-work-so-well-d840bd61a9d3)
   * [labml.ai Annotated PyTorch Paper Implementations](https://nn.labml.ai/)
+  * [간단한 예제로 살펴본 Hydra를 이용한 어플리케이션 구성](https://lassl.github.io/implementation/hydra.html)
+  * [lightning-transformers로 살펴본 Hydra 어플리케이션 구성](https://lassl.github.io/implementation/lightning-transformer-hydra.html)
+  * [AugLy: A new data augmentation library to help build more robust AI models](https://ai.facebook.com/blog/augly-a-new-data-augmentation-library-to-help-build-more-robust-ai-models/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -2858,6 +2861,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [도메인 지식이 결여된 인과 추정이 위험한 이유](https://danbi-ncsoft.github.io/study/2020/06/29/study-domain_knowledge_and_causal_inference.html)
 * [인과추론 분석 설계에서 도메인 지식이 필요한 이유](https://danbi-ncsoft.github.io/study/2021/01/15/instrumentvariable.html)
 * [게임 플레이어는 좋은 아이템을 획득하면 게임을 더 열심히 하게 될까?](https://danbi-ncsoft.github.io/works/2021/05/13/class_get_causal_analysis.html)
+* [아이템에 대한 만족도는 플레이어가 게임을 열심히 하는데 영향을 미칠까?](https://danbi-ncsoft.github.io/works/2021/05/20/class_get_causal_analysis2.html)
 * [A Quickstart for Causal Analysis Decision-Making with DoWhy](https://medium.com/geekculture/a-quickstart-for-causal-analysis-decision-making-with-dowhy-2ce2d4d1efa9)
 * [Estimate the Causal Effect Intervention on Time Series with causalimpact](https://towardsdatascience.com/estimate-the-causal-effect-intervention-on-time-series-with-causalimpact-e949c5cd4147)
 * [Machine Learning Serving - BentoML 사용법](https://zzsza.github.io/mlops/2021/04/18/bentoml-basic/)
@@ -2935,6 +2939,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [KRSH: 선언형 Kubeflow, Terraform처럼 파이프라인 관리하기\(김완수\)](https://speakerdeck.com/mlopskr/krsh-seoneonhyeong-kubeflow-terraformceoreom-paipeurain-gwanrihagi-gimwansu)
 * [Data-centric MLOps\(이정권\)](https://speakerdeck.com/mlopskr/data-centric-mlops-ijeonggweon)
 * [Causal Inference : An Introduction](https://medium.com/analytics-vidhya/causal-inference-an-introduction-f424df7c76ef)
+* [Interpretation of Isolation Forest with SHAP](https://pub.towardsai.net/interpretation-of-isolation-forest-with-shap-d1b6af93ae71)
+* [How to Use Quasi-experiments and Counterfactuals to Build Great Productsa](https://shopify.engineering/using-quasi-experiments-counterfactuals)
+* [From Scratch: Permutation Feature Importance for ML Interpretability](https://towardsdatascience.com/from-scratch-permutation-feature-importance-for-ml-interpretability-b60f7d5d1fe9)
+* [[XAI] EBM(Explainable Boosting Machine) 알고리즘 소개](https://myeonghak.github.io/xai/XAI-EBM(Explainable-Boosting-Machine)-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%86%8C%EA%B0%9C/)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3480,6 +3488,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Data Processing Support in Ray](https://medium.com/distributed-computing-with-ray/data-processing-support-in-ray-ae8da34dce7e)
 * [올바른 분석을 방해하는 함정 카드 피해가기](https://www.slideshare.net/lumiamitie/ss-234793925)
 * [A/B 테스트를 적용하기 어려울 때, 이벤트 효과 추정하기 \(2020-01-18 잔디콘\)](https://www.slideshare.net/lumiamitie/ab-20200118-224983073)
+* [데이터 로그 설계, 데이터 로깅, 이벤트 로그 설계, 데이터 QA의 모든 것](https://zzsza.github.io/data/2021/06/13/data-event-log-definition/)
+* [달고나 5. 데이터 문제 해결 프로세스](https://brunch.co.kr/@jejugrapher/219)
+* [달고나 30. 데이터 과학자의 생각법](https://brunch.co.kr/@jejugrapher/244)
+* [Five types of thinking for a high performing data scientist](https://towardsdatascience.com/five-types-of-thinking-for-a-high-performing-data-scientist-8ab70d70c23b)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
