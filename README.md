@@ -146,6 +146,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [한국어 자연어처리 튜토리얼](https://github.com/MrBananaHuman/KorNlpTutorial)
   * [PyTorch Fundamentals - Microsoft](https://docs.microsoft.com/en-us/learn/paths/pytorch-fundamentals/)
   * [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
+  * [자연어처리 특강](https://www.youtube.com/playlist?list=PLgD4RfwkG2A5fNsi7PyhWCiIz5zU2Q6Z0)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -2955,6 +2956,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [From Prediction to Action — How to Learn Optimal Policies From Data \(Part 1\)](https://towardsdatascience.com/from-prediction-to-action-how-to-learn-optimal-policies-from-data-part-1-1edbfdcb725d)
 * [An Ultimate Guide to Matching and Propensity Score Matching](https://towardsdatascience.com/an-ultimate-guide-to-matching-and-propensity-score-matching-644395c46616)
 * [Leveraging proxy variables for causal inference](https://booking.ai/leveraging-proxy-variables-for-causal-inference-9e42781a2bcb?gi=bdfc81c7aab4)
+* [Need for Data-centric ML Platforms](https://databricks.com/blog/2021/06/23/need-for-data-centric-ml-platforms.html)
+* [[XAI] LIME\(Local Interpretable Model-agnostic Explanation\) 알고리즘](https://myeonghak.github.io/xai/XAI-LIME\(Local-Interpretable-Model-agnostic-Explanation\)-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/)
+* [Causal inference from nonrandomized data key concepts and recent trends](https://www.slideshare.net/BongHoLee/causal-inference-from-nonrandomized-data-key-concepts-and-recent-trends)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
