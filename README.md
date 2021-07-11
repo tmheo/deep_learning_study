@@ -2975,6 +2975,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Causal inference from nonrandomized data key concepts and recent trends](https://www.slideshare.net/BongHoLee/causal-inference-from-nonrandomized-data-key-concepts-and-recent-trends)
 * [Towards Causal Representation Learning](https://www.slideshare.net/SYPark14/towards-causal-representation-learning-249641613)
 * [Causal Inference for Data Scientists: Part 1](https://towardsdatascience.com/causal-inference-for-data-scientists-part-1-f97fa8614143)
+* [인과추론의 데이터과학 - YouTube](https://www.youtube.com/channel/UCkEHnPq2T8Vpafk3p-Rk49A)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
