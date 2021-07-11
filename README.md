@@ -147,6 +147,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [PyTorch Fundamentals - Microsoft](https://docs.microsoft.com/en-us/learn/paths/pytorch-fundamentals/)
   * [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
   * [자연어처리 특강](https://www.youtube.com/playlist?list=PLgD4RfwkG2A5fNsi7PyhWCiIz5zU2Q6Z0)
+  * [PyTorch를 활용한 딥러닝 튜토리얼 \(Deep Learning Tutorials with PyTorch\)](https://pseudo-lab.github.io/Tutorial-Book/)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -1438,6 +1439,19 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [pytorch-widedeep, deep learning for tabular data II: advanced use](https://jrzaurin.github.io/infinitoml/2020/12/11/pytorch-widedeep_ii.html)
   * [pytorch-widedeep, deep learning for tabular data III: the deeptabular component](https://jrzaurin.github.io/infinitoml/2021/02/18/pytorch-widedeep_iii.html)
   * [pytorch-widedeep, deep learning for tabular data IV: Deep Learning vs LightGBM](https://jrzaurin.github.io/infinitoml/2021/05/28/pytorch-widedeep_iv.html)
+  * [AutoEmbedder — Training embedding layers on unsupervised tasks](https://medium.com/kirey-group/autoembedder-training-embedding-layers-on-unsupervised-tasks-fc364c0f6eec)
+  * [Using AutoEncoders with Tabular Data \(Intermediate\)](https://walkwithfastai.com/tab.ae)
+  * [How to Apply Self-Supervision to Tabular Data: Introducing dfencoder](https://towardsdatascience.com/how-to-apply-self-supervision-to-tabular-data-introducing-dfencoder-eec21c4afaef)
+  * [Denoising Autoencoders \(DAE\) For Tabular Data](https://www.kaggle.com/faisalalsrheed/denoising-autoencoders-dae-for-tabular-data)
+  * [1st place - turn your data into DAEta](https://www.kaggle.com/springmanndaniel/1st-place-turn-your-data-into-daeta)
+  * [1st place DAE training code](https://www.kaggle.com/c/tabular-playground-series-feb-2021/discussion/222745)
+  * [pytorch dae starter code](https://www.kaggle.com/ryanzhang/pytorch-dae-starter-code)
+  * [#1 LB Ideas](https://www.kaggle.com/c/tabular-playground-series-mar-2021/discussion/229833)
+  * [TabularMarch21 DAE starter](https://www.kaggle.com/davidedwards1/tabularmarch21-dae-starter)
+  * [TabularMarch21 DAE starter CV-Inference](https://www.kaggle.com/davidedwards1/tabularmarch21-dae-starter-cv-inference)
+  * [DAE with 2 Lines of Code with Kaggler](https://www.kaggle.com/jeongyoonlee/dae-with-2-lines-of-code-with-kaggler)
+  * [TPS 6 Supervised DAE + Keras \(GPU\)](https://www.kaggle.com/jeongyoonlee/tps-6-supervised-dae-keras-gpu)
+  * [PyTorch Tabular](https://pytorch-tabular.readthedocs.io/en/latest/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -2959,6 +2973,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Need for Data-centric ML Platforms](https://databricks.com/blog/2021/06/23/need-for-data-centric-ml-platforms.html)
 * [[XAI] LIME\(Local Interpretable Model-agnostic Explanation\) 알고리즘](https://myeonghak.github.io/xai/XAI-LIME\(Local-Interpretable-Model-agnostic-Explanation\)-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/)
 * [Causal inference from nonrandomized data key concepts and recent trends](https://www.slideshare.net/BongHoLee/causal-inference-from-nonrandomized-data-key-concepts-and-recent-trends)
+* [Towards Causal Representation Learning](https://www.slideshare.net/SYPark14/towards-causal-representation-learning-249641613)
+* [Causal Inference for Data Scientists: Part 1](https://towardsdatascience.com/causal-inference-for-data-scientists-part-1-f97fa8614143)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3508,6 +3524,13 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [달고나 5. 데이터 문제 해결 프로세스](https://brunch.co.kr/@jejugrapher/219)
 * [달고나 30. 데이터 과학자의 생각법](https://brunch.co.kr/@jejugrapher/244)
 * [Five types of thinking for a high performing data scientist](https://towardsdatascience.com/five-types-of-thinking-for-a-high-performing-data-scientist-8ab70d70c23b)
+* [How does Apache Spark 3.0 increase the performance of your SQL workloads](https://blog.cloudera.com/how-does-apache-spark-3-0-increase-the-performance-of-your-sql-workloads/)
+* [[seaborn] color 팔레트 선택하기](http://hleecaster.com/python-seaborn-color/)
+* [Matplotlib 3D Plots \(1\)](https://jehyunlee.github.io/2021/07/09/Python-DS-79-mpl3d/)
+* [Matplotlib 3D Plots \(2\)](https://jehyunlee.github.io/2021/07/10/Python-DS-80-mpl3d2/)
+* [Interactive Animated Visualization](https://towardsdatascience.com/interactive-animated-visualization-db91d1c858ad)
+* [Visualization - Matplotlib with PySpark](https://examples.hopsworks.ai/ml/plotting/matplotlib_sparkmagic/)
+* [Every Data Scientist needs some SparkMagic](https://towardsdatascience.com/every-data-scientist-can-need-some-spark-magic-853da0b81006)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
