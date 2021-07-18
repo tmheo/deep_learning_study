@@ -1457,7 +1457,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Amazon SageMaker and 🤗 Transformers: Train and Deploy a Summarization Model with a Custom Dataset](https://towardsdatascience.com/amazon-sagemaker-and-transformers-train-and-deploy-a-summarization-model-with-a-custom-dataset-5efc589fedad?utm_source=pocket_mylist)
   * [PL 1Fold CQT + DeepSpeed Op Baseline + W&B [.84]](https://www.kaggle.com/ligtfeather/pl-1fold-cqt-deepspeed-op-baseline-w-b-84)
   * [Deep learning in Kaggle's tabular data competitions](https://randxie.github.io/writing/2018/02/14/deep-learning-in-kaggle-data-mining-competitions/)
-  * [VIME: Extending the Success of Self- and Semi-supervised Learning to Tabular Domain](https://vanderschaar-lab.com/papers/NeurIPS2020_VIME.pdf)
+  * [VIME: Extending the Success of Self- and Semi-supervised Learning to Tabular Domain](https://vanderschaar-lab.com/papers/NeurIPS2020_VIME.pdf) : [[Code]](https://github.com/jsyoon0823/VIME)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
