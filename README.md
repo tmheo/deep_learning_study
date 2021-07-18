@@ -1452,6 +1452,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [DAE with 2 Lines of Code with Kaggler](https://www.kaggle.com/jeongyoonlee/dae-with-2-lines-of-code-with-kaggler)
   * [TPS 6 Supervised DAE + Keras \(GPU\)](https://www.kaggle.com/jeongyoonlee/tps-6-supervised-dae-keras-gpu)
   * [PyTorch Tabular](https://pytorch-tabular.readthedocs.io/en/latest/)
+  * [Kaggle Porto Seguro’s Safe Driver Prediction - 1st place with representation learning](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction/discussion/44629)
+  * [[TECH] 2021.07.12ㅤ TUNiB ranked 1st in 2021 AI Online Competition](https://tunib.notion.site/TECH-2021-07-12-TUNiB-ranked-1st-in-2021-AI-Online-Competition-3d615dcbb7cc4c1090f3146fe9113621)
+  * [Amazon SageMaker and 🤗 Transformers: Train and Deploy a Summarization Model with a Custom Dataset](https://towardsdatascience.com/amazon-sagemaker-and-transformers-train-and-deploy-a-summarization-model-with-a-custom-dataset-5efc589fedad?utm_source=pocket_mylist)
+  * [PL 1Fold CQT + DeepSpeed Op Baseline + W&B [.84]](https://www.kaggle.com/ligtfeather/pl-1fold-cqt-deepspeed-op-baseline-w-b-84)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1692,6 +1696,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [[딥러닝 기계 번역] Transformer: Attention Is All You Need \(꼼꼼한 딥러닝 논문 리뷰와 코드 실습\)](https://www.youtube.com/watch?v=AA621UofTUA)
   * [GAN: Generative Adversarial Networks \(꼼꼼한 딥러닝 논문 리뷰와 코드 실습\)](https://www.youtube.com/watch?v=AVvlDmhHgC4)
   * [Machine Translation Survey \(vol1\) : Background](https://www.youtube.com/watch?v=KQfvEg-fGMw)
+  * [Deep Learning for Tabular Data: A Bag of Tricks | ODSC 2020](https://www.youtube.com/watch?v=WPQOkoXhdBQ)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -2976,6 +2981,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Towards Causal Representation Learning](https://www.slideshare.net/SYPark14/towards-causal-representation-learning-249641613)
 * [Causal Inference for Data Scientists: Part 1](https://towardsdatascience.com/causal-inference-for-data-scientists-part-1-f97fa8614143)
 * [인과추론의 데이터과학 - YouTube](https://www.youtube.com/channel/UCkEHnPq2T8Vpafk3p-Rk49A)
+* [SHAP: Shapley Additive Explanations](https://towardsdatascience.com/shap-shapley-additive-explanations-5a2a271ed9c3)
+* [Understanding LightGBM Parameters \(and How to Tune Them\)](https://neptune.ai/blog/lightgbm-parameters-guide)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3532,6 +3539,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Interactive Animated Visualization](https://towardsdatascience.com/interactive-animated-visualization-db91d1c858ad)
 * [Visualization - Matplotlib with PySpark](https://examples.hopsworks.ai/ml/plotting/matplotlib_sparkmagic/)
 * [Every Data Scientist needs some SparkMagic](https://towardsdatascience.com/every-data-scientist-can-need-some-spark-magic-853da0b81006)
+* [Part 1: Cloud Spending Efficiency Guide for Apache Spark on EC2 Instances](https://medium.com/expedia-group-tech/part-1-cloud-spending-efficiency-guide-for-apache-spark-on-ec2-instances-79ee8814de4e)
+* [Part 2: Real World Apache Spark Cost Tuning Examples](https://medium.com/expedia-group-tech/part-2-real-world-apache-spark-cost-tuning-examples-42390ee69194)
+* [Part 3: Cost Efficient Executor Configuration for Apache Spark](https://medium.com/expedia-group-tech/part-3-efficient-executor-configuration-for-apache-spark-b4602929262)
+* [Part 4: How to Migrate Existing Apache Spark Jobs to Cost Efficient Executor Configurations](https://medium.com/expedia-group-tech/part-4-how-to-migrate-existing-apache-spark-jobs-to-cost-efficient-executor-configurations-a7d4909eae34)
+* [Part 5: How to Resolve Common Errors When Switching to Cost Efficient Apache Spark Executor Configurations](https://medium.com/expedia-group-tech/part-5-how-to-resolve-common-errors-when-switching-to-cost-efficient-apache-spark-executor-36e8d4290536)
+* [Part 6: Summary of Apache Spark Cost Tuning Strategy & FAQ](https://medium.com/expedia-group-tech/part-6-summary-of-apache-spark-cost-tuning-strategy-8d06148c5da6)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
