@@ -1457,7 +1457,17 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Amazon SageMaker and 🤗 Transformers: Train and Deploy a Summarization Model with a Custom Dataset](https://towardsdatascience.com/amazon-sagemaker-and-transformers-train-and-deploy-a-summarization-model-with-a-custom-dataset-5efc589fedad?utm_source=pocket_mylist)
   * [PL 1Fold CQT + DeepSpeed Op Baseline + W&B [.84]](https://www.kaggle.com/ligtfeather/pl-1fold-cqt-deepspeed-op-baseline-w-b-84)
   * [Deep learning in Kaggle's tabular data competitions](https://randxie.github.io/writing/2018/02/14/deep-learning-in-kaggle-data-mining-competitions/)
-  * [VIME: Extending the Success of Self- and Semi-supervised Learning to Tabular Domain](https://vanderschaar-lab.com/papers/NeurIPS2020_VIME.pdf) : [[Code]](https://github.com/jsyoon0823/VIME)
+  * [VIME: Extending the Success of Self- and Semi-supervised Learning to Tabular Domain](https://paperswithcode.com/paper/vime-extending-the-success-of-self-and-semi) : [[Code]](https://github.com/jsyoon0823/VIME)
+  * [Revisiting Deep Learning Models for Tabular Data](https://arxiv.org/abs/2106.11959)
+  * [Tabular Data: Deep Learning is Not All You Need](https://arxiv.org/abs/2106.03253)
+  * [Regularization is all you Need: Simple Neural Nets can Excel on Tabular Data](https://arxiv.org/abs/2106.11189)
+  * [Muddling Label Regularization: Deep Learning for Tabular Datasets](https://arxiv.org/abs/2106.04462)
+  * [SAINT: Improved Neural Networks for Tabular Data via Row Attention and Contrastive Pre-Training](https://arxiv.org/abs/2106.01342)
+  * [SCARF: Self-Supervised Contrastive Learning using Random Feature Corruption](https://arxiv.org/abs/2106.15147)
+  * [Self-supervision for tabular data by learning to predict additive Gaussian noise as pretext](https://www.researchgate.net/publication/352180757_Self-supervision_for_tabular_data_by_learning_to_predict_additive_Gaussian_noise_as_pretext)
+  * [Optimizing PyTorch Performance: Batch Size with PyTorch Profiler](https://opendatascience.com/optimizing-pytorch-performance-batch-size-with-pytorch-profiler/)
+  * [DEEP LEARNING FOR TABULAR DATA](http://ethen8181.github.io/machine-learning/deep_learning/tabular/tabular.html)
+  * [Deep Learning for Tabular Data using PyTorch](https://towardsdatascience.com/deep-learning-for-tabular-data-using-pytorch-1807f2858320)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -2985,6 +2995,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [인과추론의 데이터과학 - YouTube](https://www.youtube.com/channel/UCkEHnPq2T8Vpafk3p-Rk49A)
 * [SHAP: Shapley Additive Explanations](https://towardsdatascience.com/shap-shapley-additive-explanations-5a2a271ed9c3)
 * [Understanding LightGBM Parameters \(and How to Tune Them\)](https://neptune.ai/blog/lightgbm-parameters-guide)
+* [Why you should be using PHATE for dimensionality reduction](https://towardsdatascience.com/why-you-should-be-using-phate-for-dimensionality-reduction-f202ef385eb7)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3547,6 +3558,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Part 4: How to Migrate Existing Apache Spark Jobs to Cost Efficient Executor Configurations](https://medium.com/expedia-group-tech/part-4-how-to-migrate-existing-apache-spark-jobs-to-cost-efficient-executor-configurations-a7d4909eae34)
 * [Part 5: How to Resolve Common Errors When Switching to Cost Efficient Apache Spark Executor Configurations](https://medium.com/expedia-group-tech/part-5-how-to-resolve-common-errors-when-switching-to-cost-efficient-apache-spark-executor-36e8d4290536)
 * [Part 6: Summary of Apache Spark Cost Tuning Strategy & FAQ](https://medium.com/expedia-group-tech/part-6-summary-of-apache-spark-cost-tuning-strategy-8d06148c5da6)
+* [Pandas Melt, Stack and wide_to_long For Converting Columns into Rows](https://towardsdatascience.com/wide-to-long-data-how-and-when-to-use-pandas-melt-stack-and-wide-to-long-7c1e0f462a98)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
