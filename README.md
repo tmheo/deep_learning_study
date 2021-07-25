@@ -1468,6 +1468,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Optimizing PyTorch Performance: Batch Size with PyTorch Profiler](https://opendatascience.com/optimizing-pytorch-performance-batch-size-with-pytorch-profiler/)
   * [DEEP LEARNING FOR TABULAR DATA](http://ethen8181.github.io/machine-learning/deep_learning/tabular/tabular.html)
   * [Deep Learning for Tabular Data using PyTorch](https://towardsdatascience.com/deep-learning-for-tabular-data-using-pytorch-1807f2858320)
+  * [Mixup augmentation on tabular data](https://perfstories.wordpress.com/2020/12/04/mixup-on-tabular-data/)
+  * [Deep Learning for tabular data augmentation](https://lschmiddey.github.io/fastpages_/2021/04/10/DeepLearning_TabularDataAugmentation.html) : [[Code]](https://github.com/lschmiddey/deep_tabular_augmentation)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
