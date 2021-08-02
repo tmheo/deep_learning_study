@@ -1711,6 +1711,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [GAN: Generative Adversarial Networks \(꼼꼼한 딥러닝 논문 리뷰와 코드 실습\)](https://www.youtube.com/watch?v=AVvlDmhHgC4)
   * [Machine Translation Survey \(vol1\) : Background](https://www.youtube.com/watch?v=KQfvEg-fGMw)
   * [Deep Learning for Tabular Data: A Bag of Tricks | ODSC 2020](https://www.youtube.com/watch?v=WPQOkoXhdBQ)
+  * [Google I/O 2021 Extended Bacolod \(Vertex AI\)](https://www.youtube.com/watch?v=CymqhbZga-o&t=3650s) : [[Slide]](https://docs.google.com/presentation/d/14WBBu65QuoLW_0wLJ0ymuzLUfAD9dwd7bb8kf1-5ztc/edit#slide=id.g78c7a2e656_0_77)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -3561,6 +3562,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Part 5: How to Resolve Common Errors When Switching to Cost Efficient Apache Spark Executor Configurations](https://medium.com/expedia-group-tech/part-5-how-to-resolve-common-errors-when-switching-to-cost-efficient-apache-spark-executor-36e8d4290536)
 * [Part 6: Summary of Apache Spark Cost Tuning Strategy & FAQ](https://medium.com/expedia-group-tech/part-6-summary-of-apache-spark-cost-tuning-strategy-8d06148c5da6)
 * [Pandas Melt, Stack and wide_to_long For Converting Columns into Rows](https://towardsdatascience.com/wide-to-long-data-how-and-when-to-use-pandas-melt-stack-and-wide-to-long-7c1e0f462a98)
+* [Charticulator - Create Bespoke Chart Designs without Programming](https://charticulator.com/index.html)
+* [Sampling Distributions with Python](https://towardsdatascience.com/sampling-distributions-with-python-f5a5f268f636)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
