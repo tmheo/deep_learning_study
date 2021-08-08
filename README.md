@@ -3000,6 +3000,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [SHAP: Shapley Additive Explanations](https://towardsdatascience.com/shap-shapley-additive-explanations-5a2a271ed9c3)
 * [Understanding LightGBM Parameters \(and How to Tune Them\)](https://neptune.ai/blog/lightgbm-parameters-guide)
 * [Why you should be using PHATE for dimensionality reduction](https://towardsdatascience.com/why-you-should-be-using-phate-for-dimensionality-reduction-f202ef385eb7)
+* [플레이스 AI 개발의 MLOps w/ Kubernetes](https://medium.com/naver-place-dev/naver-g%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4ai%EA%B0%9C%EB%B0%9C-%EB%B6%80%EC%84%9C%EC%9D%98-mlops-kubernetes-%EA%B8%B0%EB%B0%98-1f234d82b238)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3902,6 +3903,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [1년차 주니어가 추천 시스템 현장에서 마주한 고민](https://medium.com/watcha/1%EB%85%84%EC%B0%A8-%EC%A3%BC%EB%8B%88%EC%96%B4%EA%B0%80-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%98%84%EC%9E%A5%EC%97%90%EC%84%9C-%EB%A7%88%EC%A3%BC%ED%95%9C-%EA%B3%A0%EB%AF%BC-12f568eb2cc2)
 * [비용 효율적인 Click-Through Rate Prediction 모델로 하쿠나 라이브 추천시스템 구축하기](https://hyperconnect.github.io/2021/04/26/hakuna-recsys-gb.html)
 * [Flexible, Scalable, Differentiable Simulation of Recommender Systems with RecSim NG](https://ai.googleblog.com/2021/04/flexible-scalable-differentiable.html)
+* [비슷한 음식점 취향 유저 추천 모델 개발기](https://medium.com/naver-place-dev/%EB%B9%84%EC%8A%B7%ED%95%9C-%EC%9D%8C%EC%8B%9D%EC%A0%90-%EC%B7%A8%ED%96%A5-%EC%9C%A0%EC%A0%80-%EC%B6%94%EC%B2%9C-%EB%AA%A8%EB%8D%B8-%EA%B0%9C%EB%B0%9C%EA%B8%B0-9b33bb77c94d)
+* [Youtube Recommendation Platform](https://medium.com/acing-ai/youtube-recommendation-architecture-df99a568679)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
