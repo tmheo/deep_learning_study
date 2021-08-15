@@ -1471,6 +1471,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Mixup augmentation on tabular data](https://perfstories.wordpress.com/2020/12/04/mixup-on-tabular-data/)
   * [Deep Learning for tabular data augmentation](https://lschmiddey.github.io/fastpages_/2021/04/10/DeepLearning_TabularDataAugmentation.html) : [[Code]](https://github.com/lschmiddey/deep_tabular_augmentation)
   * [Auto Structuring Deep Learning Projects with the Lightning CLI](https://devblog.pytorchlightning.ai/auto-structuring-deep-learning-projects-with-the-lightning-cli-9f40f1ef8b36)
+  * [Adapting to changes of data by building MLOps pipeline in Vertex AI](https://towardsdatascience.com/adapting-to-changes-of-data-by-building-mlops-pipeline-in-vertex-ai-3f8ebd19a869)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -3001,6 +3002,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Understanding LightGBM Parameters \(and How to Tune Them\)](https://neptune.ai/blog/lightgbm-parameters-guide)
 * [Why you should be using PHATE for dimensionality reduction](https://towardsdatascience.com/why-you-should-be-using-phate-for-dimensionality-reduction-f202ef385eb7)
 * [플레이스 AI 개발의 MLOps w/ Kubernetes](https://medium.com/naver-place-dev/naver-g%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4ai%EA%B0%9C%EB%B0%9C-%EB%B6%80%EC%84%9C%EC%9D%98-mlops-kubernetes-%EA%B8%B0%EB%B0%98-1f234d82b238)
+* [Causal Inference and Machine Learning in Practice with EconML and CausalML](https://causal-machine-learning.github.io/kdd2021-tutorial/)
+* [Time Based Cross Validation](https://towardsdatascience.com/time-based-cross-validation-d259b13d42b8)
+* [Transform your categorical columns with imperio SmoothingTransformer](https://medium.com/softplus-publication/transform-your-categorical-columns-with-imperio-smoothingtransformer-d6534c283c60)
+* [KL divergence](https://angeloyeo.github.io/2020/10/27/KL_divergence.html)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
