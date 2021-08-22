@@ -1472,6 +1472,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deep Learning for tabular data augmentation](https://lschmiddey.github.io/fastpages_/2021/04/10/DeepLearning_TabularDataAugmentation.html) : [[Code]](https://github.com/lschmiddey/deep_tabular_augmentation)
   * [Auto Structuring Deep Learning Projects with the Lightning CLI](https://devblog.pytorchlightning.ai/auto-structuring-deep-learning-projects-with-the-lightning-cli-9f40f1ef8b36)
   * [Adapting to changes of data by building MLOps pipeline in Vertex AI](https://towardsdatascience.com/adapting-to-changes-of-data-by-building-mlops-pipeline-in-vertex-ai-3f8ebd19a869)
+  * [GPUs Are Fast! Datasets Are Your Bottleneck](https://towardsdatascience.com/gpus-are-fast-datasets-are-your-bottleneck-e5ac9bf2ad27)
+  * [서비스에서 야경 좋은 식당 찾기 — Vision, Semi-supervised learning, Hierarchical classification](https://medium.com/naver-place-dev/%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90%EC%84%9C-%EC%95%BC%EA%B2%BD-%EC%A2%8B%EC%9D%80-%EC%8B%9D%EB%8B%B9-%EC%B0%BE%EA%B8%B0-vision-semi-supervised-learning-hierarchical-classification-126b19572d8b)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1853,6 +1855,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Disentangling Label Distribution for Long-tailed Visual Recognition](https://github.com/hyperconnect/LADE)
   * [PyTorch-StudioGAN](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN)
   * [KoBART](https://github.com/SKT-AI/KoBART)
+  * [Implementation of the paper Last Query Transformer RNN for knowledge tracing - Last-Query-Transformer-RNN](https://github.com/arshadshk/Last_Query_Transformer_RNN-PyTorch)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -3006,6 +3009,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Time Based Cross Validation](https://towardsdatascience.com/time-based-cross-validation-d259b13d42b8)
 * [Transform your categorical columns with imperio SmoothingTransformer](https://medium.com/softplus-publication/transform-your-categorical-columns-with-imperio-smoothingtransformer-d6534c283c60)
 * [KL divergence](https://angeloyeo.github.io/2020/10/27/KL_divergence.html)
+* [Introducing Autofaiss: An Automatic K-Nearest-Neighbor Indexing Library At Scale](https://medium.com/criteo-engineering/introducing-autofaiss-an-automatic-k-nearest-neighbor-indexing-library-at-scale-c90842005a11)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3910,6 +3914,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Flexible, Scalable, Differentiable Simulation of Recommender Systems with RecSim NG](https://ai.googleblog.com/2021/04/flexible-scalable-differentiable.html)
 * [비슷한 음식점 취향 유저 추천 모델 개발기](https://medium.com/naver-place-dev/%EB%B9%84%EC%8A%B7%ED%95%9C-%EC%9D%8C%EC%8B%9D%EC%A0%90-%EC%B7%A8%ED%96%A5-%EC%9C%A0%EC%A0%80-%EC%B6%94%EC%B2%9C-%EB%AA%A8%EB%8D%B8-%EA%B0%9C%EB%B0%9C%EA%B8%B0-9b33bb77c94d)
 * [Youtube Recommendation Platform](https://medium.com/acing-ai/youtube-recommendation-architecture-df99a568679)
+* [Winning the SIGIR eCommerce Challenge on session-based recommendation with Transformers](https://medium.com/nvidia-merlin/winning-the-sigir-ecommerce-challenge-on-session-based-recommendation-with-transformers-v2-793f6fac2994)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
