@@ -148,6 +148,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
   * [자연어처리 특강](https://www.youtube.com/playlist?list=PLgD4RfwkG2A5fNsi7PyhWCiIz5zU2Q6Z0)
   * [PyTorch를 활용한 딥러닝 튜토리얼 \(Deep Learning Tutorials with PyTorch\)](https://pseudo-lab.github.io/Tutorial-Book/)
+  * [Applied ML - Curated papers, articles, and blogs on data science & machine learning in production](https://github.com/eugeneyan/applied-ml)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -3010,6 +3011,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Transform your categorical columns with imperio SmoothingTransformer](https://medium.com/softplus-publication/transform-your-categorical-columns-with-imperio-smoothingtransformer-d6534c283c60)
 * [KL divergence](https://angeloyeo.github.io/2020/10/27/KL_divergence.html)
 * [Introducing Autofaiss: An Automatic K-Nearest-Neighbor Indexing Library At Scale](https://medium.com/criteo-engineering/introducing-autofaiss-an-automatic-k-nearest-neighbor-indexing-library-at-scale-c90842005a11)
+* [From Prediction to Action — How to Learn Optimal Policies From Data \(1/4\)](https://towardsdatascience.com/from-prediction-to-action-how-to-learn-optimal-policies-from-data-part-1-1edbfdcb725d)
+* [From Prediction to Action — How to Learn Optimal Policies From Data \(2/4\)](https://towardsdatascience.com/from-making-predictions-to-optimizing-actions-an-introduction-to-policy-learning-2-4-9fc46ba8f3d0)
+* [From Prediction to Action — How to Learn Optimal Policies From Data \(3/4\)](https://towardsdatascience.com/from-prediction-to-action-how-to-learn-optimal-policies-from-data-3-4-aa56c974a505)
+* [From Prediction to Action — How to Learn Optimal Policies From Data \(4/4\)](https://towardsdatascience.com/from-prediction-to-action-how-to-learn-optimal-policies-from-data-4-4-14c63cc0c938)
+* [Fast AutoML with FLAML + Ray Tune](https://towardsdatascience.com/fast-automl-with-flaml-ray-tune-64ff4a604d1c)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
