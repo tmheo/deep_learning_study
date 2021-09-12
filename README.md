@@ -1476,6 +1476,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [GPUs Are Fast! Datasets Are Your Bottleneck](https://towardsdatascience.com/gpus-are-fast-datasets-are-your-bottleneck-e5ac9bf2ad27)
   * [서비스에서 야경 좋은 식당 찾기 — Vision, Semi-supervised learning, Hierarchical classification](https://medium.com/naver-place-dev/%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90%EC%84%9C-%EC%95%BC%EA%B2%BD-%EC%A2%8B%EC%9D%80-%EC%8B%9D%EB%8B%B9-%EC%B0%BE%EA%B8%B0-vision-semi-supervised-learning-hierarchical-classification-126b19572d8b)
   * [Generating Synthetic Tabular Data](https://towardsdatascience.com/generating-synthetic-tabular-data-503fe823f377)
+  * [Reviewing the TensorFlow Decision Forests library](https://towardsdatascience.com/reviewing-the-tensorflow-decision-forests-library-1ecf50ae00c3)
+  * [[Transformer]-1 Positional Encoding은 왜 그렇게 생겼을까?](https://velog.io/@gibonki77/DLmathPE)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -3017,6 +3019,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [From Prediction to Action — How to Learn Optimal Policies From Data \(3/4\)](https://towardsdatascience.com/from-prediction-to-action-how-to-learn-optimal-policies-from-data-3-4-aa56c974a505)
 * [From Prediction to Action — How to Learn Optimal Policies From Data \(4/4\)](https://towardsdatascience.com/from-prediction-to-action-how-to-learn-optimal-policies-from-data-4-4-14c63cc0c938)
 * [Fast AutoML with FLAML + Ray Tune](https://towardsdatascience.com/fast-automl-with-flaml-ray-tune-64ff4a604d1c)
+* [Feature Store - why?](https://velog.io/@hsh/Feature-Store-why)
+* [Feature store - 핵심 개념](https://velog.io/@hsh/Feature-store-%ED%95%B5%EC%8B%AC-%EA%B0%9C%EB%85%90)
+* [Feature store - Basic Architecture](https://velog.io/@hsh/Feature-store-Basic-Architecture)
+* [Efficient Data Valuation with Exact Shapley Values](https://towardsdatascience.com/efficient-data-valuation-with-exact-shapley-values-f0689ff708e)
+* [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3582,6 +3589,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Pandas Melt, Stack and wide_to_long For Converting Columns into Rows](https://towardsdatascience.com/wide-to-long-data-how-and-when-to-use-pandas-melt-stack-and-wide-to-long-7c1e0f462a98)
 * [Charticulator - Create Bespoke Chart Designs without Programming](https://charticulator.com/index.html)
 * [Sampling Distributions with Python](https://towardsdatascience.com/sampling-distributions-with-python-f5a5f268f636)
+* [Displaying Pandas DataFrames Horizontally in Jupyter Notebooks](https://medium.com/dunder-data/displaying-pandas-dataframes-horizontally-in-jupyter-notebooks-32bf5545a1d6)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -3923,6 +3931,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Youtube Recommendation Platform](https://medium.com/acing-ai/youtube-recommendation-architecture-df99a568679)
 * [Winning the SIGIR eCommerce Challenge on session-based recommendation with Transformers](https://medium.com/nvidia-merlin/winning-the-sigir-ecommerce-challenge-on-session-based-recommendation-with-transformers-v2-793f6fac2994)
 * [Building recommendation systems with TensorFlow](https://www.youtube.com/playlist?list=PLQY2H8rRoyvy2MiyUBz5RWZr5MPFkV3qz)
+* [추천 Challenges & NVIDA Solution 소개](https://ziminpark.github.io/posts/recsys_challenge_nvidia/)
+* [Recommender HPO and Serving with MLflow](https://github.com/myeonghak/mlflow-rankfm)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
