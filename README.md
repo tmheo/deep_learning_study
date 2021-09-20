@@ -184,6 +184,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [매주 15분 투자해서 AI/NLP를 공부하는 방법](https://jiho-ml.com/weekly-nlp-0/)
   * [DNA\(Data Network Analysis\) NEWS](https://datanetworkanalysis.github.io/dna_news)
   * [집현전 NLP 리뷰 모임](https://github.com/jiphyeonjeon/nlp-review)
+  * [Efficient Python Tricks and Tools for Data Scientists](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/)
 * Article
   * [Andrej Karpathy's Deep Learning Blog](http://karpathy.github.io/)
   * [머신러닝 딥러닝 입문 시 도움 되는 강좌](https://www.facebook.com/groups/TensorFlowKR/permalink/485458151795248/)
@@ -1478,6 +1479,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Generating Synthetic Tabular Data](https://towardsdatascience.com/generating-synthetic-tabular-data-503fe823f377)
   * [Reviewing the TensorFlow Decision Forests library](https://towardsdatascience.com/reviewing-the-tensorflow-decision-forests-library-1ecf50ae00c3)
   * [[Transformer]-1 Positional Encoding은 왜 그렇게 생겼을까?](https://velog.io/@gibonki77/DLmathPE)
+  * [NIPA 2021 인공지능 온라인 경진대회, 한국인 헤어스타일 세그멘테이션 2등](https://eda-ai-lab.tistory.com/581) : [[Code]](https://github.com/choco9966/Korean-Hair-Segmentation)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -3024,6 +3026,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Feature store - Basic Architecture](https://velog.io/@hsh/Feature-store-Basic-Architecture)
 * [Efficient Data Valuation with Exact Shapley Values](https://towardsdatascience.com/efficient-data-valuation-with-exact-shapley-values-f0689ff708e)
 * [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
+* [[변수 선택] sklearn에 있는 mutual_info_classif , mutual_info_regression를 활용하여 변수 선택하기 \(feature selection\)](https://data-newbie.tistory.com/430)
+* [Apache Airflow와 Amazon SageMaker Feature Store 연동하기](https://medium.com/ctc-mzc/apache-airflow%EC%99%80-amazon-sagemaker-feature-store-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0-6fe2b75ea5d4)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3590,6 +3594,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Charticulator - Create Bespoke Chart Designs without Programming](https://charticulator.com/index.html)
 * [Sampling Distributions with Python](https://towardsdatascience.com/sampling-distributions-with-python-f5a5f268f636)
 * [Displaying Pandas DataFrames Horizontally in Jupyter Notebooks](https://medium.com/dunder-data/displaying-pandas-dataframes-horizontally-in-jupyter-notebooks-32bf5545a1d6)
+* [Introducing the pd-helper Package for Pandas DataFrames](https://justinhchae.medium.com/introducing-the-pd-helper-package-for-pandas-dataframes-848b816e61e7)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
