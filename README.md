@@ -1480,6 +1480,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Reviewing the TensorFlow Decision Forests library](https://towardsdatascience.com/reviewing-the-tensorflow-decision-forests-library-1ecf50ae00c3)
   * [[Transformer]-1 Positional Encoding은 왜 그렇게 생겼을까?](https://velog.io/@gibonki77/DLmathPE)
   * [NIPA 2021 인공지능 온라인 경진대회, 한국인 헤어스타일 세그멘테이션 2등](https://eda-ai-lab.tistory.com/581) : [[Code]](https://github.com/choco9966/Korean-Hair-Segmentation)
+  * [Introducing TensorFlow Similarity](https://blog.tensorflow.org/2021/09/introducing-tensorflow-similarity.html)
+  * [Setting A Strong Deep Learning Baseline In Minutes With PyTorch](https://towardsdatascience.com/setting-a-strong-deep-learning-baseline-in-minutes-with-pytorch-c0dfe41f7d7)
+  * [Introducing Ray Lightning: Multi-node PyTorch Lightning training made easy](https://devblog.pytorchlightning.ai/introducing-ray-lightning-multi-node-pytorch-lightning-training-made-easy-30ed075209f0)
+  * [Dual deployments on Vertex AI](https://cloud.google.com/blog/topics/developers-practitioners/dual-deployments-vertex-ai)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1655,6 +1659,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [PyCon2020 NLP beginner's BERT challenge](https://www.slideshare.net/ssuser78d9d6/pycon2020-nlp-beginners-bert-challenge)
   * [ViT \(Vision Transformer\) Review [CDM]](https://www.slideshare.net/DongminChoi6/vit-vision-transformer-review-cdm)
   * [Talks # 4: Sebastien Fischman - Pytorch-TabNet: Beating XGBoost on Tabular Data Using Deep Learning](https://www.slideshare.net/SebastienFischman/tab-netpresentation/) : [[Video]](https://www.youtube.com/watch?v=ysBaZO8YmX8)
+  * [딥 러닝 자연어 처리를 학습을 위한 파워포인트. \(Deep Learning for Natural Language Processing\)](https://www.slideshare.net/wonjoonyoo/ss-188835227/)
 * Video
   * [Andrej Karpathy's Youtube Channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [Intro to Deep Learning (Udacity Nanodegree) - Siraj Raval](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
@@ -3028,6 +3033,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
 * [[변수 선택] sklearn에 있는 mutual_info_classif , mutual_info_regression를 활용하여 변수 선택하기 \(feature selection\)](https://data-newbie.tistory.com/430)
 * [Apache Airflow와 Amazon SageMaker Feature Store 연동하기](https://medium.com/ctc-mzc/apache-airflow%EC%99%80-amazon-sagemaker-feature-store-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0-6fe2b75ea5d4)
+* [Decision Making at Netflix](https://netflixtechblog.com/decision-making-at-netflix-33065fa06481)
+* [What is an A/B Test?](https://netflixtechblog.com/what-is-an-a-b-test-b08cc1b57962)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3938,6 +3945,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Building recommendation systems with TensorFlow](https://www.youtube.com/playlist?list=PLQY2H8rRoyvy2MiyUBz5RWZr5MPFkV3qz)
 * [추천 Challenges & NVIDA Solution 소개](https://ziminpark.github.io/posts/recsys_challenge_nvidia/)
 * [Recommender HPO and Serving with MLflow](https://github.com/myeonghak/mlflow-rankfm)
+* [[번역글] System Design for Recommendations and Search](https://ziminpark.github.io/posts/system-design-for-discovery/)
+* [Keynote 7: Moving Beyond Recommender Models - Even Oldridge \(NVIDIA\), Karl Byleen-Higley \(NVIDIA\)](https://www.youtube.com/watch?v=5qjiY-kLwFY)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
