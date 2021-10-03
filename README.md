@@ -185,6 +185,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [DNA\(Data Network Analysis\) NEWS](https://datanetworkanalysis.github.io/dna_news)
   * [집현전 NLP 리뷰 모임](https://github.com/jiphyeonjeon/nlp-review)
   * [Efficient Python Tricks and Tools for Data Scientists](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/)
+  * [Data Science for Beginners](https://microsoft.github.io/Data-Science-For-Beginners/#/)
 * Article
   * [Andrej Karpathy's Deep Learning Blog](http://karpathy.github.io/)
   * [머신러닝 딥러닝 입문 시 도움 되는 강좌](https://www.facebook.com/groups/TensorFlowKR/permalink/485458151795248/)
@@ -1484,6 +1485,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Setting A Strong Deep Learning Baseline In Minutes With PyTorch](https://towardsdatascience.com/setting-a-strong-deep-learning-baseline-in-minutes-with-pytorch-c0dfe41f7d7)
   * [Introducing Ray Lightning: Multi-node PyTorch Lightning training made easy](https://devblog.pytorchlightning.ai/introducing-ray-lightning-multi-node-pytorch-lightning-training-made-easy-30ed075209f0)
   * [Dual deployments on Vertex AI](https://cloud.google.com/blog/topics/developers-practitioners/dual-deployments-vertex-ai)
+  * [Convergence of SoTA CV models](https://medium.com/@hac541309/convergence-of-sota-cv-models-ad985a597173)
+  * [Understanding EfficientNet — The most powerful CNN architecture](https://medium.com/mlearning-ai/understanding-efficientnet-the-most-powerful-cnn-architecture-eaeb40386fad)
+  * [Spatial Transformer Networks](https://towardsdatascience.com/spatial-transformer-networks-b743c0d112be)
+  * [The Definitive Guide to Embeddings](https://medium.com/@shabbyjoon/the-definitive-guide-to-embeddings-featureform-da2416998220)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -3035,6 +3040,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Apache Airflow와 Amazon SageMaker Feature Store 연동하기](https://medium.com/ctc-mzc/apache-airflow%EC%99%80-amazon-sagemaker-feature-store-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0-6fe2b75ea5d4)
 * [Decision Making at Netflix](https://netflixtechblog.com/decision-making-at-netflix-33065fa06481)
 * [What is an A/B Test?](https://netflixtechblog.com/what-is-an-a-b-test-b08cc1b57962)
+* [Creating Configurable Data Pre-Processing Pipelines by Combining Hydra and Sklearn](https://medium.com/beyondminds/creating-configurable-data-pre-processing-pipelines-by-combining-hydra-and-sklearn-812065c9ab64)
+* [AutoML Tutorial: TPS \(September 2021\)](https://www.kaggle.com/rohanrao/automl-tutorial-tps-september-2021)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3947,6 +3954,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Recommender HPO and Serving with MLflow](https://github.com/myeonghak/mlflow-rankfm)
 * [[번역글] System Design for Recommendations and Search](https://ziminpark.github.io/posts/system-design-for-discovery/)
 * [Keynote 7: Moving Beyond Recommender Models - Even Oldridge \(NVIDIA\), Karl Byleen-Higley \(NVIDIA\)](https://www.youtube.com/watch?v=5qjiY-kLwFY)
+* [Transformers4Rec: A flexible library for Sequential and Session-based recommendation](https://medium.com/nvidia-merlin/transformers4rec-4523cc7d8fa8)
+* [How Genify used a Transformer model to build a recommender system outperforming industry benchmarks](https://medium.com/genifyai/genify-transformer-model-recommender-system-6cd0c8414527)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
