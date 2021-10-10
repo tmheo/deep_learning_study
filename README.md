@@ -149,6 +149,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [자연어처리 특강](https://www.youtube.com/playlist?list=PLgD4RfwkG2A5fNsi7PyhWCiIz5zU2Q6Z0)
   * [PyTorch를 활용한 딥러닝 튜토리얼 \(Deep Learning Tutorials with PyTorch\)](https://pseudo-lab.github.io/Tutorial-Book/)
   * [Applied ML - Curated papers, articles, and blogs on data science & machine learning in production](https://github.com/eugeneyan/applied-ml)
+  * [Efficient Python Tricks and Tools for Data Scientists](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/)
+  * [Data Science for Beginners](https://microsoft.github.io/Data-Science-For-Beginners/#/)
+  * [NYU Deep Learning Spring 2021 \(NYU-DLSP21\)](https://atcold.github.io/NYU-DLSP21/)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -184,8 +187,6 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [매주 15분 투자해서 AI/NLP를 공부하는 방법](https://jiho-ml.com/weekly-nlp-0/)
   * [DNA\(Data Network Analysis\) NEWS](https://datanetworkanalysis.github.io/dna_news)
   * [집현전 NLP 리뷰 모임](https://github.com/jiphyeonjeon/nlp-review)
-  * [Efficient Python Tricks and Tools for Data Scientists](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/)
-  * [Data Science for Beginners](https://microsoft.github.io/Data-Science-For-Beginners/#/)
 * Article
   * [Andrej Karpathy's Deep Learning Blog](http://karpathy.github.io/)
   * [머신러닝 딥러닝 입문 시 도움 되는 강좌](https://www.facebook.com/groups/TensorFlowKR/permalink/485458151795248/)
@@ -1489,6 +1490,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Understanding EfficientNet — The most powerful CNN architecture](https://medium.com/mlearning-ai/understanding-efficientnet-the-most-powerful-cnn-architecture-eaeb40386fad)
   * [Spatial Transformer Networks](https://towardsdatascience.com/spatial-transformer-networks-b743c0d112be)
   * [The Definitive Guide to Embeddings](https://medium.com/@shabbyjoon/the-definitive-guide-to-embeddings-featureform-da2416998220)
+  * [Practical Lighting Tips to Rank on Kaggle Image Challenges](https://devblog.pytorchlightning.ai/practical-tips-to-rank-on-kaggle-image-challenges-with-lightning-242e2e533429)
+  * [Best Practices to Rank on Kaggle Competition with PyTorch Lightning and Grid.ai Spot Instances](https://devblog.pytorchlightning.ai/best-practices-to-rank-on-kaggle-competition-with-pytorch-lightning-and-grid-ai-spot-instances-54aa5248aa8e)
+  * [Pitfalls with Dropout and BatchNorm in regression problems](https://towardsdatascience.com/pitfalls-with-dropout-and-batchnorm-in-regression-problems-39e02ce08e4d)
+  * [Gradsflow — Democratizing AI with AutoML](https://towardsdatascience.com/gradsflow-democratizing-ai-with-automl-9a8a75d6b7ea)
+  * [Model training as a CI/CD system: Part I](https://cloud.google.com/blog/topics/developers-practitioners/model-training-cicd-system-part-i)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -3609,6 +3615,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Sampling Distributions with Python](https://towardsdatascience.com/sampling-distributions-with-python-f5a5f268f636)
 * [Displaying Pandas DataFrames Horizontally in Jupyter Notebooks](https://medium.com/dunder-data/displaying-pandas-dataframes-horizontally-in-jupyter-notebooks-32bf5545a1d6)
 * [Introducing the pd-helper Package for Pandas DataFrames](https://justinhchae.medium.com/introducing-the-pd-helper-package-for-pandas-dataframes-848b816e61e7)
+* [Looking at notebooks from a new perspective](https://blog.jupyter.org/looking-at-notebooks-from-a-new-perspective-bfd06797f188)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
