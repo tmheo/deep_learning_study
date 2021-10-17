@@ -1495,6 +1495,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Pitfalls with Dropout and BatchNorm in regression problems](https://towardsdatascience.com/pitfalls-with-dropout-and-batchnorm-in-regression-problems-39e02ce08e4d)
   * [Gradsflow — Democratizing AI with AutoML](https://towardsdatascience.com/gradsflow-democratizing-ai-with-automl-9a8a75d6b7ea)
   * [Model training as a CI/CD system: Part I](https://cloud.google.com/blog/topics/developers-practitioners/model-training-cicd-system-part-i)
+  * [Weights & Biases와 함께 Pytorch Lightning 사용하기](https://wandb.ai/wandb_fc/korean/reports/Weights-Biases-Pytorch-Lightning---VmlldzozNzAxOTg)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1738,6 +1739,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Machine Translation Survey \(vol1\) : Background](https://www.youtube.com/watch?v=KQfvEg-fGMw)
   * [Deep Learning for Tabular Data: A Bag of Tricks | ODSC 2020](https://www.youtube.com/watch?v=WPQOkoXhdBQ)
   * [Google I/O 2021 Extended Bacolod \(Vertex AI\)](https://www.youtube.com/watch?v=CymqhbZga-o&t=3650s) : [[Slide]](https://docs.google.com/presentation/d/14WBBu65QuoLW_0wLJ0ymuzLUfAD9dwd7bb8kf1-5ztc/edit#slide=id.g78c7a2e656_0_77)
+  * [Transformer Survey Study](https://www.youtube.com/playlist?list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -3616,6 +3618,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Displaying Pandas DataFrames Horizontally in Jupyter Notebooks](https://medium.com/dunder-data/displaying-pandas-dataframes-horizontally-in-jupyter-notebooks-32bf5545a1d6)
 * [Introducing the pd-helper Package for Pandas DataFrames](https://justinhchae.medium.com/introducing-the-pd-helper-package-for-pandas-dataframes-848b816e61e7)
 * [Looking at notebooks from a new perspective](https://blog.jupyter.org/looking-at-notebooks-from-a-new-perspective-bfd06797f188)
+* [Bye-bye PowerPoint. Hello Marp!](https://towardsdatascience.com/bye-bye-powerpoint-hello-marp-3c0e3b3198b1)
+* [데이터 분석, 의심에서 전달까지](https://jehyunlee.github.io/2021/10/14/Python-DS-86-datadoubt/)
+* [Big Data Visualization Using Datashader in Python](https://towardsdatascience.com/big-data-visualization-using-datashader-in-python-c3fd00b9b6fc)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -3963,6 +3968,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Keynote 7: Moving Beyond Recommender Models - Even Oldridge \(NVIDIA\), Karl Byleen-Higley \(NVIDIA\)](https://www.youtube.com/watch?v=5qjiY-kLwFY)
 * [Transformers4Rec: A flexible library for Sequential and Session-based recommendation](https://medium.com/nvidia-merlin/transformers4rec-4523cc7d8fa8)
 * [How Genify used a Transformer model to build a recommender system outperforming industry benchmarks](https://medium.com/genifyai/genify-transformer-model-recommender-system-6cd0c8414527)
+* [[발표리뷰] RecSysOps, 대규모 추천 시스템 운영하기](https://ziminpark.github.io/posts/RecSysOps/)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
