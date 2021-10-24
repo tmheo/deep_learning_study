@@ -1496,6 +1496,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Gradsflow — Democratizing AI with AutoML](https://towardsdatascience.com/gradsflow-democratizing-ai-with-automl-9a8a75d6b7ea)
   * [Model training as a CI/CD system: Part I](https://cloud.google.com/blog/topics/developers-practitioners/model-training-cicd-system-part-i)
   * [Weights & Biases와 함께 Pytorch Lightning 사용하기](https://wandb.ai/wandb_fc/korean/reports/Weights-Biases-Pytorch-Lightning---VmlldzozNzAxOTg)
+  * [2021 인공지능 온라인 경진대회 이미지 분야 1위 어떻게 했을까?](https://medium.com/@may_i/2021-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B6%84%EC%95%BC-1%EC%9C%84-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%96%88%EC%9D%84%EA%B9%8C-8a7ad2c9ead4) : [[Code]](https://github.com/PJunhyuk/2021AICompetition-03)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -3621,6 +3622,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Bye-bye PowerPoint. Hello Marp!](https://towardsdatascience.com/bye-bye-powerpoint-hello-marp-3c0e3b3198b1)
 * [데이터 분석, 의심에서 전달까지](https://jehyunlee.github.io/2021/10/14/Python-DS-86-datadoubt/)
 * [Big Data Visualization Using Datashader in Python](https://towardsdatascience.com/big-data-visualization-using-datashader-in-python-c3fd00b9b6fc)
+* [Prefect](https://teamdable.github.io/techblog/Prefect)
+* [Prefect Part 2 - AWS](https://teamdable.github.io/techblog/Prefect-Part-2)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
@@ -3969,6 +3972,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Transformers4Rec: A flexible library for Sequential and Session-based recommendation](https://medium.com/nvidia-merlin/transformers4rec-4523cc7d8fa8)
 * [How Genify used a Transformer model to build a recommender system outperforming industry benchmarks](https://medium.com/genifyai/genify-transformer-model-recommender-system-6cd0c8414527)
 * [[발표리뷰] RecSysOps, 대규모 추천 시스템 운영하기](https://ziminpark.github.io/posts/RecSysOps/)
+* [카카오 AI추천 : 협업 필터링 모델 선택 시의 기준에 대하여](https://tech.kakao.com/2021/10/18/collaborative-filtering/)
 
 ## Chatbot
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
