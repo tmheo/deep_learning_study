@@ -152,6 +152,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Efficient Python Tricks and Tools for Data Scientists](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/)
   * [Data Science for Beginners](https://microsoft.github.io/Data-Science-For-Beginners/#/)
   * [NYU Deep Learning Spring 2021 \(NYU-DLSP21\)](https://atcold.github.io/NYU-DLSP21/)
+  * [Large-scale language modeling tutorials with PyTorch](https://github.com/tunib-ai/large-scale-lm-tutorials)
 * Community
   * [TensorFlow KR Facebook Group](https://www.facebook.com/groups/TensorFlowKR/)
   * [AI Korea Facebook Group](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -1497,6 +1498,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Model training as a CI/CD system: Part I](https://cloud.google.com/blog/topics/developers-practitioners/model-training-cicd-system-part-i)
   * [Weights & Biases와 함께 Pytorch Lightning 사용하기](https://wandb.ai/wandb_fc/korean/reports/Weights-Biases-Pytorch-Lightning---VmlldzozNzAxOTg)
   * [2021 인공지능 온라인 경진대회 이미지 분야 1위 어떻게 했을까?](https://medium.com/@may_i/2021-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B6%84%EC%95%BC-1%EC%9C%84-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%96%88%EC%9D%84%EA%B9%8C-8a7ad2c9ead4) : [[Code]](https://github.com/PJunhyuk/2021AICompetition-03)
+  * [How Hutom.io uses Ray and PyTorch to Scale Surgical Video Analysis and Review](https://www.anyscale.com/blog/how-hutom-io-uses-ray-and-pytorch-to-scale-surgical-video-analysis-and)
+  * [Effective learning rate and batch size with Lightning in DDP](https://forums.pytorchlightning.ai/t/effective-learning-rate-and-batch-size-with-lightning-in-ddp/101)
+  * [Pytorch로 ResNet 구현, torch summary 살펴보기](https://velog.io/@gibonki77/ResNetwithPyTorch)
+  * [How to Perform Ordinal Regression / Classification in PyTorch](https://towardsdatascience.com/how-to-perform-ordinal-regression-classification-in-pytorch-361a2a095a99)
+  * [[PyTorch] PyTorch가 제공하는 Learning rate scheduler 정리](https://sanghyu.tistory.com/113)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1741,6 +1747,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deep Learning for Tabular Data: A Bag of Tricks | ODSC 2020](https://www.youtube.com/watch?v=WPQOkoXhdBQ)
   * [Google I/O 2021 Extended Bacolod \(Vertex AI\)](https://www.youtube.com/watch?v=CymqhbZga-o&t=3650s) : [[Slide]](https://docs.google.com/presentation/d/14WBBu65QuoLW_0wLJ0ymuzLUfAD9dwd7bb8kf1-5ztc/edit#slide=id.g78c7a2e656_0_77)
   * [Transformer Survey Study](https://www.youtube.com/playlist?list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-)
+  * [Workshop: Getting started with Amazon Sagemaker Train a Hugging Face Transformers and deploy it](https://www.youtube.com/watch?v=pYqjCzoyWyo) : [[Code]](https://github.com/philschmid/huggingface-sagemaker-workshop-series)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -3624,6 +3631,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Big Data Visualization Using Datashader in Python](https://towardsdatascience.com/big-data-visualization-using-datashader-in-python-c3fd00b9b6fc)
 * [Prefect](https://teamdable.github.io/techblog/Prefect)
 * [Prefect Part 2 - AWS](https://teamdable.github.io/techblog/Prefect-Part-2)
+* [BAYESIAN A/B TESTING WITH EXPECTED LOSS](https://lumiamitie.github.io/data/bayesian-ab-testing/)
+* [데이터를 시각적으로 표현하기 위한 문법 - GRAMMAR OF GRAPHICS](https://lumiamitie.github.io/data/grammar-of-graphics/)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
