@@ -3058,6 +3058,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [What is an A/B Test?](https://netflixtechblog.com/what-is-an-a-b-test-b08cc1b57962)
 * [Creating Configurable Data Pre-Processing Pipelines by Combining Hydra and Sklearn](https://medium.com/beyondminds/creating-configurable-data-pre-processing-pipelines-by-combining-hydra-and-sklearn-812065c9ab64)
 * [AutoML Tutorial: TPS \(September 2021\)](https://www.kaggle.com/rohanrao/automl-tutorial-tps-september-2021)
+* [Machine Learning on Kubernetes](https://speakerdeck.com/1ambda/machine-learning-on-kubernetes) : [[Video]](https://www.youtube.com/watch?v=7E6oHVQIiug)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
