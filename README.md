@@ -1503,6 +1503,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Pytorch로 ResNet 구현, torch summary 살펴보기](https://velog.io/@gibonki77/ResNetwithPyTorch)
   * [How to Perform Ordinal Regression / Classification in PyTorch](https://towardsdatascience.com/how-to-perform-ordinal-regression-classification-in-pytorch-361a2a095a99)
   * [[PyTorch] PyTorch가 제공하는 Learning rate scheduler 정리](https://sanghyu.tistory.com/113)
+  * [How We Used AWS Inferentia to Boost PyTorch NLP Model Performance by 4.9x for the Autodesk Ava Chatbot](https://medium.com/pytorch/how-we-used-aws-inferentia-to-boost-pytorch-nlp-model-performance-by-4-9x-9f79f5314ca8)
+  * [Getting Started With Ray Lightning: Easy Multi-Node PyTorch Lightning Training](https://medium.com/pytorch/getting-started-with-ray-lightning-easy-multi-node-pytorch-lightning-training-e639031aff8b)
+  * [Train anything with Lightning custom Loops](https://devblog.pytorchlightning.ai/train-anything-with-lightning-custom-loops-4be32314c961)
+  * [Accelerating PyTorch DDP by 10X With PowerSGD](https://medium.com/pytorch/accelerating-pytorch-ddp-by-10x-with-powersgd-585aef12881d)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -3059,6 +3063,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Creating Configurable Data Pre-Processing Pipelines by Combining Hydra and Sklearn](https://medium.com/beyondminds/creating-configurable-data-pre-processing-pipelines-by-combining-hydra-and-sklearn-812065c9ab64)
 * [AutoML Tutorial: TPS \(September 2021\)](https://www.kaggle.com/rohanrao/automl-tutorial-tps-september-2021)
 * [Machine Learning on Kubernetes](https://speakerdeck.com/1ambda/machine-learning-on-kubernetes) : [[Video]](https://www.youtube.com/watch?v=7E6oHVQIiug)
+* [[Causal Inference KR] 스타트업에서의 인과추론](https://www.slideshare.net/choibokyung/causal-inference-kr-250571261)
+* [Kaggle Solutions - The Most Comprehensive List of Kaggle Solutions and Ideas](https://farid.one/kaggle-solutions/)
+* [MLOps Basics](https://www.ravirajag.dev/tags/mlops)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
