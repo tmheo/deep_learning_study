@@ -1507,6 +1507,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Getting Started With Ray Lightning: Easy Multi-Node PyTorch Lightning Training](https://medium.com/pytorch/getting-started-with-ray-lightning-easy-multi-node-pytorch-lightning-training-e639031aff8b)
   * [Train anything with Lightning custom Loops](https://devblog.pytorchlightning.ai/train-anything-with-lightning-custom-loops-4be32314c961)
   * [Accelerating PyTorch DDP by 10X With PowerSGD](https://medium.com/pytorch/accelerating-pytorch-ddp-by-10x-with-powersgd-585aef12881d)
+  * [Choosing the right GPU for deep learning on AWS](https://towardsdatascience.com/choosing-the-right-gpu-for-deep-learning-on-aws-d69c157d8c86)
+  * [Scale your PyTorch code with LightningLite](https://devblog.pytorchlightning.ai/scale-your-pytorch-code-with-lightninglite-d5692a303f00)
+  * [Winning the Kaggle Google Brain — Ventilator Pressure Prediction](https://towardsdatascience.com/winning-the-kaggle-google-brain-ventilator-pressure-prediction-2d4c90d831ec)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1892,6 +1895,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [PyTorch-StudioGAN](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN)
   * [KoBART](https://github.com/SKT-AI/KoBART)
   * [Implementation of the paper Last Query Transformer RNN for knowledge tracing - Last-Query-Transformer-RNN](https://github.com/arshadshk/Last_Query_Transformer_RNN-PyTorch)
+  * [진짜로\(?\) 주석 달린 트랜스포머Really annotated transformers†](https://colab.research.google.com/github/metamath1/ml-simple-works/blob/master/transformer/annotated_transformer.ipynb)
 * Tool
   * [TensorFlow - Google](https://www.tensorflow.org/)
   * [Keras - Google](https://keras.io/)
@@ -3066,6 +3070,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [[Causal Inference KR] 스타트업에서의 인과추론](https://www.slideshare.net/choibokyung/causal-inference-kr-250571261)
 * [Kaggle Solutions - The Most Comprehensive List of Kaggle Solutions and Ideas](https://farid.one/kaggle-solutions/)
 * [MLOps Basics](https://www.ravirajag.dev/tags/mlops)
+* [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
