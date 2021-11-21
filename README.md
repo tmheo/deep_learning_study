@@ -1510,6 +1510,12 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Choosing the right GPU for deep learning on AWS](https://towardsdatascience.com/choosing-the-right-gpu-for-deep-learning-on-aws-d69c157d8c86)
   * [Scale your PyTorch code with LightningLite](https://devblog.pytorchlightning.ai/scale-your-pytorch-code-with-lightninglite-d5692a303f00)
   * [Winning the Kaggle Google Brain — Ventilator Pressure Prediction](https://towardsdatascience.com/winning-the-kaggle-google-brain-ventilator-pressure-prediction-2d4c90d831ec)
+  * [딥러닝 경량화 튜토리얼 - Deep learning model compression guide](https://ysbsb.github.io/model_compression/2021/10/15/model-compression-guide.html)
+  * [딥러닝 모델 압축 방법론과 BERT 압축](https://blog.est.ai/2020/03/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%AA%A8%EB%8D%B8-%EC%95%95%EC%B6%95-%EB%B0%A9%EB%B2%95%EB%A1%A0%EA%B3%BC-bert-%EC%95%95%EC%B6%95/)
+  * [An Overview of Model Compression Techniques for Deep Learning in Space](https://medium.com/gsi-technology/an-overview-of-model-compression-techniques-for-deep-learning-in-space-3fd8d4ce84e5)
+  * [Three Model Compression Methods You Need To Know in 2021](https://towardsdatascience.com/three-model-compression-methods-you-need-to-know-in-2021-1adee49cc35a)
+  * [AI Bookathon 대상 후기](https://l-yohai.github.io/AI-Bookathon-%EB%8C%80%EC%83%81-%ED%9B%84%EA%B8%B0/)
+  * [Feature Extraction in TorchVision using Torch FX](https://pytorch.org/blog/FX-feature-extraction-torchvision/)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1755,6 +1761,9 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Google I/O 2021 Extended Bacolod \(Vertex AI\)](https://www.youtube.com/watch?v=CymqhbZga-o&t=3650s) : [[Slide]](https://docs.google.com/presentation/d/14WBBu65QuoLW_0wLJ0ymuzLUfAD9dwd7bb8kf1-5ztc/edit#slide=id.g78c7a2e656_0_77)
   * [Transformer Survey Study](https://www.youtube.com/playlist?list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-)
   * [Workshop: Getting started with Amazon Sagemaker Train a Hugging Face Transformers and deploy it](https://www.youtube.com/watch?v=pYqjCzoyWyo) : [[Code]](https://github.com/philschmid/huggingface-sagemaker-workshop-series)
+  * [Deep Compression [꼼꼼한 딥러닝 논문 리뷰와 코드 실습]](https://www.youtube.com/watch?v=zfqVBGpf3L4)
+  * [PR-072: Deep Compression](https://www.youtube.com/watch?v=9mFZmpIbMDs)
+  * [Managed Training with Amazon SageMaker and 🤗 Transformers](https://www.youtube.com/watch?v=yG6J2Zfo8iw)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
