@@ -1516,6 +1516,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Three Model Compression Methods You Need To Know in 2021](https://towardsdatascience.com/three-model-compression-methods-you-need-to-know-in-2021-1adee49cc35a)
   * [AI Bookathon 대상 후기](https://l-yohai.github.io/AI-Bookathon-%EB%8C%80%EC%83%81-%ED%9B%84%EA%B8%B0/)
   * [Feature Extraction in TorchVision using Torch FX](https://pytorch.org/blog/FX-feature-extraction-torchvision/)
+  * [Improved Lightning External Loggers](https://devblog.pytorchlightning.ai/improved-lightning-external-loggers-c8010fea61f8)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1764,6 +1765,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Deep Compression [꼼꼼한 딥러닝 논문 리뷰와 코드 실습]](https://www.youtube.com/watch?v=zfqVBGpf3L4)
   * [PR-072: Deep Compression](https://www.youtube.com/watch?v=9mFZmpIbMDs)
   * [Managed Training with Amazon SageMaker and 🤗 Transformers](https://www.youtube.com/watch?v=yG6J2Zfo8iw)
+  * [[메릭 웨비나] 기계학습\(머신러닝\) 모델의 압축 기술 - 정태희 박사\(Xilinx, machine learning acceleration\)](https://www.youtube.com/watch?v=hoB5x-zYTO8)
+  * [가중치 공유를 통한 딥러닝 모델 압축 \(이강호 | 경희대학교\)](https://www.youtube.com/watch?v=E9-xjSBB-xA)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -3080,6 +3083,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Kaggle Solutions - The Most Comprehensive List of Kaggle Solutions and Ideas](https://farid.one/kaggle-solutions/)
 * [MLOps Basics](https://www.ravirajag.dev/tags/mlops)
 * [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
+* [End-to-End Machine Learning Library](https://e2eml.school/blog.html)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
