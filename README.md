@@ -1517,6 +1517,8 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [AI Bookathon 대상 후기](https://l-yohai.github.io/AI-Bookathon-%EB%8C%80%EC%83%81-%ED%9B%84%EA%B8%B0/)
   * [Feature Extraction in TorchVision using Torch FX](https://pytorch.org/blog/FX-feature-extraction-torchvision/)
   * [Improved Lightning External Loggers](https://devblog.pytorchlightning.ai/improved-lightning-external-loggers-c8010fea61f8)
+  * [PyTorch performance tuning in action](https://medium.com/deelvin-machine-learning/pytorch-performance-tuning-in-action-7c4d065d4278)
+  * [Getting meaning from text: self-attention step-by-step video](https://peltarion.com/blog/data-science/self-attention-video)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -3084,6 +3086,10 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [MLOps Basics](https://www.ravirajag.dev/tags/mlops)
 * [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
 * [End-to-End Machine Learning Library](https://e2eml.school/blog.html)
+* [베이지안 인과 관계 추론 톺아보기](https://playinpap.github.io/bayesian-causal/)
+* [A Brief Overview of Methods to Explain AI \(XAI\)](https://towardsdatascience.com/a-brief-overview-of-methods-to-explain-ai-xai-fe0d2a7b05d6)
+* [InterpretML: Another Way to Explain Your Model](https://towardsdatascience.com/interpretml-another-way-to-explain-your-model-b7faf0a384f8)
+* [The right way to compute your Shapley Values](https://towardsdatascience.com/the-right-way-to-compute-your-shapley-values-cfea30509254)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
