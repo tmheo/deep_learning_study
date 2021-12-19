@@ -1519,6 +1519,11 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Improved Lightning External Loggers](https://devblog.pytorchlightning.ai/improved-lightning-external-loggers-c8010fea61f8)
   * [PyTorch performance tuning in action](https://medium.com/deelvin-machine-learning/pytorch-performance-tuning-in-action-7c4d065d4278)
   * [Getting meaning from text: self-attention step-by-step video](https://peltarion.com/blog/data-science/self-attention-video)
+  * [Tutorial: Learning Hydra for configuring ML experiments](https://www.sscardapane.it/tutorials/hydra-tutorial/)
+  * [Pytorch Model Visual Interpretation](https://towardsdatascience.com/pytorch-model-visual-interpretation-7133383bb6ae)
+  * [Keeping Up with PyTorch Lightning and Hydra — 2nd Edition](https://towardsdatascience.com/keeping-up-with-pytorch-lightning-and-hydra-2nd-edition-34f88e9d5c90)
+  * [Easy Hyperparameter Management with Hydra, MLflow, and Optuna](https://medium.com/optuna/easy-hyperparameter-management-with-hydra-mlflow-and-optuna-783730700e7d)
+  * [Complete tutorial on how to use Hydra in Machine Learning projects](https://towardsdatascience.com/complete-tutorial-on-how-to-use-hydra-in-machine-learning-projects-1c00efcc5b9b)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -1769,6 +1774,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Managed Training with Amazon SageMaker and 🤗 Transformers](https://www.youtube.com/watch?v=yG6J2Zfo8iw)
   * [[메릭 웨비나] 기계학습\(머신러닝\) 모델의 압축 기술 - 정태희 박사\(Xilinx, machine learning acceleration\)](https://www.youtube.com/watch?v=hoB5x-zYTO8)
   * [가중치 공유를 통한 딥러닝 모델 압축 \(이강호 | 경희대학교\)](https://www.youtube.com/watch?v=E9-xjSBB-xA)
+  * [Creating a Training Pipeline with PyTorch Lightning and Hydra](https://www.youtube.com/watch?v=w10WrRA-6uI)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -3090,6 +3096,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [A Brief Overview of Methods to Explain AI \(XAI\)](https://towardsdatascience.com/a-brief-overview-of-methods-to-explain-ai-xai-fe0d2a7b05d6)
 * [InterpretML: Another Way to Explain Your Model](https://towardsdatascience.com/interpretml-another-way-to-explain-your-model-b7faf0a384f8)
 * [The right way to compute your Shapley Values](https://towardsdatascience.com/the-right-way-to-compute-your-shapley-values-cfea30509254)
+* [“My data drifted. What’s next?” How to handle ML model drift in production.](https://towardsdatascience.com/my-data-drifted-whats-next-how-to-handle-ml-model-drift-in-production-78719ef007b1)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
@@ -3665,6 +3672,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [Prefect Part 2 - AWS](https://teamdable.github.io/techblog/Prefect-Part-2)
 * [BAYESIAN A/B TESTING WITH EXPECTED LOSS](https://lumiamitie.github.io/data/bayesian-ab-testing/)
 * [데이터를 시각적으로 표현하기 위한 문법 - GRAMMAR OF GRAPHICS](https://lumiamitie.github.io/data/grammar-of-graphics/)
+* [Aim 3.2 — Jupyter Notebook integration & Histograms](https://medium.com/aimstack/aim-3-2-jupyter-notebook-integration-histograms-dd9cbd29f146)
 
 ## Recommendation
 * [nthought님의 Recommendation 블로그](http://bahnsville.tistory.com/894)
