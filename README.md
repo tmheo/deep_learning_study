@@ -1524,6 +1524,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Keeping Up with PyTorch Lightning and Hydra — 2nd Edition](https://towardsdatascience.com/keeping-up-with-pytorch-lightning-and-hydra-2nd-edition-34f88e9d5c90)
   * [Easy Hyperparameter Management with Hydra, MLflow, and Optuna](https://medium.com/optuna/easy-hyperparameter-management-with-hydra-mlflow-and-optuna-783730700e7d)
   * [Complete tutorial on how to use Hydra in Machine Learning projects](https://towardsdatascience.com/complete-tutorial-on-how-to-use-hydra-in-machine-learning-projects-1c00efcc5b9b)
+  * [Active learning made simple using Flash and BaaL](https://devblog.pytorchlightning.ai/active-learning-made-simple-using-flash-and-baal-2216df6f872c)
 * Slide
   * [Deep Learning 101: Slides](http://slides.com/beamandrew/deep-learning-101#/﻿)
   * [Layer Normalization](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
@@ -3097,6 +3098,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [InterpretML: Another Way to Explain Your Model](https://towardsdatascience.com/interpretml-another-way-to-explain-your-model-b7faf0a384f8)
 * [The right way to compute your Shapley Values](https://towardsdatascience.com/the-right-way-to-compute-your-shapley-values-cfea30509254)
 * [“My data drifted. What’s next?” How to handle ML model drift in production.](https://towardsdatascience.com/my-data-drifted-whats-next-how-to-handle-ml-model-drift-in-production-78719ef007b1)
+* [모두의 MLOps](https://mlops-for-all.github.io/docs/prologue/welcome/)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
