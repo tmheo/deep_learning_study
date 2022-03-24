@@ -3099,6 +3099,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [The right way to compute your Shapley Values](https://towardsdatascience.com/the-right-way-to-compute-your-shapley-values-cfea30509254)
 * [“My data drifted. What’s next?” How to handle ML model drift in production.](https://towardsdatascience.com/my-data-drifted-whats-next-how-to-handle-ml-model-drift-in-production-78719ef007b1)
 * [모두의 MLOps](https://mlops-for-all.github.io/docs/prologue/welcome/)
+* [Using ML and Optimization to Solve DoorDash’s Dispatch Problem](https://doordash.engineering/2021/08/17/using-ml-and-optimization-to-solve-doordashs-dispatch-problem/)
 
 ## Data Science
 * [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574)
