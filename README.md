@@ -1776,6 +1776,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [[메릭 웨비나] 기계학습\(머신러닝\) 모델의 압축 기술 - 정태희 박사\(Xilinx, machine learning acceleration\)](https://www.youtube.com/watch?v=hoB5x-zYTO8)
   * [가중치 공유를 통한 딥러닝 모델 압축 \(이강호 | 경희대학교\)](https://www.youtube.com/watch?v=E9-xjSBB-xA)
   * [Creating a Training Pipeline with PyTorch Lightning and Hydra](https://www.youtube.com/watch?v=w10WrRA-6uI)
+  * [Foundation Models](https://arize.com/blog-course/foundation-models-ai/)
 * Code
   * [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
   * [Keras with Deeplearning4j](https://github.com/crockpotveggies/dl4j-examples/tree/keras-examples/dl4j-keras-examples)
@@ -1953,6 +1954,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
   * [Kubeflow - Machine Learning Toolkit for Kubernetes](https://github.com/google/kubeflow)
   * [Darkon: Toolkit to Hack Your Deep Learning Models](http://darkon.io/)
   * [Detectron - FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet](https://github.com/facebookresearch/Detectron)
+  * [Phoenix - LLM Observability](https://phoenix.arize.com)
   * [Visual Search with MXNet Gluon](https://thomasdelteil.github.io/VisualSearch_MXNet/)
   * [AutoKeras - open source software library for automated machine learning [AutoML]](http://autokeras.com/)
   * [Lucid - A collection of infrastructure and tools for research in neural network interpretability](https://github.com/tensorflow/lucid)
@@ -3979,6 +3981,7 @@ A curated list of Deep Learning, Reinforcement Learning, Machine Learning, Data 
 * [PyCon Korea 2019 - 추천시스템 이제는 돈이 되어야 한다.](https://www.slideshare.net/ssuser2fe594/ss-164511610)
 * [글쓰기 화면에서 카테고리 자동 추천하는 모델 만들기](https://medium.com/daangn/%EA%B8%80%EC%93%B0%EA%B8%B0-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC-%EC%B6%94%EC%B2%9C%EB%AA%A8%EB%8D%B8-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-cbbcc43e1f7f)
 * [The best tool for better Recommendations Systems](https://towardsdatascience.com/the-best-tool-for-better-recommendations-systems-e57142b45f11)
+* [Collaborative Filtering](https://arize.com/blog-course/monitoring-collaborative-filtering-recsys/)
 * [Building a Content Based Recommender for Data Science Articles](https://towardsdatascience.com/building-a-content-based-recommender-for-data-science-articles-728e5ec7d63d)
 * [Recent advances in deep recommender systems](https://www.slideshare.net/NaverEngineering/recent-advances-in-deep-recommender-systems)
 * [How Youtube is recommending your next video](https://medium.com/vantageai/how-youtube-is-recommending-your-next-video-7e5f1a6bd6d9)
